@@ -22,76 +22,77 @@ Audio File: [Panda-Raws] One Piece - 0434 (WEB 1080p AMZN JP EAC3) [7E31E596].mk
 Video File: [Panda-Raws] One Piece - 0434 (WEB 1080p AMZN JP EAC3) [7E31E596].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.562500
-Scroll Position: 255
-Active Line: 260
-Video Position: 25698
+Video Zoom Percent: 0.687500
+Scroll Position: 128
+Active Line: 148
+Video Position: 13936
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,20,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,2,10,10,30,1
+Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
+Style: Sign2,FOT-Greco Std B,135,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.8,0,2,45,45,45,0
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
 Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.37,0:00:26.92,Opening,,0,0,0,,{\blur0.3\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 1,0:00:18.37,0:00:26.92,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 0,0:00:30.51,0:00:36.72,Opening,,0,0,0,,{\blur0.3\c&H000000&}We've set off on our long journey
-Dialogue: 1,0:00:30.51,0:00:36.72,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We've set off on our long journey
-Dialogue: 0,0:00:36.72,0:00:39.85,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll always hold on to...
-Dialogue: 1,0:00:36.72,0:00:39.85,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll always hold on to...
-Dialogue: 0,0:00:41.60,0:00:48.53,Opening,,0,0,0,,{\blur0.3\c&H000000&}courage, love, friendship,
-Dialogue: 1,0:00:41.60,0:00:48.53,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}courage, love, friendship,
-Dialogue: 0,0:00:48.53,0:00:52.45,Opening,,0,0,0,,{\blur0.3\c&H000000&}and a little bit of playfulness
-Dialogue: 1,0:00:48.53,0:00:52.45,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}and a little bit of playfulness
-Dialogue: 0,0:00:54.70,0:01:00.92,Opening,,0,0,0,,{\blur0.3\c&H000000&}We're all separate pieces of the world,
-Dialogue: 1,0:00:54.70,0:01:00.92,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We're all separate pieces of the world,
-Dialogue: 0,0:01:00.92,0:01:06.09,Opening,,0,0,0,,{\blur0.3\c&H000000&}friends coming together one after another
-Dialogue: 1,0:01:00.92,0:01:06.09,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}friends coming together one after another
-Dialogue: 0,0:01:06.13,0:01:18.93,Opening,,0,0,0,,{\blur0.3\c&H000000&}As the pieces take form, I know the wind will fill our sails! (Yeah)
-Dialogue: 1,0:01:06.13,0:01:18.93,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}As the pieces take form, I know the wind will fill our sails! (Yeah)
-Dialogue: 0,0:01:19.27,0:01:25.02,Opening,,0,0,0,,{\blur0.3\c&H000000&}So when you feel the wind, you gotta feel it blowing!
-Dialogue: 1,0:01:19.27,0:01:25.02,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So when you feel the wind, you gotta feel it blowing!
-Dialogue: 0,0:01:25.23,0:01:31.20,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's go search for the wind that dries up our tears!
-Dialogue: 1,0:01:25.23,0:01:31.20,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's go search for the wind that dries up our tears!
-Dialogue: 0,0:01:31.49,0:01:37.04,Opening,,0,0,0,,{\blur0.3\c&H000000&}We're on an adventure to find that someone
-Dialogue: 1,0:01:31.49,0:01:37.04,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We're on an adventure to find that someone
-Dialogue: 0,0:01:37.20,0:01:40.50,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll never stop!
-Dialogue: 1,0:01:37.20,0:01:40.50,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll never stop!
-Dialogue: 0,0:01:40.50,0:01:48.00,Opening,,0,0,0,,{\blur0.3\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 1,0:01:40.50,0:01:48.00,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 0,0:01:49.51,0:01:55.72,Opening,,0,0,0,,{\blur0.3\c&H000000&}With every tear we shed, we grow stronger
-Dialogue: 1,0:01:49.51,0:01:55.72,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}With every tear we shed, we grow stronger
-Dialogue: 0,0:01:55.72,0:01:58.35,Opening,,0,0,0,,{\blur0.3\c&H000000&}With every tear we shed, we'll gain...
-Dialogue: 1,0:01:55.72,0:01:58.35,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}With every tear we shed, we'll gain...
-Dialogue: 0,0:01:58.47,0:02:09.23,Opening,,0,0,0,,{\blur0.3\c&H000000&}more, and more, and more memories! (Yeah)
-Dialogue: 1,0:01:58.47,0:02:09.23,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}more, and more, and more memories! (Yeah)
-Dialogue: 0,0:02:09.40,0:02:14.99,Opening,,0,0,0,,{\blur0.3\c&H000000&}So when you feel the wind, you gotta feel it blowing!
-Dialogue: 1,0:02:09.40,0:02:14.99,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So when you feel the wind, you gotta feel it blowing!
-Dialogue: 0,0:02:15.24,0:02:21.16,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's go search for the wind that dries up our tears!
-Dialogue: 1,0:02:15.24,0:02:21.16,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's go search for the wind that dries up our tears!
-Dialogue: 0,0:02:21.50,0:02:27.13,Opening,,0,0,0,,{\blur0.3\c&H000000&}We're on an adventure to find that someone
-Dialogue: 1,0:02:21.50,0:02:27.13,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We're on an adventure to find that someone
-Dialogue: 0,0:02:27.50,0:02:30.55,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll never stop!
-Dialogue: 1,0:02:27.50,0:02:30.55,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll never stop!
-Dialogue: 0,0:02:30.55,0:02:39.35,Opening,,0,0,0,,{\blur0.3\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 1,0:02:30.55,0:02:39.35,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 0,0:02:47.94,0:02:50.40,Default,,0,0,0,,The time is the Great Pirate Era.
-Dialogue: 0,0:02:50.98,0:02:56.16,Default,,0,0,0,,Countless pirates fight \Ndesperately for the One Piece,
-Dialogue: 0,0:02:56.16,0:02:58.28,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
-Dialogue: 0,0:02:59.78,0:03:02.75,Default,,0,0,0,,Monkey D. Luffy, a boy\Nwhose body turned to rubber
-Dialogue: 0,0:03:02.75,0:03:04.71,Default,,0,0,0,,after he ate the Gum-Gum Fruit,
-Dialogue: 0,0:03:04.71,0:03:06.79,Default,,0,0,0,,also takes to the sea\Nto become the next Pirate King.
-Dialogue: 0,0:03:07.63,0:03:11.50,Default,,0,0,0,,As Luffy and his friends\Novercome numerous adventures,
+Dialogue: 0,0:00:18.33,0:00:26.92,Opening,,0,0,0,,{\blur0.8\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 1,0:00:18.33,0:00:26.92,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 0,0:00:30.51,0:00:36.72,Opening,,0,0,0,,{\blur0.8\c&H000000&}We've set off on our long journey
+Dialogue: 1,0:00:30.51,0:00:36.72,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We've set off on our long journey
+Dialogue: 0,0:00:36.72,0:00:39.85,Opening,,0,0,0,,{\blur0.8\c&H000000&}We'll always hold on to...
+Dialogue: 1,0:00:36.72,0:00:39.85,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We'll always hold on to...
+Dialogue: 0,0:00:41.60,0:00:48.53,Opening,,0,0,0,,{\blur0.8\c&H000000&}courage, love, friendship,
+Dialogue: 1,0:00:41.60,0:00:48.53,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}courage, love, friendship,
+Dialogue: 0,0:00:48.53,0:00:52.45,Opening,,0,0,0,,{\blur0.8\c&H000000&}and a little bit of playfulness
+Dialogue: 1,0:00:48.53,0:00:52.45,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}and a little bit of playfulness
+Dialogue: 0,0:00:54.70,0:01:00.92,Opening,,0,0,0,,{\blur0.8\c&H000000&}We're all separate pieces of the world,
+Dialogue: 1,0:00:54.70,0:01:00.92,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We're all separate pieces of the world,
+Dialogue: 0,0:01:00.92,0:01:06.05,Opening,,0,0,0,,{\blur0.8\c&H000000&}friends coming together one after another
+Dialogue: 1,0:01:00.92,0:01:06.05,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}friends coming together one after another
+Dialogue: 0,0:01:06.09,0:01:18.93,Opening,,0,0,0,,{\blur0.8\c&H000000&}As the pieces take form, I know the wind will fill our sails! (Yeah)
+Dialogue: 1,0:01:06.09,0:01:18.93,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}As the pieces take form, I know the wind will fill our sails! (Yeah)
+Dialogue: 0,0:01:19.23,0:01:25.02,Opening,,0,0,0,,{\blur0.8\c&H000000&}So when you feel the wind, you gotta feel it blowing!
+Dialogue: 1,0:01:19.23,0:01:25.02,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}So when you feel the wind, you gotta feel it blowing!
+Dialogue: 0,0:01:25.23,0:01:31.20,Opening,,0,0,0,,{\blur0.8\c&H000000&}Let's go search for the wind that dries up our tears!
+Dialogue: 1,0:01:25.23,0:01:31.20,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Let's go search for the wind that dries up our tears!
+Dialogue: 0,0:01:31.49,0:01:36.99,Opening,,0,0,0,,{\blur0.8\c&H000000&}We're on an adventure to find that someone
+Dialogue: 1,0:01:31.49,0:01:36.99,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We're on an adventure to find that someone
+Dialogue: 0,0:01:37.20,0:01:40.50,Opening,,0,0,0,,{\blur0.8\c&H000000&}We'll never stop!
+Dialogue: 1,0:01:37.20,0:01:40.50,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We'll never stop!
+Dialogue: 0,0:01:40.50,0:01:48.00,Opening,,0,0,0,,{\blur0.8\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 1,0:01:40.50,0:01:48.00,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 0,0:01:49.51,0:01:55.68,Opening,,0,0,0,,{\blur0.8\c&H000000&}With every tear we shed, we grow stronger
+Dialogue: 1,0:01:49.51,0:01:55.68,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}With every tear we shed, we grow stronger
+Dialogue: 0,0:01:55.68,0:01:58.35,Opening,,0,0,0,,{\blur0.8\c&H000000&}With every tear we shed, we'll gain...
+Dialogue: 1,0:01:55.68,0:01:58.35,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}With every tear we shed, we'll gain...
+Dialogue: 0,0:01:58.47,0:02:09.23,Opening,,0,0,0,,{\blur0.8\c&H000000&}more, and more, and more memories! (Yeah)
+Dialogue: 1,0:01:58.47,0:02:09.23,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}more, and more, and more memories! (Yeah)
+Dialogue: 0,0:02:09.36,0:02:14.99,Opening,,0,0,0,,{\blur0.8\c&H000000&}So when you feel the wind, you gotta feel it blowing!
+Dialogue: 1,0:02:09.36,0:02:14.99,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}So when you feel the wind, you gotta feel it blowing!
+Dialogue: 0,0:02:15.24,0:02:21.16,Opening,,0,0,0,,{\blur0.8\c&H000000&}Let's go search for the wind that dries up our tears!
+Dialogue: 1,0:02:15.24,0:02:21.16,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Let's go search for the wind that dries up our tears!
+Dialogue: 0,0:02:21.50,0:02:27.13,Opening,,0,0,0,,{\blur0.8\c&H000000&}We're on an adventure to find that someone
+Dialogue: 1,0:02:21.50,0:02:27.13,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We're on an adventure to find that someone
+Dialogue: 0,0:02:27.50,0:02:30.55,Opening,,0,0,0,,{\blur0.8\c&H000000&}We'll never stop!
+Dialogue: 1,0:02:27.50,0:02:30.55,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We'll never stop!
+Dialogue: 0,0:02:30.55,0:02:39.35,Opening,,0,0,0,,{\blur0.8\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 1,0:02:30.55,0:02:39.35,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 0,0:02:48.03,0:02:50.37,Default,,0,0,0,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:50.98,0:02:56.20,Default,,0,0,0,,Countless pirates fight\Ndesperately for the One Piece,
+Dialogue: 0,0:02:56.20,0:02:58.28,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
+Dialogue: 0,0:02:59.80,0:03:04.61,Default,,0,0,0,,Monkey D. Luffy, a boy whose body\Nturned to rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:04.61,0:03:06.65,Default,,0,0,0,,also takes to the sea\Nto become the next Pirate King.
+Dialogue: 0,0:03:07.44,0:03:11.50,Default,,0,0,0,,As Luffy and his friends\Novercome numerous adventures,
 Dialogue: 0,0:03:11.50,0:03:16.30,Default,,0,0,0,,the World Government is less and less\Nable to ignore their existence.
-Dialogue: 0,0:03:17.43,0:03:19.14,Default,,0,0,0,,This is exciting!
-Dialogue: 0,0:03:19.85,0:03:22.77,Default,,0,0,0,,What kind of adventure \Nis waiting for us next?!
-Dialogue: 0,0:03:23.18,0:03:26.27,Default,,0,0,0,,The crew, on its way to the New World,
-Dialogue: 0,0:03:26.27,0:03:29.52,Default,,0,0,0,,will speed along the Grand Line again today!
+Dialogue: 0,0:03:17.45,0:03:19.14,Default,,0,0,0,,This is exciting!
+Dialogue: 0,0:03:19.90,0:03:22.77,Default,,0,0,0,,What adventure is waiting for us next?!
+Dialogue: 0,0:03:23.17,0:03:26.27,Default,,0,0,0,,The crew, on its way to the New World,
+Dialogue: 0,0:03:26.27,0:03:29.45,Default,,0,0,0,,will speed along the Grand Line again today!
 Dialogue: 0,0:03:34.83,0:03:38.56,Default,,0,0,0,,Separated from Buggy and Mr. 3 on Level 3,
 Dialogue: 0,0:03:38.56,0:03:42.03,Default,,0,0,0,,Luffy headed to the lower \Nlevels with Bon Clay!
 Dialogue: 0,0:03:42.45,0:03:46.12,Default,,0,0,0,,Summon all the other forces \Nof Impel Down to Level 4!
@@ -112,17 +113,20 @@ Dialogue: 0,0:04:36.20,0:04:39.13,Default,,0,0,0,,Alright! Gum-Gum...
 Dialogue: 0,0:04:39.13,0:04:42.21,Default,,0,0,0,,...Mallet Rifle!
 Dialogue: 0,0:04:48.97,0:04:51.48,Default,,0,0,0,,We did it!
 Dialogue: 0,0:04:51.48,0:04:56.81,Default,,0,0,0,,We beat the hell beast!
-Dialogue: 0,0:04:56.86,0:05:05.83,Title Card - Top,,0,0,0,,{\blur0.6\fad(1965,1965)\c&H000000&\1a&HFF&\t(1920,1965,\1a&H00&)\t(6965,7010,\1a&HFF&)}All Forces Have Gathered!
-Dialogue: 1,0:04:56.86,0:05:05.83,Title Card - Top,,0,0,0,,{\bord0\blur0.6\fad(1965,1965)\4a&HFF&}All Forces Have Gathered!
-Dialogue: 0,0:04:56.86,0:05:05.83,Title Card - Bottom,,0,0,0,,{\blur0.6\fad(1965,1965)\c&H000000&\1a&HFF&\t(1920,1965,\1a&H00&)\t(6965,7010,\1a&HFF&)}Battle on Level 4—the Inferno Hell
-Dialogue: 1,0:04:56.86,0:05:05.83,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\fad(1965,1965)\4a&HFF&}Battle on Level 4—the Inferno Hell
+Dialogue: 0,0:04:56.86,0:05:05.83,Title Card - Top,,0,0,0,,{\blur0.8\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}All Forces Have Gathered!
+Dialogue: 1,0:04:56.86,0:05:05.83,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1973,1973)\4a&HFF&}All Forces Have Gathered!
+Dialogue: 0,0:04:56.86,0:05:05.83,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}Battle on Level 4—the Inferno Hell
+Dialogue: 1,0:04:56.86,0:05:05.83,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1973,1973)\4a&HFF&}Battle on Level 4—the Inferno Hell
 Dialogue: 0,0:05:10.08,0:05:13.17,Default,,0,0,0,,How much time left until Ace's execution?
 Dialogue: 0,0:05:13.80,0:05:18.71,Default,,0,0,0,,29 hours. Everything's gonna \Nbe over at 3 p.m. tomorrow.
 Dialogue: 0,0:05:18.71,0:05:23.05,Default,,0,0,0,,But only if everything \Ngoes according to plan.
 Dialogue: 0,0:05:25.78,0:05:29.60,Default,,0,0,0,,We'll transfer Portgas \ND. Ace tomorrow morning.
 Dialogue: 0,0:05:34.83,0:05:36.46,Default,,0,0,0,,Luffy!
 Dialogue: 0,0:05:36.46,0:05:40.11,Default,,0,0,0,,If I could only know you \Nwere safe, I'd want nothing else!
-Dialogue: 0,0:05:40.11,0:05:44.16,"Sign",,0,0,0,,"Impel Down Level 3\NWell Tower Interior"
+Dialogue: 0,0:05:40.11,0:05:44.16,Sign,,0,0,366,,{\blur0.8\fad(0,533)\fs88\bord3.3\c&H000000&\t(3517,3562,\1a&HFF&)}Impel Down, Level 3
+Dialogue: 1,0:05:40.11,0:05:44.16,Sign,,0,0,366,,{\blur0.8\fad(0,533)\fs88\bord0\4a&HFF&}Impel Down, Level 3
+Dialogue: 0,0:05:40.11,0:05:44.16,Sign,,0,0,28,,{\blur0.8\fad(0,533)\fs70\bord3\c&H000000&\t(3517,3562,\1a&HFF&)}Well Tower Interior
+Dialogue: 1,0:05:40.11,0:05:44.16,Sign,,0,0,28,,{\blur0.8\fad(0,533)\fs70\bord0\4a&HFF&}Well Tower Interior
 Dialogue: 0,0:05:46.13,0:05:49.78,Default,,0,0,0,,Alright, let me ask you once again.
 Dialogue: 0,0:05:49.78,0:05:51.08,Default,,0,0,0,,Okay!
 Dialogue: 0,0:05:51.08,0:05:54.75,Default,,0,0,0,,You still wanna go down to Level 4?
@@ -157,7 +161,8 @@ Dialogue: 0,0:07:33.67,0:07:36.63,Default,,0,0,0,,Oh! I didn't do that much...
 Dialogue: 0,0:07:36.63,0:07:38.02,Default,,0,0,0,,Then, shut up!
 Dialogue: 0,0:07:40.23,0:07:43.06,Default,,0,0,0,,We're gonna get burned by hellfire!
 Dialogue: 0,0:07:43.06,0:07:45.15,Default,,0,0,0,,Help us!
-Dialogue: 0,0:07:57.58,0:08:01.96,"Sign",,0,0,0,,"Level 4: Inferno Hell"
+Dialogue: 0,0:07:57.58,0:08:01.96,Sign,,0,0,277,,{\blur0.8\fad(1050,0)\fs111\bord3.3\c&H000000&\1a&HFF&\t(1005,1050,\1a&H00&)}Level 4: Inferno Hell
+Dialogue: 1,0:07:57.58,0:08:01.96,Sign,,0,0,277,,{\blur0.8\fad(1050,0)\fs111\bord0\4a&HFF&}Level 4: Inferno Hell
 Dialogue: 0,0:08:06.84,0:08:10.99,Default,,0,0,0,,Hey, don't do it! You can't kill us!
 Dialogue: 0,0:08:10.99,0:08:13.51,Default,,0,0,0,,Whatever happens, you deserve it!
 Dialogue: 0,0:08:13.51,0:08:18.47,Default,,0,0,0,,How many people have you killed?
@@ -178,7 +183,12 @@ Dialogue: 0,0:09:11.40,0:09:14.57,Default,,0,0,0,,Do you want me to throw \Nyou 
 Dialogue: 0,0:09:21.08,0:09:23.50,Default,,0,0,0,,I'm gonna fall!
 Dialogue: 0,0:09:26.58,0:09:30.21,Default,,0,0,0,,Hey! You're not allowed \Nto beat other prisoners!
 Dialogue: 0,0:09:30.21,0:09:32.59,Default,,0,0,0,,Do you wanna get executed right here?!
-Dialogue: 0,0:09:40.01,0:09:42.97,"Sign",,0,0,0,,"【Former Baroque Works Agent\N'Assassin' Daz Bonez】\NAKA Mr. 1"
+Dialogue: 0,0:09:40.01,0:09:42.97,Sign,,0,0,400,,{\blur0.8\fad(500,0)\bord3\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Former Baroque Works Agent\N"Assassin" {\fnFOT-Greco Std B\fs60}Daz Bonez
+Dialogue: 1,0:09:40.01,0:09:42.97,Sign,,0,0,400,,{\blur0.8\fad(500,0)\bord0\4a&HFF&}Former Baroque Works Agent\N"Assassin" {\fnFOT-Greco Std B\fs60}Daz Bonez
+Dialogue: 2,0:09:40.01,0:09:42.97,Sign,,0,0,375,,{\blur0.8\fad(500,0)\fs100\fscy180\fscx93\fsp1.3\bord3.6\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}【                        】
+Dialogue: 3,0:09:40.01,0:09:42.97,Sign,,0,0,375,,{\blur0.8\fad(500,0)\fs100\fscy180\fscx93\fsp1.3\bord0\4a&HFF&}【                        】
+Dialogue: 2,0:09:40.01,0:09:42.97,Sign,,0,0,22,,{\blur0.8\fad(500,0)\fs77\bord3.3\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Codename: {\fnFOT-Greco Std B\fs84}Mr. 1
+Dialogue: 3,0:09:40.01,0:09:42.97,Sign,,0,0,22,,{\blur0.8\fad(500,0)\fs77\bord0\4a&HFF&}Codename: {\fnFOT-Greco Std B\fs84}Mr. 1
 Dialogue: 0,0:09:49.68,0:09:52.41,Default,,0,0,0,,Your condition has been granted. Now, you...
 Dialogue: 0,0:09:52.41,0:09:54.00,Default,,0,0,0,,I'm well aware!
 Dialogue: 0,0:09:54.86,0:09:58.16,Default,,0,0,0,,I'll follow the orders \Nto convene as I promised.
@@ -214,7 +224,8 @@ Dialogue: 0,0:11:41.17,0:11:43.97,Default,,0,0,0,,--Let's hurry to Marineford!\N
 Dialogue: 0,0:11:46.51,0:11:48.18,Default,,0,0,0,,What's going on?
 Dialogue: 0,0:11:48.18,0:11:52.85,Default,,0,0,0,,Magellan, Hannyabal, and the \NJailer Beasts are all here!
 Dialogue: 0,0:11:52.85,0:11:55.48,Default,,0,0,0,,What's gonna happen on this floor?
-Dialogue: 0,0:11:55.48,0:11:58.19,"Sign",,0,0,0,,"Level 4\NIn front of the staircase to Level 3"
+Dialogue: 0,0:11:55.48,0:11:58.19,Sign,,0,0,370,,{\blur0.8\fs84\bord3.6\c&H000000&}Level 4\N{\fs66\bord3.3}In front of the staircase to Level 3
+Dialogue: 1,0:11:55.48,0:11:58.19,Sign,,0,0,370,,{\blur0.8\fs84\bord0\4a&HFF&}Level 4\N{\fs66\bord0}In front of the staircase to Level 3
 Dialogue: 0,0:11:56.02,0:11:58.19,DefaultLow,,0,0,0,,It's really hot here!
 Dialogue: 0,0:11:58.19,0:12:00.40,Default,,0,0,0,,Fasten your fireproof coat!
 Dialogue: 0,0:12:00.40,0:12:03.07,Default,,0,0,0,,Straw Hat Luffy and others \Nshould come out from this door!
@@ -237,9 +248,18 @@ Dialogue: 0,0:13:07.51,0:13:08.89,Default,,0,0,0,,...directly!
 Dialogue: 0,0:13:08.89,0:13:11.47,Default,,0,0,0,,No need to rush, Sadie-chan!
 Dialogue: 0,0:13:11.47,0:13:17.22,Default,,0,0,0,,I'm fine but these kids are \Nalways lusting for blood, so...
 Dialogue: 0,0:13:18.41,0:13:20.98,Default,,0,0,0,,...they're losing their patience.
-Dialogue: 0,0:13:26.49,0:13:30.49,"Sign",,0,0,0,,"Jailer Beast\NMinokoala 【Hawkish】"
-Dialogue: 0,0:13:34.63,0:13:38.63,"Sign",,0,0,0,,"Jailer Beast\NMinorhinoceros 【Bashful】"
-Dialogue: 0,0:13:43.51,0:13:47.51,"Sign",,0,0,0,,"Jailer Beast\NMinozebra 【Shy】"
+Dialogue: 0,0:13:26.49,0:13:30.49,Sign,,0,0,388,,{\blur0.8\fad(1000,0)\fs84\bord3.3\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}Jailer Beast
+Dialogue: 1,0:13:26.49,0:13:30.49,Sign,,0,0,388,,{\blur0.8\fad(1000,0)\fs84\bord0\4a&HFF&}Jailer Beast
+Dialogue: 0,0:13:26.49,0:13:30.49,Sign2,,0,0,0,,{\blur0.8\fad(1000,0)\fs88\bord3.3\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\pos(938.96,1060)}Minokoala {\fnCandara}【{\fn}Feisty{\fnCandara}】{\fn}
+Dialogue: 1,0:13:26.49,0:13:30.49,Sign2,,0,0,0,,{\blur0.8\fad(1000,0)\fs88\bord0\4a&HFF&\pos(938.96,1060)}Minokoala {\fnCandara}【{\fn}Feisty{\fnCandara}】{\fn}
+Dialogue: 0,0:13:34.63,0:13:38.63,Sign,,0,0,388,,{\blur0.8\fs84\bord3.3\fad(1050,0)\c&H000000&\1a&HFF&\t(1005,1050,\1a&H00&)}Jailer Beast
+Dialogue: 1,0:13:34.63,0:13:38.63,Sign,,0,0,388,,{\blur0.8\fs84\bord0\fad(1050,0)\4a&HFF&}Jailer Beast
+Dialogue: 0,0:13:34.63,0:13:38.63,Sign2,,0,0,0,,{\blur0.8\fs88\bord3.3\fad(1050,0)\c&H000000&\1a&HFF&\t(1005,1050,\1a&H00&)\pos(960,1060)}Minorhinoceros {\fnCandara}【{\fn}Quiet{\fnCandara}】{\fn}
+Dialogue: 1,0:13:34.63,0:13:38.63,Sign2,,0,0,0,,{\blur0.8\fs88\bord0\fad(1050,0)\4a&HFF&\pos(960,1060)}Minorhinoceros {\fnCandara}【{\fn}Quiet{\fnCandara}】{\fn}
+Dialogue: 0,0:13:43.51,0:13:47.51,Sign,,0,0,388,,{\blur0.8\fs84\bord3.3\fad(1000,0)\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}Jailer Beast
+Dialogue: 1,0:13:43.51,0:13:47.51,Sign,,0,0,388,,{\blur0.8\fs84\bord0\fad(1000,0)\4a&HFF&}Jailer Beast
+Dialogue: 0,0:13:43.51,0:13:47.51,Sign2,,0,0,0,,{\blur0.8\fs88\bord3.3\fad(1000,0)\pos(861.35,1060)\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}Minozebra {\fnCandara}【{\fn}Shy{\fnCandara}】{\fn}
+Dialogue: 1,0:13:43.51,0:13:47.51,Sign2,,0,0,0,,{\blur0.8\fs88\bord0\fad(1000,0)\pos(861.35,1060)\4a&HFF&}Minozebra {\fnCandara}【{\fn}Shy{\fnCandara}】{\fn}
 Dialogue: 0,0:13:50.59,0:13:52.21,Default,,0,0,0,,There's been an update!
 Dialogue: 0,0:13:53.65,0:13:58.81,Default,,0,0,0,,Straw Hat Luffy is now inside \Nof the Well Tower on Level 3
 Dialogue: 0,0:13:58.81,0:14:00.57,Default,,0,0,0,,so they can't monitor him!
@@ -298,7 +318,8 @@ Dialogue: 0,0:17:29.24,0:17:31.56,Default,,0,0,0,,The Warden is finally going to
 Dialogue: 0,0:17:45.18,0:17:47.50,Default,,0,0,0,,You have to take another dump?!
 Dialogue: 0,0:17:47.50,0:17:51.76,Default,,0,0,0,,Ouch! Ow, ow, ow... It's \Ninsanely hot in this passage!
 Dialogue: 0,0:17:51.76,0:17:54.36,DefaultLow,,0,0,0,,Even my lungs are burning!
-Dialogue: 0,0:17:51.80,0:17:58.31,"Sign",,0,0,0,,"— Near the 'Blood Pool' —"
+Dialogue: 0,0:17:51.80,0:17:58.31,Sign,,0,0,266,,{\blur0.8\fad(1050,1050)\fs77\bord3.3\c&H000000&\1a&HFF&\t(1005,1050,\1a&H00&)\t(5460,5505,\1a&HFF&)}Near the "Blood Pool"
+Dialogue: 1,0:17:51.80,0:17:58.31,Sign,,0,0,266,,{\blur0.8\fad(1050,1050)\fs77\bord0\4a&HFF&}Near the "Blood Pool"
 Dialogue: 0,0:17:54.36,0:17:56.64,DefaultLow,,0,0,0,,Hurry! I wanna get through this level!
 Dialogue: 0,0:17:56.64,0:17:58.43,DefaultLow,,0,0,0,,Which way should we go?!
 Dialogue: 0,0:18:00.51,0:18:02.89,Default,,0,0,0,,You guys are so pathetic!
@@ -379,7 +400,7 @@ Dialogue: 0,0:23:32.69,0:23:35.22,Default,,0,0,0,,Bon Clay makes a surprising mo
 Dialogue: 0,0:23:35.22,0:23:36.89,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:36.89,0:23:39.81,Default,,0,0,0,,"Mighty Magellan!\NBon Clay Turns Tail"
 Dialogue: 0,0:23:39.81,0:23:42.24,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\blur0.6\c&H000000&}Mighty Magellan!
-Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Mighty Magellan!
-Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\blur0.6\c&H000000&}Bon Clay Turns Tail
-Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Bon Clay Turns Tail
+Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\blur0.8\c&H000000&}Mighty Magellan!
+Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Mighty Magellan!
+Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\blur0.8\c&H000000&}Bon Clay Turns Tail
+Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Bon Clay Turns Tail
