@@ -88,8 +88,8 @@ Dialogue: 0,0:03:29.90,0:03:32.48,Default,,0,0,0,,twenty years ago...
 Dialogue: 0,0:03:36.14,0:03:43.22,Default,,0,0,0,,there was a man who had broken \Nout of the iron-tight Impel Down!
 Dialogue: 0,0:03:49.72,0:03:54.62,Default,,0,0,0,,This can't be real! He cut off his own legs!
 Dialogue: 0,0:03:57.85,0:04:01.88,Default,,0,0,0,,This legendary person is...
-Dialogue: 0,0:04:02.68,0:04:05.89,Sign,,0,0,0,,{\blur0.8\fnSpeeding Brush\fs123\bord0\c&H000000&\frz5.717\pos(672,951.8)}Golden Lion
-Dialogue: 1,0:04:02.68,0:04:05.89,Sign,,0,0,0,,{\blur0.8\fnSpeeding Brush\fs123\bord0\c&H5BD1F0&\4a&HFF&\frz5.717\pos(672,951.8)}Golden Lion
+Dialogue: 0,0:04:02.68,0:04:05.89,Sign,,0,0,0,,{\blur0.6\fnBukotsuStd-U\fs222\bord0\c&H000000&\pos(694.8,951.8)\frz5.786}Golden Lion
+Dialogue: 1,0:04:02.68,0:04:05.89,Sign,,0,0,0,,{\blur0.6\fnBukotsuStd-U\fs222\bord0\c&H5BD1F0&\4a&HFF&\pos(694.8,951.8)\frz5.786}Golden Lion
 Dialogue: 0,0:04:07.50,0:04:09.68,Default,,0,0,0,,...the captain of the Flying Pirates,
 Dialogue: 0,0:04:11.18,0:04:12.98,Default,,0,0,0,,Shiki the Golden Lion!
 Dialogue: 0,0:04:14.73,0:04:20.22,Default,,0,0,0,,This is a story of what \Nhappened several days ago...

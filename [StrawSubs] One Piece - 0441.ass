@@ -23,9 +23,9 @@ Video File: [Panda-Raws] One Piece - 0441 (WEB 1080p AMZN JP EAC3) [B383BB18].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 317
-Active Line: 323
-Video Position: 34072
+Scroll Position: 304
+Active Line: 314
+Video Position: 33327
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -348,10 +348,10 @@ Dialogue: 0,0:22:04.82,0:22:08.14,Default,,0,0,0,,I'll be there right away, Ace!
 Dialogue: 0,0:22:54.41,0:22:57.28,Default,,0,0,0,,Alright, Portgas D. Ace!
 Dialogue: 0,0:22:58.47,0:23:02.37,Default,,0,0,0,,We will take you to Marineford...
 Dialogue: 0,0:23:02.37,0:23:04.75,Default,,0,0,0,,...where the execution ground is!
-Dialogue: 0,0:23:07.49,0:23:09.98,Sign,,0,0,0,,{\blur0.8\fnSpeeding Brush\fs100\bord0\frz1.211\pos(882.25,127.14)\c&H000000&}Time until Ace's execution:
-Dialogue: 1,0:23:07.49,0:23:09.98,Sign,,0,0,0,,{\blur0.8\fnSpeeding Brush\fs100\bord0\frz1.211\pos(882.25,127.14)\c&HFCFCFC&\4a&HFF&}Time until Ace's execution:
-Dialogue: 0,0:23:09.98,0:23:11.96,Sign,,0,0,0,,{\blur0.8\fnSpeeding Brush\fs150\bord0\frz15.08\pos(1525.33,297.83)\c&H000000&}hours!
-Dialogue: 1,0:23:09.98,0:23:11.96,Sign,,0,0,0,,{\blur0.8\fnSpeeding Brush\fs150\bord0\frz15.08\pos(1525.33,297.83)\c&HFFFFFF&\4a&HFF&}hours!
+Dialogue: 0,0:23:07.49,0:23:09.98,Sign,,0,0,0,,{\blur0.8\fnBukotsuStd-U\fs123\bord0\frz2.539\c&H000000&\pos(767.34,128.6)}Time until Ace's execution:
+Dialogue: 1,0:23:07.49,0:23:09.98,Sign,,0,0,0,,{\blur0.8\fnBukotsuStd-U\fs123\bord0\frz2.539\c&HFCFCFC&\4a&HFF&\pos(768.79,128.6)}Time until Ace's execution:
+Dialogue: 0,0:23:09.98,0:23:11.96,Sign,,0,0,0,,{\blur0.8\fnBukotsuStd-U\fs222\bord0\c&H000000&\frz5.355\pos(1448.19,367.79)}hours!
+Dialogue: 1,0:23:09.98,0:23:11.96,Sign,,0,0,0,,{\blur0.8\fnBukotsuStd-U\fs222\bord0\c&HF0F0F0&\4a&HFF&\frz5.355\pos(1448.19,367.79)}hours!
 Dialogue: 0,0:23:07.80,0:23:09.99,Default,,0,0,33,,Time until Ace's execution:
 Dialogue: 0,0:23:09.99,0:23:11.95,Default,,0,0,33,,6 hours!
 Dialogue: 0,0:23:20.36,0:23:24.88,Default,,0,0,0,,Luffy finally makes it to the \Nlowest level of Impel Down, Level 6.

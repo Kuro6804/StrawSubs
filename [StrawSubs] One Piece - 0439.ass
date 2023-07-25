@@ -22,10 +22,10 @@ Audio File: [Panda-Raws] One Piece - 0439 (WEB 1080p AMZN JP EAC3) [5559D1E4].mk
 Video File: [Panda-Raws] One Piece - 0439 (WEB 1080p AMZN JP EAC3) [5559D1E4].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.562500
-Scroll Position: 278
-Active Line: 284
-Video Position: 34072
+Video Zoom Percent: 0.687500
+Scroll Position: 266
+Active Line: 276
+Video Position: 33288
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -311,10 +311,10 @@ Dialogue: 0,0:22:02.24,0:22:06.00,Default,Ivankov,0,0,0,,but all I did was draw 
 Dialogue: 0,0:22:07.07,0:22:11.05,Default,Ivankov,0,0,0,,Miracles only happen to \Npeople who don't give up!
 Dialogue: 0,0:22:11.32,0:22:14.05,Default,Ivankov,0,0,0,,Don't underestimate miracles!
 Dialogue: 0,0:22:24.04,0:22:25.68,Default,,0,0,0,,Ace!
-Dialogue: 0,0:23:04.02,0:23:07.52,Sign,,0,0,0,,{\blur0.8\fnSpeeding Brush\fs100\bord0\frz1.211\pos(882.25,127.14)\c&H000000&}Time until Ace's execution:
-Dialogue: 1,0:23:04.02,0:23:07.52,Sign,,0,0,0,,{\blur0.8\fnSpeeding Brush\fs100\bord0\frz1.211\pos(882.25,127.14)\c&HF9F9F9&\4a&HFF&}Time until Ace's execution:
-Dialogue: 0,0:23:08.36,0:23:11.11,Sign,,0,0,0,,{\blur0.8\fnSpeeding Brush\fs150\bord0\frz15.08\pos(1525.33,297.83)\c&H000000&}hours!
-Dialogue: 1,0:23:08.36,0:23:11.11,Sign,,0,0,0,,{\blur0.8\fnSpeeding Brush\fs150\bord0\frz15.08\pos(1525.33,297.83)\c&HF1F1F1&\4a&HFF&}hours!
+Dialogue: 0,0:23:04.02,0:23:07.52,Sign,,0,0,0,,{\blur0.8\fnBukotsuStd-U\fs123\bord0\frz2.539\c&H000000&\pos(767.34,128.6)}Time until Ace's execution:
+Dialogue: 1,0:23:04.02,0:23:07.52,Sign,,0,0,0,,{\blur0.8\fnBukotsuStd-U\fs123\bord0\frz2.539\c&HFCFCFC&\4a&HFF&\pos(768.79,128.6)}Time until Ace's execution:
+Dialogue: 0,0:23:08.36,0:23:11.11,Sign,,0,0,0,,{\blur0.8\fnBukotsuStd-U\fs222\bord0\frz15.08\c&H000000&\pos(1474.86,351.8)}hours!
+Dialogue: 1,0:23:08.36,0:23:11.11,Sign,,0,0,0,,{\blur0.8\fnBukotsuStd-U\fs222\bord0\frz15.08\c&HF0F0F0&\4a&HFF&\pos(1474.86,351.8)}hours!
 Dialogue: 0,0:23:20.40,0:23:22.91,Default,,0,0,0,,Luffy fights the poison treatment himself.
 Dialogue: 0,0:23:23.21,0:23:26.47,Default,,0,0,0,,The chance of survival is so slim, \Nit would be a miracle for him to survive.
 Dialogue: 0,0:23:26.61,0:23:31.16,Default,,0,0,0,,Trusting his friend, \NBon Clay continues to cheer for his survival.
