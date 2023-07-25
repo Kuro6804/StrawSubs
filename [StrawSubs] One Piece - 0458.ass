@@ -22,10 +22,10 @@ Audio File: [Panda-Raws] One Piece - 0458 (WEB 1080p AMZN JP EAC3) [5737B679].mk
 Video File: [Panda-Raws] One Piece - 0458 (WEB 1080p AMZN JP EAC3) [5737B679].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 103
-Active Line: 125
-Video Position: 14287
+Video Zoom Percent: 0.625000
+Scroll Position: 261
+Active Line: 269
+Video Position: 34287
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,60 +37,59 @@ Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.33,0:00:26.88,Opening,,0,0,0,,{\blur0.3\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 1,0:00:18.33,0:00:26.88,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 0,0:00:30.51,0:00:36.60,Opening,,0,0,0,,{\blur0.3\c&H000000&}We've set off on our long journey
-Dialogue: 1,0:00:30.51,0:00:36.60,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We've set off on our long journey
-Dialogue: 0,0:00:36.60,0:00:39.81,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll always hold on to...
-Dialogue: 1,0:00:36.60,0:00:39.81,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll always hold on to...
-Dialogue: 0,0:00:41.65,0:00:48.53,Opening,,0,0,0,,{\blur0.3\c&H000000&}courage, love, friendship,
-Dialogue: 1,0:00:41.65,0:00:48.53,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}courage, love, friendship,
-Dialogue: 0,0:00:48.53,0:00:52.53,Opening,,0,0,0,,{\blur0.3\c&H000000&}and a little bit of playfulness
-Dialogue: 1,0:00:48.53,0:00:52.53,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}and a little bit of playfulness
-Dialogue: 0,0:00:54.70,0:01:00.96,Opening,,0,0,0,,{\blur0.3\c&H000000&}We're all separate pieces of the world,
-Dialogue: 1,0:00:54.70,0:01:00.96,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We're all separate pieces of the world,
-Dialogue: 0,0:01:00.96,0:01:06.09,Opening,,0,0,0,,{\blur0.3\c&H000000&}friends coming together one after another
-Dialogue: 1,0:01:00.96,0:01:06.09,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}friends coming together one after another
-Dialogue: 0,0:01:06.13,0:01:18.93,Opening,,0,0,0,,{\blur0.3\c&H000000&}As the pieces take form, I know the wind will fill our sails! (Yeah)
-Dialogue: 1,0:01:06.13,0:01:18.93,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}As the pieces take form, I know the wind will fill our sails! (Yeah)
-Dialogue: 0,0:01:19.27,0:01:25.02,Opening,,0,0,0,,{\blur0.3\c&H000000&}So when you feel the wind, you gotta feel it blowing!
-Dialogue: 1,0:01:19.27,0:01:25.02,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So when you feel the wind, you gotta feel it blowing!
-Dialogue: 0,0:01:25.23,0:01:31.24,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's go search for the wind that dries up our tears!
-Dialogue: 1,0:01:25.23,0:01:31.24,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's go search for the wind that dries up our tears!
-Dialogue: 0,0:01:31.49,0:01:36.99,Opening,,0,0,0,,{\blur0.3\c&H000000&}We're on an adventure to find that someone
-Dialogue: 1,0:01:31.49,0:01:36.99,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We're on an adventure to find that someone
-Dialogue: 0,0:01:37.20,0:01:40.50,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll never stop!
-Dialogue: 1,0:01:37.20,0:01:40.50,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll never stop!
-Dialogue: 0,0:01:40.50,0:01:48.05,Opening,,0,0,0,,{\blur0.3\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 1,0:01:40.50,0:01:48.05,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 0,0:01:49.51,0:01:55.68,Opening,,0,0,0,,{\blur0.3\c&H000000&}With every tear we shed, we grow stronger
-Dialogue: 1,0:01:49.51,0:01:55.68,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}With every tear we shed, we grow stronger
-Dialogue: 0,0:01:55.68,0:01:58.35,Opening,,0,0,0,,{\blur0.3\c&H000000&}With every tear we shed, we'll gain...
-Dialogue: 1,0:01:55.68,0:01:58.35,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}With every tear we shed, we'll gain...
-Dialogue: 0,0:01:58.51,0:02:09.28,Opening,,0,0,0,,{\blur0.3\c&H000000&}more, and more, and more memories! (Yeah)
-Dialogue: 1,0:01:58.51,0:02:09.28,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}more, and more, and more memories! (Yeah)
-Dialogue: 0,0:02:09.36,0:02:14.99,Opening,,0,0,0,,{\blur0.3\c&H000000&}So when you feel the wind, you gotta feel it blowing!
-Dialogue: 1,0:02:09.36,0:02:14.99,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So when you feel the wind, you gotta feel it blowing!
-Dialogue: 0,0:02:15.24,0:02:21.20,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's go search for the wind that dries up our tears!
-Dialogue: 1,0:02:15.24,0:02:21.20,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's go search for the wind that dries up our tears!
-Dialogue: 0,0:02:21.50,0:02:27.17,Opening,,0,0,0,,{\blur0.3\c&H000000&}We're on an adventure to find that someone
-Dialogue: 1,0:02:21.50,0:02:27.17,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We're on an adventure to find that someone
-Dialogue: 0,0:02:27.59,0:02:30.51,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll never stop!
-Dialogue: 1,0:02:27.59,0:02:30.51,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll never stop!
-Dialogue: 0,0:02:30.51,0:02:39.39,Opening,,0,0,0,,{\blur0.3\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 1,0:02:30.51,0:02:39.39,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
-Dialogue: 0,0:02:47.94,0:02:50.40,Default,,0,0,0,,The time is the Great Pirate Era.
-Dialogue: 0,0:02:50.98,0:02:56.16,Default,,0,0,0,,Countless pirates fight \Ndesperately for the One Piece,
-Dialogue: 0,0:02:56.16,0:02:58.28,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
-Dialogue: 0,0:02:59.78,0:03:02.75,Default,,0,0,0,,Monkey D. Luffy, a boy\Nwhose body turned to rubber
-Dialogue: 0,0:03:02.75,0:03:04.71,Default,,0,0,0,,after he ate the Gum-Gum Fruit,
-Dialogue: 0,0:03:04.71,0:03:06.79,Default,,0,0,0,,also takes to the sea\Nto become the next Pirate King.
-Dialogue: 0,0:03:07.63,0:03:11.50,Default,,0,0,0,,As Luffy and his friends\Novercome numerous adventures,
+Dialogue: 0,0:00:18.33,0:00:26.92,Opening,,0,0,0,,{\blur0.8\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 1,0:00:18.33,0:00:26.92,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 0,0:00:30.51,0:00:36.72,Opening,,0,0,0,,{\blur0.8\c&H000000&}We've set off on our long journey
+Dialogue: 1,0:00:30.51,0:00:36.72,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We've set off on our long journey
+Dialogue: 0,0:00:36.72,0:00:39.85,Opening,,0,0,0,,{\blur0.8\c&H000000&}We'll always hold on to...
+Dialogue: 1,0:00:36.72,0:00:39.85,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We'll always hold on to...
+Dialogue: 0,0:00:41.60,0:00:48.53,Opening,,0,0,0,,{\blur0.8\c&H000000&}courage, love, friendship,
+Dialogue: 1,0:00:41.60,0:00:48.53,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}courage, love, friendship,
+Dialogue: 0,0:00:48.53,0:00:52.45,Opening,,0,0,0,,{\blur0.8\c&H000000&}and a little bit of playfulness
+Dialogue: 1,0:00:48.53,0:00:52.45,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}and a little bit of playfulness
+Dialogue: 0,0:00:54.70,0:01:00.92,Opening,,0,0,0,,{\blur0.8\c&H000000&}We're all separate pieces of the world,
+Dialogue: 1,0:00:54.70,0:01:00.92,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We're all separate pieces of the world,
+Dialogue: 0,0:01:00.92,0:01:06.05,Opening,,0,0,0,,{\blur0.8\c&H000000&}friends coming together one after another
+Dialogue: 1,0:01:00.92,0:01:06.05,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}friends coming together one after another
+Dialogue: 0,0:01:06.09,0:01:18.93,Opening,,0,0,0,,{\blur0.8\c&H000000&}As the pieces take form, I know the wind will fill our sails! (Yeah)
+Dialogue: 1,0:01:06.09,0:01:18.93,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}As the pieces take form, I know the wind will fill our sails! (Yeah)
+Dialogue: 0,0:01:19.23,0:01:25.02,Opening,,0,0,0,,{\blur0.8\c&H000000&}So when you feel the wind, you gotta feel it blowing!
+Dialogue: 1,0:01:19.23,0:01:25.02,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}So when you feel the wind, you gotta feel it blowing!
+Dialogue: 0,0:01:25.23,0:01:31.20,Opening,,0,0,0,,{\blur0.8\c&H000000&}Let's go search for the wind that dries up our tears!
+Dialogue: 1,0:01:25.23,0:01:31.20,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Let's go search for the wind that dries up our tears!
+Dialogue: 0,0:01:31.49,0:01:36.99,Opening,,0,0,0,,{\blur0.8\c&H000000&}We're on an adventure to find that someone
+Dialogue: 1,0:01:31.49,0:01:36.99,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We're on an adventure to find that someone
+Dialogue: 0,0:01:37.20,0:01:40.50,Opening,,0,0,0,,{\blur0.8\c&H000000&}We'll never stop!
+Dialogue: 1,0:01:37.20,0:01:40.50,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We'll never stop!
+Dialogue: 0,0:01:40.50,0:01:48.00,Opening,,0,0,0,,{\blur0.8\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 1,0:01:40.50,0:01:48.00,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 0,0:01:49.51,0:01:55.68,Opening,,0,0,0,,{\blur0.8\c&H000000&}With every tear we shed, we grow stronger
+Dialogue: 1,0:01:49.51,0:01:55.68,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}With every tear we shed, we grow stronger
+Dialogue: 0,0:01:55.68,0:01:58.35,Opening,,0,0,0,,{\blur0.8\c&H000000&}With every tear we shed, we'll gain...
+Dialogue: 1,0:01:55.68,0:01:58.35,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}With every tear we shed, we'll gain...
+Dialogue: 0,0:01:58.47,0:02:09.23,Opening,,0,0,0,,{\blur0.8\c&H000000&}more, and more, and more memories! (Yeah)
+Dialogue: 1,0:01:58.47,0:02:09.23,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}more, and more, and more memories! (Yeah)
+Dialogue: 0,0:02:09.36,0:02:14.99,Opening,,0,0,0,,{\blur0.8\c&H000000&}So when you feel the wind, you gotta feel it blowing!
+Dialogue: 1,0:02:09.36,0:02:14.99,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}So when you feel the wind, you gotta feel it blowing!
+Dialogue: 0,0:02:15.24,0:02:21.16,Opening,,0,0,0,,{\blur0.8\c&H000000&}Let's go search for the wind that dries up our tears!
+Dialogue: 1,0:02:15.24,0:02:21.16,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Let's go search for the wind that dries up our tears!
+Dialogue: 0,0:02:21.50,0:02:27.13,Opening,,0,0,0,,{\blur0.8\c&H000000&}We're on an adventure to find that someone
+Dialogue: 1,0:02:21.50,0:02:27.13,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We're on an adventure to find that someone
+Dialogue: 0,0:02:27.50,0:02:30.55,Opening,,0,0,0,,{\blur0.8\c&H000000&}We'll never stop!
+Dialogue: 1,0:02:27.50,0:02:30.55,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}We'll never stop!
+Dialogue: 0,0:02:30.55,0:02:39.35,Opening,,0,0,0,,{\blur0.8\c&H000000&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 1,0:02:30.55,0:02:39.35,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Look up ahead, my treasure, as you are waiting there for me!
+Dialogue: 0,0:02:48.03,0:02:50.37,Default,,0,0,0,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:50.98,0:02:56.20,Default,,0,0,0,,Countless pirates fight\Ndesperately for the One Piece,
+Dialogue: 0,0:02:56.20,0:02:58.28,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
+Dialogue: 0,0:02:59.80,0:03:04.61,Default,,0,0,0,,Monkey D. Luffy, a boy whose body\Nturned to rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:04.61,0:03:06.65,Default,,0,0,0,,also takes to the sea\Nto become the next Pirate King.
+Dialogue: 0,0:03:07.44,0:03:11.50,Default,,0,0,0,,As Luffy and his friends\Novercome numerous adventures,
 Dialogue: 0,0:03:11.50,0:03:16.30,Default,,0,0,0,,the World Government is less and less\Nable to ignore their existence.
-Dialogue: 0,0:03:17.43,0:03:19.14,Default,,0,0,0,,This is exciting!
-Dialogue: 0,0:03:19.85,0:03:22.77,Default,,0,0,0,,What kind of adventure \Nis waiting for us next?!
-Dialogue: 0,0:03:23.18,0:03:26.27,Default,,0,0,0,,The crew, on its way to the New World,
-Dialogue: 0,0:03:26.27,0:03:29.52,Default,,0,0,0,,will speed along the Grand Line again today!
+Dialogue: 0,0:03:17.45,0:03:19.14,Default,,0,0,0,,This is exciting!
+Dialogue: 0,0:03:19.90,0:03:22.77,Default,,0,0,0,,What adventure is waiting for us next?!
+Dialogue: 0,0:03:23.17,0:03:26.27,Default,,0,0,0,,The crew, on its way to the New World,
+Dialogue: 0,0:03:26.27,0:03:29.45,Default,,0,0,0,,will speed along the Grand Line again today!
 Dialogue: 0,0:03:46.18,0:03:48.91,Default,,0,0,0,,Couldn't eat another bite!
 Dialogue: 0,0:03:49.35,0:03:54.00,Default,,0,0,0,,--Look, my stomach is bulging!\N--It's the Navy's food and drinks!
 Dialogue: 0,0:03:54.00,0:03:57.47,Default,,0,0,0,,I can't believe that I was thinking "I'll never get out!"
@@ -107,10 +106,10 @@ Dialogue: 0,0:04:26.32,0:04:30.87,Default,,0,0,0,,The Seven Warlords who sold th
 Dialogue: 0,0:04:30.87,0:04:34.26,Default,,0,0,0,,and the 3 Navy admirals are no match for us!
 Dialogue: 0,0:04:34.26,0:04:35.30,Default,,0,0,0,,That's right!
 Dialogue: 0,0:04:35.30,0:04:40.55,Default,,0,0,0,,You should be the next Pirate King since you're following in the wake of Roger!
-Dialogue: 0,0:04:41.72,0:04:50.73,Title Card - Top,,0,0,0,,{\blur0.6\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)\pos(960,186.32)}Special Retrospective Before Marineford
-Dialogue: 1,0:04:41.72,0:04:50.73,Title Card - Top,,0,0,0,,{\bord0\blur0.6\fad(1982,1982)\4a&HFF&\pos(960,186.32)}Special Retrospective Before Marineford
-Dialogue: 0,0:04:41.72,0:04:50.73,Title Card - Bottom,,0,0,0,,{\blur0.6\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)\pos(960,881.32)}The Three Navy Admirals Assemble!
-Dialogue: 1,0:04:41.72,0:04:50.73,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\fad(1982,1982)\4a&HFF&\pos(960,881.32)}The Three Navy Admirals Assemble!
+Dialogue: 0,0:04:41.72,0:04:50.73,Title Card - Top,,0,0,190,,{\blur0.8\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Special Retrospective Before Marineford
+Dialogue: 1,0:04:41.72,0:04:50.73,Title Card - Top,,0,0,190,,{\bord0\blur0.8\fad(1982,1982)\4a&HFF&}Special Retrospective Before Marineford
+Dialogue: 0,0:04:41.72,0:04:50.73,Title Card - Bottom,,0,0,195,,{\blur0.8\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Three Navy Admirals Assemble!
+Dialogue: 1,0:04:41.72,0:04:50.73,Title Card - Bottom,,0,0,195,,{\bord0\blur0.8\fad(1982,1982)\4a&HFF&}The Three Navy Admirals Assemble!
 Dialogue: 0,0:04:50.87,0:04:55.02,Default,,0,0,0,,Meanwhile, at Navy Headquarters on Marineford...
 Dialogue: 0,0:04:57.44,0:04:59.12,Default,,0,0,0,,May I come in?
 Dialogue: 0,0:05:02.03,0:05:06.49,Default,,0,0,0,,Everybody, it's time. We need you to come to the harbor with us.
@@ -307,7 +306,7 @@ Dialogue: 0,0:23:36.22,0:23:40.02,Default,,0,0,0,,Fleet Admiral Sengoku reveals 
 Dialogue: 0,0:23:40.02,0:23:41.23,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:41.23,0:23:44.98,Default,,0,0,0,,"Ticking Down to the Time of Battle!\NThe Navy's Strongest Lineup in Position!"
 Dialogue: 0,0:23:44.98,0:23:47.23,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:46.07,0:23:50.08,Title Card - Top,,0,0,0,,{\blur0.6\pos(960,198.75)\c&H000000&}Ticking Down to the Time of Battle!
-Dialogue: 1,0:23:46.07,0:23:50.08,Title Card - Top,,0,0,0,,{\bord0\blur0.6\pos(960,198.75)\4a&HFF&}Ticking Down to the Time of Battle!
-Dialogue: 0,0:23:46.07,0:23:50.08,Title Card - Bottom,,0,0,0,,{\blur0.6\pos(960,893.75)\c&H000000&}The Navy's Strongest Lineup in Position!
-Dialogue: 1,0:23:46.07,0:23:50.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\pos(960,893.75)\4a&HFF&}The Navy's Strongest Lineup in Position!
+Dialogue: 0,0:23:46.07,0:23:50.08,Title Card - Top,,0,0,200,,{\blur0.8\c&H000000&}Ticking Down to the Time of Battle!
+Dialogue: 1,0:23:46.07,0:23:50.08,Title Card - Top,,0,0,200,,{\bord0\blur0.8\4a&HFF&}Ticking Down to the Time of Battle!
+Dialogue: 0,0:23:46.07,0:23:50.08,Title Card - Bottom,,0,0,185,,{\blur0.8\c&H000000&}The Navy's Strongest Lineup in Position!
+Dialogue: 1,0:23:46.07,0:23:50.08,Title Card - Bottom,,0,0,185,,{\bord0\blur0.8\4a&HFF&}The Navy's Strongest Lineup in Position!
