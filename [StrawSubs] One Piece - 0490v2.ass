@@ -24,80 +24,79 @@ Video File: [Panda-Raws] One Piece - 0490 (WEB 1080p AMZN JP 29.970fps EAC3) [A2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 345
-Active Line: 362
-Video Position: 42650
+Scroll Position: 143
+Active Line: 144
+Video Position: 17743
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,20,0
 Style: Alt,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: Sign,Candara,135,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,3,0,2,45,45,45,0
-Style: Sign2,FOT-Greco Std B,135,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.5,0,2,45,45,45,0
+Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,32,1
 Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
 Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:37.42,0:00:42.43,Opening,,0,0,0,,{\blur0.3\c&H000000&}Every time I look up to the sky after the rain
-Dialogue: 1,0:00:37.42,0:00:42.43,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Every time I look up to the sky after the rain
-Dialogue: 0,0:00:42.53,0:00:48.17,Opening,,0,0,0,,{\blur0.3\c&H000000&}I think back to when I was still a crybaby
-Dialogue: 1,0:00:42.53,0:00:48.17,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I think back to when I was still a crybaby
-Dialogue: 0,0:00:48.20,0:00:55.91,Opening,,0,0,0,,{\blur0.3\c&H000000&}Desperately chasing after someone's back,
-Dialogue: 1,0:00:48.20,0:00:55.91,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Desperately chasing after someone's back,
-Dialogue: 0,0:00:56.01,0:00:58.68,Opening,,0,0,0,,{\blur0.3\c&H000000&}thinking "I want to become stronger"
-Dialogue: 1,0:00:56.01,0:00:58.68,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}thinking "I want to become stronger"
-Dialogue: 0,0:00:58.81,0:01:04.25,Opening,,0,0,0,,{\blur0.3\c&H000000&}Now my "Thank you" has disappeared into the wind
-Dialogue: 1,0:00:58.81,0:01:04.25,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Now my "Thank you" has disappeared into the wind
-Dialogue: 0,0:01:04.32,0:01:09.39,Opening,,0,0,0,,{\blur0.3\c&H000000&}Am I becoming stronger?
-Dialogue: 1,0:01:04.32,0:01:09.39,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Am I becoming stronger?
-Dialogue: 0,0:01:09.52,0:01:15.06,Opening,,0,0,0,,{\blur0.3\c&H000000&}I can't find my answer
-Dialogue: 1,0:01:09.52,0:01:15.06,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't find my answer
-Dialogue: 0,0:01:15.09,0:01:20.43,Opening,,0,0,0,,{\blur0.3\c&H000000&}So I'll keep on moving forward
-Dialogue: 1,0:01:15.09,0:01:20.43,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So I'll keep on moving forward
-Dialogue: 0,0:01:20.66,0:01:22.80,Opening,,0,0,0,,{\blur0.3\c&H000000&}Come on, let's go,
-Dialogue: 1,0:01:20.66,0:01:22.80,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Come on, let's go,
-Dialogue: 0,0:01:22.90,0:01:26.14,Opening,,0,0,0,,{\blur0.3\c&H000000&}and keep moving no matter what
-Dialogue: 1,0:01:22.90,0:01:26.14,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}and keep moving no matter what
-Dialogue: 0,0:01:26.24,0:01:31.48,Opening,,0,0,0,,{\blur0.3\c&H000000&}So that the flow of time won't get the better of us
-Dialogue: 1,0:01:26.24,0:01:31.48,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So that the flow of time won't get the better of us
-Dialogue: 0,0:01:31.51,0:01:36.91,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll keep getting up, again and again
-Dialogue: 1,0:01:31.51,0:01:36.91,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll keep getting up, again and again
-Dialogue: 0,0:01:37.05,0:01:42.42,Opening,,0,0,0,,{\blur0.3\c&H000000&}Because we don't want to lose what's important to us
-Dialogue: 1,0:01:37.05,0:01:42.42,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Because we don't want to lose what's important to us
-Dialogue: 0,0:01:42.52,0:01:47.83,Opening,,0,0,0,,{\blur0.3\c&H000000&}I can hear the voice inside my head
-Dialogue: 1,0:01:42.52,0:01:47.83,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can hear the voice inside my head
-Dialogue: 0,0:01:47.86,0:01:53.00,Opening,,0,0,0,,{\blur0.3\c&H000000&}Always, always lifting me up
-Dialogue: 1,0:01:47.86,0:01:53.00,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Always, always lifting me up
-Dialogue: 0,0:01:53.16,0:01:58.27,Opening,,0,0,0,,{\blur0.3\c&H000000&}Even when the mischievous rain gets in my way,
-Dialogue: 1,0:01:53.16,0:01:58.27,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Even when the mischievous rain gets in my way,
-Dialogue: 0,0:01:58.40,0:02:03.11,Opening,,0,0,0,,{\blur0.3\c&H000000&}I won't try to run away
-Dialogue: 1,0:01:58.40,0:02:03.11,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I won't try to run away
-Dialogue: 0,0:02:06.51,0:02:08.71,Opening,,0,0,0,,{\blur0.3\c&H000000&}Come on, let's go,
-Dialogue: 1,0:02:06.51,0:02:08.71,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Come on, let's go,
-Dialogue: 0,0:02:08.81,0:02:11.98,Opening,,0,0,0,,{\blur0.3\c&H000000&}and keep moving no matter what
-Dialogue: 1,0:02:08.81,0:02:11.98,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}and keep moving no matter what
-Dialogue: 0,0:02:12.12,0:02:17.15,Opening,,0,0,0,,{\blur0.3\c&H000000&}So that the flow of time won't get the better of us
-Dialogue: 1,0:02:12.12,0:02:17.15,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So that the flow of time won't get the better of us
-Dialogue: 0,0:02:17.29,0:02:22.86,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll keep getting up, again and again
-Dialogue: 1,0:02:17.29,0:02:22.86,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll keep getting up, again and again
-Dialogue: 0,0:02:22.99,0:02:28.40,Opening,,0,0,0,,{\blur0.3\c&H000000&}Because we don't want to lose what's important to us
-Dialogue: 1,0:02:22.99,0:02:28.40,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Because we don't want to lose what's important to us
-Dialogue: 0,0:02:28.50,0:02:36.67,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's head toward the future we believe in...
-Dialogue: 1,0:02:28.50,0:02:36.67,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's head toward the future we believe in...
-Dialogue: 0,0:02:44.85,0:02:47.95,Default,,0,0,0,,The time is the Great Pirate Era.
-Dialogue: 0,0:02:47.95,0:02:53.16,Default,,0,0,0,,Countless pirates fight desperately for the One Piece,
-Dialogue: 0,0:02:53.16,0:02:55.29,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
-Dialogue: 0,0:02:56.89,0:03:01.70,Default,,0,0,0,,Monkey D. Luffy, a boy whose body turned to rubber after he ate the Gum-Gum Fruit,
-Dialogue: 0,0:03:01.70,0:03:04.47,Default,,0,0,0,,also takes to the sea to become the next Pirate King.
-Dialogue: 0,0:03:04.47,0:03:08.51,Default,,0,0,0,,As Luffy and his friends overcome numerous adventures,
+Dialogue: 0,0:00:37.42,0:00:42.43,Opening,,0,0,0,,{\blur0.6\c&H000000&}Every time I look up to the sky after the rain
+Dialogue: 1,0:00:37.42,0:00:42.43,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Every time I look up to the sky after the rain
+Dialogue: 0,0:00:42.53,0:00:48.17,Opening,,0,0,0,,{\blur0.6\c&H000000&}I think back to when I was still a crybaby
+Dialogue: 1,0:00:42.53,0:00:48.17,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I think back to when I was still a crybaby
+Dialogue: 0,0:00:48.20,0:00:55.91,Opening,,0,0,0,,{\blur0.6\c&H000000&}Desperately chasing after someone's back,
+Dialogue: 1,0:00:48.20,0:00:55.91,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Desperately chasing after someone's back,
+Dialogue: 0,0:00:56.01,0:00:58.68,Opening,,0,0,0,,{\blur0.6\c&H000000&}thinking "I want to become stronger"
+Dialogue: 1,0:00:56.01,0:00:58.68,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}thinking "I want to become stronger"
+Dialogue: 0,0:00:58.81,0:01:04.25,Opening,,0,0,0,,{\blur0.6\c&H000000&}Now my "Thank you" has disappeared into the wind
+Dialogue: 1,0:00:58.81,0:01:04.25,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Now my "Thank you" has disappeared into the wind
+Dialogue: 0,0:01:04.32,0:01:09.39,Opening,,0,0,0,,{\blur0.6\c&H000000&}Am I becoming stronger?
+Dialogue: 1,0:01:04.32,0:01:09.39,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Am I becoming stronger?
+Dialogue: 0,0:01:09.52,0:01:15.06,Opening,,0,0,0,,{\blur0.6\c&H000000&}I can't find my answer
+Dialogue: 1,0:01:09.52,0:01:15.06,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can't find my answer
+Dialogue: 0,0:01:15.09,0:01:20.43,Opening,,0,0,0,,{\blur0.6\c&H000000&}So I'll keep on moving forward
+Dialogue: 1,0:01:15.09,0:01:20.43,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So I'll keep on moving forward
+Dialogue: 0,0:01:20.66,0:01:22.80,Opening,,0,0,0,,{\blur0.6\c&H000000&}Come on, let's go,
+Dialogue: 1,0:01:20.66,0:01:22.80,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Come on, let's go,
+Dialogue: 0,0:01:22.90,0:01:26.14,Opening,,0,0,0,,{\blur0.6\c&H000000&}and keep moving no matter what
+Dialogue: 1,0:01:22.90,0:01:26.14,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}and keep moving no matter what
+Dialogue: 0,0:01:26.24,0:01:31.48,Opening,,0,0,0,,{\blur0.6\c&H000000&}So that the flow of time won't get the better of us
+Dialogue: 1,0:01:26.24,0:01:31.48,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So that the flow of time won't get the better of us
+Dialogue: 0,0:01:31.51,0:01:36.91,Opening,,0,0,0,,{\blur0.6\c&H000000&}We'll keep getting up, again and again
+Dialogue: 1,0:01:31.51,0:01:36.91,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}We'll keep getting up, again and again
+Dialogue: 0,0:01:37.05,0:01:42.42,Opening,,0,0,0,,{\blur0.6\c&H000000&}Because we don't want to lose what's important to us
+Dialogue: 1,0:01:37.05,0:01:42.42,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Because we don't want to lose what's important to us
+Dialogue: 0,0:01:42.52,0:01:47.83,Opening,,0,0,0,,{\blur0.6\c&H000000&}I can hear the voice inside my head
+Dialogue: 1,0:01:42.52,0:01:47.83,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can hear the voice inside my head
+Dialogue: 0,0:01:47.86,0:01:53.00,Opening,,0,0,0,,{\blur0.6\c&H000000&}Always, always lifting me up
+Dialogue: 1,0:01:47.86,0:01:53.00,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Always, always lifting me up
+Dialogue: 0,0:01:53.16,0:01:58.27,Opening,,0,0,0,,{\blur0.6\c&H000000&}Even when the mischievous rain gets in my way,
+Dialogue: 1,0:01:53.16,0:01:58.27,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Even when the mischievous rain gets in my way,
+Dialogue: 0,0:01:58.40,0:02:03.11,Opening,,0,0,0,,{\blur0.6\c&H000000&}I won't try to run away
+Dialogue: 1,0:01:58.40,0:02:03.11,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I won't try to run away
+Dialogue: 0,0:02:06.51,0:02:08.71,Opening,,0,0,0,,{\blur0.6\c&H000000&}Come on, let's go,
+Dialogue: 1,0:02:06.51,0:02:08.71,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Come on, let's go,
+Dialogue: 0,0:02:08.81,0:02:11.98,Opening,,0,0,0,,{\blur0.6\c&H000000&}and keep moving no matter what
+Dialogue: 1,0:02:08.81,0:02:11.98,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}and keep moving no matter what
+Dialogue: 0,0:02:12.12,0:02:17.15,Opening,,0,0,0,,{\blur0.6\c&H000000&}So that the flow of time won't get the better of us
+Dialogue: 1,0:02:12.12,0:02:17.15,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So that the flow of time won't get the better of us
+Dialogue: 0,0:02:17.29,0:02:22.86,Opening,,0,0,0,,{\blur0.6\c&H000000&}We'll keep getting up, again and again
+Dialogue: 1,0:02:17.29,0:02:22.86,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}We'll keep getting up, again and again
+Dialogue: 0,0:02:22.99,0:02:28.40,Opening,,0,0,0,,{\blur0.6\c&H000000&}Because we don't want to lose what's important to us
+Dialogue: 1,0:02:22.99,0:02:28.40,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Because we don't want to lose what's important to us
+Dialogue: 0,0:02:28.50,0:02:36.67,Opening,,0,0,0,,{\blur0.6\c&H000000&}Let's head toward the future we believe in...
+Dialogue: 1,0:02:28.50,0:02:36.67,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Let's head toward the future we believe in...
+Dialogue: 0,0:02:45.02,0:02:47.35,Default,,0,0,0,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:47.99,0:02:53.20,Default,,0,0,0,,Countless pirates fight\Ndesperately for the One Piece,
+Dialogue: 0,0:02:53.20,0:02:55.29,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
+Dialogue: 0,0:02:56.79,0:03:01.63,Default,,0,0,0,,Monkey D. Luffy, a boy whose body\Nturned to rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:01.63,0:03:03.67,Default,,0,0,0,,also takes to the sea\Nto become the next Pirate King.
+Dialogue: 0,0:03:04.47,0:03:08.51,Default,,0,0,0,,As Luffy and his friends\Novercome numerous adventures,
 Dialogue: 0,0:03:08.51,0:03:13.31,Default,,0,0,0,,the World Government is less and less\Nable to ignore their existence.
-Dialogue: 0,0:03:14.48,0:03:16.15,Default,,0,0,0,,This is exciting!
-Dialogue: 0,0:03:16.91,0:03:19.78,Default,,0,0,0,,What kind of adventure is waiting for us next?!
-Dialogue: 0,0:03:20.22,0:03:23.32,Default,,0,0,0,,The crew, on its way to the New World,
-Dialogue: 0,0:03:23.32,0:03:26.76,Default,,0,0,0,,will speed along the Grand Line again today!
+Dialogue: 0,0:03:14.45,0:03:16.15,Default,,0,0,0,,This is exciting!
+Dialogue: 0,0:03:16.91,0:03:19.75,Default,,0,0,0,,What adventure is waiting for us next?!
+Dialogue: 0,0:03:20.18,0:03:23.29,Default,,0,0,0,,The crew, on its way to the New World,
+Dialogue: 0,0:03:23.29,0:03:26.46,Default,,0,0,0,,will speed along the Grand Line again today!
 Dialogue: 0,0:03:30.53,0:03:33.00,Default,,0,0,0,,Separated from the rest of the Straw Hats,
 Dialogue: 0,0:03:33.00,0:03:37.73,Default,,0,0,0,,Luffy made a raid on Navy HQ to rescue his brother, Ace, who was to be executed!
 Dialogue: 0,0:03:38.50,0:03:44.41,Default,,0,0,0,,However, both Ace and Whitebeard lost their lives!
@@ -185,34 +184,34 @@ Dialogue: 0,0:09:42.93,0:09:46.10,Default,,0,0,0,,the biggest war of the Great P
 Dialogue: 0,0:09:46.77,0:09:49.24,Default,,0,0,0,,spread all over in the blink of an eye
 Dialogue: 0,0:09:49.24,0:09:52.01,Default,,0,0,0,,and people are celebrating the news around the world.
 Dialogue: 0,0:09:52.01,0:09:53.71,DefaultLow,,0,0,0,,East Blue.
-Dialogue: 0,0:09:52.01,0:09:55.01,Sign,,0,0,0,,{\blur0.6\fad(211,0)\pos(960,785)\c&H000000&\1a&HFF&\t(166,211,\1a&H00&)}East Blue
-Dialogue: 1,0:09:52.01,0:09:55.01,Sign,,0,0,0,,{\bord0\blur0.6\fad(211,0)\pos(960,785)\4a&HFF&}East Blue
+Dialogue: 0,0:09:52.01,0:09:55.01,Sign,,0,0,303,,{\blur0.6\fad(211,0)\fs99\bord2.4\c&H000000&\1a&HFF&\t(166,211,\1a&H00&)}East Blue
+Dialogue: 1,0:09:52.01,0:09:55.01,Sign,,0,0,303,,{\blur0.6\fad(211,0)\fs99\bord0\4a&HFF&}East Blue
 Dialogue: 0,0:09:53.71,0:09:55.01,DefaultLow,,0,0,0,,Hurrah!
 Dialogue: 0,0:09:55.01,0:09:57.25,Default,,0,0,0,,Whitebeard is dead!
 Dialogue: 0,0:09:57.25,0:09:59.12,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:09:59.12,0:10:00.52,Default,,0,0,0,,We're safe now!
 Dialogue: 0,0:10:00.52,0:10:02.62,Default,,0,0,0,,I'm so glad!
 Dialogue: 0,0:10:02.62,0:10:04.52,DefaultLow,,0,0,0,,West Blue.
-Dialogue: 0,0:10:02.62,0:10:05.29,Sign,,0,0,0,,{\blur0.6\fad(187,0)\pos(960,770)\c&H000000&\1a&HFF&\t(142,187,\1a&H00&)}West Blue
-Dialogue: 1,0:10:02.62,0:10:05.29,Sign,,0,0,0,,{\bord0\blur0.6\fad(187,0)\pos(960,770)\4a&HFF&}West Blue
+Dialogue: 0,0:10:02.62,0:10:05.29,Sign,,0,0,321,,{\blur0.6\fad(200,0)\fs99\bord2.4\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}West Blue
+Dialogue: 1,0:10:02.62,0:10:05.29,Sign,,0,0,321,,{\blur0.6\fad(200,0)\fs99\bord0\4a&HFF&}West Blue
 Dialogue: 0,0:10:05.29,0:10:08.43,Default,,0,0,0,,The sea will be at peace now!
 Dialogue: 0,0:10:08.43,0:10:09.99,Default,,0,0,0,,Hurrah!
 Dialogue: 0,0:10:09.99,0:10:11.50,DefaultLow,,0,0,0,,South Blue.
-Dialogue: 0,0:10:09.99,0:10:12.63,Sign,,0,0,0,,{\blur0.6\fad(210,0)\pos(960,770)\c&H000000&\1a&HFF&\t(165,210,\1a&H00&)}South Blue
-Dialogue: 1,0:10:09.99,0:10:12.63,Sign,,0,0,0,,{\bord0\blur0.6\fad(210,0)\pos(960,770)\4a&HFF&}South Blue
+Dialogue: 0,0:10:09.99,0:10:12.63,Sign,,0,0,321,,{\blur0.6\fad(210,0)\fs99\bord2.4\c&H000000&\1a&HFF&\t(165,210,\1a&H00&)}South Blue
+Dialogue: 1,0:10:09.99,0:10:12.63,Sign,,0,0,321,,{\blur0.6\fad(210,0)\fs99\bord0\4a&HFF&}South Blue
 Dialogue: 0,0:10:11.50,0:10:12.63,DefaultLow,,0,0,0,,We'll have a bargain sale today!
 Dialogue: 0,0:10:13.20,0:10:15.07,Default,,0,0,0,,So are we!
 Dialogue: 0,0:10:15.07,0:10:16.73,Default,,0,0,0,,The Navy has won!
 Dialogue: 0,0:10:16.73,0:10:18.47,Default,,0,0,0,,I'm so relieved!
 Dialogue: 0,0:10:18.47,0:10:20.44,DefaultLow,,0,0,0,,North Blue.
-Dialogue: 0,0:10:18.47,0:10:21.20,Sign,,0,0,0,,{\blur0.6\fad(218,520)\pos(960,770)\c&H000000&\1a&HFF&\t(173,218,\1a&H00&)\t(2210,2255,\1a&HFF&)}North Blue
-Dialogue: 1,0:10:18.47,0:10:21.20,Sign,,0,0,0,,{\bord0\blur0.6\fad(218,520)\pos(960,770)\4a&HFF&}North Blue
+Dialogue: 0,0:10:18.47,0:10:21.20,Sign,,0,0,321,,{\blur0.6\fad(220,550)\fs99\bord2.4\c&H000000&\1a&HFF&\t(175,220,\1a&H00&)\t(2180,2225,\1a&HFF&)}North Blue
+Dialogue: 1,0:10:18.47,0:10:21.20,Sign,,0,0,321,,{\blur0.6\fad(220,550)\fs99\bord0\4a&HFF&}North Blue
 Dialogue: 0,0:10:21.87,0:10:24.34,Default,,0,0,0,,Yes! I'm so happy!
 Dialogue: 0,0:10:24.34,0:10:26.68,Default,,0,0,0,,Let's drink, everybody!
 Dialogue: 0,0:10:26.68,0:10:28.38,Default,,0,0,0,,We have enough for everyone!
 Dialogue: 0,0:10:28.38,0:10:30.15,DefaultLow,,0,0,0,,Grand Line.
-Dialogue: 0,0:10:28.38,0:10:31.28,Sign,,0,0,0,,{\blur0.6\fad(203,0)\pos(960,770)\c&H000000&\1a&HFF&\t(158,203,\1a&H00&)}Grand Line
-Dialogue: 1,0:10:28.38,0:10:31.28,Sign,,0,0,0,,{\bord0\blur0.6\fad(203,0)\pos(960,770)\4a&HFF&}Grand Line
+Dialogue: 0,0:10:28.38,0:10:31.28,Sign,,0,0,321,,{\blur0.6\fad(200,0)\fs99\bord2.4\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}Grand Line
+Dialogue: 1,0:10:28.38,0:10:31.28,Sign,,0,0,321,,{\blur0.6\fad(200,0)\fs99\bord0\4a&HFF&}Grand Line
 Dialogue: 0,0:10:30.25,0:10:32.15,DefaultLow,,0,0,0,,What should we do tomorrow?
 Dialogue: 0,0:10:32.15,0:10:33.52,DefaultLow,,0,0,0,,I wanna play tag!
 Dialogue: 0,0:10:33.52,0:10:35.02,DefaultLow,,0,0,0,,Hide and seek!
@@ -229,8 +228,8 @@ Dialogue: 0,0:11:13.56,0:11:16.03,Default,,0,0,0,,I'm gonna find it!
 Dialogue: 0,0:11:19.36,0:11:24.13,Default,,0,0,0,,There is so much more out there! Let's set sail!
 Dialogue: 0,0:11:28.71,0:11:30.71,Default,,0,0,0,,"Navy victory."
 Dialogue: 0,0:11:30.71,0:11:36.51,DefaultLow,,0,0,0,,This result did not necessarily bring peace...
-Dialogue: 0,0:11:30.97,0:11:33.98,Sign,,0,0,0,,{\blur0.6\fad(510,0)\pos(960,833)\c&H000000&\1a&HFF&\t(465,510,\1a&H00&)}New World, Foodvalten Island
-Dialogue: 1,0:11:30.97,0:11:33.98,Sign,,0,0,0,,{\bord0\blur0.6\fad(510,0)\pos(960,833)\4a&HFF&}New World, Foodvalten Island
+Dialogue: 0,0:11:30.97,0:11:33.98,Sign,,0,0,250,,{\blur0.6\fad(550,0)\fs99\bord2.4\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)}New World, Foodvalten Island
+Dialogue: 1,0:11:30.97,0:11:33.98,Sign,,0,0,250,,{\blur0.6\fad(550,0)\fs99\bord0\4a&HFF&}New World, Foodvalten Island
 Dialogue: 0,0:11:41.45,0:11:45.16,Default,,0,0,0,,Y-You can't take another step!\NDon't come into town!
 Dialogue: 0,0:11:46.96,0:11:52.20,Default,,0,0,0,,With the loss of a deterrent—\Nnamely, the threat of Whitebeard—
 Dialogue: 0,0:11:52.20,0:11:55.50,Default,,0,0,0,,the world of the seas is thrown into turmoil...
@@ -248,10 +247,10 @@ Dialogue: 0,0:12:48.82,0:12:51.49,Default,,0,0,0,,What's been going on at the pr
 Dialogue: 0,0:12:51.49,0:12:53.92,Default,,0,0,0,,In short:
 Dialogue: 0,0:12:53.92,0:12:58.33,Default,,0,0,0,,The situation on Level 6\Nis particularly bad. It's in shambles.
 Dialogue: 0,0:13:00.10,0:13:01.77,Default,,0,0,0,,In shambles?
-Dialogue: 0,0:13:02.53,0:13:06.77,Sign,,0,0,0,,{\blur0.6\fad(510,730)\pos(960,833)\c&H000000&\1a&HFF&\t(465,510,\1a&H00&)\t(3510,3555,\1a&HFF&)}Underwater Prison Impel Down
-Dialogue: 1,0:13:02.53,0:13:06.77,Sign,,0,0,0,,{\bord0\blur0.6\fad(510,730)\pos(960,833)\4a&HFF&}Underwater Prison Impel Down
-Dialogue: 0,0:13:16.78,0:13:22.29,Sign,,0,0,0,,{\blur0.6\fad(523,992)\pos(960,825)\c&H000000&\1a&HFF&\t(478,523,\1a&H00&)\t(4518,4563,\1a&HFF&)}Level 6
-Dialogue: 1,0:13:16.78,0:13:22.29,Sign,,0,0,0,,{\bord0\blur0.6\fad(523,992)\pos(960,825)\4a&HFF&}Level 6
+Dialogue: 0,0:13:02.53,0:13:06.77,Sign,,0,0,255,,{\blur0.6\fad(510,750)\fs99\bord2.4\c&H000000&\1a&HFF&\t(465,510,\1a&H00&)\t(3490,3535,\1a&HFF&)}Underwater Prison Impel Down
+Dialogue: 1,0:13:02.53,0:13:06.77,Sign,,0,0,255,,{\blur0.6\fad(510,750)\fs99\bord0\4a&HFF&}Underwater Prison Impel Down
+Dialogue: 0,0:13:16.78,0:13:22.29,Sign,,0,0,255,,{\blur0.6\fad(522,1022)\fs99\bord2.4\c&H000000&\1a&HFF&\t(477,522,\1a&H00&)\t(4488,4533,\1a&HFF&)}Level 6
+Dialogue: 1,0:13:16.78,0:13:22.29,Sign,,0,0,255,,{\blur0.6\fad(522,1022)\fs99\bord0\4a&HFF&}Level 6
 Dialogue: 0,0:13:17.45,0:13:19.48,DefaultLow,,0,0,0,,What's up?
 Dialogue: 0,0:13:19.48,0:13:23.99,DefaultLow,,0,0,0,,You prisoners're doomed to be stuck behind bars forever!
 Dialogue: 0,0:13:24.75,0:13:27.46,Default,,0,0,0,,You've got nothing to do except wait for death!
@@ -324,8 +323,8 @@ Dialogue: 0,0:18:45.88,0:18:46.78,Default,,0,0,0,,I'm sorry!
 Dialogue: 0,0:18:46.78,0:18:47.54,Default,,0,0,0,,He folded so quickly!
 Dialogue: 0,0:18:48.04,0:18:51.55,Default,,0,0,0,,How is Luffy doing? Tell me now...
 Dialogue: 0,0:18:52.52,0:18:54.15,Default,,0,0,0,,Oh, Captain!
-Dialogue: 0,0:18:54.15,0:18:58.15,Sign2,,0,0,0,,{\blur0.6\fad(520,0)\fs82\bord2.2\pos(960,700)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Heart Pirates Captain\NTrafalgar Law
-Dialogue: 1,0:18:54.15,0:18:58.15,Sign2,,0,0,0,,{\blur0.6\fad(520,0)\fs82\bord0\pos(960,700)\4a&HFF&}Heart Pirates Captain\NTrafalgar Law
+Dialogue: 0,0:18:54.15,0:18:58.15,Sign,,0,0,366,,{\blur0.6\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Heart Pirates Captain\N{\fnFOT-Greco Std B\fs99\bord2.4}Trafalgar Law
+Dialogue: 1,0:18:54.15,0:18:58.15,Sign,,0,0,366,,{\bord0\blur0.6\fad(520,0)\4a&HFF&}Heart Pirates Captain\N{\fnFOT-Greco Std B\fs99\bord0}Trafalgar Law
 Dialogue: 0,0:18:56.19,0:18:58.15,DefaultLow,,0,0,0,,I did everything I could.
 Dialogue: 0,0:18:58.15,0:19:00.86,Default,,0,0,0,,You mean, he's okay?
 Dialogue: 0,0:19:00.86,0:19:06.70,Default,,0,0,0,,We were able to stabilize him. However...
