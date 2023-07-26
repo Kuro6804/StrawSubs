@@ -24,101 +24,100 @@ Video File: [Panda-Raws] One Piece - 0500 (WEB 1080p AMZN JP 29.970fps EAC3) [22
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 384
-Active Line: 390
-Video Position: 42650
+Scroll Position: 383
+Active Line: 389
+Video Position: 42769
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.7,0,2,10,10,28,1
+Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,28,1
 Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
 Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:29.61,0:00:33.18,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's set sail before the break of dawn,
-Dialogue: 1,0:00:29.61,0:00:33.18,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's set sail before the break of dawn,
-Dialogue: 0,0:00:33.28,0:00:37.69,Opening,,0,0,0,,{\blur0.3\c&H000000&}to meet a yet unseen tomorrow
-Dialogue: 1,0:00:33.28,0:00:37.69,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}to meet a yet unseen tomorrow
-Dialogue: 0,0:00:37.99,0:00:41.33,Opening,,0,0,0,,{\blur0.3\c&H000000&}I've made up my mind, and I have no regrets
-Dialogue: 1,0:00:37.99,0:00:41.33,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I've made up my mind, and I have no regrets
-Dialogue: 0,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\blur0.3\c&H000000&}(Oh I know what I'm supposed to do)
-Dialogue: 1,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}(Oh I know what I'm supposed to do)
-Dialogue: 0,0:00:44.53,0:00:48.07,Opening,,0,0,0,,{\blur0.3\c&H000000&}No matter what trials wait for us along the way,
-Dialogue: 1,0:00:44.53,0:00:48.07,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}No matter what trials wait for us along the way,
-Dialogue: 0,0:00:48.23,0:00:52.70,Opening,,0,0,0,,{\blur0.3\c&H000000&}nothing can ever stop the pounding of our hearts
-Dialogue: 1,0:00:48.23,0:00:52.70,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}nothing can ever stop the pounding of our hearts
-Dialogue: 0,0:00:52.84,0:00:57.37,Opening,,0,0,0,,{\blur0.3\c&H000000&}There is but one place we all aim for
-Dialogue: 1,0:00:52.84,0:00:57.37,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}There is but one place we all aim for
-Dialogue: 0,0:00:57.58,0:00:59.28,Opening,,0,0,0,,{\blur0.3\c&H000000&}(Fly to the light)
-Dialogue: 1,0:00:57.58,0:00:59.28,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}(Fly to the light)
-Dialogue: 0,0:00:59.34,0:01:03.01,Opening,,0,0,0,,{\blur0.3\c&H000000&}The bonds that we gained at the end of the battle
-Dialogue: 1,0:00:59.34,0:01:03.01,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The bonds that we gained at the end of the battle
-Dialogue: 0,0:01:03.18,0:01:06.68,Opening,,0,0,0,,{\blur0.3\c&H000000&}I will not let anyone damage them
-Dialogue: 1,0:01:03.18,0:01:06.68,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I will not let anyone damage them
-Dialogue: 0,0:01:06.82,0:01:09.49,Opening,,0,0,0,,{\blur0.3\c&H000000&}If we open our hands held tight,
-Dialogue: 1,0:01:06.82,0:01:09.49,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}If we open our hands held tight,
-Dialogue: 0,0:01:09.62,0:01:12.72,Opening,,0,0,0,,{\blur0.3\c&H000000&}we'll find strength within them
-Dialogue: 1,0:01:09.62,0:01:12.72,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}we'll find strength within them
-Dialogue: 0,0:01:12.89,0:01:15.13,Opening,,0,0,0,,{\blur0.3\c&H000000&}So let's get started!
-Dialogue: 1,0:01:12.89,0:01:15.13,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So let's get started!
-Dialogue: 0,0:01:15.29,0:01:20.30,Opening,,0,0,0,,{\blur0.3\c&H000000&}A brand new world is calling for us
-Dialogue: 1,0:01:15.29,0:01:20.30,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}A brand new world is calling for us
-Dialogue: 0,0:01:20.40,0:01:22.67,Opening,,0,0,0,,{\blur0.3\c&H000000&}Look ahead!
-Dialogue: 1,0:01:20.40,0:01:22.67,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Look ahead!
-Dialogue: 0,0:01:22.80,0:01:29.04,Opening,,0,0,0,,{\blur0.3\c&H000000&}Even if countless seas stand between us,
-Dialogue: 1,0:01:22.80,0:01:29.04,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Even if countless seas stand between us,
-Dialogue: 0,0:01:29.11,0:01:32.81,Opening,,0,0,0,,{\blur0.3\c&H000000&}we're always supporting each other
-Dialogue: 1,0:01:29.11,0:01:32.81,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}we're always supporting each other
-Dialogue: 0,0:01:32.84,0:01:36.48,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's move on without any fears
-Dialogue: 1,0:01:32.84,0:01:36.48,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's move on without any fears
-Dialogue: 0,0:01:36.98,0:01:38.85,Opening,,0,0,0,,{\blur0.3\c&H000000&}Please don't forget,
-Dialogue: 1,0:01:36.98,0:01:38.85,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Please don't forget,
-Dialogue: 0,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\blur0.3\c&H000000&}We fight together
-Dialogue: 1,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We fight together
-Dialogue: 0,0:01:40.88,0:01:48.13,Opening,,0,0,0,,{\blur0.3\c&H000000&}The great, wide, distant sky
-Dialogue: 1,0:01:40.88,0:01:48.13,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The great, wide, distant sky
-Dialogue: 0,0:01:48.56,0:01:50.89,Opening,,0,0,0,,{\blur0.3\c&H000000&}that we looked up at on that day
-Dialogue: 1,0:01:48.56,0:01:50.89,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}that we looked up at on that day
-Dialogue: 0,0:01:51.03,0:01:56.03,Opening,,0,0,0,,{\blur0.3\c&H000000&}still remains as pure as it has always been
-Dialogue: 1,0:01:51.03,0:01:56.03,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}still remains as pure as it has always been
-Dialogue: 0,0:01:56.07,0:01:59.47,Opening,,0,0,0,,{\blur0.3\c&H000000&}We've come such a long way,
-Dialogue: 1,0:01:56.07,0:01:59.47,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We've come such a long way,
-Dialogue: 0,0:01:59.67,0:02:03.41,Opening,,0,0,0,,{\blur0.3\c&H000000&}all carrying the vows we made within our hearts
-Dialogue: 1,0:01:59.67,0:02:03.41,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}all carrying the vows we made within our hearts
-Dialogue: 0,0:02:03.47,0:02:06.01,Opening,,0,0,0,,{\blur0.3\c&H000000&}There's nothing to fear
-Dialogue: 1,0:02:03.47,0:02:06.01,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}There's nothing to fear
-Dialogue: 0,0:02:06.08,0:02:10.41,Opening,,0,0,0,,{\blur0.3\c&H000000&}We carry our burdens together
-Dialogue: 1,0:02:06.08,0:02:10.41,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We carry our burdens together
-Dialogue: 0,0:02:10.58,0:02:12.88,Opening,,0,0,0,,{\blur0.3\c&H000000&}The sun rises,
-Dialogue: 1,0:02:10.58,0:02:12.88,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The sun rises,
-Dialogue: 0,0:02:13.05,0:02:17.86,Opening,,0,0,0,,{\blur0.3\c&H000000&}and it brightens everything, even my sadness
-Dialogue: 1,0:02:13.05,0:02:17.86,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}and it brightens everything, even my sadness
-Dialogue: 0,0:02:17.89,0:02:20.26,Opening,,0,0,0,,{\blur0.3\c&H000000&}I believe,
-Dialogue: 1,0:02:17.89,0:02:20.26,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I believe,
-Dialogue: 0,0:02:20.36,0:02:26.70,Opening,,0,0,0,,{\blur0.3\c&H000000&}in the future where we'll come together as one
-Dialogue: 1,0:02:20.36,0:02:26.70,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}in the future where we'll come together as one
-Dialogue: 0,0:02:26.73,0:02:30.30,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's go find it together
-Dialogue: 1,0:02:26.73,0:02:30.30,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's go find it together
-Dialogue: 0,0:02:30.40,0:02:34.10,Opening,,0,0,0,,{\blur0.3\c&H000000&}There's nobody that can take your place
-Dialogue: 1,0:02:30.40,0:02:34.10,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}There's nobody that can take your place
-Dialogue: 0,0:02:34.61,0:02:36.24,Opening,,0,0,0,,{\blur0.3\c&H000000&}Please don't forget,
-Dialogue: 1,0:02:34.61,0:02:36.24,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Please don't forget,
-Dialogue: 0,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\blur0.3\c&H000000&}We fight together
-Dialogue: 1,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We fight together
-Dialogue: 0,0:02:44.98,0:02:47.32,Default,,0,0,0,,The time is the Great Pirate Era.
-Dialogue: 0,0:02:47.95,0:02:53.16,Default,,0,0,0,,Countless pirates fight \Ndesperately for the One Piece,
-Dialogue: 0,0:02:53.16,0:02:55.53,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
-Dialogue: 0,0:02:56.76,0:02:59.66,Default,,0,0,0,,Monkey D. Luffy, a boy\Nwhose body turned to rubber
-Dialogue: 0,0:02:59.66,0:03:01.60,Default,,0,0,0,,after he ate the Gum-Gum Fruit,
-Dialogue: 0,0:03:01.60,0:03:03.70,Default,,0,0,0,,also takes to the sea\Nto become the next Pirate King.
-Dialogue: 0,0:03:04.50,0:03:08.44,Default,,0,0,0,,As Luffy and his friends\Novercome numerous adventures,
-Dialogue: 0,0:03:08.44,0:03:13.31,Default,,0,0,0,,the World Government is less and less\Nable to ignore their existence.
-Dialogue: 0,0:03:14.41,0:03:16.15,Default,,0,0,0,,This is exciting!
-Dialogue: 0,0:03:16.85,0:03:19.75,Default,,0,0,0,,What kind of adventure \Nis waiting for us next?!
-Dialogue: 0,0:03:20.12,0:03:23.25,Default,,0,0,0,,The crew, on its way to the New World,
-Dialogue: 0,0:03:23.25,0:03:26.52,Default,,0,0,0,,will speed along the Grand Line again today!
+Dialogue: 0,0:00:29.61,0:00:33.18,Opening,,0,0,0,,{\blur0.6\c&H000000&}Let's set sail before the break of dawn,
+Dialogue: 1,0:00:29.61,0:00:33.18,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Let's set sail before the break of dawn,
+Dialogue: 0,0:00:33.28,0:00:37.69,Opening,,0,0,0,,{\blur0.6\c&H000000&}to meet a yet unseen tomorrow
+Dialogue: 1,0:00:33.28,0:00:37.69,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}to meet a yet unseen tomorrow
+Dialogue: 0,0:00:37.99,0:00:41.33,Opening,,0,0,0,,{\blur0.6\c&H000000&}I've made up my mind, and I have no regrets
+Dialogue: 1,0:00:37.99,0:00:41.33,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I've made up my mind, and I have no regrets
+Dialogue: 0,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\blur0.6\bord3.9\c&H000000&}(Oh I know what I'm supposed to do)
+Dialogue: 1,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\blur0.6\bord0\4a&HFF&}(Oh I know what I'm supposed to do)
+Dialogue: 0,0:00:44.53,0:00:48.07,Opening,,0,0,0,,{\blur0.6\c&H000000&}No matter what trials wait for us along the way,
+Dialogue: 1,0:00:44.53,0:00:48.07,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}No matter what trials wait for us along the way,
+Dialogue: 0,0:00:48.23,0:00:52.70,Opening,,0,0,0,,{\blur0.6\c&H000000&}nothing can ever stop the pounding of our hearts
+Dialogue: 1,0:00:48.23,0:00:52.70,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}nothing can ever stop the pounding of our hearts
+Dialogue: 0,0:00:52.84,0:00:57.37,Opening,,0,0,0,,{\blur0.6\c&H000000&}There is but one place we all aim for
+Dialogue: 1,0:00:52.84,0:00:57.37,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}There is but one place we all aim for
+Dialogue: 0,0:00:57.57,0:00:59.28,Opening,,0,0,0,,{\blur0.6\bord3.9\c&H000000&}(Fly to the light)
+Dialogue: 1,0:00:57.57,0:00:59.28,Opening,,0,0,0,,{\blur0.6\bord0\4a&HFF&}(Fly to the light)
+Dialogue: 0,0:00:59.34,0:01:03.01,Opening,,0,0,0,,{\blur0.6\c&H000000&}The bonds that we gained at the end of the battle
+Dialogue: 1,0:00:59.34,0:01:03.01,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}The bonds that we gained at the end of the battle
+Dialogue: 0,0:01:03.18,0:01:06.68,Opening,,0,0,0,,{\blur0.6\c&H000000&}I will not let anyone damage them
+Dialogue: 1,0:01:03.18,0:01:06.68,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I will not let anyone damage them
+Dialogue: 0,0:01:06.82,0:01:09.49,Opening,,0,0,0,,{\blur0.6\c&H000000&}If we open our hands held tight,
+Dialogue: 1,0:01:06.82,0:01:09.49,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}If we open our hands held tight,
+Dialogue: 0,0:01:09.62,0:01:12.72,Opening,,0,0,0,,{\blur0.6\c&H000000&}we'll find strength within them
+Dialogue: 1,0:01:09.62,0:01:12.72,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}we'll find strength within them
+Dialogue: 0,0:01:12.89,0:01:15.13,Opening,,0,0,0,,{\blur0.6\c&H000000&}So let's get started!
+Dialogue: 1,0:01:12.89,0:01:15.13,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So let's get started!
+Dialogue: 0,0:01:15.29,0:01:20.30,Opening,,0,0,0,,{\blur0.6\c&H000000&}A brand new world is calling for us
+Dialogue: 1,0:01:15.29,0:01:20.30,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}A brand new world is calling for us
+Dialogue: 0,0:01:20.40,0:01:22.67,Opening,,0,0,0,,{\blur0.6\c&H000000&}Look ahead!
+Dialogue: 1,0:01:20.40,0:01:22.67,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Look ahead!
+Dialogue: 0,0:01:22.80,0:01:29.04,Opening,,0,0,0,,{\blur0.6\c&H000000&}Even if countless seas stand between us,
+Dialogue: 1,0:01:22.80,0:01:29.04,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Even if countless seas stand between us,
+Dialogue: 0,0:01:29.11,0:01:32.81,Opening,,0,0,0,,{\blur0.6\c&H000000&}we're always supporting each other
+Dialogue: 1,0:01:29.11,0:01:32.81,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}we're always supporting each other
+Dialogue: 0,0:01:32.84,0:01:36.48,Opening,,0,0,0,,{\blur0.6\c&H000000&}Let's move on without any fears
+Dialogue: 1,0:01:32.84,0:01:36.48,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Let's move on without any fears
+Dialogue: 0,0:01:36.98,0:01:38.85,Opening,,0,0,0,,{\blur0.6\c&H000000&}Please don't forget,
+Dialogue: 1,0:01:36.98,0:01:38.85,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Please don't forget,
+Dialogue: 1,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\blur0.6\bord3.9\c&H000000&\pos(962.67,1052)}We fight together
+Dialogue: 2,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\blur0.6\bord0\4a&HFF&\pos(962.67,1052)}We fight together
+Dialogue: 0,0:01:40.88,0:01:48.13,Opening,,0,0,0,,{\blur0.6\c&H000000&}The great, wide, distant sky
+Dialogue: 1,0:01:40.88,0:01:48.13,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}The great, wide, distant sky
+Dialogue: 0,0:01:48.56,0:01:50.89,Opening,,0,0,0,,{\blur0.6\c&H000000&}that we looked up at on that day
+Dialogue: 1,0:01:48.56,0:01:50.89,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}that we looked up at on that day
+Dialogue: 0,0:01:51.03,0:01:56.03,Opening,,0,0,0,,{\blur0.6\c&H000000&}still remains as pure as it has always been
+Dialogue: 1,0:01:51.03,0:01:56.03,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}still remains as pure as it has always been
+Dialogue: 0,0:01:56.07,0:01:59.47,Opening,,0,0,0,,{\blur0.6\c&H000000&}We've come such a long way,
+Dialogue: 1,0:01:56.07,0:01:59.47,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}We've come such a long way,
+Dialogue: 0,0:01:59.67,0:02:03.41,Opening,,0,0,0,,{\blur0.6\c&H000000&}all carrying the vows we made within our hearts
+Dialogue: 1,0:01:59.67,0:02:03.41,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}all carrying the vows we made within our hearts
+Dialogue: 0,0:02:03.47,0:02:06.01,Opening,,0,0,0,,{\blur0.6\c&H000000&}There's nothing to fear
+Dialogue: 1,0:02:03.47,0:02:06.01,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}There's nothing to fear
+Dialogue: 0,0:02:06.08,0:02:10.41,Opening,,0,0,0,,{\blur0.6\c&H000000&}We carry our burdens together
+Dialogue: 1,0:02:06.08,0:02:10.41,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}We carry our burdens together
+Dialogue: 0,0:02:10.58,0:02:12.88,Opening,,0,0,0,,{\blur0.6\c&H000000&}The sun rises,
+Dialogue: 1,0:02:10.58,0:02:12.88,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}The sun rises,
+Dialogue: 0,0:02:13.05,0:02:17.86,Opening,,0,0,0,,{\blur0.6\c&H000000&}and it brightens everything, even my sadness
+Dialogue: 1,0:02:13.05,0:02:17.86,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}and it brightens everything, even my sadness
+Dialogue: 0,0:02:17.89,0:02:20.26,Opening,,0,0,0,,{\blur0.6\c&H000000&}I believe,
+Dialogue: 1,0:02:17.89,0:02:20.26,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I believe,
+Dialogue: 0,0:02:20.36,0:02:26.70,Opening,,0,0,0,,{\blur0.6\c&H000000&}in the future where we'll come together as one
+Dialogue: 1,0:02:20.36,0:02:26.70,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}in the future where we'll come together as one
+Dialogue: 0,0:02:26.73,0:02:30.30,Opening,,0,0,0,,{\blur0.6\c&H000000&}Let's go find it together
+Dialogue: 1,0:02:26.73,0:02:30.30,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Let's go find it together
+Dialogue: 0,0:02:30.40,0:02:34.10,Opening,,0,0,0,,{\blur0.6\c&H000000&}There's nobody that can take your place
+Dialogue: 1,0:02:30.40,0:02:34.10,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}There's nobody that can take your place
+Dialogue: 0,0:02:34.61,0:02:36.24,Opening,,0,0,0,,{\blur0.6\c&H000000&}Please don't forget,
+Dialogue: 1,0:02:34.61,0:02:36.24,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Please don't forget,
+Dialogue: 0,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\blur0.6\bord3.9\c&H000000&\pos(962.67,1052)}We fight together
+Dialogue: 1,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\blur0.6\bord0\4a&HFF&\pos(962.67,1052)}We fight together
+Dialogue: 0,0:02:45.02,0:02:47.35,Default,,0,0,0,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:47.99,0:02:53.19,Default,,0,0,0,,Countless pirates fight\Ndesperately for the One Piece,
+Dialogue: 0,0:02:53.19,0:02:55.29,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
+Dialogue: 0,0:02:56.79,0:03:01.63,Default,,0,0,0,,Monkey D. Luffy, a boy whose body\Nturned to rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:01.63,0:03:03.67,Default,,0,0,0,,also takes to the sea\Nto become the next Pirate King.
+Dialogue: 0,0:03:04.47,0:03:08.51,Default,,0,0,0,,As Luffy and his friends\Novercome numerous adventures,
+Dialogue: 0,0:03:08.51,0:03:13.31,Default,,0,0,0,,the World Government is less and less\Nable to ignore their existence.
+Dialogue: 0,0:03:14.45,0:03:16.15,Default,,0,0,0,,This is exciting!
+Dialogue: 0,0:03:16.91,0:03:19.75,Default,,0,0,0,,What adventure is waiting for us next?!
+Dialogue: 0,0:03:20.18,0:03:23.29,Default,,0,0,0,,The crew, on its way to the New World,
+Dialogue: 0,0:03:23.29,0:03:26.46,Default,,0,0,0,,will speed along the Grand Line again today!
 Dialogue: 0,0:03:30.89,0:03:34.77,Default,,0,0,0,,After losing his brother Ace during \Nthe Paramount War against the Navy,
 Dialogue: 0,0:03:34.77,0:03:38.60,Default,,0,0,0,,Luffy was consumed with unbearable sorrow.
 Dialogue: 0,0:03:39.07,0:03:43.31,Default,,0,0,0,,There is, however, an untold \Nstory of the brothers...
