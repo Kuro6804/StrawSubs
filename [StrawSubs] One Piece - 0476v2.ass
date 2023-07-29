@@ -23,8 +23,8 @@ Audio File: [Panda-Raws] One Piece - 0476 (WEB 1080p AMZN JP 29.970fps EAC3) [18
 Video File: [Panda-Raws] One Piece - 0476 (WEB 1080p AMZN JP 29.970fps EAC3) [18CB7EDD].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 257
+Video Zoom Percent: 0.500000
+Scroll Position: 246
 Active Line: 263
 Video Position: 42769
 
@@ -37,52 +37,52 @@ Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:37.42,0:00:42.43,Opening,,0,0,0,,{\blur0.6\c&H000000&}Every time I look up to the sky after the rain
-Dialogue: 1,0:00:37.42,0:00:42.43,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Every time I look up to the sky after the rain
-Dialogue: 0,0:00:42.53,0:00:48.17,Opening,,0,0,0,,{\blur0.6\c&H000000&}I think back to when I was still a crybaby
-Dialogue: 1,0:00:42.53,0:00:48.17,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I think back to when I was still a crybaby
-Dialogue: 0,0:00:48.20,0:00:55.91,Opening,,0,0,0,,{\blur0.6\c&H000000&}Desperately chasing after someone's back,
-Dialogue: 1,0:00:48.20,0:00:55.91,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Desperately chasing after someone's back,
-Dialogue: 0,0:00:56.01,0:00:58.68,Opening,,0,0,0,,{\blur0.6\c&H000000&}thinking "I want to become stronger"
-Dialogue: 1,0:00:56.01,0:00:58.68,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}thinking "I want to become stronger"
-Dialogue: 0,0:00:58.81,0:01:04.25,Opening,,0,0,0,,{\blur0.6\c&H000000&}Now my "Thank you" has disappeared into the wind
-Dialogue: 1,0:00:58.81,0:01:04.25,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Now my "Thank you" has disappeared into the wind
-Dialogue: 0,0:01:04.32,0:01:09.39,Opening,,0,0,0,,{\blur0.6\c&H000000&}Am I becoming stronger?
-Dialogue: 1,0:01:04.32,0:01:09.39,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Am I becoming stronger?
-Dialogue: 0,0:01:09.52,0:01:15.06,Opening,,0,0,0,,{\blur0.6\c&H000000&}I can't find my answer
-Dialogue: 1,0:01:09.52,0:01:15.06,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can't find my answer
-Dialogue: 0,0:01:15.09,0:01:20.43,Opening,,0,0,0,,{\blur0.6\c&H000000&}So I'll keep on moving forward
-Dialogue: 1,0:01:15.09,0:01:20.43,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So I'll keep on moving forward
-Dialogue: 0,0:01:20.66,0:01:22.80,Opening,,0,0,0,,{\blur0.6\c&H000000&}Come on, let's go,
-Dialogue: 1,0:01:20.66,0:01:22.80,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Come on, let's go,
-Dialogue: 0,0:01:22.90,0:01:26.14,Opening,,0,0,0,,{\blur0.6\c&H000000&}and keep moving no matter what
-Dialogue: 1,0:01:22.90,0:01:26.14,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}and keep moving no matter what
-Dialogue: 0,0:01:26.24,0:01:31.48,Opening,,0,0,0,,{\blur0.6\c&H000000&}So that the flow of time won't get the better of us
-Dialogue: 1,0:01:26.24,0:01:31.48,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So that the flow of time won't get the better of us
-Dialogue: 0,0:01:31.51,0:01:36.91,Opening,,0,0,0,,{\blur0.6\c&H000000&}We'll keep getting up, again and again
-Dialogue: 1,0:01:31.51,0:01:36.91,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}We'll keep getting up, again and again
-Dialogue: 0,0:01:37.05,0:01:42.42,Opening,,0,0,0,,{\blur0.6\c&H000000&}Because we don't want to lose what's important to us
-Dialogue: 1,0:01:37.05,0:01:42.42,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Because we don't want to lose what's important to us
-Dialogue: 0,0:01:42.52,0:01:47.83,Opening,,0,0,0,,{\blur0.6\c&H000000&}I can hear the voice inside my head
-Dialogue: 1,0:01:42.52,0:01:47.83,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can hear the voice inside my head
-Dialogue: 0,0:01:47.86,0:01:53.00,Opening,,0,0,0,,{\blur0.6\c&H000000&}Always, always lifting me up
-Dialogue: 1,0:01:47.86,0:01:53.00,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Always, always lifting me up
-Dialogue: 0,0:01:53.16,0:01:58.27,Opening,,0,0,0,,{\blur0.6\c&H000000&}Even when the mischievous rain gets in my way,
-Dialogue: 1,0:01:53.16,0:01:58.27,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Even when the mischievous rain gets in my way,
-Dialogue: 0,0:01:58.40,0:02:03.11,Opening,,0,0,0,,{\blur0.6\c&H000000&}I won't try to run away
-Dialogue: 1,0:01:58.40,0:02:03.11,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I won't try to run away
-Dialogue: 0,0:02:06.51,0:02:08.71,Opening,,0,0,0,,{\blur0.6\c&H000000&}Come on, let's go,
-Dialogue: 1,0:02:06.51,0:02:08.71,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Come on, let's go,
-Dialogue: 0,0:02:08.81,0:02:11.98,Opening,,0,0,0,,{\blur0.6\c&H000000&}and keep moving no matter what
-Dialogue: 1,0:02:08.81,0:02:11.98,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}and keep moving no matter what
-Dialogue: 0,0:02:12.12,0:02:17.15,Opening,,0,0,0,,{\blur0.6\c&H000000&}So that the flow of time won't get the better of us
-Dialogue: 1,0:02:12.12,0:02:17.15,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So that the flow of time won't get the better of us
-Dialogue: 0,0:02:17.29,0:02:22.86,Opening,,0,0,0,,{\blur0.6\c&H000000&}We'll keep getting up, again and again
-Dialogue: 1,0:02:17.29,0:02:22.86,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}We'll keep getting up, again and again
-Dialogue: 0,0:02:22.99,0:02:28.40,Opening,,0,0,0,,{\blur0.6\c&H000000&}Because we don't want to lose what's important to us
-Dialogue: 1,0:02:22.99,0:02:28.40,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Because we don't want to lose what's important to us
-Dialogue: 0,0:02:28.50,0:02:36.67,Opening,,0,0,0,,{\blur0.6\c&H000000&}Let's head toward the future we believe in...
-Dialogue: 1,0:02:28.50,0:02:36.67,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Let's head toward the future we believe in...
+Dialogue: 0,0:00:37.42,0:00:42.43,Opening,,0,0,0,,{\blur0.3\c&H000000&}Every time I look up to the sky after the rain
+Dialogue: 1,0:00:37.42,0:00:42.43,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Every time I look up to the sky after the rain
+Dialogue: 0,0:00:42.53,0:00:48.17,Opening,,0,0,0,,{\blur0.3\c&H000000&}I think back to when I was still a crybaby
+Dialogue: 1,0:00:42.53,0:00:48.17,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I think back to when I was still a crybaby
+Dialogue: 0,0:00:48.20,0:00:55.91,Opening,,0,0,0,,{\blur0.3\c&H000000&}Desperately chasing after someone's back,
+Dialogue: 1,0:00:48.20,0:00:55.91,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Desperately chasing after someone's back,
+Dialogue: 0,0:00:56.01,0:00:58.68,Opening,,0,0,0,,{\blur0.3\c&H000000&}thinking "I want to become stronger"
+Dialogue: 1,0:00:56.01,0:00:58.68,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}thinking "I want to become stronger"
+Dialogue: 0,0:00:58.81,0:01:04.25,Opening,,0,0,0,,{\blur0.3\c&H000000&}Now my "Thank you" has disappeared into the wind
+Dialogue: 1,0:00:58.81,0:01:04.25,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Now my "Thank you" has disappeared into the wind
+Dialogue: 0,0:01:04.32,0:01:09.39,Opening,,0,0,0,,{\blur0.3\c&H000000&}Am I becoming stronger?
+Dialogue: 1,0:01:04.32,0:01:09.39,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Am I becoming stronger?
+Dialogue: 0,0:01:09.52,0:01:15.06,Opening,,0,0,0,,{\blur0.3\c&H000000&}I can't find my answer
+Dialogue: 1,0:01:09.52,0:01:15.06,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't find my answer
+Dialogue: 0,0:01:15.09,0:01:20.43,Opening,,0,0,0,,{\blur0.3\c&H000000&}So I'll keep on moving forward
+Dialogue: 1,0:01:15.09,0:01:20.43,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So I'll keep on moving forward
+Dialogue: 0,0:01:20.66,0:01:22.80,Opening,,0,0,0,,{\blur0.3\c&H000000&}Come on, let's go,
+Dialogue: 1,0:01:20.66,0:01:22.80,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Come on, let's go,
+Dialogue: 0,0:01:22.90,0:01:26.14,Opening,,0,0,0,,{\blur0.3\c&H000000&}and keep moving no matter what
+Dialogue: 1,0:01:22.90,0:01:26.14,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}and keep moving no matter what
+Dialogue: 0,0:01:26.24,0:01:31.48,Opening,,0,0,0,,{\blur0.3\c&H000000&}So that the flow of time won't get the better of us
+Dialogue: 1,0:01:26.24,0:01:31.48,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So that the flow of time won't get the better of us
+Dialogue: 0,0:01:31.51,0:01:36.91,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll keep getting up, again and again
+Dialogue: 1,0:01:31.51,0:01:36.91,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll keep getting up, again and again
+Dialogue: 0,0:01:37.05,0:01:42.42,Opening,,0,0,0,,{\blur0.3\c&H000000&}Because we don't want to lose what's important to us
+Dialogue: 1,0:01:37.05,0:01:42.42,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Because we don't want to lose what's important to us
+Dialogue: 0,0:01:42.52,0:01:47.83,Opening,,0,0,0,,{\blur0.3\c&H000000&}I can hear the voice inside my head
+Dialogue: 1,0:01:42.52,0:01:47.83,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can hear the voice inside my head
+Dialogue: 0,0:01:47.86,0:01:53.00,Opening,,0,0,0,,{\blur0.3\c&H000000&}Always, always lifting me up
+Dialogue: 1,0:01:47.86,0:01:53.00,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Always, always lifting me up
+Dialogue: 0,0:01:53.16,0:01:58.27,Opening,,0,0,0,,{\blur0.3\c&H000000&}Even when the mischievous rain gets in my way,
+Dialogue: 1,0:01:53.16,0:01:58.27,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Even when the mischievous rain gets in my way,
+Dialogue: 0,0:01:58.40,0:02:03.11,Opening,,0,0,0,,{\blur0.3\c&H000000&}I won't try to run away
+Dialogue: 1,0:01:58.40,0:02:03.11,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I won't try to run away
+Dialogue: 0,0:02:06.51,0:02:08.71,Opening,,0,0,0,,{\blur0.3\c&H000000&}Come on, let's go,
+Dialogue: 1,0:02:06.51,0:02:08.71,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Come on, let's go,
+Dialogue: 0,0:02:08.81,0:02:11.98,Opening,,0,0,0,,{\blur0.3\c&H000000&}and keep moving no matter what
+Dialogue: 1,0:02:08.81,0:02:11.98,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}and keep moving no matter what
+Dialogue: 0,0:02:12.12,0:02:17.15,Opening,,0,0,0,,{\blur0.3\c&H000000&}So that the flow of time won't get the better of us
+Dialogue: 1,0:02:12.12,0:02:17.15,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So that the flow of time won't get the better of us
+Dialogue: 0,0:02:17.29,0:02:22.86,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll keep getting up, again and again
+Dialogue: 1,0:02:17.29,0:02:22.86,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll keep getting up, again and again
+Dialogue: 0,0:02:22.99,0:02:28.40,Opening,,0,0,0,,{\blur0.3\c&H000000&}Because we don't want to lose what's important to us
+Dialogue: 1,0:02:22.99,0:02:28.40,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Because we don't want to lose what's important to us
+Dialogue: 0,0:02:28.50,0:02:36.67,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's head toward the future we believe in...
+Dialogue: 1,0:02:28.50,0:02:36.67,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's head toward the future we believe in...
 Dialogue: 0,0:02:45.02,0:02:47.35,Default,,0,0,0,,The time is the Great Pirate Era.
 Dialogue: 0,0:02:47.99,0:02:53.20,Default,,0,0,0,,Countless pirates fight\Ndesperately for the One Piece,
 Dialogue: 0,0:02:53.20,0:02:55.29,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
@@ -114,10 +114,10 @@ Dialogue: 0,0:05:36.02,0:05:40.22,Default,,0,0,0,,...destroy the Navy!!
 Dialogue: 0,0:05:46.96,0:05:48.77,Default,,0,0,0,,Garp.
 Dialogue: 0,0:05:48.77,0:05:50.33,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:05:54.17,0:05:58.98,Default,,0,0,0,,I don't think we can make it through this unscathed!
-Dialogue: 0,0:06:00.01,0:06:09.02,Title Card - Top,,0,0,0,,{\blur0.6\fad(1969,1969)\c&H000000&\1a&HFF&\t(1924,1969,\1a&H00&)\t(6981,7026,\1a&HFF&)}Luffy at the End of His Tether!
-Dialogue: 1,0:06:00.01,0:06:09.02,Title Card - Top,,0,0,0,,{\bord0\blur0.6\fad(1969,1969)\4a&HFF&}Luffy at the End of His Tether!
-Dialogue: 0,0:06:00.01,0:06:09.02,Title Card - Bottom,,0,0,0,,{\blur0.6\fad(1969,1969)\c&H000000&\1a&HFF&\t(1924,1969,\1a&H00&)\t(6981,7026,\1a&HFF&)}An All-out Battle at Oris Plaza!!
-Dialogue: 1,0:06:00.01,0:06:09.02,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\fad(1969,1969)\4a&HFF&}An All-out Battle at Oris Plaza!!
+Dialogue: 0,0:06:00.01,0:06:09.02,Title Card - Top,,0,0,0,,{\blur0.3\fad(1969,1969)\c&H000000&\1a&HFF&\t(1924,1969,\1a&H00&)\t(7041,7086,\1a&HFF&)}Luffy at the End of His Tether!
+Dialogue: 1,0:06:00.01,0:06:09.02,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1969,1969)\4a&HFF&}Luffy at the End of His Tether!
+Dialogue: 0,0:06:00.01,0:06:09.02,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1969,1969)\c&H000000&\1a&HFF&\t(1924,1969,\1a&H00&)\t(7041,7086,\1a&HFF&)}An All-out Battle at Oris Plaza!!
+Dialogue: 1,0:06:00.01,0:06:09.02,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1969,1969)\4a&HFF&}An All-out Battle at Oris Plaza!!
 Dialogue: 0,0:06:19.73,0:06:25.30,Default,Ivankov,0,0,0,,It's curtains for a Devil Fruit user\Nif he falls into the sea!
 Dialogue: 0,0:06:26.20,0:06:31.48,Default,Ivankov,0,0,0,,If nothing is done, I'm gonna really... really...
 Dialogue: 0,0:06:31.48,0:06:34.14,Default,Ivankov,0,0,0,,...fall... fall...
@@ -300,7 +300,7 @@ Dialogue: 0,0:23:33.30,0:23:37.97,Default,,0,0,0,,Meanwhile, Luffy makes a decis
 Dialogue: 0,0:23:37.97,0:23:39.30,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:39.30,0:23:42.54,Default,,0,0,0,,"The Power That Will Shorten One's Life\NEnergy Hormone, Redux"
 Dialogue: 0,0:23:42.54,0:23:45.21,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.6\c&H000000&}The Power That Will Shorten One's Life
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.6\4a&HFF&}The Power That Will Shorten One's Life
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.6\c&H000000&}Energy Hormone, Redux
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Energy Hormone, Redux
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}The Power That Will Shorten One's Life
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Power That Will Shorten One's Life
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Energy Hormone, Redux
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Energy Hormone, Redux

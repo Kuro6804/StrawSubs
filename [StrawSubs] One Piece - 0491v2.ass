@@ -23,8 +23,8 @@ Audio File: [Panda-Raws] One Piece - 0491 (WEB 1080p AMZN JP 29.970fps EAC3) [AF
 Video File: [Panda-Raws] One Piece - 0491 (WEB 1080p AMZN JP 29.970fps EAC3) [AF990EC9].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 331
+Video Zoom Percent: 0.625000
+Scroll Position: 334
 Active Line: 339
 Video Position: 42585
 
@@ -40,52 +40,52 @@ Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:38.42,0:00:43.43,Opening,,0,0,0,,{\blur0.6\c&H000000&}Every time I look up to the sky after the rain
-Dialogue: 1,0:00:38.42,0:00:43.43,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Every time I look up to the sky after the rain
-Dialogue: 0,0:00:43.53,0:00:49.17,Opening,,0,0,0,,{\blur0.6\c&H000000&}I think back to when I was still a crybaby
-Dialogue: 1,0:00:43.53,0:00:49.17,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I think back to when I was still a crybaby
-Dialogue: 0,0:00:49.20,0:00:56.91,Opening,,0,0,0,,{\blur0.6\c&H000000&}Desperately chasing after someone's back,
-Dialogue: 1,0:00:49.20,0:00:56.91,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Desperately chasing after someone's back,
-Dialogue: 0,0:00:57.01,0:00:59.68,Opening,,0,0,0,,{\blur0.6\c&H000000&}thinking "I want to become stronger"
-Dialogue: 1,0:00:57.01,0:00:59.68,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}thinking "I want to become stronger"
-Dialogue: 0,0:00:59.81,0:01:05.25,Opening,,0,0,0,,{\blur0.6\c&H000000&}Now my "Thank you" has disappeared into the wind
-Dialogue: 1,0:00:59.81,0:01:05.25,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Now my "Thank you" has disappeared into the wind
-Dialogue: 0,0:01:05.32,0:01:10.39,Opening,,0,0,0,,{\blur0.6\c&H000000&}Am I becoming stronger?
-Dialogue: 1,0:01:05.32,0:01:10.39,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Am I becoming stronger?
-Dialogue: 0,0:01:10.52,0:01:16.06,Opening,,0,0,0,,{\blur0.6\c&H000000&}I can't find my answer
-Dialogue: 1,0:01:10.52,0:01:16.06,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can't find my answer
-Dialogue: 0,0:01:16.09,0:01:21.43,Opening,,0,0,0,,{\blur0.6\c&H000000&}So I'll keep on moving forward
-Dialogue: 1,0:01:16.09,0:01:21.43,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So I'll keep on moving forward
-Dialogue: 0,0:01:21.67,0:01:23.80,Opening,,0,0,0,,{\blur0.6\c&H000000&}Come on, let's go,
-Dialogue: 1,0:01:21.67,0:01:23.80,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Come on, let's go,
-Dialogue: 0,0:01:23.90,0:01:27.14,Opening,,0,0,0,,{\blur0.6\c&H000000&}and keep moving no matter what
-Dialogue: 1,0:01:23.90,0:01:27.14,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}and keep moving no matter what
-Dialogue: 0,0:01:27.24,0:01:32.48,Opening,,0,0,0,,{\blur0.6\c&H000000&}So that the flow of time won't get the better of us
-Dialogue: 1,0:01:27.24,0:01:32.48,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So that the flow of time won't get the better of us
-Dialogue: 0,0:01:32.51,0:01:37.92,Opening,,0,0,0,,{\blur0.6\c&H000000&}We'll keep getting up, again and again
-Dialogue: 1,0:01:32.51,0:01:37.92,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}We'll keep getting up, again and again
-Dialogue: 0,0:01:38.05,0:01:43.42,Opening,,0,0,0,,{\blur0.6\c&H000000&}Because we don't want to lose what's important to us
-Dialogue: 1,0:01:38.05,0:01:43.42,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Because we don't want to lose what's important to us
-Dialogue: 0,0:01:43.52,0:01:48.83,Opening,,0,0,0,,{\blur0.6\c&H000000&}I can hear the voice inside my head
-Dialogue: 1,0:01:43.52,0:01:48.83,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can hear the voice inside my head
-Dialogue: 0,0:01:48.86,0:01:54.00,Opening,,0,0,0,,{\blur0.6\c&H000000&}Always, always lifting me up
-Dialogue: 1,0:01:48.86,0:01:54.00,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Always, always lifting me up
-Dialogue: 0,0:01:54.16,0:01:59.27,Opening,,0,0,0,,{\blur0.6\c&H000000&}Even when the mischievous rain gets in my way,
-Dialogue: 1,0:01:54.16,0:01:59.27,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Even when the mischievous rain gets in my way,
-Dialogue: 0,0:01:59.40,0:02:04.11,Opening,,0,0,0,,{\blur0.6\c&H000000&}I won't try to run away
-Dialogue: 1,0:01:59.40,0:02:04.11,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I won't try to run away
-Dialogue: 0,0:02:07.51,0:02:09.71,Opening,,0,0,0,,{\blur0.6\c&H000000&}Come on, let's go,
-Dialogue: 1,0:02:07.51,0:02:09.71,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Come on, let's go,
-Dialogue: 0,0:02:09.81,0:02:12.98,Opening,,0,0,0,,{\blur0.6\c&H000000&}and keep moving no matter what
-Dialogue: 1,0:02:09.81,0:02:12.98,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}and keep moving no matter what
-Dialogue: 0,0:02:13.12,0:02:18.16,Opening,,0,0,0,,{\blur0.6\c&H000000&}So that the flow of time won't get the better of us
-Dialogue: 1,0:02:13.12,0:02:18.16,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So that the flow of time won't get the better of us
-Dialogue: 0,0:02:18.29,0:02:23.86,Opening,,0,0,0,,{\blur0.6\c&H000000&}We'll keep getting up, again and again
-Dialogue: 1,0:02:18.29,0:02:23.86,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}We'll keep getting up, again and again
-Dialogue: 0,0:02:23.99,0:02:29.40,Opening,,0,0,0,,{\blur0.6\c&H000000&}Because we don't want to lose what's important to us
-Dialogue: 1,0:02:23.99,0:02:29.40,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Because we don't want to lose what's important to us
-Dialogue: 0,0:02:29.50,0:02:37.68,Opening,,0,0,0,,{\blur0.6\c&H000000&}Let's head toward the future we believe in...
-Dialogue: 1,0:02:29.50,0:02:37.68,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Let's head toward the future we believe in...
+Dialogue: 0,0:00:38.42,0:00:43.43,Opening,,0,0,0,,{\blur0.3\c&H000000&}Every time I look up to the sky after the rain
+Dialogue: 1,0:00:38.42,0:00:43.43,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Every time I look up to the sky after the rain
+Dialogue: 0,0:00:43.53,0:00:49.17,Opening,,0,0,0,,{\blur0.3\c&H000000&}I think back to when I was still a crybaby
+Dialogue: 1,0:00:43.53,0:00:49.17,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I think back to when I was still a crybaby
+Dialogue: 0,0:00:49.20,0:00:56.91,Opening,,0,0,0,,{\blur0.3\c&H000000&}Desperately chasing after someone's back,
+Dialogue: 1,0:00:49.20,0:00:56.91,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Desperately chasing after someone's back,
+Dialogue: 0,0:00:57.01,0:00:59.68,Opening,,0,0,0,,{\blur0.3\c&H000000&}thinking "I want to become stronger"
+Dialogue: 1,0:00:57.01,0:00:59.68,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}thinking "I want to become stronger"
+Dialogue: 0,0:00:59.81,0:01:05.25,Opening,,0,0,0,,{\blur0.3\c&H000000&}Now my "Thank you" has disappeared into the wind
+Dialogue: 1,0:00:59.81,0:01:05.25,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Now my "Thank you" has disappeared into the wind
+Dialogue: 0,0:01:05.32,0:01:10.39,Opening,,0,0,0,,{\blur0.3\c&H000000&}Am I becoming stronger?
+Dialogue: 1,0:01:05.32,0:01:10.39,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Am I becoming stronger?
+Dialogue: 0,0:01:10.52,0:01:16.06,Opening,,0,0,0,,{\blur0.3\c&H000000&}I can't find my answer
+Dialogue: 1,0:01:10.52,0:01:16.06,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't find my answer
+Dialogue: 0,0:01:16.09,0:01:21.43,Opening,,0,0,0,,{\blur0.3\c&H000000&}So I'll keep on moving forward
+Dialogue: 1,0:01:16.09,0:01:21.43,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So I'll keep on moving forward
+Dialogue: 0,0:01:21.67,0:01:23.80,Opening,,0,0,0,,{\blur0.3\c&H000000&}Come on, let's go,
+Dialogue: 1,0:01:21.67,0:01:23.80,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Come on, let's go,
+Dialogue: 0,0:01:23.90,0:01:27.14,Opening,,0,0,0,,{\blur0.3\c&H000000&}and keep moving no matter what
+Dialogue: 1,0:01:23.90,0:01:27.14,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}and keep moving no matter what
+Dialogue: 0,0:01:27.24,0:01:32.48,Opening,,0,0,0,,{\blur0.3\c&H000000&}So that the flow of time won't get the better of us
+Dialogue: 1,0:01:27.24,0:01:32.48,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So that the flow of time won't get the better of us
+Dialogue: 0,0:01:32.51,0:01:37.92,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll keep getting up, again and again
+Dialogue: 1,0:01:32.51,0:01:37.92,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll keep getting up, again and again
+Dialogue: 0,0:01:38.05,0:01:43.42,Opening,,0,0,0,,{\blur0.3\c&H000000&}Because we don't want to lose what's important to us
+Dialogue: 1,0:01:38.05,0:01:43.42,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Because we don't want to lose what's important to us
+Dialogue: 0,0:01:43.52,0:01:48.83,Opening,,0,0,0,,{\blur0.3\c&H000000&}I can hear the voice inside my head
+Dialogue: 1,0:01:43.52,0:01:48.83,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can hear the voice inside my head
+Dialogue: 0,0:01:48.86,0:01:54.00,Opening,,0,0,0,,{\blur0.3\c&H000000&}Always, always lifting me up
+Dialogue: 1,0:01:48.86,0:01:54.00,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Always, always lifting me up
+Dialogue: 0,0:01:54.16,0:01:59.27,Opening,,0,0,0,,{\blur0.3\c&H000000&}Even when the mischievous rain gets in my way,
+Dialogue: 1,0:01:54.16,0:01:59.27,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Even when the mischievous rain gets in my way,
+Dialogue: 0,0:01:59.40,0:02:04.11,Opening,,0,0,0,,{\blur0.3\c&H000000&}I won't try to run away
+Dialogue: 1,0:01:59.40,0:02:04.11,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I won't try to run away
+Dialogue: 0,0:02:07.51,0:02:09.71,Opening,,0,0,0,,{\blur0.3\c&H000000&}Come on, let's go,
+Dialogue: 1,0:02:07.51,0:02:09.71,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Come on, let's go,
+Dialogue: 0,0:02:09.81,0:02:12.98,Opening,,0,0,0,,{\blur0.3\c&H000000&}and keep moving no matter what
+Dialogue: 1,0:02:09.81,0:02:12.98,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}and keep moving no matter what
+Dialogue: 0,0:02:13.12,0:02:18.16,Opening,,0,0,0,,{\blur0.3\c&H000000&}So that the flow of time won't get the better of us
+Dialogue: 1,0:02:13.12,0:02:18.16,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}So that the flow of time won't get the better of us
+Dialogue: 0,0:02:18.29,0:02:23.86,Opening,,0,0,0,,{\blur0.3\c&H000000&}We'll keep getting up, again and again
+Dialogue: 1,0:02:18.29,0:02:23.86,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll keep getting up, again and again
+Dialogue: 0,0:02:23.99,0:02:29.40,Opening,,0,0,0,,{\blur0.3\c&H000000&}Because we don't want to lose what's important to us
+Dialogue: 1,0:02:23.99,0:02:29.40,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Because we don't want to lose what's important to us
+Dialogue: 0,0:02:29.50,0:02:37.68,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's head toward the future we believe in...
+Dialogue: 1,0:02:29.50,0:02:37.68,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's head toward the future we believe in...
 Dialogue: 0,0:02:46.02,0:02:48.35,Default,,0,0,0,,The time is the Great Pirate Era.
 Dialogue: 0,0:02:48.99,0:02:54.19,Default,,0,0,0,,Countless pirates fight\Ndesperately for the One Piece,
 Dialogue: 0,0:02:54.19,0:02:56.29,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
@@ -101,12 +101,12 @@ Dialogue: 0,0:03:32.03,0:03:34.57,Default,,0,0,0,,Separated from the rest of the
 Dialogue: 0,0:03:34.57,0:03:39.74,Default,,0,0,0,,Luffy made a raid on Navy HQ to rescue his brother, Ace, who was to be executed!
 Dialogue: 0,0:03:39.74,0:03:41.24,Default,,0,0,0,,But his struggle ended in vain
 Dialogue: 0,0:03:42.77,0:03:49.31,Default,,0,0,0,,and the historic Paramount War\Nat Marineford has ended.
-Dialogue: 0,0:03:58.22,0:04:07.20,Title Card - Top,,0,0,0,,{\blur0.6\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Landing at Maiden Island
-Dialogue: 1,0:03:58.22,0:04:07.20,Title Card - Top,,0,0,0,,{\bord0\blur0.6\fad(1976,1976)\4a&HFF&}Landing at Maiden Island
-Dialogue: 0,0:03:58.22,0:04:07.20,Title Card - Bottom,,0,0,0,,{\blur0.6\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Harsh Reality Falls upon Luffy
-Dialogue: 1,0:03:58.22,0:04:07.20,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\fad(1976,1976)\4a&HFF&}The Harsh Reality Falls upon Luffy
-Dialogue: 0,0:04:07.30,0:04:11.30,Sign,,0,0,250,,{\blur0.6\fad(522,955)\fs88\bord2.4\c&H000000&\1a&HFF&\t(477,522,\1a&H00&)\t(3045,3090,\1a&HFF&)}West Blue
-Dialogue: 1,0:04:07.30,0:04:11.30,Sign,,0,0,250,,{\blur0.6\fad(522,955)\fs88\bord0\4a&HFF&}West Blue
+Dialogue: 0,0:03:58.22,0:04:07.20,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Landing at Maiden Island
+Dialogue: 1,0:03:58.22,0:04:07.20,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Landing at Maiden Island
+Dialogue: 0,0:03:58.22,0:04:07.20,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Harsh Reality Falls upon Luffy
+Dialogue: 1,0:03:58.22,0:04:07.20,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Harsh Reality Falls upon Luffy
+Dialogue: 0,0:04:07.30,0:04:11.30,Sign,,0,0,250,,{\blur0.3\fad(522,955)\fs88\bord2.4\c&H000000&\1a&HFF&\t(477,522,\1a&H00&)\t(3045,3090,\1a&HFF&)}West Blue
+Dialogue: 1,0:04:07.30,0:04:11.30,Sign,,0,0,250,,{\blur0.3\fad(522,955)\fs88\bord0\4a&HFF&}West Blue
 Dialogue: 0,0:04:36.16,0:04:38.40,Default,,0,0,0,,A pirate ship is approaching Lascamp, West Blue!
 Dialogue: 0,0:04:38.40,0:04:41.97,Default,,0,0,0,,All their ships are already engaged!
 Dialogue: 0,0:04:41.97,0:04:43.27,Default,,0,0,0,,The nearest bases in that area are...
@@ -121,8 +121,8 @@ Dialogue: 0,0:05:06.29,0:05:08.93,Default,,0,0,0,,Pirates have started raiding L
 Dialogue: 0,0:05:08.93,0:05:11.70,Default,,0,0,0,,We lost touch with the site! Send back-up!
 Dialogue: 0,0:05:11.70,0:05:14.00,Default,,0,0,0,,I repeat, send back-up to Lascamp!
 Dialogue: 0,0:05:16.13,0:05:20.87,Default,,0,0,0,,Load up supplies! Let's head for the Grand Line!
-Dialogue: 0,0:05:24.34,0:05:30.35,Sign,,0,0,250,,{\blur0.6\fad(555,1055)\fs99\bord2.4\c&H000000&\1a&HFF&\t(510,555,\1a&H00&)\t(4955,5000,\1a&HFF&)}New World, Foodvalten Island
-Dialogue: 1,0:05:24.34,0:05:30.35,Sign,,0,0,250,,{\blur0.6\fad(555,1055)\fs99\bord0\4a&HFF&}New World, Foodvalten Island
+Dialogue: 0,0:05:24.34,0:05:30.35,Sign,,0,0,250,,{\blur0.3\fad(555,1055)\fs99\bord2.4\c&H000000&\1a&HFF&\t(510,555,\1a&H00&)\t(4955,5000,\1a&HFF&)}New World, Foodvalten Island
+Dialogue: 1,0:05:24.34,0:05:30.35,Sign,,0,0,250,,{\blur0.3\fad(555,1055)\fs99\bord0\4a&HFF&}New World, Foodvalten Island
 Dialogue: 0,0:05:26.11,0:05:29.15,DefaultLow,,0,0,0,,Two weeks after the Paramount War,
 Dialogue: 0,0:05:29.15,0:05:33.05,DefaultLow,,0,0,0,,people started seeing effects around the world.
 Dialogue: 0,0:05:37.49,0:05:41.16,Default,,0,0,0,,Y-You can't come any further! Don't come into our town!
@@ -228,8 +228,8 @@ Dialogue: 0,0:11:55.33,0:11:58.70,Default,,0,0,0,,Luffy! Get better soon, alrigh
 Dialogue: 0,0:11:59.14,0:12:01.57,Default,Sweetpea,0,0,0,,Just by looking at Snake Princess-sama,
 Dialogue: 0,0:12:01.57,0:12:04.44,Default,Sweetpea,0,0,0,,I can tell that Luffy is in critical condition.
 Dialogue: 0,0:12:05.81,0:12:07.34,Default,,0,0,0,,Luffy...
-Dialogue: 0,0:12:08.41,0:12:13.42,Sign,,0,0,260,,{\blur0.6\fad(525,775)\fs88\bord2.4\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)\t(4235,4280,\1a&HFF&)}Maiden Island, Rocky Bay
-Dialogue: 1,0:12:08.41,0:12:13.42,Sign,,0,0,260,,{\blur0.6\fad(525,775)\fs88\bord0\4a&HFF&}Maiden Island, Rocky Bay
+Dialogue: 0,0:12:08.41,0:12:13.42,Sign,,0,0,260,,{\blur0.3\fad(525,775)\fs88\bord2.4\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)\t(4235,4280,\1a&HFF&)}Maiden Island, Rocky Bay
+Dialogue: 1,0:12:08.41,0:12:13.42,Sign,,0,0,260,,{\blur0.3\fad(525,775)\fs88\bord0\4a&HFF&}Maiden Island, Rocky Bay
 Dialogue: 0,0:12:08.41,0:12:10.31,DefaultLow,,0,0,0,,Two weeks have passed.
 Dialogue: 0,0:12:10.31,0:12:13.28,DefaultLow,,0,0,0,,Law's group dropped anchor in the bay...
 Dialogue: 0,0:12:13.28,0:12:16.19,DefaultLow,,0,0,0,,...and is working hard to treat Luffy's wounds.
@@ -263,8 +263,8 @@ Dialogue: 0,0:13:27.39,0:13:28.59,Default,,0,0,0,,Coming!
 Dialogue: 0,0:13:28.59,0:13:31.93,Default,,0,0,0,,I'm sorry! Please take good care of Luffy!
 Dialogue: 0,0:13:32.16,0:13:36.83,Default,,0,0,0,,Margaret, how many times\Nmust I tell you not to talk to them?!
 Dialogue: 0,0:13:36.83,0:13:38.20,Default,,0,0,0,,I'm sorry!
-Dialogue: 0,0:13:40.10,0:13:44.07,Sign,,0,0,260,,{\blur0.6\fad(500,725)\fs99\bord2.4\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(3245,3290,\1a&HFF&)}Amazon Lily, Kuja Castle
-Dialogue: 1,0:13:40.10,0:13:44.07,Sign,,0,0,260,,{\blur0.6\fad(500,725)\fs99\bord0\4a&HFF&}Amazon Lily, Kuja Castle
+Dialogue: 0,0:13:40.10,0:13:44.07,Sign,,0,0,260,,{\blur0.3\fad(500,725)\fs99\bord2.4\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(3245,3290,\1a&HFF&)}Amazon Lily, Kuja Castle
+Dialogue: 1,0:13:40.10,0:13:44.07,Sign,,0,0,260,,{\blur0.3\fad(500,725)\fs99\bord0\4a&HFF&}Amazon Lily, Kuja Castle
 Dialogue: 0,0:13:52.15,0:13:53.68,Default,,0,0,0,,Big Sis...
 Dialogue: 0,0:13:59.62,0:14:00.62,Default,,0,0,0,,Luffy...
 Dialogue: 0,0:14:07.00,0:14:11.10,Default,,0,0,0,,You never change! Luffy!
@@ -379,9 +379,9 @@ Dialogue: 0,0:23:32.73,0:23:35.18,Default,,0,0,0,,That's what Toriko said!\NI wa
 Dialogue: 0,0:23:35.18,0:23:37.13,Default,,0,0,0,,Okay! We're going with Toriko!
 Dialogue: 0,0:23:37.13,0:23:38.37,Default,,0,0,0,,What?!
 Dialogue: 0,0:23:38.37,0:23:40.90,Default,,0,0,0,,Next week, the special Toriko x One Piece\Ncollaboration episode!
-Dialogue: 0,0:23:40.90,0:23:43.57,Title Card - Top,,0,0,0,,{\blur0.6\c&H000000&}The Strongest Tag-Team!
-Dialogue: 1,0:23:40.90,0:23:43.57,Title Card - Top,,0,0,0,,{\bord0\blur0.6\4a&HFF&}The Strongest Tag-Team!
-Dialogue: 0,0:23:40.90,0:23:43.57,Title Card - Bottom,,0,0,0,,{\blur0.6\c&H000000&}Luffy and Toriko's Hard Struggle!
-Dialogue: 1,0:23:40.90,0:23:43.57,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Luffy and Toriko's Hard Struggle!
+Dialogue: 0,0:23:40.90,0:23:43.57,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}The Strongest Tag-Team!
+Dialogue: 1,0:23:40.90,0:23:43.57,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Strongest Tag-Team!
+Dialogue: 0,0:23:40.90,0:23:43.57,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Luffy and Toriko's Hard Struggle!
+Dialogue: 1,0:23:40.90,0:23:43.57,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Luffy and Toriko's Hard Struggle!
 Dialogue: 0,0:23:40.90,0:23:43.57,DefaultLow,,0,0,0,,"The Strongest Tag-Team!\NLuffy and Toriko's Hard Struggle!"
 Dialogue: 0,0:23:43.57,0:23:45.27,DefaultLow,,0,0,0,,Don't miss it!

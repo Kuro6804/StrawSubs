@@ -23,9 +23,9 @@ Video File: [Intervención] One Piece - 0492 [WEB 1080p AAC] [F186C4EF].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 60
-Active Line: 63
-Video Position: 5469
+Scroll Position: 372
+Active Line: 387
+Video Position: 34191
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,52 +38,52 @@ Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:40.35,0:00:45.57,Opening,,0,0,0,,{\blur0.6\c&H000000&}Every time I look up to the sky after the rain
-Dialogue: 1,0:00:40.35,0:00:45.57,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Every time I look up to the sky after the rain
-Dialogue: 0,0:00:45.65,0:00:51.07,Opening,,0,0,0,,{\blur0.6\c&H000000&}I think back to when I was still a crybaby
-Dialogue: 1,0:00:45.65,0:00:51.07,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I think back to when I was still a crybaby
-Dialogue: 0,0:00:51.41,0:00:58.87,Opening,,0,0,0,,{\blur0.6\fad(50,0)\c&H000000&\1a&HFF&\t(5,50,\1a&H00&)}Desperately chasing after someone's back,
-Dialogue: 1,0:00:51.41,0:00:58.87,Opening,,0,0,0,,{\bord0\blur0.6\fad(50,0)\4a&HFF&}Desperately chasing after someone's back,
-Dialogue: 0,0:00:59.12,0:01:01.79,Opening,,0,0,0,,{\blur0.6\fad(50,0)\c&H000000&\1a&HFF&\t(5,50,\1a&H00&)}thinking "I want to become stronger"
-Dialogue: 1,0:00:59.12,0:01:01.79,Opening,,0,0,0,,{\bord0\blur0.6\fad(50,0)\4a&HFF&}thinking "I want to become stronger"
-Dialogue: 0,0:01:02.08,0:01:07.01,Opening,,0,0,0,,{\blur0.6\c&H000000&}Now my "Thank you" has disappeared into the wind
-Dialogue: 1,0:01:02.08,0:01:07.01,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Now my "Thank you" has disappeared into the wind
-Dialogue: 0,0:01:07.34,0:01:12.18,Opening,,0,0,0,,{\blur0.6\c&H000000&}Am I becoming stronger?
-Dialogue: 1,0:01:07.34,0:01:12.18,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Am I becoming stronger?
-Dialogue: 0,0:01:12.64,0:01:17.81,Opening,,0,0,0,,{\blur0.6\fad(50,0)\c&H000000&\1a&HFF&\t(5,50,\1a&H00&)}I can't find my answer
-Dialogue: 1,0:01:12.64,0:01:17.81,Opening,,0,0,0,,{\bord0\blur0.6\fad(50,0)\4a&HFF&}I can't find my answer
-Dialogue: 0,0:01:18.06,0:01:23.19,Opening,,0,0,0,,{\blur0.6\c&H000000&}So I'll keep on moving forward
-Dialogue: 1,0:01:18.06,0:01:23.19,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So I'll keep on moving forward
-Dialogue: 0,0:01:23.73,0:01:25.98,Opening,,0,0,0,,{\blur0.6\c&H000000&}Come on, let's go,
-Dialogue: 1,0:01:23.73,0:01:25.98,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Come on, let's go,
-Dialogue: 0,0:01:26.19,0:01:29.19,Opening,,0,0,0,,{\blur0.6\c&H000000&}and keep moving no matter what
-Dialogue: 1,0:01:26.19,0:01:29.19,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}and keep moving no matter what
-Dialogue: 0,0:01:29.57,0:01:34.41,Opening,,0,0,0,,{\blur0.6\c&H000000&}So that the flow of time won't get the better of us
-Dialogue: 1,0:01:29.57,0:01:34.41,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So that the flow of time won't get the better of us
-Dialogue: 0,0:01:34.70,0:01:40.00,Opening,,0,0,0,,{\blur0.6\fad(0,50)\c&H000000&\t(5250,5295,\1a&HFF&)}We'll keep getting up, again and again
-Dialogue: 1,0:01:34.70,0:01:40.00,Opening,,0,0,0,,{\bord0\blur0.6\fad(0,50)\4a&HFF&}We'll keep getting up, again and again
-Dialogue: 0,0:01:40.29,0:01:45.75,Opening,,0,0,0,,{\blur0.6\fad(0,50)\c&H000000&\t(5410,5455,\1a&HFF&)}Because we don't want to lose what's important to us
-Dialogue: 1,0:01:40.29,0:01:45.75,Opening,,0,0,0,,{\bord0\blur0.6\fad(0,50)\4a&HFF&}Because we don't want to lose what's important to us
-Dialogue: 0,0:01:45.75,0:01:50.84,Opening,,0,0,0,,{\blur0.6\c&H000000&}I can hear the voice inside my head
-Dialogue: 1,0:01:45.75,0:01:50.84,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can hear the voice inside my head
-Dialogue: 0,0:01:51.13,0:01:56.10,Opening,,0,0,0,,{\blur0.6\c&H000000&}Always, always lifting me up
-Dialogue: 1,0:01:51.13,0:01:56.10,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Always, always lifting me up
-Dialogue: 0,0:01:56.55,0:02:01.48,Opening,,0,0,0,,{\blur0.6\c&H000000&}Even when the mischievous rain gets in my way,
-Dialogue: 1,0:01:56.55,0:02:01.48,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Even when the mischievous rain gets in my way,
-Dialogue: 0,0:02:01.56,0:02:06.27,Opening,,0,0,0,,{\blur0.6\fad(0,50)\c&H000000&\t(4660,4705,\1a&HFF&)}I won't try to run away
-Dialogue: 1,0:02:01.56,0:02:06.27,Opening,,0,0,0,,{\bord0\blur0.6\fad(0,50)\4a&HFF&}I won't try to run away
-Dialogue: 0,0:02:09.48,0:02:11.86,Opening,,0,0,0,,{\blur0.6\fad(50,0)\c&H000000&\1a&HFF&\t(5,50,\1a&H00&)}Come on, let's go,
-Dialogue: 1,0:02:09.48,0:02:11.86,Opening,,0,0,0,,{\bord0\blur0.6\fad(50,0)\4a&HFF&}Come on, let's go,
-Dialogue: 0,0:02:12.11,0:02:15.11,Opening,,0,0,0,,{\blur0.6\fad(0,50)\c&H000000&\t(2950,2995,\1a&HFF&)}and keep moving no matter what
-Dialogue: 1,0:02:12.11,0:02:15.11,Opening,,0,0,0,,{\bord0\blur0.6\fad(0,50)\4a&HFF&}and keep moving no matter what
-Dialogue: 0,0:02:15.37,0:02:20.25,Opening,,0,0,0,,{\blur0.6\c&H000000&}So that the flow of time won't get the better of us
-Dialogue: 1,0:02:15.37,0:02:20.25,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So that the flow of time won't get the better of us
-Dialogue: 0,0:02:20.45,0:02:25.88,Opening,,0,0,0,,{\blur0.6\fad(0,50)\c&H000000&\t(5380,5425,\1a&HFF&)}We'll keep getting up, again and again
-Dialogue: 1,0:02:20.45,0:02:25.88,Opening,,0,0,0,,{\bord0\blur0.6\fad(0,50)\4a&HFF&}We'll keep getting up, again and again
-Dialogue: 0,0:02:26.17,0:02:31.34,Opening,,0,0,0,,{\blur0.6\c&H000000&}Because we don't want to lose what's important to us
-Dialogue: 1,0:02:26.17,0:02:31.34,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Because we don't want to lose what's important to us
-Dialogue: 0,0:02:31.55,0:02:37.01,Opening,,0,0,0,,{\blur0.6\c&H000000&}Let's head toward the future we believe in...
-Dialogue: 1,0:02:31.55,0:02:37.01,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Let's head toward the future we believe in...
+Dialogue: 0,0:00:40.35,0:00:45.57,Opening,,0,0,0,,{\blur0.4\c&H000000&}Every time I look up to the sky after the rain
+Dialogue: 1,0:00:40.35,0:00:45.57,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Every time I look up to the sky after the rain
+Dialogue: 0,0:00:45.65,0:00:51.07,Opening,,0,0,0,,{\blur0.4\c&H000000&}I think back to when I was still a crybaby
+Dialogue: 1,0:00:45.65,0:00:51.07,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}I think back to when I was still a crybaby
+Dialogue: 0,0:00:51.41,0:00:58.87,Opening,,0,0,0,,{\blur0.4\fad(50,0)\c&H000000&\1a&HFF&\t(5,50,\1a&H00&)}Desperately chasing after someone's back,
+Dialogue: 1,0:00:51.41,0:00:58.87,Opening,,0,0,0,,{\bord0\blur0.4\fad(50,0)\4a&HFF&}Desperately chasing after someone's back,
+Dialogue: 0,0:00:59.12,0:01:01.79,Opening,,0,0,0,,{\blur0.4\fad(50,0)\c&H000000&\1a&HFF&\t(5,50,\1a&H00&)}thinking "I want to become stronger"
+Dialogue: 1,0:00:59.12,0:01:01.79,Opening,,0,0,0,,{\bord0\blur0.4\fad(50,0)\4a&HFF&}thinking "I want to become stronger"
+Dialogue: 0,0:01:02.08,0:01:07.01,Opening,,0,0,0,,{\blur0.4\c&H000000&}Now my "Thank you" has disappeared into the wind
+Dialogue: 1,0:01:02.08,0:01:07.01,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Now my "Thank you" has disappeared into the wind
+Dialogue: 0,0:01:07.34,0:01:12.18,Opening,,0,0,0,,{\blur0.4\c&H000000&}Am I becoming stronger?
+Dialogue: 1,0:01:07.34,0:01:12.18,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Am I becoming stronger?
+Dialogue: 0,0:01:12.64,0:01:17.81,Opening,,0,0,0,,{\blur0.4\fad(50,0)\c&H000000&\1a&HFF&\t(5,50,\1a&H00&)}I can't find my answer
+Dialogue: 1,0:01:12.64,0:01:17.81,Opening,,0,0,0,,{\bord0\blur0.4\fad(50,0)\4a&HFF&}I can't find my answer
+Dialogue: 0,0:01:18.06,0:01:23.19,Opening,,0,0,0,,{\blur0.4\c&H000000&}So I'll keep on moving forward
+Dialogue: 1,0:01:18.06,0:01:23.19,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}So I'll keep on moving forward
+Dialogue: 0,0:01:23.73,0:01:25.98,Opening,,0,0,0,,{\blur0.4\c&H000000&}Come on, let's go,
+Dialogue: 1,0:01:23.73,0:01:25.98,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Come on, let's go,
+Dialogue: 0,0:01:26.19,0:01:29.19,Opening,,0,0,0,,{\blur0.4\c&H000000&}and keep moving no matter what
+Dialogue: 1,0:01:26.19,0:01:29.19,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}and keep moving no matter what
+Dialogue: 0,0:01:29.57,0:01:34.41,Opening,,0,0,0,,{\blur0.4\c&H000000&}So that the flow of time won't get the better of us
+Dialogue: 1,0:01:29.57,0:01:34.41,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}So that the flow of time won't get the better of us
+Dialogue: 0,0:01:34.70,0:01:40.00,Opening,,0,0,0,,{\blur0.4\fad(0,50)\c&H000000&\t(5250,5295,\1a&HFF&)}We'll keep getting up, again and again
+Dialogue: 1,0:01:34.70,0:01:40.00,Opening,,0,0,0,,{\bord0\blur0.4\fad(0,50)\4a&HFF&}We'll keep getting up, again and again
+Dialogue: 0,0:01:40.29,0:01:45.75,Opening,,0,0,0,,{\blur0.4\fad(0,50)\c&H000000&\t(5410,5455,\1a&HFF&)}Because we don't want to lose what's important to us
+Dialogue: 1,0:01:40.29,0:01:45.75,Opening,,0,0,0,,{\bord0\blur0.4\fad(0,50)\4a&HFF&}Because we don't want to lose what's important to us
+Dialogue: 0,0:01:45.75,0:01:50.84,Opening,,0,0,0,,{\blur0.4\c&H000000&}I can hear the voice inside my head
+Dialogue: 1,0:01:45.75,0:01:50.84,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}I can hear the voice inside my head
+Dialogue: 0,0:01:51.13,0:01:56.10,Opening,,0,0,0,,{\blur0.4\c&H000000&}Always, always lifting me up
+Dialogue: 1,0:01:51.13,0:01:56.10,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Always, always lifting me up
+Dialogue: 0,0:01:56.55,0:02:01.48,Opening,,0,0,0,,{\blur0.4\c&H000000&}Even when the mischievous rain gets in my way,
+Dialogue: 1,0:01:56.55,0:02:01.48,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Even when the mischievous rain gets in my way,
+Dialogue: 0,0:02:01.56,0:02:06.27,Opening,,0,0,0,,{\blur0.4\fad(0,50)\c&H000000&\t(4660,4705,\1a&HFF&)}I won't try to run away
+Dialogue: 1,0:02:01.56,0:02:06.27,Opening,,0,0,0,,{\bord0\blur0.4\fad(0,50)\4a&HFF&}I won't try to run away
+Dialogue: 0,0:02:09.48,0:02:11.86,Opening,,0,0,0,,{\blur0.4\fad(50,0)\c&H000000&\1a&HFF&\t(5,50,\1a&H00&)}Come on, let's go,
+Dialogue: 1,0:02:09.48,0:02:11.86,Opening,,0,0,0,,{\bord0\blur0.4\fad(50,0)\4a&HFF&}Come on, let's go,
+Dialogue: 0,0:02:12.11,0:02:15.11,Opening,,0,0,0,,{\blur0.4\fad(0,50)\c&H000000&\t(2950,2995,\1a&HFF&)}and keep moving no matter what
+Dialogue: 1,0:02:12.11,0:02:15.11,Opening,,0,0,0,,{\bord0\blur0.4\fad(0,50)\4a&HFF&}and keep moving no matter what
+Dialogue: 0,0:02:15.37,0:02:20.25,Opening,,0,0,0,,{\blur0.4\c&H000000&}So that the flow of time won't get the better of us
+Dialogue: 1,0:02:15.37,0:02:20.25,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}So that the flow of time won't get the better of us
+Dialogue: 0,0:02:20.45,0:02:25.88,Opening,,0,0,0,,{\blur0.4\fad(0,50)\c&H000000&\t(5380,5425,\1a&HFF&)}We'll keep getting up, again and again
+Dialogue: 1,0:02:20.45,0:02:25.88,Opening,,0,0,0,,{\bord0\blur0.4\fad(0,50)\4a&HFF&}We'll keep getting up, again and again
+Dialogue: 0,0:02:26.17,0:02:31.34,Opening,,0,0,0,,{\blur0.4\c&H000000&}Because we don't want to lose what's important to us
+Dialogue: 1,0:02:26.17,0:02:31.34,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Because we don't want to lose what's important to us
+Dialogue: 0,0:02:31.55,0:02:37.01,Opening,,0,0,0,,{\blur0.4\c&H000000&}Let's head toward the future we believe in...
+Dialogue: 1,0:02:31.55,0:02:37.01,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Let's head toward the future we believe in...
 Dialogue: 0,0:02:46.60,0:02:49.91,Default,Na,0,0,0,,When the Thousand Sunny \Ndrifted into unknown waters,
 Dialogue: 0,0:02:49.91,0:02:53.90,Default,Na,0,0,0,,the crew landed on Hungry-la Island, \Nan island brimming with strange foods,
 Dialogue: 0,0:02:53.90,0:02:55.69,Default,Na,0,0,0,,to restock their exhausted food supplies.
@@ -101,10 +101,10 @@ Dialogue: 0,0:03:31.06,0:03:32.78,Default,Komatsu,0,0,0,,Here we go...
 Dialogue: 0,0:03:32.78,0:03:33.71,Default,Nami,0,0,0,,What's that?
 Dialogue: 0,0:03:34.25,0:03:36.73,Default,Komatsu,0,0,0,,They're spice seeds.
 Dialogue: 0,0:03:36.73,0:03:41.49,Default,Komatsu,0,0,0,,When I put these in, the spices take \Neffect and change the soup's flavor.
-Dialogue: 0,0:03:48.08,0:03:55.72,Title Card - Top,Title,0,0,0,,{\blur0.6\c&H000000&}The Strongest Tag-Team!
-Dialogue: 1,0:03:48.08,0:03:55.72,Title Card - Top,Title,0,0,0,,{\bord0\blur0.6\4a&HFF&}The Strongest Tag-Team!
-Dialogue: 0,0:03:48.08,0:03:55.72,Title Card - Bottom,Title,0,0,0,,{\blur0.6\c&H000000&}Luffy and Toriko's Hard Struggle!
-Dialogue: 1,0:03:48.08,0:03:55.72,Title Card - Bottom,Title,0,0,0,,{\bord0\blur0.6\4a&HFF&}Luffy and Toriko's Hard Struggle!
+Dialogue: 0,0:03:48.08,0:03:55.72,Title Card - Top,Title,0,0,0,,{\blur0.4\c&H000000&}The Strongest Tag-Team!
+Dialogue: 1,0:03:48.08,0:03:55.72,Title Card - Top,Title,0,0,0,,{\bord0\blur0.4\4a&HFF&}The Strongest Tag-Team!
+Dialogue: 0,0:03:48.08,0:03:55.72,Title Card - Bottom,Title,0,0,0,,{\blur0.4\c&H000000&}Luffy and Toriko's Hard Struggle!
+Dialogue: 1,0:03:48.08,0:03:55.72,Title Card - Bottom,Title,0,0,0,,{\bord0\blur0.4\4a&HFF&}Luffy and Toriko's Hard Struggle!
 Dialogue: 0,0:03:56.04,0:03:59.09,Default,Luffy,0,0,0,,Whew, I'm stuffed!
 Dialogue: 0,0:03:59.36,0:04:01.84,Default,Toriko,0,0,0,,That Hungry-la Bird was delicious!
 Dialogue: 0,0:04:02.58,0:04:07.05,Default,Sanji,0,0,0,,You're really not going to include this \NHungry-la Bird in your Full Course Meal?
@@ -425,53 +425,53 @@ Dialogue: 0,0:23:36.56,0:23:40.85,Default,Na,0,0,0,,The story of the strange bon
 Dialogue: 0,0:23:40.85,0:23:42.15,Default,Luffy,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:42.15,0:23:45.35,Default,Luffy,0,0,0,,"Luffy and Ace! \NThe Story of How the Brothers Met!"
 Dialogue: 0,0:23:45.35,0:23:47.51,Default,Luffy,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:46.03,0:23:50.03,Title Card - Top,,0,0,220,,{\blur0.6\c&H000000&}Luffy and Ace
-Dialogue: 1,0:23:46.03,0:23:50.03,Title Card - Top,,0,0,220,,{\bord0\blur0.6\4a&HFF&}Luffy and Ace
-Dialogue: 0,0:23:46.03,0:23:50.03,Title Card - Bottom,,0,0,0,,{\blur0.6\c&H000000&}The Story of How the Brothers Met!
-Dialogue: 1,0:23:46.03,0:23:50.03,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\4a&HFF&}The Story of How the Brothers Met!
-Dialogue: 0,0:24:15.35,0:24:20.61,Opening,,0,0,0,,{\blur0.6\c&H000000&}Every time I look up to the sky after the rain
-Dialogue: 1,0:24:15.35,0:24:20.61,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Every time I look up to the sky after the rain
-Dialogue: 0,0:24:20.69,0:24:26.11,Opening,,0,0,0,,{\blur0.6\fad(0,50)\c&H000000&\t(5370,5415,\1a&HFF&)}I think back to when I was still a crybaby
-Dialogue: 1,0:24:20.69,0:24:26.11,Opening,,0,0,0,,{\bord0\blur0.6\fad(0,50)\4a&HFF&}I think back to when I was still a crybaby
-Dialogue: 0,0:24:26.45,0:24:33.87,Opening,,0,0,0,,{\blur0.6\c&H000000&}Desperately chasing after someone's back,
-Dialogue: 1,0:24:26.45,0:24:33.87,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Desperately chasing after someone's back,
-Dialogue: 0,0:24:34.16,0:24:36.79,Opening,,0,0,0,,{\blur0.6\c&H000000&}thinking "I want to become stronger"
-Dialogue: 1,0:24:34.16,0:24:36.79,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}thinking "I want to become stronger"
-Dialogue: 0,0:24:37.08,0:24:42.05,Opening,,0,0,0,,{\blur0.6\c&H000000&}Now my "Thank you" has disappeared into the wind
-Dialogue: 1,0:24:37.08,0:24:42.05,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Now my "Thank you" has disappeared into the wind
-Dialogue: 0,0:24:42.38,0:24:47.22,Opening,,0,0,0,,{\blur0.6\c&H000000&}Am I becoming stronger?
-Dialogue: 1,0:24:42.38,0:24:47.22,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Am I becoming stronger?
-Dialogue: 0,0:24:47.63,0:24:52.81,Opening,,0,0,0,,{\blur0.6\c&H000000&}I can't find my answer
-Dialogue: 1,0:24:47.63,0:24:52.81,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can't find my answer
-Dialogue: 0,0:24:53.10,0:24:58.23,Opening,,0,0,0,,{\blur0.6\c&H000000&}So I'll keep on moving forward
-Dialogue: 1,0:24:53.10,0:24:58.23,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So I'll keep on moving forward
-Dialogue: 0,0:24:58.73,0:25:01.02,Opening,,0,0,0,,{\blur0.6\fad(50,0)\c&H000000&\1a&HFF&\t(5,50,\1a&H00&)}Come on, let's go,
-Dialogue: 1,0:24:58.73,0:25:01.02,Opening,,0,0,0,,{\bord0\blur0.6\fad(50,0)\4a&HFF&}Come on, let's go,
-Dialogue: 0,0:25:01.23,0:25:04.15,Opening,,0,0,0,,{\blur0.6\c&H000000&}and keep moving no matter what
-Dialogue: 1,0:25:01.23,0:25:04.15,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}and keep moving no matter what
-Dialogue: 0,0:25:04.57,0:25:09.41,Opening,,0,0,0,,{\blur0.6\c&H000000&}So that the flow of time won't get the better of us
-Dialogue: 1,0:25:04.57,0:25:09.41,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So that the flow of time won't get the better of us
-Dialogue: 0,0:25:09.70,0:25:14.99,Opening,,0,0,0,,{\blur0.6\c&H000000&}We'll keep getting up, again and again
-Dialogue: 1,0:25:09.70,0:25:14.99,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}We'll keep getting up, again and again
-Dialogue: 0,0:25:15.29,0:25:20.75,Opening,,0,0,0,,{\blur0.6\c&H000000&}Because we don't want to lose what's important to us
-Dialogue: 1,0:25:15.29,0:25:20.75,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Because we don't want to lose what's important to us
-Dialogue: 0,0:25:20.79,0:25:25.80,Opening,,0,0,0,,{\blur0.6\c&H000000&}I can hear the voice inside my head
-Dialogue: 1,0:25:20.79,0:25:25.80,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can hear the voice inside my head
-Dialogue: 0,0:25:26.13,0:25:31.14,Opening,,0,0,0,,{\blur0.6\c&H000000&}Always, always lifting me up
-Dialogue: 1,0:25:26.13,0:25:31.14,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Always, always lifting me up
-Dialogue: 0,0:25:31.55,0:25:36.39,Opening,,0,0,0,,{\blur0.6\c&H000000&}Even when the mischievous rain gets in my way,
-Dialogue: 1,0:25:31.55,0:25:36.39,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Even when the mischievous rain gets in my way,
-Dialogue: 0,0:25:36.56,0:25:41.31,Opening,,0,0,0,,{\blur0.6\c&H000000&}I won't try to run away
-Dialogue: 1,0:25:36.56,0:25:41.31,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}I won't try to run away
-Dialogue: 0,0:25:44.48,0:25:46.90,Opening,,0,0,0,,{\blur0.6\c&H000000&}Come on, let's go,
-Dialogue: 1,0:25:44.48,0:25:46.90,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Come on, let's go,
-Dialogue: 0,0:25:47.15,0:25:50.07,Opening,,0,0,0,,{\blur0.6\c&H000000&}and keep moving no matter what
-Dialogue: 1,0:25:47.15,0:25:50.07,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}and keep moving no matter what
-Dialogue: 0,0:25:50.36,0:25:55.24,Opening,,0,0,0,,{\blur0.6\c&H000000&}So that the flow of time won't get the better of us
-Dialogue: 1,0:25:50.36,0:25:55.24,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}So that the flow of time won't get the better of us
-Dialogue: 0,0:25:55.49,0:26:00.87,Opening,,0,0,0,,{\blur0.6\c&H000000&}We'll keep getting up, again and again
-Dialogue: 1,0:25:55.49,0:26:00.87,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}We'll keep getting up, again and again
-Dialogue: 0,0:26:01.17,0:26:06.34,Opening,,0,0,0,,{\blur0.6\c&H000000&}Because we don't want to lose what's important to us
-Dialogue: 1,0:26:01.17,0:26:06.34,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Because we don't want to lose what's important to us
-Dialogue: 0,0:26:06.59,0:26:11.89,Opening,,0,0,0,,{\blur0.6\c&H000000&}Let's head toward the future we believe in...
-Dialogue: 1,0:26:06.59,0:26:11.89,Opening,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Let's head toward the future we believe in...
+Dialogue: 0,0:23:46.03,0:23:50.03,Title Card - Top,,0,0,220,,{\blur0.4\c&H000000&}Luffy and Ace
+Dialogue: 1,0:23:46.03,0:23:50.03,Title Card - Top,,0,0,220,,{\bord0\blur0.4\4a&HFF&}Luffy and Ace
+Dialogue: 0,0:23:46.03,0:23:50.03,Title Card - Bottom,,0,0,0,,{\blur0.4\c&H000000&}The Story of How the Brothers Met!
+Dialogue: 1,0:23:46.03,0:23:50.03,Title Card - Bottom,,0,0,0,,{\bord0\blur0.4\4a&HFF&}The Story of How the Brothers Met!
+Dialogue: 0,0:24:15.35,0:24:20.61,Opening,,0,0,0,,{\blur0.4\c&H000000&}Every time I look up to the sky after the rain
+Dialogue: 1,0:24:15.35,0:24:20.61,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Every time I look up to the sky after the rain
+Dialogue: 0,0:24:20.69,0:24:26.11,Opening,,0,0,0,,{\blur0.4\fad(0,50)\c&H000000&\t(5370,5415,\1a&HFF&)}I think back to when I was still a crybaby
+Dialogue: 1,0:24:20.69,0:24:26.11,Opening,,0,0,0,,{\bord0\blur0.4\fad(0,50)\4a&HFF&}I think back to when I was still a crybaby
+Dialogue: 0,0:24:26.45,0:24:33.87,Opening,,0,0,0,,{\blur0.4\c&H000000&}Desperately chasing after someone's back,
+Dialogue: 1,0:24:26.45,0:24:33.87,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Desperately chasing after someone's back,
+Dialogue: 0,0:24:34.16,0:24:36.79,Opening,,0,0,0,,{\blur0.4\c&H000000&}thinking "I want to become stronger"
+Dialogue: 1,0:24:34.16,0:24:36.79,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}thinking "I want to become stronger"
+Dialogue: 0,0:24:37.08,0:24:42.05,Opening,,0,0,0,,{\blur0.4\c&H000000&}Now my "Thank you" has disappeared into the wind
+Dialogue: 1,0:24:37.08,0:24:42.05,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Now my "Thank you" has disappeared into the wind
+Dialogue: 0,0:24:42.38,0:24:47.22,Opening,,0,0,0,,{\blur0.4\c&H000000&}Am I becoming stronger?
+Dialogue: 1,0:24:42.38,0:24:47.22,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Am I becoming stronger?
+Dialogue: 0,0:24:47.63,0:24:52.81,Opening,,0,0,0,,{\blur0.4\c&H000000&}I can't find my answer
+Dialogue: 1,0:24:47.63,0:24:52.81,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}I can't find my answer
+Dialogue: 0,0:24:53.10,0:24:58.23,Opening,,0,0,0,,{\blur0.4\c&H000000&}So I'll keep on moving forward
+Dialogue: 1,0:24:53.10,0:24:58.23,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}So I'll keep on moving forward
+Dialogue: 0,0:24:58.73,0:25:01.02,Opening,,0,0,0,,{\blur0.4\fad(50,0)\c&H000000&\1a&HFF&\t(5,50,\1a&H00&)}Come on, let's go,
+Dialogue: 1,0:24:58.73,0:25:01.02,Opening,,0,0,0,,{\bord0\blur0.4\fad(50,0)\4a&HFF&}Come on, let's go,
+Dialogue: 0,0:25:01.23,0:25:04.15,Opening,,0,0,0,,{\blur0.4\c&H000000&}and keep moving no matter what
+Dialogue: 1,0:25:01.23,0:25:04.15,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}and keep moving no matter what
+Dialogue: 0,0:25:04.57,0:25:09.41,Opening,,0,0,0,,{\blur0.4\c&H000000&}So that the flow of time won't get the better of us
+Dialogue: 1,0:25:04.57,0:25:09.41,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}So that the flow of time won't get the better of us
+Dialogue: 0,0:25:09.70,0:25:14.99,Opening,,0,0,0,,{\blur0.4\c&H000000&}We'll keep getting up, again and again
+Dialogue: 1,0:25:09.70,0:25:14.99,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}We'll keep getting up, again and again
+Dialogue: 0,0:25:15.29,0:25:20.75,Opening,,0,0,0,,{\blur0.4\c&H000000&}Because we don't want to lose what's important to us
+Dialogue: 1,0:25:15.29,0:25:20.75,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Because we don't want to lose what's important to us
+Dialogue: 0,0:25:20.79,0:25:25.80,Opening,,0,0,0,,{\blur0.4\c&H000000&}I can hear the voice inside my head
+Dialogue: 1,0:25:20.79,0:25:25.80,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}I can hear the voice inside my head
+Dialogue: 0,0:25:26.13,0:25:31.14,Opening,,0,0,0,,{\blur0.4\c&H000000&}Always, always lifting me up
+Dialogue: 1,0:25:26.13,0:25:31.14,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Always, always lifting me up
+Dialogue: 0,0:25:31.55,0:25:36.39,Opening,,0,0,0,,{\blur0.4\c&H000000&}Even when the mischievous rain gets in my way,
+Dialogue: 1,0:25:31.55,0:25:36.39,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Even when the mischievous rain gets in my way,
+Dialogue: 0,0:25:36.56,0:25:41.31,Opening,,0,0,0,,{\blur0.4\c&H000000&}I won't try to run away
+Dialogue: 1,0:25:36.56,0:25:41.31,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}I won't try to run away
+Dialogue: 0,0:25:44.48,0:25:46.90,Opening,,0,0,0,,{\blur0.4\c&H000000&}Come on, let's go,
+Dialogue: 1,0:25:44.48,0:25:46.90,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Come on, let's go,
+Dialogue: 0,0:25:47.15,0:25:50.07,Opening,,0,0,0,,{\blur0.4\c&H000000&}and keep moving no matter what
+Dialogue: 1,0:25:47.15,0:25:50.07,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}and keep moving no matter what
+Dialogue: 0,0:25:50.36,0:25:55.24,Opening,,0,0,0,,{\blur0.4\c&H000000&}So that the flow of time won't get the better of us
+Dialogue: 1,0:25:50.36,0:25:55.24,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}So that the flow of time won't get the better of us
+Dialogue: 0,0:25:55.49,0:26:00.87,Opening,,0,0,0,,{\blur0.4\c&H000000&}We'll keep getting up, again and again
+Dialogue: 1,0:25:55.49,0:26:00.87,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}We'll keep getting up, again and again
+Dialogue: 0,0:26:01.17,0:26:06.34,Opening,,0,0,0,,{\blur0.4\c&H000000&}Because we don't want to lose what's important to us
+Dialogue: 1,0:26:01.17,0:26:06.34,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Because we don't want to lose what's important to us
+Dialogue: 0,0:26:06.59,0:26:11.89,Opening,,0,0,0,,{\blur0.4\c&H000000&}Let's head toward the future we believe in...
+Dialogue: 1,0:26:06.59,0:26:11.89,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Let's head toward the future we believe in...
