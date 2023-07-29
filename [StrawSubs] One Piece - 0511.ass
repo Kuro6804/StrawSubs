@@ -23,18 +23,18 @@ Audio File: [Panda-Raws] One Piece - 0511 (WEB 1080p AMZN JP 29.970fps EAC3) [52
 Video File: [Panda-Raws] One Piece - 0511 (WEB 1080p AMZN JP 29.970fps EAC3) [52C83B73].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.687500
-Scroll Position: 260
-Active Line: 265
-Video Position: 33521
+Video Zoom Percent: 0.437500
+Scroll Position: 345
+Active Line: 356
+Video Position: 42648
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,12,0
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
-Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.7,0,2,10,10,28,1
+Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
+Style: Sign2,FOT-Greco Std B,111,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.3,0,2,45,45,45,0
+Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,28,1
 Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
 Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
 
@@ -46,16 +46,16 @@ Dialogue: 0,0:00:33.28,0:00:37.69,Opening,,0,0,0,,{\blur0.3\c&H000000&}to meet a
 Dialogue: 1,0:00:33.28,0:00:37.69,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}to meet a yet unseen tomorrow
 Dialogue: 0,0:00:37.99,0:00:41.33,Opening,,0,0,0,,{\blur0.3\c&H000000&}I've made up my mind, and I have no regrets
 Dialogue: 1,0:00:37.99,0:00:41.33,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I've made up my mind, and I have no regrets
-Dialogue: 0,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\blur0.3\c&H000000&}(Oh I know what I'm supposed to do)
-Dialogue: 1,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}(Oh I know what I'm supposed to do)
+Dialogue: 0,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\blur0.3\bord3.9\c&H000000&}(Oh I know what I'm supposed to do)
+Dialogue: 1,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\blur0.3\bord0\4a&HFF&}(Oh I know what I'm supposed to do)
 Dialogue: 0,0:00:44.53,0:00:48.07,Opening,,0,0,0,,{\blur0.3\c&H000000&}No matter what trials wait for us along the way,
 Dialogue: 1,0:00:44.53,0:00:48.07,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}No matter what trials wait for us along the way,
 Dialogue: 0,0:00:48.23,0:00:52.70,Opening,,0,0,0,,{\blur0.3\c&H000000&}nothing can ever stop the pounding of our hearts
 Dialogue: 1,0:00:48.23,0:00:52.70,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}nothing can ever stop the pounding of our hearts
 Dialogue: 0,0:00:52.84,0:00:57.37,Opening,,0,0,0,,{\blur0.3\c&H000000&}There is but one place we all aim for
 Dialogue: 1,0:00:52.84,0:00:57.37,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}There is but one place we all aim for
-Dialogue: 0,0:00:57.58,0:00:59.28,Opening,,0,0,0,,{\blur0.3\c&H000000&}(Fly to the light)
-Dialogue: 1,0:00:57.58,0:00:59.28,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}(Fly to the light)
+Dialogue: 0,0:00:57.57,0:00:59.28,Opening,,0,0,0,,{\blur0.3\bord3.9\c&H000000&}(Fly to the light)
+Dialogue: 1,0:00:57.57,0:00:59.28,Opening,,0,0,0,,{\blur0.3\bord0\4a&HFF&}(Fly to the light)
 Dialogue: 0,0:00:59.34,0:01:03.01,Opening,,0,0,0,,{\blur0.3\c&H000000&}The bonds that we gained at the end of the battle
 Dialogue: 1,0:00:59.34,0:01:03.01,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The bonds that we gained at the end of the battle
 Dialogue: 0,0:01:03.18,0:01:06.68,Opening,,0,0,0,,{\blur0.3\c&H000000&}I will not let anyone damage them
@@ -78,8 +78,8 @@ Dialogue: 0,0:01:32.84,0:01:36.48,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's mov
 Dialogue: 1,0:01:32.84,0:01:36.48,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's move on without any fears
 Dialogue: 0,0:01:36.98,0:01:38.85,Opening,,0,0,0,,{\blur0.3\c&H000000&}Please don't forget,
 Dialogue: 1,0:01:36.98,0:01:38.85,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Please don't forget,
-Dialogue: 0,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\blur0.3\c&H000000&}We fight together
-Dialogue: 1,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We fight together
+Dialogue: 1,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\blur0.3\bord3.9\pos(961.07,1052)\c&H000000&}We fight together
+Dialogue: 2,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\blur0.3\bord0\pos(961.07,1052)\4a&HFF&}We fight together
 Dialogue: 0,0:01:40.88,0:01:48.13,Opening,,0,0,0,,{\blur0.3\c&H000000&}The great, wide, distant sky
 Dialogue: 1,0:01:40.88,0:01:48.13,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The great, wide, distant sky
 Dialogue: 0,0:01:48.56,0:01:50.89,Opening,,0,0,0,,{\blur0.3\c&H000000&}that we looked up at on that day
@@ -108,20 +108,19 @@ Dialogue: 0,0:02:30.40,0:02:34.10,Opening,,0,0,0,,{\blur0.3\c&H000000&}There's n
 Dialogue: 1,0:02:30.40,0:02:34.10,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}There's nobody that can take your place
 Dialogue: 0,0:02:34.61,0:02:36.24,Opening,,0,0,0,,{\blur0.3\c&H000000&}Please don't forget,
 Dialogue: 1,0:02:34.61,0:02:36.24,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Please don't forget,
-Dialogue: 0,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\blur0.3\c&H000000&}We fight together
-Dialogue: 1,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We fight together
-Dialogue: 0,0:02:44.98,0:02:47.32,Default,,0,0,0,,The time is the Great Pirate Era.
-Dialogue: 0,0:02:47.95,0:02:53.16,Default,,0,0,0,,Countless pirates fight \Ndesperately for the One Piece,
-Dialogue: 0,0:02:53.16,0:02:55.53,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
-Dialogue: 0,0:02:56.76,0:02:59.66,Default,,0,0,0,,Monkey D. Luffy, a boy\Nwhose body turned to rubber
-Dialogue: 0,0:02:59.66,0:03:01.60,Default,,0,0,0,,after he ate the Gum-Gum Fruit,
-Dialogue: 0,0:03:01.60,0:03:03.70,Default,,0,0,0,,also takes to the sea\Nto become the next Pirate King.
-Dialogue: 0,0:03:04.50,0:03:08.44,Default,,0,0,0,,As Luffy and his friends\Novercome numerous adventures,
-Dialogue: 0,0:03:08.44,0:03:13.31,Default,,0,0,0,,the World Government is less and less\Nable to ignore their existence.
-Dialogue: 0,0:03:14.41,0:03:16.15,Default,,0,0,0,,This is exciting!
-Dialogue: 0,0:03:16.85,0:03:19.75,Default,,0,0,0,,What kind of adventure \Nis waiting for us next?!
-Dialogue: 0,0:03:20.12,0:03:23.25,Default,,0,0,0,,The crew, on its way to the New World,
-Dialogue: 0,0:03:23.25,0:03:26.52,Default,,0,0,0,,will speed along the Grand Line again today!
+Dialogue: 0,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\blur0.3\bord3.9\pos(961.34,1052)\c&H000000&}We fight together
+Dialogue: 1,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\blur0.3\bord0\pos(961.34,1052)\4a&HFF&}We fight together
+Dialogue: 0,0:02:45.02,0:02:47.35,Default,,0,0,0,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:47.99,0:02:53.19,Default,,0,0,0,,Countless pirates fight\Ndesperately for the One Piece,
+Dialogue: 0,0:02:53.19,0:02:55.29,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
+Dialogue: 0,0:02:56.79,0:03:01.63,Default,,0,0,0,,Monkey D. Luffy, a boy whose body\Nturned to rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:01.63,0:03:03.67,Default,,0,0,0,,also takes to the sea\Nto become the next Pirate King.
+Dialogue: 0,0:03:04.47,0:03:08.51,Default,,0,0,0,,As Luffy and his friends\Novercome numerous adventures,
+Dialogue: 0,0:03:08.51,0:03:13.31,Default,,0,0,0,,the World Government is less and less\Nable to ignore their existence.
+Dialogue: 0,0:03:14.45,0:03:16.15,Default,,0,0,0,,This is exciting!
+Dialogue: 0,0:03:16.91,0:03:19.75,Default,,0,0,0,,What adventure is waiting for us next?!
+Dialogue: 0,0:03:20.18,0:03:23.29,Default,,0,0,0,,The crew, on its way to the New World,
+Dialogue: 0,0:03:23.29,0:03:26.46,Default,,0,0,0,,will speed along the Grand Line again today!
 Dialogue: 0,0:03:30.93,0:03:35.90,Default,,0,0,0,,Luffy lost his brother Ace in the \NParamount War against the Navy.
 Dialogue: 0,0:03:36.57,0:03:39.40,Default,,0,0,0,,After getting back on his \Nfeet with Jinbe's help,
 Dialogue: 0,0:03:39.40,0:03:42.11,Default,,0,0,0,,Luffy met Dark King Rayleigh.
@@ -133,12 +132,13 @@ Dialogue: 0,0:03:54.65,0:03:58.29,Default,,0,0,0,,Why?! What's going on?! What \
 Dialogue: 0,0:03:59.06,0:04:02.93,Default,,0,0,0,,Luffy! I'm glad he's okay!
 Dialogue: 0,0:04:04.13,0:04:05.70,Default,,0,0,0,,It's in today's newspaper?
 Dialogue: 0,0:04:06.53,0:04:08.00,Default,,0,0,0,,Luffy!
-Dialogue: 0,0:04:08.37,0:04:16.44,Title Card - Top,,0,0,0,,{\blur0.6\fad(1778,1230)\c&H000000&\1a&HFF&\t(1733,1778,\1a&H00&)\t(6840,6885,\1a&HFF&)}An Unexpected Return!
-Dialogue: 1,0:04:08.37,0:04:16.44,Title Card - Top,,0,0,0,,{\bord0\blur0.6\fad(1778,1230)\4a&HFF&}An Unexpected Return!
-Dialogue: 0,0:04:08.37,0:04:16.44,Title Card - Bottom,,0,0,0,,{\blur0.6\fad(1778,1230)\c&H000000&\1a&HFF&\t(1733,1778,\1a&H00&)\t(6840,6885,\1a&HFF&)}Luffy, to Marineford!
-Dialogue: 1,0:04:08.37,0:04:16.44,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\fad(1778,1230)\4a&HFF&}Luffy, to Marineford!
+Dialogue: 0,0:04:08.33,0:04:16.44,Title Card - Top,,0,0,0,,{\blur0.3\fad(1778,1230)\c&H000000&\1a&HFF&\t(1733,1778,\1a&H00&)\t(6880,6925,\1a&HFF&)}An Unexpected Return!
+Dialogue: 1,0:04:08.33,0:04:16.44,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1778,1230)\4a&HFF&}An Unexpected Return!
+Dialogue: 0,0:04:08.33,0:04:16.44,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1778,1230)\c&H000000&\1a&HFF&\t(1733,1778,\1a&H00&)\t(6880,6925,\1a&HFF&)}Luffy, to Marineford!
+Dialogue: 1,0:04:08.33,0:04:16.44,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1778,1230)\4a&HFF&}Luffy, to Marineford!
 Dialogue: 0,0:04:18.31,0:04:22.88,Default,,0,0,0,,At Marineford - Navy Headquarters \Nin the Grand Line...
-Dialogue: 0,0:04:22.88,0:04:26.18,"Sign",,0,0,0,,"'Conference Room'"
+Dialogue: 0,0:04:22.88,0:04:26.18,Sign,,0,0,240,,{\blur0.5\fad(500,0)\fs70\bord2.1\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Conference Room
+Dialogue: 1,0:04:22.88,0:04:26.18,Sign,,0,0,240,,{\blur0.5\fad(500,0)\fs70\bord0\4a&HFF&}Conference Room
 Dialogue: 0,0:04:24.31,0:04:26.18,DefaultLow,,0,0,0,,It's incomprehensible!
 Dialogue: 0,0:04:26.92,0:04:28.89,Default,,0,0,0,,Events in the Paramount War
 Dialogue: 0,0:04:28.89,0:04:31.76,Default,,0,0,0,,revealed he's the stepbrother \Nof the late Portgas D. Ace
@@ -147,8 +147,9 @@ Dialogue: 0,0:04:34.73,0:04:39.90,Default,,0,0,0,,and also, the grandson of \NNa
 Dialogue: 0,0:04:39.90,0:04:42.63,Default,,0,0,0,,The pirate - Monkey D. Luffy!
 Dialogue: 0,0:04:43.50,0:04:48.61,Default,,0,0,0,,He went missing after the war, \Nbut he was alive as expected
 Dialogue: 0,0:04:48.61,0:04:52.71,Default,,0,0,0,,and resurfaced here, at Navy HQ, again!
-Dialogue: 0,0:04:55.18,0:04:57.78,"Sign",,0,0,0,,"A few days ago..."
-Dialogue: 0,0:04:55.18,0:04:57.78,On Top,,0,0,0,,A few days ago...
+Dialogue: 0,0:04:55.15,0:04:57.78,Sign,,0,0,0,,{\blur0.5\fad(500,0)\fs70\bord2.1\pos(965,850)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}A few days earlier
+Dialogue: 1,0:04:55.15,0:04:57.78,Sign,,0,0,0,,{\blur0.5\fad(500,0)\fs70\bord0\pos(965,850)\4a&HFF&}A few days earlier
+Dialogue: 0,0:04:55.18,0:04:57.78,Default,,0,0,0,,{\an8}A few days earlier...
 Dialogue: 0,0:05:09.66,0:05:11.70,Default,,0,0,0,,How terrible!
 Dialogue: 0,0:05:11.70,0:05:13.13,Default,,0,0,0,,It was an all-out war
 Dialogue: 0,0:05:13.13,0:05:16.77,Default,,0,0,0,,between the Navy's elite and \Nthe world's greatest pirate.
@@ -240,7 +241,8 @@ Dialogue: 0,0:13:35.53,0:13:39.90,Default,,0,0,0,,...or Marco the Phoenix and th
 Dialogue: 0,0:13:41.24,0:13:46.38,Default,,0,0,0,,It's always the "D."s who make \Ntrouble including "Portgas."
 Dialogue: 0,0:13:46.38,0:13:51.38,Default,,0,0,0,,Those names are exposed to the public \Na little bit too much these days.
 Dialogue: 0,0:14:09.27,0:14:14.50,DefaultLow,,0,0,0,,I tried to talk him out of it but Garp virtually resigned.
-Dialogue: 0,0:14:09.50,0:14:14.50,"Sign",,0,0,0,,"Red Line\NHoly Land of Mary Geoise"
+Dialogue: 0,0:14:09.47,0:14:14.50,Sign,,0,0,380,,{\blur0.5\fad(980,0)\fs88\bord2.2\c&H000000&\1a&HFF&\t(935,980,\1a&H00&)}Red Line\NHoly Land of Mary Geoise
+Dialogue: 1,0:14:09.47,0:14:14.50,Sign,,0,0,380,,{\blur0.5\fad(980,0)\fs88\bord0\4a&HFF&}Red Line\NHoly Land of Mary Geoise
 Dialogue: 0,0:14:15.34,0:14:19.51,Default,,0,0,0,,But he has to keep his \Ntitle and stay in the Navy.
 Dialogue: 0,0:14:20.18,0:14:23.25,Default,,0,0,0,,Educating young Navy soldiers.
 Dialogue: 0,0:14:24.11,0:14:27.42,Default,,0,0,0,,If you want to resign from your \Nposition as fleet admiral,
@@ -260,11 +262,12 @@ Dialogue: 0,0:15:14.70,0:15:18.44,Default,,0,0,0,,Justice is based on values. An
 Dialogue: 0,0:15:20.47,0:15:22.67,Default,,0,0,0,,That's not what I want to hear.
 Dialogue: 0,0:15:22.67,0:15:24.71,Default,,0,0,0,,By the way, Kong-san,
 Dialogue: 0,0:15:25.07,0:15:30.25,Default,,0,0,0,,I want to recommend Blue Pheasant \Nfor next fleet admiral.
-Dialogue: 0,0:15:35.95,0:15:40.66,"Sign",,0,0,0,,"Navy Headquarters, Medical Center"
-Dialogue: 0,0:15:37.69,0:15:40.66,DefaultLow,,0,0,0,,They call the power "Haki."
+Dialogue: 0,0:15:35.92,0:15:40.66,Sign,,0,0,250,,{\blur0.5\fad(1000,0)\fs60\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}Navy Headquarters, Medical Center
+Dialogue: 1,0:15:35.92,0:15:40.66,Sign,,0,0,250,,{\bord0\blur0.5\fad(1000,0)\fs60\4a&HFF&}Navy Headquarters, Medical Center
+Dialogue: 0,0:15:37.69,0:15:40.66,DefaultLow,,0,0,0,,They call that power "Haki."
 Dialogue: 0,0:15:40.66,0:15:43.56,Default,,0,0,0,,It's safe to say that's what you got.
-Dialogue: 0,0:15:44.23,0:15:48.26,Default,,0,0,0,,I guess it was awakened \Nby the trauma of the war.
-Dialogue: 0,0:15:48.26,0:15:53.20,Default,,0,0,0,,Normally, you can only obtain \Nit through long-term training.
+Dialogue: 0,0:15:44.23,0:15:48.26,Default,,0,0,0,,I guess it was awakened\Nby the trauma of the war.
+Dialogue: 0,0:15:48.26,0:15:53.20,Default,,0,0,0,,Normally, you can only obtain it\Nthrough long-term training.
 Dialogue: 0,0:15:53.20,0:15:55.71,Default,,0,0,0,,"Haki"? That's what this is?
 Dialogue: 0,0:15:56.47,0:16:00.81,Default,,0,0,0,,The vice admirals are all using it.
 Dialogue: 0,0:16:00.81,0:16:02.31,Default,,0,0,0,,Really?!
@@ -297,15 +300,18 @@ Dialogue: 0,0:17:58.43,0:18:01.86,Default,,0,0,0,,Navy - Grand Line 5th branch.
 Dialogue: 0,0:18:02.63,0:18:05.50,Default,,0,0,0,,That means you wanna go to the New World.
 Dialogue: 0,0:18:05.94,0:18:09.64,Default,,0,0,0,,It's better to be closer to your target.
 Dialogue: 0,0:18:12.28,0:18:16.55,Default,,0,0,0,,The news about Straw Hat Luffy \Nis spreading all over the world.
-Dialogue: 0,0:18:17.55,0:18:20.78,"Sign",,0,0,0,,"New World"
+Dialogue: 0,0:18:17.55,0:18:20.78,Sign,,0,0,240,,{\blur0.5\fad(500,0)\fs70\bord2.1\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}New World
+Dialogue: 1,0:18:17.55,0:18:20.78,Sign,,0,0,240,,{\blur0.5\fad(500,0)\fs70\bord0\4a&HFF&}New World
 Dialogue: 0,0:18:17.55,0:18:20.78,DefaultLow,,0,0,0,,Even in the New World...
 Dialogue: 0,0:18:20.78,0:18:24.25,DefaultLow,,0,0,0,,"Straw Hat Luffy was alive!"
-Dialogue: 0,0:18:21.28,0:18:25.82,"Sign",,0,0,0,,"Eustass 'Captain' Kid"
+Dialogue: 0,0:18:21.28,0:18:25.79,Sign2,,0,0,200,,{\blur0.5\fad(750,500)\fs105\bord2.5\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(4010,4055,\1a&HFF&)}Eustass "Captain" Kid
+Dialogue: 1,0:18:21.28,0:18:25.79,Sign2,,0,0,200,,{\blur0.5\fad(750,500)\fs105\bord0\4a&HFF&}Eustass "Captain" Kid
 Dialogue: 0,0:18:25.05,0:18:28.83,DefaultLow,,0,0,0,,"Sixteen rings at Marineford for the new era."
 Dialogue: 0,0:18:29.59,0:18:31.26,DefaultLow,,0,0,0,,What's the Ox Bell?
 Dialogue: 0,0:18:33.20,0:18:35.00,Default,,0,0,0,,The Ox Bell is...
 Dialogue: 0,0:18:36.03,0:18:38.50,DefaultLow,,0,0,0,,...the holy bell from the Ox Lloyd's,
-Dialogue: 0,0:18:36.93,0:18:41.90,"Sign",,0,0,0,,"Kid Pirates, Killer"
+Dialogue: 0,0:18:36.93,0:18:41.90,Sign,,0,0,235,,{\blur0.5\fad(780,0)\fs105\bord2.5\c&H000000&\1a&HFF&\t(735,780,\1a&H00&)}Kid Pirates, {\fnFOT-Greco Std B}Killer
+Dialogue: 1,0:18:36.93,0:18:41.90,Sign,,0,0,235,,{\blur0.5\fad(780,0)\fs105\bord0\4a&HFF&}Kid Pirates, {\fnFOT-Greco Std B}Killer
 Dialogue: 0,0:18:38.50,0:18:41.90,DefaultLow,,0,0,0,,a Navy ship that was quite influential a long time ago.
 Dialogue: 0,0:18:42.94,0:18:47.81,Default,,0,0,0,,At the year's end, they ring it 8 \Ntimes to appreciate the passing year
 Dialogue: 0,0:18:47.81,0:18:51.21,Default,,0,0,0,,and 8 times at the beginning of the \Nyear as a prayer for the new year.
@@ -329,7 +335,8 @@ Dialogue: 0,0:19:57.98,0:20:01.55,Default,,0,0,0,,Paradise? You mean, a loving h
 Dialogue: 0,0:20:01.95,0:20:07.26,Default,,0,0,0,,You just got here so you have no \Nidea how horrible this sea is!
 Dialogue: 0,0:20:15.00,0:20:16.27,Default,,0,0,0,,Straw Hat?
 Dialogue: 0,0:20:16.27,0:20:18.67,Default,,0,0,0,,Yes, he caused trouble again.
-Dialogue: 0,0:20:18.67,0:20:23.17,"Sign",,0,0,0,,"Capone 'Gang' Bege"
+Dialogue: 0,0:20:18.67,0:20:23.17,Sign2,,0,0,200,,{\blur0.5\fad(500,500)\fs105\bord2.5\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(4000,4045,\1a&HFF&)}Capone "Gang" Bege
+Dialogue: 1,0:20:18.67,0:20:23.17,Sign2,,0,0,200,,{\blur0.5\fad(500,500)\fs105\bord0\4a&HFF&}Capone "Gang" Bege
 Dialogue: 0,0:20:19.20,0:20:21.27,DefaultLow,,0,0,0,,No need to panic.
 Dialogue: 0,0:20:21.27,0:20:23.27,DefaultLow,,0,0,0,,The one who has the final checkmate...
 Dialogue: 0,0:20:23.27,0:20:24.87,DefaultLow,,0,0,0,,...will become the winner.
@@ -339,14 +346,18 @@ Dialogue: 0,0:20:32.55,0:20:34.15,Default,,0,0,0,,What?!
 Dialogue: 0,0:20:34.68,0:20:38.89,Default,,0,0,0,,What did you say? What do you \Nmean? Control the ship, dammit!
 Dialogue: 0,0:20:38.89,0:20:41.32,Default,,0,0,0,,Father! Something's coming \Ndown from the sky...
 Dialogue: 0,0:20:44.83,0:20:47.96,Default,,0,0,0,,No, we are going up!
-Dialogue: 0,0:20:52.70,0:20:55.94,"Sign",,0,0,0,,"New World\NFoodvalten Island"
+Dialogue: 0,0:20:52.64,0:20:55.94,Sign,,0,0,0,,{\blur0.5\fad(500,0)\fs88\bord2.4\pos(588,830)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}New World
+Dialogue: 1,0:20:52.64,0:20:55.94,Sign,,0,0,0,,{\blur0.5\fad(500,0)\fs88\bord0\pos(588,830)\4a&HFF&}New World
+Dialogue: 0,0:20:52.64,0:20:55.94,Sign,,0,0,0,,{\blur0.5\fad(500,0)\fs88\bord2.4\pos(1455,830)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Foodvalten Island
+Dialogue: 1,0:20:52.64,0:20:55.94,Sign,,0,0,0,,{\blur0.5\fad(500,0)\fs88\bord0\pos(1455,830)\4a&HFF&}Foodvalten Island
 Dialogue: 0,0:20:53.97,0:20:55.94,DefaultLow,,0,0,0,,I'm so sorry.
-Dialogue: 0,0:20:57.81,0:21:02.61,"Sign",,0,0,0,,"Basil Hawkins"
+Dialogue: 0,0:20:57.77,0:21:02.61,Sign2,,0,0,190,,{\blur0.5\fad(1000,0)\fs105\bord2.5\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}Basil Hawkins
+Dialogue: 1,0:20:57.77,0:21:02.61,Sign2,,0,0,190,,{\blur0.5\fad(1000,0)\fs105\bord0\4a&HFF&}Basil Hawkins
 Dialogue: 0,0:20:58.24,0:21:02.61,DefaultLow,,0,0,0,,Could you say that again? I couldn't catch that.
 Dialogue: 0,0:21:02.61,0:21:04.51,Default,,0,0,0,,I'm Brownbeard!
 Dialogue: 0,0:21:04.51,0:21:07.75,Default,,0,0,0,,A pirate with a bounty of over 80 million!
 Dialogue: 0,0:21:07.75,0:21:09.05,Default,,0,0,0,,Brownbeard-sama!
-Dialogue: 0,0:21:09.85,0:21:13.79,Default,,0,0,0,,Make sure you remember my \Nname! This is my territory!
+Dialogue: 0,0:21:09.85,0:21:13.79,Default,,0,0,0,,Make sure you remember my name!\NThis is my territory!
 Dialogue: 0,0:21:14.19,0:21:17.19,Default,,0,0,0,,What you did to my men is horrible!
 Dialogue: 0,0:21:17.19,0:21:19.33,Default,,0,0,0,,I'll make you pay for it in blood!
 Dialogue: 0,0:21:19.90,0:21:24.23,Default,,0,0,0,,I see. I thought I misheard it \Nbecause it's such a stupid name.
@@ -356,7 +367,8 @@ Dialogue: 0,0:21:30.91,0:21:32.81,Default,,0,0,0,,And here is another thing,
 Dialogue: 0,0:21:34.48,0:21:38.51,Default,,0,0,0,,I can see the shadow of death on your face.
 Dialogue: 0,0:21:46.79,0:21:51.26,Default,,0,0,0,,Are you sure that the Log Pose \Nis pointing at that island?!
 Dialogue: 0,0:21:51.26,0:21:54.66,DefaultLow,,0,0,0,,Lightning is striking the island like rain!
-Dialogue: 0,0:21:53.90,0:21:57.10,"Sign",,0,0,0,,"Urouge"
+Dialogue: 0,0:21:53.90,0:21:57.10,Sign2,,0,0,190,,{\blur0.5\fad(720,0)\fs105\bord2.5\c&H000000&\1a&HFF&\t(675,720,\1a&H00&)}Urouge
+Dialogue: 1,0:21:53.90,0:21:57.10,Sign2,,0,0,190,,{\blur0.5\fad(720,0)\fs105\bord0\4a&HFF&}Urouge
 Dialogue: 0,0:21:55.40,0:21:57.10,DefaultLow,,0,0,0,,We can't go there!
 Dialogue: 0,0:22:02.87,0:22:05.47,Default,,0,0,0,,How can we get to the shore?!
 Dialogue: 0,0:22:07.31,0:22:11.05,Default,,0,0,0,,Bold men who set foot in \Nthe New World even once...
@@ -384,7 +396,7 @@ Dialogue: 0,0:23:35.00,0:23:37.80,Default,,0,0,0,,What exactly is Luffy thinking
 Dialogue: 0,0:23:37.80,0:23:39.14,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:39.14,0:23:42.04,Default,,0,0,0,,"With Hopes It Will Reach My Friends\NBig News Spreading Fast!"
 Dialogue: 0,0:23:42.04,0:23:44.41,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\blur0.6\c&H000000&}With Hopes It Will Reach My Friends
-Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\bord0\blur0.6\4a&HFF&}With Hopes It Will Reach My Friends
-Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\blur0.6\c&H000000&}Big News Spreading Fast!
-Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Big News Spreading Fast!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}With Hopes It Will Reach My Friends
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}With Hopes It Will Reach My Friends
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Big News Spreading Fast!
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Big News Spreading Fast!

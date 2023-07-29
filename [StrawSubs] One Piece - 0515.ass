@@ -23,17 +23,17 @@ Audio File: [Panda-Raws] One Piece - 0515 (WEB 1080p AMZN JP 29.970fps EAC3) [40
 Video File: [Panda-Raws] One Piece - 0515 (WEB 1080p AMZN JP 29.970fps EAC3) [404B52AC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.687500
-Scroll Position: 164
-Active Line: 169
-Video Position: 17529
+Video Zoom Percent: 0.562500
+Scroll Position: 359
+Active Line: 365
+Video Position: 42650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,3,0
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
-Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.7,0,2,10,10,28,1
+Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
+Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,28,1
 Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
 Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
 
@@ -45,16 +45,16 @@ Dialogue: 0,0:00:33.28,0:00:37.69,Opening,,0,0,0,,{\blur0.3\c&H000000&}to meet a
 Dialogue: 1,0:00:33.28,0:00:37.69,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}to meet a yet unseen tomorrow
 Dialogue: 0,0:00:37.99,0:00:41.33,Opening,,0,0,0,,{\blur0.3\c&H000000&}I've made up my mind, and I have no regrets
 Dialogue: 1,0:00:37.99,0:00:41.33,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}I've made up my mind, and I have no regrets
-Dialogue: 0,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\blur0.3\c&H000000&}(Oh I know what I'm supposed to do)
-Dialogue: 1,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}(Oh I know what I'm supposed to do)
+Dialogue: 0,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\blur0.3\bord3.9\c&H000000&}(Oh I know what I'm supposed to do)
+Dialogue: 1,0:00:41.63,0:00:44.36,Opening,,0,0,0,,{\blur0.3\bord0\4a&HFF&}(Oh I know what I'm supposed to do)
 Dialogue: 0,0:00:44.53,0:00:48.07,Opening,,0,0,0,,{\blur0.3\c&H000000&}No matter what trials wait for us along the way,
 Dialogue: 1,0:00:44.53,0:00:48.07,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}No matter what trials wait for us along the way,
 Dialogue: 0,0:00:48.23,0:00:52.70,Opening,,0,0,0,,{\blur0.3\c&H000000&}nothing can ever stop the pounding of our hearts
 Dialogue: 1,0:00:48.23,0:00:52.70,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}nothing can ever stop the pounding of our hearts
 Dialogue: 0,0:00:52.84,0:00:57.37,Opening,,0,0,0,,{\blur0.3\c&H000000&}There is but one place we all aim for
 Dialogue: 1,0:00:52.84,0:00:57.37,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}There is but one place we all aim for
-Dialogue: 0,0:00:57.58,0:00:59.28,Opening,,0,0,0,,{\blur0.3\c&H000000&}(Fly to the light)
-Dialogue: 1,0:00:57.58,0:00:59.28,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}(Fly to the light)
+Dialogue: 0,0:00:57.57,0:00:59.28,Opening,,0,0,0,,{\blur0.3\bord3.9\c&H000000&}(Fly to the light)
+Dialogue: 1,0:00:57.57,0:00:59.28,Opening,,0,0,0,,{\blur0.3\bord0\4a&HFF&}(Fly to the light)
 Dialogue: 0,0:00:59.34,0:01:03.01,Opening,,0,0,0,,{\blur0.3\c&H000000&}The bonds that we gained at the end of the battle
 Dialogue: 1,0:00:59.34,0:01:03.01,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The bonds that we gained at the end of the battle
 Dialogue: 0,0:01:03.18,0:01:06.68,Opening,,0,0,0,,{\blur0.3\c&H000000&}I will not let anyone damage them
@@ -77,8 +77,8 @@ Dialogue: 0,0:01:32.84,0:01:36.48,Opening,,0,0,0,,{\blur0.3\c&H000000&}Let's mov
 Dialogue: 1,0:01:32.84,0:01:36.48,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let's move on without any fears
 Dialogue: 0,0:01:36.98,0:01:38.85,Opening,,0,0,0,,{\blur0.3\c&H000000&}Please don't forget,
 Dialogue: 1,0:01:36.98,0:01:38.85,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Please don't forget,
-Dialogue: 0,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\blur0.3\c&H000000&}We fight together
-Dialogue: 1,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We fight together
+Dialogue: 1,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\blur0.3\bord3.9\pos(961.07,1052)\c&H000000&}We fight together
+Dialogue: 2,0:01:38.92,0:01:40.22,Opening,,0,0,0,,{\blur0.3\bord0\pos(961.07,1052)\4a&HFF&}We fight together
 Dialogue: 0,0:01:40.88,0:01:48.13,Opening,,0,0,0,,{\blur0.3\c&H000000&}The great, wide, distant sky
 Dialogue: 1,0:01:40.88,0:01:48.13,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The great, wide, distant sky
 Dialogue: 0,0:01:48.56,0:01:50.89,Opening,,0,0,0,,{\blur0.3\c&H000000&}that we looked up at on that day
@@ -107,20 +107,19 @@ Dialogue: 0,0:02:30.40,0:02:34.10,Opening,,0,0,0,,{\blur0.3\c&H000000&}There's n
 Dialogue: 1,0:02:30.40,0:02:34.10,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}There's nobody that can take your place
 Dialogue: 0,0:02:34.61,0:02:36.24,Opening,,0,0,0,,{\blur0.3\c&H000000&}Please don't forget,
 Dialogue: 1,0:02:34.61,0:02:36.24,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Please don't forget,
-Dialogue: 0,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\blur0.3\c&H000000&}We fight together
-Dialogue: 1,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\bord0\blur0.3\4a&HFF&}We fight together
-Dialogue: 0,0:02:44.98,0:02:47.32,Default,,0,0,0,,The time is the Great Pirate Era.
-Dialogue: 0,0:02:47.95,0:02:53.16,Default,,0,0,0,,Countless pirates fight \Ndesperately for the One Piece,
-Dialogue: 0,0:02:53.16,0:02:55.53,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
-Dialogue: 0,0:02:56.76,0:02:59.66,Default,,0,0,0,,Monkey D. Luffy, a boy\Nwhose body turned to rubber
-Dialogue: 0,0:02:59.66,0:03:01.60,Default,,0,0,0,,after he ate the Gum-Gum Fruit,
-Dialogue: 0,0:03:01.60,0:03:03.70,Default,,0,0,0,,also takes to the sea\Nto become the next Pirate King.
-Dialogue: 0,0:03:04.50,0:03:08.44,Default,,0,0,0,,As Luffy and his friends\Novercome numerous adventures,
-Dialogue: 0,0:03:08.44,0:03:13.31,Default,,0,0,0,,the World Government is less and less\Nable to ignore their existence.
-Dialogue: 0,0:03:14.41,0:03:16.15,Default,,0,0,0,,This is exciting!
-Dialogue: 0,0:03:16.85,0:03:19.75,Default,,0,0,0,,What kind of adventure \Nis waiting for us next?!
-Dialogue: 0,0:03:20.12,0:03:23.25,Default,,0,0,0,,The crew, on its way to the New World,
-Dialogue: 0,0:03:23.25,0:03:26.52,Default,,0,0,0,,will speed along the Grand Line again today!
+Dialogue: 0,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\blur0.3\bord3.9\pos(961.34,1052)\c&H000000&}We fight together
+Dialogue: 1,0:02:36.54,0:02:38.64,Opening,,0,0,0,,{\blur0.3\bord0\pos(961.34,1052)\4a&HFF&}We fight together
+Dialogue: 0,0:02:45.02,0:02:47.35,Default,,0,0,0,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:47.99,0:02:53.19,Default,,0,0,0,,Countless pirates fight\Ndesperately for the One Piece,
+Dialogue: 0,0:02:53.19,0:02:55.29,Default,,0,0,0,,the great treasure left behind\Nby Gold Roger, the Pirate King.
+Dialogue: 0,0:02:56.79,0:03:01.63,Default,,0,0,0,,Monkey D. Luffy, a boy whose body\Nturned to rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:01.63,0:03:03.67,Default,,0,0,0,,also takes to the sea\Nto become the next Pirate King.
+Dialogue: 0,0:03:04.47,0:03:08.51,Default,,0,0,0,,As Luffy and his friends\Novercome numerous adventures,
+Dialogue: 0,0:03:08.51,0:03:13.31,Default,,0,0,0,,the World Government is less and less\Nable to ignore their existence.
+Dialogue: 0,0:03:14.45,0:03:16.15,Default,,0,0,0,,This is exciting!
+Dialogue: 0,0:03:16.91,0:03:19.75,Default,,0,0,0,,What adventure is waiting for us next?!
+Dialogue: 0,0:03:20.18,0:03:23.29,Default,,0,0,0,,The crew, on its way to the New World,
+Dialogue: 0,0:03:23.29,0:03:26.46,Default,,0,0,0,,will speed along the Grand Line again today!
 Dialogue: 0,0:03:32.50,0:03:38.40,Default,,0,0,0,,Luffy was depressed after losing his \Nbrother Ace in the war against the Navy.
 Dialogue: 0,0:03:38.40,0:03:41.64,Default,,0,0,0,,The Pirate King?!
 Dialogue: 0,0:03:41.64,0:03:45.84,Default,,0,0,0,,I'm too weak!!
@@ -136,12 +135,13 @@ Dialogue: 0,0:04:24.05,0:04:29.55,Default,,0,0,0,,You're the only captain who ca
 Dialogue: 0,0:04:32.72,0:04:36.73,Default,,0,0,0,,Luffy, if I can see you again...
 Dialogue: 0,0:04:37.76,0:04:40.83,Default,,0,0,0,,I'll give you the greatest \Nsupport in the world as a cook
 Dialogue: 0,0:04:40.83,0:04:44.03,Default,,0,0,0,,so you can become the Pirate King!
-Dialogue: 0,0:04:45.94,0:04:54.88,Title Card - Top,,0,0,0,,{\blur0.6\fad(1967,1967)\c&H000000&\1a&HFF&\t(1922,1967,\1a&H00&)\t(6973,7018,\1a&HFF&)}I Will Get Much, {\i1}Much{\i0} Stronger!
-Dialogue: 1,0:04:45.94,0:04:54.88,Title Card - Top,,0,0,0,,{\bord0\blur0.6\fad(1967,1967)\4a&HFF&}I Will Get Much, {\i1}Much{\i0} Stronger!
-Dialogue: 0,0:04:45.94,0:04:54.88,Title Card - Bottom,,0,0,0,,{\blur0.6\fad(1967,1967)\c&H000000&\1a&HFF&\t(1922,1967,\1a&H00&)\t(6973,7018,\1a&HFF&)}Zoro's Pledge to His Captain
-Dialogue: 1,0:04:45.94,0:04:54.88,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\fad(1967,1967)\4a&HFF&}Zoro's Pledge to His Captain
+Dialogue: 0,0:04:45.94,0:04:54.91,Title Card - Top,,0,0,0,,{\blur0.3\fad(1967,1967)\c&H000000&\1a&HFF&\t(1922,1967,\1a&H00&)\t(7003,7048,\1a&HFF&)}I Will Get Much, {\i1}Much{\i0} Stronger!
+Dialogue: 1,0:04:45.94,0:04:54.91,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1967,1967)\4a&HFF&}I Will Get Much, {\i1}Much{\i0} Stronger!
+Dialogue: 0,0:04:45.94,0:04:54.91,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1967,1967)\c&H000000&\1a&HFF&\t(1922,1967,\1a&H00&)\t(7003,7048,\1a&HFF&)}Zoro's Pledge to His Captain
+Dialogue: 1,0:04:45.94,0:04:54.91,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1967,1967)\4a&HFF&}Zoro's Pledge to His Captain
 Dialogue: 0,0:04:55.18,0:04:58.22,DefaultLow,,0,0,0,,On the Sword Mountain Island -
-Dialogue: 0,0:04:55.11,0:05:00.12,"Sign",,0,0,0,,"Grand Line\NSword Mountain Island, Tehna Gehna Kingdom"
+Dialogue: 0,0:04:55.11,0:05:00.12,Sign,,0,0,380,,{\blur0.3\fad(1000,530)\fs67\bord2.2\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(4480,4525,\1a&HFF&)}Grand Line\NSword Mountain Island, Tehna Gehna Kingdom
+Dialogue: 1,0:04:55.11,0:05:00.12,Sign,,0,0,380,,{\blur0.3\fad(1000,530)\fs67\bord0\4a&HFF&}Grand Line\NSword Mountain Island, Tehna Gehna Kingdom
 Dialogue: 0,0:04:58.22,0:05:00.12,DefaultLow,,0,0,0,,Tehna Gehna Kingdom in the Grand Line...
 Dialogue: 0,0:05:00.12,0:05:03.59,DefaultLow,,0,0,0,,Come one! Come all!
 Dialogue: 0,0:05:06.29,0:05:09.09,Default,,0,0,0,,So many people are here! \NWhat is there to see?!
@@ -208,7 +208,8 @@ Dialogue: 0,0:09:22.08,0:09:25.35,Default,,0,0,0,,--What's this rhythm?\N--It ma
 Dialogue: 0,0:09:31.42,0:09:34.56,Default,,0,0,0,,Check out my latest single -
 Dialogue: 0,0:09:34.56,0:09:37.63,Default,,0,0,0,,Bone to be Wild!
 Dialogue: 0,0:09:43.83,0:09:48.44,DefaultLow,,0,0,0,,Meanwhile, near the giant bridge in the East Blue...
-Dialogue: 0,0:09:44.17,0:09:49.14,"Sign",,0,0,0,,"Giant bridge in the East Blue"
+Dialogue: 0,0:09:44.17,0:09:49.14,Sign,,0,0,230,,{\blur0.3\fad(750,770)\fs67\bord2.2\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(4200,4245,\1a&HFF&)}Giant bridge in the East Blue
+Dialogue: 1,0:09:44.17,0:09:49.14,Sign,,0,0,230,,{\blur0.3\fad(750,770)\fs67\bord0\4a&HFF&}Giant bridge in the East Blue
 Dialogue: 0,0:09:49.54,0:09:52.41,Default,,0,0,0,,What made you change your mind?
 Dialogue: 0,0:09:52.41,0:09:54.58,Default,,0,0,0,,Now you agree to go to Baltigo with us.
 Dialogue: 0,0:09:55.38,0:09:57.45,Default,,0,0,0,,Well, we're really glad anyway.
@@ -263,7 +264,8 @@ Dialogue: 0,0:13:46.18,0:13:48.55,Default,,0,0,0,,...under your father?
 Dialogue: 0,0:13:51.18,0:13:54.18,Default,,0,0,0,,I never thought that I'd \Nwant to get stronger...
 Dialogue: 0,0:13:55.35,0:13:57.42,Default,,0,0,0,,...for somebody else.
 Dialogue: 0,0:14:13.47,0:14:18.17,DefaultLow,,0,0,0,,Meanwhile, on Bowin Islands in the Grand Line...
-Dialogue: 0,0:14:16.51,0:14:20.48,"Sign",,0,0,0,,"Grand Line\NBowin Islands"
+Dialogue: 0,0:14:16.47,0:14:20.48,Sign,,0,0,373,,{\blur0.3\fad(1020,0)\fs67\bord2.2\c&H000000&\1a&HFF&\t(975,1020,\1a&H00&)}Grand Line\NBowin Islands
+Dialogue: 1,0:14:16.47,0:14:20.48,Sign,,0,0,373,,{\blur0.3\fad(1020,0)\fs67\bord0\4a&HFF&}Grand Line\NBowin Islands
 Dialogue: 0,0:14:21.28,0:14:23.85,Default,,0,0,0,,What is it this time'n, Usopp'n?
 Dialogue: 0,0:14:23.85,0:14:26.85,Default,,0,0,0,,First, I'll lose weight! \NThen, improve my strength!
 Dialogue: 0,0:14:26.85,0:14:29.12,Default,,0,0,0,,Oh, you better do that!
@@ -323,7 +325,8 @@ Dialogue: 0,0:17:42.68,0:17:46.88,Default,,0,0,0,,Run, Usopp'n! This forest \Nwi
 Dialogue: 0,0:17:47.78,0:17:49.89,Default,,0,0,0,,To make you the Pirate King,
 Dialogue: 0,0:17:50.49,0:17:53.79,Default,,0,0,0,,I'll \Nbecome the real Sniper King!
 Dialogue: 0,0:18:00.66,0:18:04.73,DefaultLow,,0,0,0,,Meanwhile, on Gloom Island in the Grand Line...
-Dialogue: 0,0:18:01.93,0:18:07.67,"Sign",,0,0,0,,"Grand Line\NGloom Island, the Ruins of Muggy Kingdom"
+Dialogue: 0,0:18:01.93,0:18:07.67,Sign,,0,0,380,,{\blur0.3\fad(750,520)\fs67\bord2.2\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(5220,5265,\1a&HFF&)}Grand Line\NGloom Island, the Ruins of Muggy Kingdom
+Dialogue: 1,0:18:01.93,0:18:07.67,Sign,,0,0,380,,{\blur0.3\fad(750,520)\fs67\bord0\4a&HFF&}Grand Line\NGloom Island, the Ruins of Muggy Kingdom
 Dialogue: 0,0:18:04.73,0:18:06.87,DefaultLow,,0,0,0,,the ruins of Muggy Kingdom.
 Dialogue: 0,0:18:08.00,0:18:08.84,DefaultLow,,0,0,0,,Please!
 Dialogue: 0,0:18:16.55,0:18:18.88,Default,,0,0,0,,Train me as a swordsman!
@@ -401,7 +404,7 @@ Dialogue: 0,0:23:34.26,0:23:37.17,Default,,0,0,0,,awaiting him in the New World!
 Dialogue: 0,0:23:37.17,0:23:38.43,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:38.43,0:23:42.14,Default,,0,0,0,,"Luffy's Training Begins\NMeet in Two Years, at the Promised Place"
 Dialogue: 0,0:23:42.14,0:23:44.54,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.6\c&H000000&}Luffy's Training Begins
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Luffy's Training Begins
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.6\c&H000000&}Meet in Two Years, at the Promised Place
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Meet in Two Years, at the Promised Place
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Luffy's Training Begins
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Luffy's Training Begins
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Meet in Two Years, at the Promised Place
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Meet in Two Years, at the Promised Place
