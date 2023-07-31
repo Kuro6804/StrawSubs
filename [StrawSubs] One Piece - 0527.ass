@@ -23,10 +23,10 @@ Audio File: [Panda-Raws] One Piece - 0527 (WEB 1080p AMZN JP 29.970fps EAC3) [F4
 Video File: [Panda-Raws] One Piece - 0527 (WEB 1080p AMZN JP 29.970fps EAC3) [F4D95677].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.562500
-Scroll Position: 366
-Active Line: 378
-Video Position: 42650
+Video Zoom Percent: 0.437500
+Scroll Position: 83
+Active Line: 99
+Video Position: 11122
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -124,10 +124,10 @@ Dialogue: 0,0:04:04.33,0:04:08.97,Default,,0,0,0,,If that's Fishman Island,\Ntha
 Dialogue: 0,0:04:15.61,0:04:18.64,Default,,0,0,0,,Yeah! We made it!
 Dialogue: 0,0:04:20.64,0:04:22.41,Default,,0,0,0,,Hey, what are they?!
 Dialogue: 0,0:04:26.38,0:04:28.45,Default,,0,0,0,,Who are they?
-Dialogue: 0,0:04:28.99,0:04:31.36,Default,,0,0,0,,A pack of sea beasts!
+Dialogue: 0,0:04:28.99,0:04:31.36,Default,,0,0,0,,A pack of sea monsters!
 Dialogue: 0,0:04:33.19,0:04:36.03,Default,,0,0,0,,We're dead! After we got all the way here!
 Dialogue: 0,0:04:37.23,0:04:40.06,Default,,0,0,0,,They're so cool!
-Dialogue: 0,0:04:40.06,0:04:41.93,Default,,0,0,0,,Sea beasts!
+Dialogue: 0,0:04:40.06,0:04:41.93,Default,,0,0,0,,Sea monsters!
 Dialogue: 0,0:04:45.17,0:04:47.60,Default,,0,0,0,,Somebody's riding them!
 Dialogue: 0,0:04:48.14,0:04:57.15,Title Card - Top,,0,0,0,,{\blur0.3\fad(1978,1978)\c&H000000&\1a&HFF&\t(1933,1978,\1a&H00&)\t(7032,7077,\1a&HFF&)}Landing at Fishman Island
 Dialogue: 1,0:04:48.14,0:04:57.15,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1978,1978)\4a&HFF&}Landing at Fishman Island
@@ -139,7 +139,7 @@ Dialogue: 0,0:05:21.54,0:05:25.98,Default,,0,0,0,,What are you doing, Surume?! W
 Dialogue: 0,0:05:25.98,0:05:30.51,Default,,0,0,0,,Saying that won't help!\NHang on! Don't get thrown off!
 Dialogue: 0,0:05:30.51,0:05:31.68,Default,,0,0,0,,My eyes are spinning!
 Dialogue: 0,0:05:31.68,0:05:35.09,Default,,0,0,0,,So are mine! But I don't have eyes!
-Dialogue: 0,0:06:11.09,0:06:14.49,Default,,0,0,0,,We're right in middle of the sea beasts!
+Dialogue: 0,0:06:11.09,0:06:14.49,Default,,0,0,0,,We're right in middle of the sea monsters!
 Dialogue: 0,0:06:16.13,0:06:18.73,Default,,0,0,0,,You guys are the Straw Hats, aren't you?
 Dialogue: 0,0:06:18.73,0:06:20.95,Default,,0,0,0,,Wh-Who are you?
 Dialogue: 0,0:06:20.95,0:06:23.03,Default,,0,0,0,,How do you know about us?
@@ -150,13 +150,13 @@ Dialogue: 0,0:06:37.61,0:06:42.85,Default,,0,0,0,,But two years ago, you protect
 Dialogue: 0,0:06:43.72,0:06:47.96,Default,,0,0,0,,And we heard you even beat up those detestable Celestial Dragons!
 Dialogue: 0,0:06:49.59,0:06:55.67,Default,,0,0,0,,Your deeds are exactly like those of our beloved Fisher Tiger, the hero of Fishman Island.
 Dialogue: 0,0:06:56.20,0:06:58.17,Default,,0,0,0,,Fisher... Tiger?
-Dialogue: 0,0:06:58.30,0:07:03.14,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord2.3\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}New Fishman Pirates, Combatant Hammond
+Dialogue: 0,0:06:58.30,0:07:03.14,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}New Fishman Pirates, Combatant Hammond
 Dialogue: 1,0:06:58.30,0:07:03.14,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord0\4a&HFF&}New Fishman Pirates, Combatant Hammond
 Dialogue: 0,0:07:00.67,0:07:03.14,DefaultLow,,0,0,0,,What are we supposed to do with you?
 Dialogue: 0,0:07:03.14,0:07:08.88,DefaultLow,,0,0,0,,So, tell me, are you with us or against us?
-Dialogue: 0,0:07:03.27,0:07:08.88,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord2.3\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}New Fishman Pirates, Assassin Hyouzou
+Dialogue: 0,0:07:03.27,0:07:08.88,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}New Fishman Pirates, Assassin Hyouzou
 Dialogue: 1,0:07:03.27,0:07:08.88,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord0\4a&HFF&}New Fishman Pirates, Assassin Hyouzou
-Dialogue: 0,0:07:09.01,0:07:15.19,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord2.3\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}New Fishman Pirates, Combatant Kasagon
+Dialogue: 0,0:07:09.01,0:07:15.19,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}New Fishman Pirates, Combatant Kasagon
 Dialogue: 1,0:07:09.01,0:07:15.19,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord0\4a&HFF&}New Fishman Pirates, Combatant Kasagon
 Dialogue: 0,0:07:09.48,0:07:11.92,DefaultLow,,0,0,0,,I'll give you an choice.
 Dialogue: 0,0:07:12.45,0:07:16.25,DefaultLow,,0,0,0,,Will you submit to the New Fishman Pirates?
@@ -209,7 +209,7 @@ Dialogue: 0,0:10:40.46,0:10:42.29,Default,,0,0,0,,Oh, look ahead!
 Dialogue: 0,0:10:42.99,0:10:44.69,Default,,0,0,0,,What is that?!
 Dialogue: 0,0:10:45.70,0:10:48.97,Default,,0,0,0,,There are two layers of bubble!
 Dialogue: 0,0:10:48.97,0:10:52.37,Default,,0,0,0,,In this layer of air, a normal ship would fall into the gap between them!
-Dialogue: 0,0:10:52.94,0:10:57.14,Default,,0,0,0,,We're gonna hit another one!\NHold on tight!
+Dialogue: 0,0:10:52.94,0:10:57.14,Default,,0,0,0,,We're gonna hit another one! Hold on tight!
 Dialogue: 0,0:11:05.22,0:11:06.52,Default,,0,0,0,,Seawater?!
 Dialogue: 0,0:11:18.13,0:11:20.60,Default,,0,0,0,,The current's too strong!
 Dialogue: 0,0:11:26.55,0:11:28.24,Default,,0,0,0,,Help... me...
