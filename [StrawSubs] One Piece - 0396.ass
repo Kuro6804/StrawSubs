@@ -22,18 +22,18 @@ Audio File: [Panda-Raws] One Piece - 0396 (WEB 1080p AMZN JP EAC3) [B3C275B2].mk
 Video File: [Panda-Raws] One Piece - 0396 (WEB 1080p AMZN JP EAC3) [B3C275B2].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 161
-Active Line: 169
-Video Position: 14486
+Video Zoom Percent: 0.562500
+Scroll Position: 335
+Active Line: 342
+Video Position: 34072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,87,100,0,0,1,3.8,0,2,10,10,32,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
-Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
-Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
+Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
+Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -119,10 +119,10 @@ Dialogue: 0,0:03:44.51,0:03:47.16,Default,,0,0,0,,...Nami and company were the f
 Dialogue: 0,0:03:47.90,0:03:50.29,Default,,0,0,0,,And, while the auctioning continued,
 Dialogue: 0,0:03:50.71,0:03:55.02,Default,,0,0,0,,Luffy and four others had yet \Nto reach the auction house!
 Dialogue: 0,0:03:57.54,0:04:02.17,Default,,0,0,0,,We will save you! Hang on, Camie!
-Dialogue: 0,0:04:02.18,0:04:11.15,Title Card - Top,,0,0,0,,{\blur0.8\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Fist Explodes!
-Dialogue: 1,0:04:02.18,0:04:11.15,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1982,1982)\4a&HFF&}The Fist Explodes!
-Dialogue: 0,0:04:02.18,0:04:11.15,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Destroy the Auction
-Dialogue: 1,0:04:02.18,0:04:11.15,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1982,1982)\4a&HFF&}Destroy the Auction
+Dialogue: 0,0:04:02.18,0:04:11.15,Title Card - Top,,0,0,180,,{\blur0.8\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Fist Explodes!
+Dialogue: 1,0:04:02.18,0:04:11.15,Title Card - Top,,0,0,180,,{\bord0\blur0.8\fad(1982,1982)\4a&HFF&}The Fist Explodes!
+Dialogue: 0,0:04:02.18,0:04:11.15,Title Card - Bottom,,0,0,263,,{\blur0.8\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Destroy the Auction
+Dialogue: 1,0:04:02.18,0:04:11.15,Title Card - Bottom,,0,0,263,,{\bord0\blur0.8\fad(1982,1982)\4a&HFF&}Destroy the Auction
 Dialogue: 0,0:04:13.38,0:04:18.62,Default,,0,0,0,,Entry #15! The beautiful dancer, Pashia!
 Dialogue: 0,0:04:18.62,0:04:21.93,Default,,0,0,0,,Incredibly, her starting \Nprice of 800,000 Berries
 Dialogue: 0,0:04:21.93,0:04:26.72,Default,,0,0,0,,has rocketed to the sky-high \Nprice of 7.2 million Berries!
@@ -378,7 +378,7 @@ Dialogue: 0,0:23:33.46,0:23:35.22,Default,,0,0,0,,I don't wanna!
 Dialogue: 0,0:23:35.22,0:23:36.71,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:36.71,0:23:40.02,Default,,0,0,0,,"Major Panic!\NDesperate Struggle at the Auction House"
 Dialogue: 0,0:23:40.02,0:23:41.89,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:41.07,0:23:45.11,Title Card - Top,,0,0,0,,{\blur0.8\c&H000000&}Major Panic!
-Dialogue: 1,0:23:41.07,0:23:45.11,Title Card - Top,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Major Panic!
+Dialogue: 0,0:23:41.07,0:23:45.11,Title Card - Top,,0,0,155,,{\blur0.8\c&H000000&}Major Panic!
+Dialogue: 1,0:23:41.07,0:23:45.11,Title Card - Top,,0,0,155,,{\bord0\blur0.8\4a&HFF&}Major Panic!
 Dialogue: 0,0:23:41.07,0:23:45.11,Title Card - Bottom,,0,0,0,,{\blur0.8\c&H000000&}Desperate Struggle at the Auction House
 Dialogue: 1,0:23:41.07,0:23:45.11,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Desperate Struggle at the Auction House

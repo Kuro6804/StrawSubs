@@ -22,18 +22,18 @@ Audio File: [Panda-Raws] One Piece - 0416 (WEB 1080p AMZN JP EAC3) [3BEC9AFF].mk
 Video File: [Panda-Raws] One Piece - 0416 (WEB 1080p AMZN JP EAC3) [3BEC9AFF].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.562500
-Scroll Position: 172
-Active Line: 173
-Video Position: 15509
+Video Zoom Percent: 0.687500
+Scroll Position: 350
+Active Line: 351
+Video Position: 34072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,87,100,0,0,1,3.8,0,2,10,10,32,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
-Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
-Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
+Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
+Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -104,10 +104,10 @@ Dialogue: 1,0:02:40.68,0:02:44.98,Opening,,0,0,0,,{\bord0\blur0.8\4a&HFF&}Come o
 Dialogue: 0,0:02:48.08,0:02:50.88,Default,,0,0,0,,After realizing the purity of his heart
 Dialogue: 0,0:02:50.88,0:02:54.26,Default,,0,0,0,,and hearing about his fight \Nagainst the Celestial Dragons,
 Dialogue: 0,0:02:54.26,0:02:57.31,Default,,0,0,0,,Hancock finally came to trust Luffy.
-Dialogue: 0,0:02:59.33,0:03:08.25,Title Card - Top,,0,0,0,,{\blur0.8\fad(1962,1962)\pos(724.69,180)\c&H000000&\1a&HFF&\t(1917,1962,\1a&H00&)\t(6958,7003,\1a&HFF&)}Saving Ace!
-Dialogue: 1,0:02:59.33,0:03:08.25,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1962,1962)\pos(724.69,180)\4a&HFF&}Saving Ace!
-Dialogue: 0,0:02:59.33,0:03:08.25,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1962,1962)\pos(992,855)\c&H000000&\1a&HFF&\t(1917,1962,\1a&H00&)\t(6958,7003,\1a&HFF&)}Next Stop: the Great Prison
-Dialogue: 1,0:02:59.33,0:03:08.25,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1962,1962)\pos(992,855)\4a&HFF&}Next Stop: the Great Prison
+Dialogue: 0,0:02:59.33,0:03:08.25,Title Card - Top,,0,0,0,,{\blur0.8\fad(1962,1962)\pos(712,170)\c&H000000&\1a&HFF&\t(1917,1962,\1a&H00&)\t(6958,7003,\1a&HFF&)}Saving Ace!
+Dialogue: 1,0:02:59.33,0:03:08.25,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1962,1962)\pos(712,170)\4a&HFF&}Saving Ace!
+Dialogue: 0,0:02:59.33,0:03:08.25,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1962,1962)\pos(993,852)\c&H000000&\1a&HFF&\t(1917,1962,\1a&H00&)\t(6958,7003,\1a&HFF&)}Next Stop: the Great Prison
+Dialogue: 1,0:02:59.33,0:03:08.25,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1962,1962)\pos(993,852)\4a&HFF&}Next Stop: the Great Prison
 Dialogue: 0,0:03:08.61,0:03:12.17,Default,,0,0,0,,Are you really gonna give me a ride?!
 Dialogue: 0,0:03:12.17,0:03:16.63,Default,,0,0,0,,Don't worry. I wouldn't lie.
 Dialogue: 0,0:03:16.63,0:03:20.67,Default,,0,0,0,,That's great! It doesn't have to be \Na great boat as long as it sails.
@@ -386,7 +386,7 @@ Dialogue: 0,0:23:31.80,0:23:34.89,Default,,0,0,0,,What could this illness be?
 Dialogue: 0,0:23:34.89,0:23:36.52,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:36.52,0:23:39.48,Default,,0,0,0,,"Love is Like a Hurricane!\NLove-Love Hancock"
 Dialogue: 0,0:23:39.48,0:23:41.84,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:41.07,0:23:45.20,Title Card - Top,,0,0,0,,{\blur0.8\pos(832,200)\c&H000000&}Love is Like a Hurricane!
-Dialogue: 1,0:23:41.07,0:23:45.20,Title Card - Top,,0,0,0,,{\bord0\blur0.8\pos(832,200)\4a&HFF&}Love is Like a Hurricane!
-Dialogue: 0,0:23:41.07,0:23:45.20,Title Card - Bottom,,0,0,0,,{\blur0.8\pos(1011.88,840)\c&H000000&}Love-Love Hancock
-Dialogue: 1,0:23:41.07,0:23:45.20,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\pos(1011.88,840)\4a&HFF&}Love-Love Hancock
+Dialogue: 0,0:23:41.07,0:23:45.20,Title Card - Top,,0,0,0,,{\blur0.8\pos(828,205)\c&H000000&}Love is Like a Hurricane!
+Dialogue: 1,0:23:41.07,0:23:45.20,Title Card - Top,,0,0,0,,{\bord0\blur0.8\pos(828,205)\4a&HFF&}Love is Like a Hurricane!
+Dialogue: 0,0:23:41.07,0:23:45.20,Title Card - Bottom,,0,0,0,,{\blur0.8\pos(1036,822)\c&H000000&}Love-Love Hancock
+Dialogue: 1,0:23:41.07,0:23:45.20,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\pos(1036,822)\4a&HFF&}Love-Love Hancock

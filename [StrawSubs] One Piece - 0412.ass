@@ -22,17 +22,17 @@ Audio File: [Panda-Raws] One Piece - 0412 (WEB 1080p AMZN JP EAC3) [5AF9350E].mk
 Video File: [Panda-Raws] One Piece - 0412 (WEB 1080p AMZN JP EAC3) [5AF9350E].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 341
-Active Line: 356
-Video Position: 34167
+Video Zoom Percent: 0.625000
+Scroll Position: 352
+Active Line: 359
+Video Position: 34072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,87,100,0,0,1,3.8,0,2,10,10,32,1
-Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
-Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
+Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
+Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -123,10 +123,10 @@ Dialogue: 0,0:04:11.49,0:04:12.36,Default,,0,0,0,,Hey...
 Dialogue: 0,0:04:12.80,0:04:14.30,Default,,0,0,0,,That thing on your back...
 Dialogue: 0,0:04:18.32,0:04:21.61,Default,,0,0,0,,It seems familiar somehow...
 Dialogue: 0,0:04:22.73,0:04:24.25,Default,,0,0,0,,You saw it, didn't you?!
-Dialogue: 0,0:04:24.29,0:04:33.21,Title Card - Top,,0,0,0,,{\blur0.8\fad(1945,1945)\pos(570.67,165)\c&H000000&\1a&HFF&\t(1900,1945,\1a&H00&)\t(6975,7020,\1a&HFF&)}Heartless Judgment!
-Dialogue: 1,0:04:24.29,0:04:33.21,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1945,1945)\pos(570.67,165)\4a&HFF&}Heartless Judgment!
-Dialogue: 0,0:04:24.29,0:04:33.21,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1945,1945)\pos(1022.22,860)\c&H000000&\1a&HFF&\t(1900,1945,\1a&H00&)\t(6975,7020,\1a&HFF&)}Margaret is Turned to Stone!!
-Dialogue: 1,0:04:24.29,0:04:33.21,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1945,1945)\pos(1022.22,860)\4a&HFF&}Margaret is Turned to Stone!!
+Dialogue: 0,0:04:24.29,0:04:33.21,Title Card - Top,,0,0,0,,{\blur0.8\fad(1945,1945)\pos(582,165)\c&H000000&\1a&HFF&\t(1900,1945,\1a&H00&)\t(6975,7020,\1a&HFF&)}Heartless Judgment!
+Dialogue: 1,0:04:24.29,0:04:33.21,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1945,1945)\pos(582,165)\4a&HFF&}Heartless Judgment!
+Dialogue: 0,0:04:24.29,0:04:33.21,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1945,1945)\pos(1010,847)\c&H000000&\1a&HFF&\t(1900,1945,\1a&H00&)\t(6975,7020,\1a&HFF&)}Margaret is Turned to Stone!!
+Dialogue: 1,0:04:24.29,0:04:33.21,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1945,1945)\pos(1010,847)\4a&HFF&}Margaret is Turned to Stone!!
 Dialogue: 0,0:04:35.51,0:04:36.50,Default,,0,0,0,,Big Sis!
 Dialogue: 0,0:04:36.70,0:04:39.34,Default,,0,0,0,,Big Sis! What happened?!
 Dialogue: 0,0:04:42.42,0:04:44.92,Default,,0,0,0,,Who is that? A man?!
@@ -392,7 +392,7 @@ Dialogue: 0,0:23:32.89,0:23:35.56,Default,,0,0,0,,However, it proves useless.
 Dialogue: 0,0:23:35.56,0:23:36.99,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:36.99,0:23:40.25,Default,,0,0,0,,"A Difficult Fight for Luffy!\NThe Snake Sisters' Haki Power!!"
 Dialogue: 0,0:23:40.25,0:23:42.37,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\blur0.8\pos(704,165)\c&H000000&}A Difficult Fight for Luffy!
-Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\bord0\blur0.8\pos(704,165)\4a&HFF&}A Difficult Fight for Luffy!
-Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\blur0.8\pos(1009.78,860)\c&H000000&}The Snake Sisters' Haki Power!!
-Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\pos(1009.78,860)\4a&HFF&}The Snake Sisters' Haki Power!!
+Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\blur0.8\pos(712,165)\c&H000000&}A Difficult Fight for Luffy!
+Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\bord0\blur0.8\pos(712,165)\4a&HFF&}A Difficult Fight for Luffy!
+Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\blur0.8\pos(1010,847)\c&H000000&}The Snake Sisters' Haki Power!!
+Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\pos(1010,847)\4a&HFF&}The Snake Sisters' Haki Power!!

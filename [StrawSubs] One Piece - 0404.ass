@@ -22,17 +22,17 @@ Audio File: [Panda-Raws] One Piece - 0404 (WEB 1080p AMZN JP EAC3) [F86B8E3D].mk
 Video File: [Panda-Raws] One Piece - 0404 (WEB 1080p AMZN JP EAC3) [F86B8E3D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 313
-Active Line: 323
+Video Zoom Percent: 0.687500
+Scroll Position: 321
+Active Line: 324
 Video Position: 34072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,87,100,0,0,1,3.8,0,2,10,10,32,1
-Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
-Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
+Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
+Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -143,10 +143,10 @@ Dialogue: 0,0:05:28.23,0:05:30.85,Default,,0,0,0,,Zoro-san's been hit by a beam!
 Dialogue: 0,0:05:31.41,0:05:32.19,Default,,0,0,0,,Yellow Monkey?!
 Dialogue: 0,0:05:32.90,0:05:36.78,Default,,0,0,0,,Navy Admiral Yellow Monkey also appeared,
 Dialogue: 0,0:05:36.78,0:05:41.48,Default,,0,0,0,,and the crew found itself in an \Nextraordinarily desperate situation.
-Dialogue: 0,0:05:44.28,0:05:53.21,Title Card - Top,,0,0,0,,{\blur0.8\fad(1965,1965)\pos(851.56,165)\c&H000000&\1a&HFF&\t(1920,1965,\1a&H00&)\t(6965,7010,\1a&HFF&)}Admiral Yellow Monkey's Fierce Assault
-Dialogue: 1,0:05:44.28,0:05:53.21,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1965,1965)\pos(851.56,165)\4a&HFF&}Admiral Yellow Monkey's Fierce Assault
-Dialogue: 0,0:05:44.28,0:05:53.21,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1965,1965)\pos(999.11,860)\c&H000000&\1a&HFF&\t(1920,1965,\1a&H00&)\t(6965,7010,\1a&HFF&)}The Straw Hats Face Certain Death!
-Dialogue: 1,0:05:44.28,0:05:53.21,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1965,1965)\pos(999.11,860)\4a&HFF&}The Straw Hats Face Certain Death!
+Dialogue: 0,0:05:44.28,0:05:53.21,Title Card - Top,,0,0,0,,{\blur0.8\fad(1965,1965)\pos(777,160)\c&H000000&\1a&HFF&\t(1920,1965,\1a&H00&)\t(6965,7010,\1a&HFF&)}Admiral Yellow Monkey's Fierce Assault
+Dialogue: 1,0:05:44.28,0:05:53.21,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1965,1965)\pos(777,160)\4a&HFF&}Admiral Yellow Monkey's Fierce Assault
+Dialogue: 0,0:05:44.28,0:05:53.21,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1965,1965)\pos(1009,847)\c&H000000&\1a&HFF&\t(1920,1965,\1a&H00&)\t(6965,7010,\1a&HFF&)}The Straw Hats Face Certain Death!
+Dialogue: 1,0:05:44.28,0:05:53.21,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1965,1965)\pos(1009,847)\4a&HFF&}The Straw Hats Face Certain Death!
 Dialogue: 0,0:05:59.86,0:06:00.62,Default,,0,0,0,,Here it comes!
 Dialogue: 0,0:06:30.48,0:06:31.78,Default,,0,0,0,,H-He got me...
 Dialogue: 0,0:06:32.52,0:06:34.65,Default,,0,0,0,,Hey, you, damn Warlord of the Sea!
@@ -359,7 +359,7 @@ Dialogue: 0,0:23:30.19,0:23:31.60,Default,,0,0,0,,Nami... Zoro...
 Dialogue: 0,0:23:32.30,0:23:35.99,Default,,0,0,0,,Why can't I save even one of my friends?
 Dialogue: 0,0:23:37.15,0:23:38.57,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:38.57,0:23:42.25,Default,,0,0,0,,"Eliminated Friends\NThe Final Day of the Straw Hat Crew"
-Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\blur0.8\pos(815.02,165)\c&H000000&}Eliminated Friends
-Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\bord0\blur0.8\pos(815.02,165)\4a&HFF&}Eliminated Friends
-Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\blur0.8\pos(1028.5,860)\c&H000000&}The Final Day of the Straw Hat Crew
-Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\pos(1028.5,860)\4a&HFF&}The Final Day of the Straw Hat Crew
+Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\blur0.8\pos(814,165)\c&H000000&}Eliminated Friends
+Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\bord0\blur0.8\pos(814,165)\4a&HFF&}Eliminated Friends
+Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\blur0.8\pos(1037,840)\c&H000000&}The Final Day of the Straw Hat Crew
+Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\pos(1037,840)\4a&HFF&}The Final Day of the Straw Hat Crew

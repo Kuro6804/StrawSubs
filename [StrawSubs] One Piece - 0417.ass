@@ -23,9 +23,9 @@ Video File: [Panda-Raws] One Piece - 0417 (WEB 1080p AMZN JP EAC3) [F41CE6C6].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 306
-Active Line: 314
-Video Position: 28681
+Scroll Position: 372
+Active Line: 381
+Video Position: 34072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,8 +33,8 @@ Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,1
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,20,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,87,100,0,0,1,3.8,0,2,10,10,32,1
 Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
-Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
-Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
+Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
+Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -127,10 +127,10 @@ Dialogue: 0,0:04:18.40,0:04:20.82,Default,,0,0,0,,Curse the Pirate Empress!
 Dialogue: 0,0:04:22.82,0:04:27.16,Default,,0,0,0,,Are you really not going to obey these \Nstrict orders from the World Government?
 Dialogue: 0,0:04:28.08,0:04:32.17,Default,,0,0,0,,If they revoke your title \Nof Warlord of the Sea,
 Dialogue: 0,0:04:32.17,0:04:37.17,Default,,0,0,0,,you know what will happen to your country.
-Dialogue: 0,0:04:37.51,0:04:46.43,Title Card - Top,,0,0,0,,{\blur0.8\fad(1962,1962)\pos(832,200)\c&H000000&\1a&HFF&\t(1917,1962,\1a&H00&)\t(6958,7003,\1a&HFF&)}Love is Like a Hurricane!
-Dialogue: 1,0:04:37.51,0:04:46.43,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1962,1962)\pos(832,200)\4a&HFF&}Love is Like a Hurricane!
-Dialogue: 0,0:04:37.51,0:04:46.43,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1962,1962)\pos(1011.88,840)\c&H000000&\1a&HFF&\t(1917,1962,\1a&H00&)\t(6958,7003,\1a&HFF&)}Love-Love Hancock
-Dialogue: 1,0:04:37.51,0:04:46.43,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1962,1962)\pos(1011.88,840)\4a&HFF&}Love-Love Hancock
+Dialogue: 0,0:04:37.51,0:04:46.43,Title Card - Top,,0,0,0,,{\blur0.8\fad(1962,1962)\pos(828,200)\c&H000000&\1a&HFF&\t(1917,1962,\1a&H00&)\t(6958,7003,\1a&HFF&)}Love is Like a Hurricane!
+Dialogue: 1,0:04:37.51,0:04:46.43,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1962,1962)\pos(828,200)\4a&HFF&}Love is Like a Hurricane!
+Dialogue: 0,0:04:37.51,0:04:46.43,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1962,1962)\pos(1036,817)\c&H000000&\1a&HFF&\t(1917,1962,\1a&H00&)\t(6958,7003,\1a&HFF&)}Love-Love Hancock
+Dialogue: 1,0:04:37.51,0:04:46.43,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1962,1962)\pos(1036,817)\4a&HFF&}Love-Love Hancock
 Dialogue: 0,0:04:46.39,0:04:48.39,Default,,0,0,0,,Big Sis! Hang in there!
 Dialogue: 0,0:04:48.39,0:04:50.19,Default,,0,0,0,,Big Sis!
 Dialogue: 0,0:04:52.98,0:04:56.15,Default,Gloriosa,0,0,0,,I heard the Snake Princess is sick.
@@ -416,7 +416,7 @@ Dialogue: 0,0:23:30.34,0:23:35.01,Default,,0,0,0,,Meanwhile, Franky ends up on a
 Dialogue: 0,0:23:35.01,0:23:36.43,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:36.43,0:23:40.08,Default,,0,0,0,,"The Crew's Whereabouts\NWeather Science and the Island of Machines"
 Dialogue: 0,0:23:40.08,0:23:42.13,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\blur0.8\pos(632.89,165)\c&H000000&}The Crew's Whereabouts
-Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\bord0\blur0.8\pos(632.89,165)\4a&HFF&}The Crew's Whereabouts
-Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\blur0.8\pos(988.44,858.22)\c&H000000&}Weather Science and the Island of Machines
-Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\pos(988.44,858.22)\4a&HFF&}Weather Science and the Island of Machines
+Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\blur0.8\pos(630,165)\c&H000000&}The Crew's Whereabouts
+Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\bord0\blur0.8\pos(630,165)\4a&HFF&}The Crew's Whereabouts
+Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\blur0.8\pos(990,847)\c&H000000&}Weather Science and the Island of Machines
+Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\pos(990,847)\4a&HFF&}Weather Science and the Island of Machines

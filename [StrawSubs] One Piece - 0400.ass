@@ -22,8 +22,8 @@ Audio File: [Panda-Raws] One Piece - 0400 (WEB 1080p AMZN JP EAC3) [DB6C6828].mk
 Video File: [Panda-Raws] One Piece - 0400 (WEB 1080p AMZN JP EAC3) [DB6C6828].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 342
+Video Zoom Percent: 0.687500
+Scroll Position: 345
 Active Line: 351
 Video Position: 34072
 
@@ -32,8 +32,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,87,100,0,0,1,3.8,0,2,10,10,32,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
-Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
-Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
+Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
+Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -117,8 +117,8 @@ Dialogue: 0,0:03:36.86,0:03:39.64,Default,,0,0,0,,the Straw Hat crew succeeded i
 Dialogue: 0,0:03:40.06,0:03:44.28,Default,,0,0,0,,However, a battle began \Nwith marines lying in wait.
 Dialogue: 0,0:03:44.53,0:03:46.53,Default,,0,0,0,,We're all set to escape!
 Dialogue: 0,0:03:47.00,0:03:51.16,Default,,0,0,0,,The group then attempted to break \Nthrough the Navy's siege and escape.
-Dialogue: 0,0:03:54.30,0:04:03.18,Title Card - Top,,0,0,210,,{\blur0.8\fad(1954,1954)\c&H000000&\1a&HFF&\t(1909,1954,\1a&H00&)\t(6926,6971,\1a&HFF&)}Roger and Rayleigh
-Dialogue: 1,0:03:54.30,0:04:03.18,Title Card - Top,,0,0,210,,{\bord0\blur0.8\fad(1954,1954)\4a&HFF&}Roger and Rayleigh
+Dialogue: 0,0:03:54.30,0:04:03.18,Title Card - Top,,0,0,225,,{\blur0.8\fad(1954,1954)\c&H000000&\1a&HFF&\t(1909,1954,\1a&H00&)\t(6926,6971,\1a&HFF&)}Roger and Rayleigh
+Dialogue: 1,0:03:54.30,0:04:03.18,Title Card - Top,,0,0,225,,{\bord0\blur0.8\fad(1954,1954)\4a&HFF&}Roger and Rayleigh
 Dialogue: 0,0:03:54.30,0:04:03.18,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1954,1954)\c&H000000&\1a&HFF&\t(1909,1954,\1a&H00&)\t(6926,6971,\1a&HFF&)}The Pirate King and His Right Hand Man
 Dialogue: 1,0:03:54.30,0:04:03.18,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1954,1954)\4a&HFF&}The Pirate King and His Right Hand Man
 Dialogue: 0,0:04:03.30,0:04:05.72,Default,,0,0,0,,Are you alive, Peterman-san?!

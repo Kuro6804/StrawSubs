@@ -22,19 +22,18 @@ Audio File: [Intervención] One Piece - 0492 [WEB 1080p AAC] [F186C4EF].mkv
 Video File: [Intervención] One Piece - 0492 [WEB 1080p AAC] [F186C4EF].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 372
-Active Line: 387
+Video Zoom Percent: 0.625000
+Scroll Position: 385
+Active Line: 388
 Video Position: 34191
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
-Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,20,0
+Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,32,1
-Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
-Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
+Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
+Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -172,7 +171,7 @@ Dialogue: 0,0:07:43.25,0:07:46.90,Default,Toriko,0,0,0,,Once we're through this 
 Dialogue: 0,0:07:51.03,0:07:52.40,Default,Chopper,0,0,0,,What was that?!
 Dialogue: 0,0:07:54.95,0:07:57.26,Default,Toriko,0,0,0,,I knew it. A Caste Leo.
 Dialogue: 0,0:07:57.66,0:07:58.87,Default,Sanji,0,0,0,,Caste Leo?
-Dialogue: 0,0:08:00.68,0:08:03.45,DefaultLow,Text,0,0,0,,Caste Leo (Mammal Beast) Capture Level 4
+Dialogue: 0,0:08:00.68,0:08:03.45,"Sign",Text,0,0,0,,"Caste Leo (Mammal Beast) Capture Level 4"
 Dialogue: 0,0:08:03.83,0:08:05.61,Default,Toriko,0,0,0,,Capture Level 4.
 Dialogue: 0,0:08:05.61,0:08:09.00,Default,,0,0,0,,Their manes are exquisite, \Nfluffy castella cake!
 Dialogue: 0,0:08:11.61,0:08:15.26,Default,Sanji,0,0,0,,Growling in that super deep voice... \NIs this supposed to be a joke?
@@ -276,7 +275,7 @@ Dialogue: 0,0:13:20.03,0:13:21.13,Default,Luffy,0,0,0,,Nami!
 Dialogue: 0,0:13:21.83,0:13:22.61,Default,Toriko,0,0,0,,That's...
 Dialogue: 0,0:13:23.56,0:13:25.44,Default,Toriko,0,0,0,,A Knock-out Koala!
 Dialogue: 0,0:13:25.44,0:13:27.41,Default,Toriko,0,0,0,,So he's their boss?
-Dialogue: 0,0:13:29.22,0:13:32.19,DefaultLow,Text,0,0,0,,Knock-out Koala (Marsupial Beast) Capture Level 5
+Dialogue: 0,0:13:29.22,0:13:32.19,"Sign",Text,0,0,0,,"Knock-out Koala (Marsupial Beast) Capture Level 5"
 Dialogue: 0,0:13:32.20,0:13:36.91,Default,Toriko,0,0,0,,They say that when Cocoalas reach \Nadulthood, they become Knock-out Koalas,
 Dialogue: 0,0:13:36.91,0:13:40.54,Default,Toriko,0,0,0,,but I've never heard of one getting that big.
 Dialogue: 0,0:13:42.05,0:13:45.78,Default,Toriko,0,0,0,,Now I know why the Caste Leos \Ndidn't attack the Cocoalas.
@@ -371,7 +370,7 @@ Dialogue: 0,0:20:24.39,0:20:27.49,Default,Toriko,0,0,0,,and capture the phantom 
 Dialogue: 0,0:20:27.75,0:20:32.41,Default,Sunny,0,0,0,,But it turns out the phantom ingredient \Nis not the Hungry-la Bird.
 Dialogue: 0,0:20:32.41,0:20:33.39,Default,All,0,0,0,,Huh?
 Dialogue: 0,0:20:33.39,0:20:36.50,Default,Rin,0,0,0,,You know, the characters for \N"bird" and "island" look similar.
-Dialogue: 0,0:20:36.52,0:20:41.67,On Top,Text,0,0,0,,Hungry-la Bird\N Hungry-la Island
+Dialogue: 0,0:20:36.52,0:20:41.67,"Sign",Text,0,0,0,,"Hungry-la Bird\N Hungry-la Island"
 Dialogue: 0,0:20:36.84,0:20:40.74,Default,Rin,0,0,0,,Apparently, whoever transcribed \Nit read the name wrong.
 Dialogue: 0,0:20:41.67,0:20:44.34,Default,Toriko,0,0,0,,Then, the phantom ingredient is...
 Dialogue: 0,0:20:48.80,0:20:52.69,Default,Toriko,0,0,0,,Not the Hungry-la Bird, \Nbut Hungry-la Island?!
@@ -425,8 +424,8 @@ Dialogue: 0,0:23:36.56,0:23:40.85,Default,Na,0,0,0,,The story of the strange bon
 Dialogue: 0,0:23:40.85,0:23:42.15,Default,Luffy,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:42.15,0:23:45.35,Default,Luffy,0,0,0,,"Luffy and Ace! \NThe Story of How the Brothers Met!"
 Dialogue: 0,0:23:45.35,0:23:47.51,Default,Luffy,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:46.03,0:23:50.03,Title Card - Top,,0,0,220,,{\blur0.4\c&H000000&}Luffy and Ace
-Dialogue: 1,0:23:46.03,0:23:50.03,Title Card - Top,,0,0,220,,{\bord0\blur0.4\4a&HFF&}Luffy and Ace
+Dialogue: 0,0:23:46.03,0:23:50.03,Title Card - Top,,0,0,225,,{\blur0.4\c&H000000&}Luffy and Ace
+Dialogue: 1,0:23:46.03,0:23:50.03,Title Card - Top,,0,0,225,,{\bord0\blur0.4\4a&HFF&}Luffy and Ace
 Dialogue: 0,0:23:46.03,0:23:50.03,Title Card - Bottom,,0,0,0,,{\blur0.4\c&H000000&}The Story of How the Brothers Met!
 Dialogue: 1,0:23:46.03,0:23:50.03,Title Card - Bottom,,0,0,0,,{\bord0\blur0.4\4a&HFF&}The Story of How the Brothers Met!
 Dialogue: 0,0:24:15.35,0:24:20.61,Opening,,0,0,0,,{\blur0.4\c&H000000&}Every time I look up to the sky after the rain

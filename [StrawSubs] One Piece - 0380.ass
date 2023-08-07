@@ -22,10 +22,10 @@ Audio File: [Panda-Raws] One Piece - 0380 (WEB 1080p AMZN JP EAC3) [BB0D7BFE].mk
 Video File: [Panda-Raws] One Piece - 0380 (WEB 1080p AMZN JP EAC3) [BB0D7BFE].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.812500
-Scroll Position: 226
-Active Line: 247
-Video Position: 26424
+Video Zoom Percent: 0.562500
+Scroll Position: 304
+Active Line: 310
+Video Position: 34192
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,9 +35,8 @@ Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 Style: Shanty ♪,FOT-Greco Std B,77,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,180,180,56,0
 Style: Sign,FOT-Rodin ProN DB,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.5,0,2,45,45,45,0
 Style: Sign2,FOT-Greco Std B,135,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.8,0,2,45,45,45,0
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
-Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
-Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
+Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
+Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -113,8 +112,8 @@ Dialogue: 0,0:03:27.88,0:03:31.96,Default,,0,0,0,,And then let's go on adventure
 Dialogue: 0,0:03:32.80,0:03:36.14,Default,,0,0,0,,We're buddies!
 Dialogue: 0,0:03:42.07,0:03:48.37,Default,,0,0,0,,Laboon! We'll now go into the\NGrand Line and travel around the world.
 Dialogue: 0,0:03:48.91,0:03:50.28,Default,,0,0,0,,But you wait for us here.
-Dialogue: 0,0:03:52.00,0:04:01.05,Title Card - Top,,0,0,0,,{\blur0.8\fad(1991,1991)\c&H000000&\1a&HFF&\t(1946,1991,\1a&H00&)\t(7059,7104,\1a&HFF&)}Binks' Brew
-Dialogue: 1,0:03:52.00,0:04:01.05,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1991,1991)\4a&HFF&}Binks' Brew
+Dialogue: 0,0:03:52.00,0:04:01.05,Title Card - Top,,0,0,215,,{\blur0.8\fad(1991,1991)\c&H000000&\1a&HFF&\t(1946,1991,\1a&H00&)\t(7059,7104,\1a&HFF&)}Binks' Brew
+Dialogue: 1,0:03:52.00,0:04:01.05,Title Card - Top,,0,0,215,,{\bord0\blur0.8\fad(1991,1991)\4a&HFF&}Binks' Brew
 Dialogue: 0,0:03:52.00,0:04:01.05,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1991,1991)\c&H000000&\1a&HFF&\t(1946,1991,\1a&H00&)\t(7059,7104,\1a&HFF&)}The Song Connecting Past and Present
 Dialogue: 1,0:03:52.00,0:04:01.05,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1991,1991)\4a&HFF&}The Song Connecting Past and Present
 Dialogue: 0,0:04:35.82,0:04:40.17,Default,,0,0,0,,Hey, Brook! Your quick draw is amazing!

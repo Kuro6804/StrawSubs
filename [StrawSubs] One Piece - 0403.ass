@@ -22,10 +22,10 @@ Audio File: [Panda-Raws] One Piece - 0403 (WEB 1080p AMZN JP EAC3) [13CCF585].mk
 Video File: [Panda-Raws] One Piece - 0403 (WEB 1080p AMZN JP EAC3) [13CCF585].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.812500
-Scroll Position: 227
-Active Line: 230
-Video Position: 24845
+Video Zoom Percent: 0.687500
+Scroll Position: 343
+Active Line: 344
+Video Position: 34072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,8 +34,8 @@ Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,87,100,0,0,1,3.8,0,2,10,10,32,1
 Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
 Style: Sign2,FOT-Greco Std B,135,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.8,0,2,45,45,45,0
-Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,8,45,45,165,0
-Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.7,0,2,45,45,220,0
+Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
+Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -150,10 +150,10 @@ Dialogue: 0,0:05:53.37,0:05:54.78,Default,,0,0,0,,Bastard...
 Dialogue: 0,0:05:55.26,0:05:58.73,Default,,0,0,0,,If you ain't Bartholomew Kuma, \Nthen who are you?!
 Dialogue: 0,0:05:59.33,0:06:01.82,Default,,0,0,0,,You look exactly like\N the Warlord of the Sea...
 Dialogue: 0,0:06:02.35,0:06:05.13,Default,,0,0,0,,What the hell's goin' on here?!
-Dialogue: 0,0:06:05.47,0:06:14.48,Title Card - Top,,0,0,0,,{\blur0.8\fad(1982,1982)\pos(834.28,165)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}An Even Stronger Enemy Appears!
-Dialogue: 1,0:06:05.47,0:06:14.48,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1982,1982)\pos(834.28,165)\4a&HFF&}An Even Stronger Enemy Appears!
-Dialogue: 0,0:06:05.47,0:06:14.48,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1982,1982)\pos(1078.6,860)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Battle Axe-Carrying Sentomaru
-Dialogue: 1,0:06:05.47,0:06:14.48,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1982,1982)\pos(1078.6,860)\4a&HFF&}The Battle Axe-Carrying Sentomaru
+Dialogue: 0,0:06:05.47,0:06:14.48,Title Card - Top,,0,0,0,,{\blur0.8\fad(1982,1982)\pos(842,165)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}An Even Stronger Enemy Appears!
+Dialogue: 1,0:06:05.47,0:06:14.48,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1982,1982)\pos(842,165)\4a&HFF&}An Even Stronger Enemy Appears!
+Dialogue: 0,0:06:05.47,0:06:14.48,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1982,1982)\pos(1100,847)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Battle Axe-Carrying Sentomaru
+Dialogue: 1,0:06:05.47,0:06:14.48,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1982,1982)\pos(1100,847)\4a&HFF&}The Battle Axe-Carrying Sentomaru
 Dialogue: 0,0:06:25.62,0:06:27.26,DefaultLow,,0,0,0,,You're in the way!
 Dialogue: 0,0:06:27.26,0:06:29.87,DefaultLow,,0,0,0,,Get the hell outta here, Trafalgar!
 Dialogue: 0,0:06:30.51,0:06:32.78,DefaultLow,,0,0,0,,I'm taking this guy down!
@@ -383,7 +383,7 @@ Dialogue: 0,0:23:31.96,0:23:34.90,Default,,0,0,0,,Everyone focus on escaping!
 Dialogue: 0,0:23:35.26,0:23:36.58,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:36.58,0:23:40.19,Default,,0,0,0,,"Admiral Yellow Monkey's Fierce Assault\NThe Straw Hats Face Certain Death!"
 Dialogue: 0,0:23:40.19,0:23:42.22,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\blur0.8\pos(851.56,165)\c&H000000&}Admiral Yellow Monkey's Fierce Assault
-Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\bord0\blur0.8\pos(851.56,165)\4a&HFF&}Admiral Yellow Monkey's Fierce Assault
-Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\blur0.8\pos(999.11,860)\c&H000000&}The Straw Hats Face Certain Death!
-Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\pos(999.11,860)\4a&HFF&}The Straw Hats Face Certain Death!
+Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\blur0.8\pos(777,160)\c&H000000&}Admiral Yellow Monkey's Fierce Assault
+Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Top,,0,0,0,,{\bord0\blur0.8\pos(777,160)\4a&HFF&}Admiral Yellow Monkey's Fierce Assault
+Dialogue: 0,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\blur0.8\pos(1009,847)\c&H000000&}The Straw Hats Face Certain Death!
+Dialogue: 1,0:23:41.07,0:23:45.07,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\pos(1009,847)\4a&HFF&}The Straw Hats Face Certain Death!
