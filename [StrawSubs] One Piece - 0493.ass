@@ -24,7 +24,7 @@ Video File: [Panda-Raws] One Piece - 0493 (WEB 1080p AMZN JP 29.970fps EAC3) [6D
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 361
+Scroll Position: 370
 Active Line: 373
 Video Position: 42650
 
@@ -37,8 +37,8 @@ Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,
 Style: Sign2,FOT-Greco Std B,111,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.3,0,2,45,45,45,0
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,28,1
-Style: Title Card - Top,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,3.3,0,8,45,45,165,0
-Style: Title Card - Bottom,M+ 1c,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,3.3,0,2,45,45,220,0
+Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
+Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -129,8 +129,8 @@ Dialogue: 0,0:03:40.07,0:03:46.18,Default,,0,0,0,,But his struggle ended in vain
 Dialogue: 0,0:03:51.75,0:03:55.39,Default,,0,0,0,,Ace is really dead, isn't he?!
 Dialogue: 0,0:03:55.39,0:03:58.12,Default,,0,0,0,,Yes, he is dead!
 Dialogue: 0,0:04:13.00,0:04:17.24,Default,,0,0,0,,Ace!!
-Dialogue: 0,0:04:18.81,0:04:27.82,Title Card - Top,,0,0,220,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Luffy and Ace
-Dialogue: 1,0:04:18.81,0:04:27.82,Title Card - Top,,0,0,220,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Luffy and Ace
+Dialogue: 0,0:04:18.81,0:04:27.82,Title Card - Top,,0,0,225,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Luffy and Ace
+Dialogue: 1,0:04:18.81,0:04:27.82,Title Card - Top,,0,0,225,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Luffy and Ace
 Dialogue: 0,0:04:18.81,0:04:27.82,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Story of How the Brothers Met!
 Dialogue: 1,0:04:18.81,0:04:27.82,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Story of How the Brothers Met!
 Dialogue: 0,0:04:30.82,0:04:36.53,Default,,0,0,0,,The Paramount War at Marineford left a scar in many people's mind.
