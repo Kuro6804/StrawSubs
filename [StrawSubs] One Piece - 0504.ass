@@ -24,14 +24,14 @@ Video File: [Panda-Raws] One Piece - 0504 (WEB 1080p AMZN JP 29.970fps EAC3) [6F
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.565000
-Scroll Position: 311
-Active Line: 317
-Video Position: 42648
+Scroll Position: 234
+Active Line: 243
+Video Position: 32619
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
+Style: Sign,FOT-Rodin ProN B,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
 Style: Sign2,FOT-Greco Std B,111,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.3,0,2,45,45,45,0
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,28,1
@@ -234,8 +234,8 @@ Dialogue: 0,0:12:05.08,0:12:08.21,Default,,0,0,0,,Shut up, you brats! You got to
 Dialogue: 0,0:12:11.92,0:12:14.35,Default,,0,0,0,,I'm gonna win today!
 Dialogue: 0,0:12:49.35,0:12:50.92,Default,,0,0,0,,--We did it!\N--We did it!
 Dialogue: 0,0:12:50.92,0:12:52.86,Default,,0,0,0,,Bear meat stew tonight!
-Dialogue: 0,0:13:52.32,0:13:56.99,Sign,,0,0,260,,{\blur0.3\fad(1000,700)\fs77\bord2.3\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(3970,4015,\1a&HFF&)}Seven years later
-Dialogue: 1,0:13:52.32,0:13:56.99,Sign,,0,0,260,,{\blur0.3\fad(1000,700)\fs77\bord0\4a&HFF&}Seven years later
+Dialogue: 0,0:13:52.32,0:13:56.99,Sign,,0,0,255,,{\blur0.3\fad(1000,700)\fs77\bord2.3\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(3970,4015,\1a&HFF&)}Seven years later
+Dialogue: 1,0:13:52.32,0:13:56.99,Sign,,0,0,255,,{\blur0.3\fad(1000,700)\fs77\bord0\4a&HFF&}Seven years later
 Dialogue: 0,0:13:58.35,0:14:02.76,Sign2,,0,0,244,,{\blur0.3\fad(750,700)\fs90\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(3710,3755,\1a&HFF&)}Ace, 17 years old
 Dialogue: 1,0:13:58.35,0:14:02.76,Sign2,,0,0,244,,{\bord0\blur0.3\fad(750,700)\fs90\4a&HFF&}Ace, 17 years old
 Dialogue: 0,0:14:04.09,0:14:09.03,Sign2,,0,0,244,,{\blur0.3\fad(750,0)\fs90\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Luffy, 14 years old
@@ -273,8 +273,8 @@ Dialogue: 0,0:17:14.38,0:17:16.45,Default,,0,0,0,,Gum-Gum...
 Dialogue: 0,0:17:16.45,0:17:17.85,Default,,0,0,0,,...Pistol!
 Dialogue: 0,0:17:31.27,0:17:32.77,Default,,0,0,0,,I wanna become stronger!
 Dialogue: 0,0:17:33.47,0:17:36.27,Default,,0,0,0,,I wanna become stronger!
-Dialogue: 0,0:17:36.94,0:17:39.18,Sign,,0,0,722,,{\blur0.3\fad(380,0)\fs130\bord0\c&H000000&\1a&HFF&\t(335,380,\1a&H00&)}A few months later
-Dialogue: 1,0:17:36.94,0:17:39.18,Sign,,0,0,722,,{\blur0.3\fad(380,0)\fs130\bord0\4a&HFF&}A few months later
+Dialogue: 0,0:17:36.94,0:17:39.18,Sign,,0,0,722,,{\blur0.3\fad(380,0)\fs126\bord0\c&H000000&\1a&HFF&\t(335,380,\1a&H00&)}A few months later
+Dialogue: 1,0:17:36.94,0:17:39.18,Sign,,0,0,722,,{\blur0.3\fad(380,0)\fs126\bord0\4a&HFF&}A few months later
 Dialogue: 0,0:17:44.31,0:17:46.05,Default,,0,0,0,,Luffy!
 Dialogue: 0,0:17:46.05,0:17:47.98,Default,,0,0,0,,Look at the newspaper!
 Dialogue: 0,0:17:47.98,0:17:49.09,Default,,0,0,0,,What is it?
@@ -283,10 +283,10 @@ Dialogue: 0,0:17:51.39,0:17:54.36,Default,,0,0,0,,Wow! Ace made his name!
 Dialogue: 0,0:17:54.36,0:17:56.83,Default,,0,0,0,,He got his own ship and crew!
 Dialogue: 0,0:17:56.83,0:18:00.20,Default,,0,0,0,,He's great! Ace is great!
 Dialogue: 0,0:18:02.23,0:18:04.23,Default,,0,0,0,,But I'm gonna top him!
-Dialogue: 0,0:18:08.37,0:18:12.38,Sign,,0,0,950,,{\blur0.3\fad(1020,0)\fs97\bord0\c&H000000&\1a&HFF&\t(975,1020,\1a&H00&)}Three years later
-Dialogue: 1,0:18:08.37,0:18:12.38,Sign,,0,0,950,,{\blur0.3\fad(1020,0)\fs97\bord0\4a&HFF&}Three years later
-Dialogue: 0,0:18:08.37,0:18:12.38,Sign,,0,0,470,,{\blur0.3\fad(1020,0)\fs123\bord0\c&H000000&\1a&HFF&\t(975,1020,\1a&H00&)}Luffy, 17 years old
-Dialogue: 1,0:18:08.37,0:18:12.38,Sign,,0,0,470,,{\blur0.3\fad(1020,0)\fs123\bord0\4a&HFF&}Luffy, 17 years old
+Dialogue: 0,0:18:08.37,0:18:12.38,Sign,,0,0,942,,{\blur0.3\fad(1020,0)\fs95\bord0\c&H000000&\1a&HFF&\t(975,1020,\1a&H00&)}Three years later
+Dialogue: 1,0:18:08.37,0:18:12.38,Sign,,0,0,942,,{\blur0.3\fad(1020,0)\fs95\bord0\4a&HFF&}Three years later
+Dialogue: 0,0:18:08.37,0:18:12.38,Sign,,0,0,460,,{\blur0.3\fad(1020,0)\fs123\bord0\c&H000000&\1a&HFF&\t(975,1020,\1a&H00&)}Luffy, 17 years old
+Dialogue: 1,0:18:08.37,0:18:12.38,Sign,,0,0,460,,{\blur0.3\fad(1020,0)\fs123\bord0\4a&HFF&}Luffy, 17 years old
 Dialogue: 0,0:18:12.38,0:18:14.24,Default,,0,0,0,,Hey, guys!
 Dialogue: 0,0:18:14.24,0:18:17.45,Default,,0,0,0,,I'm leaving now. You're not gonna see me off?
 Dialogue: 0,0:18:18.98,0:18:20.55,Default,,0,0,0,,How annoying.

@@ -24,16 +24,16 @@ Video File: [Panda-Raws] One Piece - 0491 (WEB 1080p AMZN JP 29.970fps EAC3) [AF
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 335
-Active Line: 339
-Video Position: 42585
+Scroll Position: 214
+Active Line: 223
+Video Position: 24579
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,20,0
 Style: Alt,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
+Style: Sign,FOT-Rodin ProN B,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,32,1
 Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
 Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
@@ -105,8 +105,8 @@ Dialogue: 0,0:03:58.22,0:04:07.20,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,19
 Dialogue: 1,0:03:58.22,0:04:07.20,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Landing at Maiden Island
 Dialogue: 0,0:03:58.22,0:04:07.20,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Harsh Reality Falls upon Luffy
 Dialogue: 1,0:03:58.22,0:04:07.20,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Harsh Reality Falls upon Luffy
-Dialogue: 0,0:04:07.30,0:04:11.30,Sign,,0,0,250,,{\blur0.3\fad(522,955)\fs88\bord2.4\c&H000000&\1a&HFF&\t(477,522,\1a&H00&)\t(3045,3090,\1a&HFF&)}West Blue
-Dialogue: 1,0:04:07.30,0:04:11.30,Sign,,0,0,250,,{\blur0.3\fad(522,955)\fs88\bord0\4a&HFF&}West Blue
+Dialogue: 0,0:04:07.30,0:04:11.30,Sign,,0,0,250,,{\blur0.3\fad(522,955)\fs84.8\bord2.4\c&H000000&\1a&HFF&\t(477,522,\1a&H00&)\t(3045,3090,\1a&HFF&)}West Blue
+Dialogue: 1,0:04:07.30,0:04:11.30,Sign,,0,0,250,,{\blur0.3\fad(522,955)\fs84.8\bord0\4a&HFF&}West Blue
 Dialogue: 0,0:04:36.16,0:04:38.40,Default,,0,0,0,,A pirate ship is approaching Lascamp, West Blue!
 Dialogue: 0,0:04:38.40,0:04:41.97,Default,,0,0,0,,All their ships are already engaged!
 Dialogue: 0,0:04:41.97,0:04:43.27,Default,,0,0,0,,The nearest bases in that area are...
@@ -121,8 +121,8 @@ Dialogue: 0,0:05:06.29,0:05:08.93,Default,,0,0,0,,Pirates have started raiding L
 Dialogue: 0,0:05:08.93,0:05:11.70,Default,,0,0,0,,We lost touch with the site! Send back-up!
 Dialogue: 0,0:05:11.70,0:05:14.00,Default,,0,0,0,,I repeat, send back-up to Lascamp!
 Dialogue: 0,0:05:16.13,0:05:20.87,Default,,0,0,0,,Load up supplies! Let's head for the Grand Line!
-Dialogue: 0,0:05:24.34,0:05:30.35,Sign,,0,0,250,,{\blur0.3\fad(555,1055)\fs99\bord2.4\c&H000000&\1a&HFF&\t(510,555,\1a&H00&)\t(4955,5000,\1a&HFF&)}New World, Foodvalten Island
-Dialogue: 1,0:05:24.34,0:05:30.35,Sign,,0,0,250,,{\blur0.3\fad(555,1055)\fs99\bord0\4a&HFF&}New World, Foodvalten Island
+Dialogue: 0,0:05:24.34,0:05:30.35,Sign,,0,0,250,,{\blur0.3\fad(555,1055)\fs95.7\bord2.4\c&H000000&\1a&HFF&\t(510,555,\1a&H00&)\t(4955,5000,\1a&HFF&)}New World, Foodvalten Island
+Dialogue: 1,0:05:24.34,0:05:30.35,Sign,,0,0,250,,{\blur0.3\fad(555,1055)\fs95.7\bord0\4a&HFF&}New World, Foodvalten Island
 Dialogue: 0,0:05:26.11,0:05:29.15,DefaultLow,,0,0,0,,Two weeks after the Paramount War,
 Dialogue: 0,0:05:29.15,0:05:33.05,DefaultLow,,0,0,0,,people started seeing effects around the world.
 Dialogue: 0,0:05:37.49,0:05:41.16,Default,,0,0,0,,Y-You can't come any further! Don't come into our town!
@@ -228,8 +228,8 @@ Dialogue: 0,0:11:55.33,0:11:58.70,Default,,0,0,0,,Luffy! Get better soon, alrigh
 Dialogue: 0,0:11:59.14,0:12:01.57,Default,Sweetpea,0,0,0,,Just by looking at Snake Princess-sama,
 Dialogue: 0,0:12:01.57,0:12:04.44,Default,Sweetpea,0,0,0,,I can tell that Luffy is in critical condition.
 Dialogue: 0,0:12:05.81,0:12:07.34,Default,,0,0,0,,Luffy...
-Dialogue: 0,0:12:08.41,0:12:13.42,Sign,,0,0,260,,{\blur0.3\fad(525,775)\fs88\bord2.4\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)\t(4235,4280,\1a&HFF&)}Maiden Island, Rocky Bay
-Dialogue: 1,0:12:08.41,0:12:13.42,Sign,,0,0,260,,{\blur0.3\fad(525,775)\fs88\bord0\4a&HFF&}Maiden Island, Rocky Bay
+Dialogue: 0,0:12:08.41,0:12:13.42,Sign,,0,0,260,,{\blur0.3\fad(525,775)\fs82\bord2.4\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)\t(4235,4280,\1a&HFF&)}Maiden Island, Rocky Bay
+Dialogue: 1,0:12:08.41,0:12:13.42,Sign,,0,0,260,,{\blur0.3\fad(525,775)\fs82\bord0\4a&HFF&}Maiden Island, Rocky Bay
 Dialogue: 0,0:12:08.41,0:12:10.31,DefaultLow,,0,0,0,,Two weeks have passed.
 Dialogue: 0,0:12:10.31,0:12:13.28,DefaultLow,,0,0,0,,Law's group dropped anchor in the bay...
 Dialogue: 0,0:12:13.28,0:12:16.19,DefaultLow,,0,0,0,,...and is working hard to treat Luffy's wounds.

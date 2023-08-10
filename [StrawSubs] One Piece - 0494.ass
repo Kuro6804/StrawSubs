@@ -24,16 +24,16 @@ Video File: [Panda-Raws] One Piece - 0494 (WEB 1080p AMZN JP 29.970fps EAC3) [19
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 331
-Active Line: 337
-Video Position: 42650
+Scroll Position: 129
+Active Line: 130
+Video Position: 15231
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,12,0
 Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,7,0
-Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
+Style: Sign,FOT-Rodin ProN B,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
 Style: Sign2,FOT-Greco Std B,111,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.3,0,2,45,45,45,0
 Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,28,1
 Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
@@ -171,17 +171,17 @@ Dialogue: 0,0:07:41.31,0:07:43.35,Default,,0,0,0,,Thief!
 Dialogue: 0,0:07:49.29,0:07:51.32,Default,,0,0,0,,Outta my way, brat!
 Dialogue: 0,0:07:52.22,0:07:55.46,Default,,0,0,0,,Hurry up! Or I'm gonna...
 Dialogue: 0,0:07:55.46,0:07:57.73,Default,,0,0,0,,He went that way!
-Dialogue: 0,0:08:28.19,0:08:32.13,Sign,,0,0,366,,{\blur0.3\fad(550,0)\fs107\bord2.4\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)}Middlewood\N{\fs60\bord2.2}Between Mt. Corvo and Gray Terminal
-Dialogue: 1,0:08:28.19,0:08:32.13,Sign,,0,0,366,,{\blur0.3\fad(550,0)\fs107\bord0\4a&HFF&}Middlewood\N{\fs60\bord0}Between Mt. Corvo and Gray Terminal
+Dialogue: 0,0:08:28.19,0:08:32.13,Sign,,0,0,366,,{\blur0.3\fad(550,0)\fs104.5\bord2.4\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)}Middlewood\N{\fs59.3\bord2.2}Between Mt. Corvo and Gray Terminal
+Dialogue: 1,0:08:28.19,0:08:32.13,Sign,,0,0,366,,{\blur0.3\fad(550,0)\fs104.5\bord0\4a&HFF&}Middlewood\N{\fs59.3\bord0}Between Mt. Corvo and Gray Terminal
 Dialogue: 0,0:08:36.60,0:08:38.44,Default,,0,0,0,,Sabo! Sabo, are you there?!
 Dialogue: 0,0:08:41.27,0:08:42.91,Default,,0,0,0,,Oh, Ace!
 Dialogue: 0,0:08:43.57,0:08:45.61,Default,,0,0,0,,Sorry I'm late.
 Dialogue: 0,0:08:45.61,0:08:47.04,Default,,0,0,0,,You sure are.
 Dialogue: 0,0:08:47.48,0:08:50.58,Default,,0,0,0,,{\an8}I've already done some work in the city.
-Dialogue: 0,0:08:47.68,0:08:52.18,Sign2,,0,0,0,,{\blur0.3\fad(520,0)\fs84\pos(958.77,750)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Sabo {\fs70}{\fnCandara}【{\fnFOT-Rodin ProN DB}10 years old{\fnCandara}】
-Dialogue: 1,0:08:47.68,0:08:52.18,Sign2,,0,0,0,,{\bord0\blur0.3\fad(520,0)\fs84\pos(958.77,750)\4a&HFF&}Sabo {\fs70}{\fnCandara}【{\fnFOT-Rodin ProN DB}10 years old{\fnCandara}】
-Dialogue: 0,0:08:47.68,0:08:52.18,Sign,,0,0,24,,{\blur0.3\fad(520,0)\fs60\bord2.3\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}(A boy living in Gray Terminal)
-Dialogue: 1,0:08:47.68,0:08:52.18,Sign,,0,0,24,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}(A boy living in Gray Terminal)
+Dialogue: 0,0:08:47.68,0:08:52.18,Sign2,,0,0,0,,{\blur0.3\fad(520,0)\fs84\pos(957,750)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Sabo {\fs70}{\fnCandara}【{\fnFOT-Rodin ProN B}10 years old{\fnCandara}】
+Dialogue: 1,0:08:47.68,0:08:52.18,Sign2,,0,0,0,,{\bord0\blur0.3\fad(520,0)\fs84\pos(957,750)\4a&HFF&}Sabo {\fs70}{\fnCandara}【{\fnFOT-Rodin ProN B}10 years old{\fnCandara}】
+Dialogue: 0,0:08:47.68,0:08:52.18,Sign,,0,0,22,,{\blur0.3\fad(520,0)\fs60\bord2.3\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}(A boy living in Gray Terminal)
+Dialogue: 1,0:08:47.68,0:08:52.18,Sign,,0,0,22,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}(A boy living in Gray Terminal)
 Dialogue: 0,0:08:53.38,0:08:56.09,Default,,0,0,0,,Oh yeah? Well, I did, too.
 Dialogue: 0,0:08:56.09,0:08:57.89,Default,,0,0,0,,At once!
 Dialogue: 0,0:08:57.89,0:09:01.76,Default,,0,0,0,,Whoa! You got a lot! Way more than I did!
@@ -241,8 +241,8 @@ Dialogue: 0,0:12:12.18,0:12:14.22,Default,,0,0,0,,Set him free for now!
 Dialogue: 0,0:12:14.22,0:12:17.09,Default,,0,0,0,,We gotta move from \Nhere or they're gonna find our treasure!
 Dialogue: 0,0:12:19.96,0:12:23.46,Default,,0,0,0,,Everybody knows those kids \Naround here. Ace and Sabo.
 Dialogue: 0,0:12:24.59,0:12:29.23,DefaultLow2,,0,0,0,,Are you sure that it was Ace who took the money?
-Dialogue: 0,0:12:24.49,0:12:29.23,Sign,,0,0,350,,{\blur0.3\fad(1020,0)\fs60\bord2.3\c&H000000&\1a&HFF&\t(975,1020,\1a&H00&)}Bluejam Pirates\N{\fs70}Crewmate {\fnFOT-Greco Std B\fs75}Porchemy
-Dialogue: 1,0:12:24.49,0:12:29.23,Sign,,0,0,350,,{\blur0.3\fad(1020,0)\fs60\bord0\4a&HFF&}Bluejam Pirates\N{\fs70}Crewmate {\fnFOT-Greco Std B\fs75}Porchemy
+Dialogue: 0,0:12:24.49,0:12:29.23,Sign,,0,0,350,,{\blur0.3\fad(1020,0)\fs60\bord2.3\c&H000000&\1a&HFF&\t(975,1020,\1a&H00&)}Bluejam Pirates\N{\fs70}Crewmate {\fnFOT-Greco Std B\fs77.5}Porchemy
+Dialogue: 1,0:12:24.49,0:12:29.23,Sign,,0,0,350,,{\blur0.3\fad(1020,0)\fs60\bord0\4a&HFF&}Bluejam Pirates\N{\fs70}Crewmate {\fnFOT-Greco Std B\fs77.5}Porchemy
 Dialogue: 0,0:12:29.23,0:12:33.37,Default,,0,0,0,,Yes. We're sorry.\NWe shouldn't let our guard down.
 Dialogue: 0,0:12:33.87,0:12:38.91,Default,,0,0,0,,How outrageous that kid is! \NHe can't just steal our money!
 Dialogue: 0,0:12:39.64,0:12:44.55,Default,,0,0,0,,If Captain Bluejam finds out about \Nthis, he's gonna kill all of us!
@@ -342,8 +342,8 @@ Dialogue: 0,0:19:53.54,0:19:56.85,Default,,0,0,0,,It's Porchemy, Captain Bluejam
 Dialogue: 0,0:19:57.65,0:19:59.82,Default,,0,0,0,,It's almost sunset.
 Dialogue: 0,0:20:03.59,0:20:07.22,Default,,0,0,0,,I'm sure that they've already \Ncashed it in by now.
 Dialogue: 0,0:20:07.86,0:20:11.93,DefaultLow2,,0,0,0,,Maybe he's running away with the money.
-Dialogue: 0,0:20:07.92,0:20:11.93,Sign,,0,0,355,,{\blur0.3\fad(1020,0)\fs60\bord2.3\c&H000000&\1a&HFF&\t(975,1020,\1a&H00&)}Bluejam Pirates\N{\fs70}Captain {\fnFOT-Greco Std B\fs75}Bluejam
-Dialogue: 1,0:20:07.92,0:20:11.93,Sign,,0,0,355,,{\blur0.3\fad(1020,0)\fs60\bord0\4a&HFF&}Bluejam Pirates\N{\fs70}Captain {\fnFOT-Greco Std B\fs75}Bluejam
+Dialogue: 0,0:20:07.92,0:20:11.93,Sign,,0,0,355,,{\blur0.3\fad(1020,0)\fs60\bord2.3\c&H000000&\1a&HFF&\t(975,1020,\1a&H00&)}Bluejam Pirates\N{\fs70}Captain {\fnFOT-Greco Std B\fs77.5}Bluejam
+Dialogue: 1,0:20:07.92,0:20:11.93,Sign,,0,0,355,,{\blur0.3\fad(1020,0)\fs60\bord0\4a&HFF&}Bluejam Pirates\N{\fs70}Captain {\fnFOT-Greco Std B\fs77.5}Bluejam
 Dialogue: 0,0:20:12.26,0:20:17.47,Default,,0,0,0,,No way! I don't think that he would risk \Ngetting killed trying something like that!
 Dialogue: 0,0:20:19.14,0:20:20.94,Default,,0,0,0,,I don't think so, either!
 Dialogue: 0,0:20:28.81,0:20:31.81,Default,,0,0,0,,Spit it out already!

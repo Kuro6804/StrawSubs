@@ -23,16 +23,16 @@ Audio File: [Panda-Raws] One Piece - 0506 (WEB 1080p AMZN JP 29.970fps EAC3) [C3
 Video File: [Panda-Raws] One Piece - 0506 (WEB 1080p AMZN JP 29.970fps EAC3) [C3120F09].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 319
-Active Line: 331
-Video Position: 42650
+Video Zoom Percent: 0.625000
+Scroll Position: 280
+Active Line: 285
+Video Position: 37269
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,3,0
-Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
+Style: Sign,FOT-Rodin ProN B,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
 Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,28,1
 Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
 Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
@@ -140,8 +140,8 @@ Dialogue: 1,0:04:46.24,0:04:55.21,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1
 Dialogue: 0,0:04:46.24,0:04:55.21,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}Receiving the Bad News
 Dialogue: 1,0:04:46.24,0:04:55.21,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1973,1973)\4a&HFF&}Receiving the Bad News
 Dialogue: 0,0:04:56.85,0:05:00.85,DefaultLow,,0,0,0,,This is Gloom Island in the Grand Line -
-Dialogue: 0,0:04:58.28,0:05:03.02,Sign,,0,0,222,,{\blur0.3\fad(750,520)\fs99\bord2.4\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(4220,4265,\1a&HFF&)}Gloom Island
-Dialogue: 1,0:04:58.28,0:05:03.02,Sign,,0,0,222,,{\blur0.3\fad(750,520)\fs99\bord0\4a&HFF&}Gloom Island
+Dialogue: 0,0:04:58.28,0:05:03.02,Sign,,0,0,0,,{\blur0.3\fad(750,520)\fs97.7\bord2.4\pos(908.3,896)\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(4220,4265,\1a&HFF&)}Gloom Island
+Dialogue: 1,0:04:58.28,0:05:03.02,Sign,,0,0,0,,{\blur0.3\fad(750,520)\fs97.7\bord0\pos(908.3,896)\4a&HFF&}Gloom Island
 Dialogue: 0,0:05:00.85,0:05:03.59,DefaultLow,,0,0,0,,the ruins of Muggy Kingdom.
 Dialogue: 0,0:05:06.56,0:05:08.06,Default,,0,0,0,,Wh-What are they?
 Dialogue: 0,0:05:15.43,0:05:17.30,Default,,0,0,0,,B-Baboons?!
@@ -259,8 +259,8 @@ Dialogue: 0,0:16:19.53,0:16:21.26,Default,,0,0,0,,Oh, News Coo!
 Dialogue: 0,0:16:22.27,0:16:24.30,Default,,0,0,0,,Thank you for the newspaper!
 Dialogue: 0,0:16:26.74,0:16:27.90,Default,,0,0,0,,Let's see...
 Dialogue: 0,0:16:32.31,0:16:36.05,DefaultLow,,0,0,0,,Meanwhile, on the small Sky Island Weatheria...
-Dialogue: 0,0:16:33.01,0:16:36.85,Sign,,0,0,233,,{\blur0.3\fad(800,0)\fs111\bord2.4\c&H000000&\1a&HFF&\t(755,800,\1a&H00&)}Weatheria
-Dialogue: 1,0:16:33.01,0:16:36.85,Sign,,0,0,233,,{\blur0.3\fad(800,0)\fs111\bord0\4a&HFF&}Weatheria
+Dialogue: 0,0:16:33.01,0:16:36.85,Sign,,0,0,228,,{\blur0.3\fad(800,0)\fs111\bord2.4\c&H000000&\1a&HFF&\t(755,800,\1a&H00&)}Weatheria
+Dialogue: 1,0:16:33.01,0:16:36.85,Sign,,0,0,228,,{\blur0.3\fad(800,0)\fs111\bord0\4a&HFF&}Weatheria
 Dialogue: 0,0:16:41.89,0:16:44.85,Default,,0,0,0,,Gee, you need to use the \Nlower half of your body more!
 Dialogue: 0,0:16:44.85,0:16:46.96,Default,,0,0,0,,Are you even trying, young girl?
 Dialogue: 0,0:16:47.69,0:16:52.53,Default,,0,0,0,,No, I'm not! What I wanted to \Nlearn is the science of weather,
@@ -273,8 +273,8 @@ Dialogue: 0,0:17:12.58,0:17:16.35,Default,,0,0,0,,Oh, News Coo! You brought the 
 Dialogue: 0,0:17:16.35,0:17:17.65,Default,,0,0,0,,Thank you!
 Dialogue: 0,0:17:18.22,0:17:21.29,Default,,0,0,0,,Let's see how the weather's \Ngonna be tomorrow...
 Dialogue: 0,0:17:21.76,0:17:23.19,Default,,0,0,0,,Let me see it!
-Dialogue: 0,0:17:28.03,0:17:31.57,Sign,,0,0,228,,{\blur0.3\fad(720,0)\fs88\bord2.4\c&H000000&\1a&HFF&\t(675,720,\1a&H00&)}Bowin Islands
-Dialogue: 1,0:17:28.03,0:17:31.57,Sign,,0,0,228,,{\blur0.3\fad(720,0)\fs88\bord0\4a&HFF&}Bowin Islands
+Dialogue: 0,0:17:28.03,0:17:31.57,Sign,,0,0,222,,{\blur0.3\fad(720,0)\fs88\bord2.4\c&H000000&\1a&HFF&\t(675,720,\1a&H00&)}Bowin Islands
+Dialogue: 1,0:17:28.03,0:17:31.57,Sign,,0,0,222,,{\blur0.3\fad(720,0)\fs88\bord0\4a&HFF&}Bowin Islands
 Dialogue: 0,0:17:28.53,0:17:31.57,DefaultLow,,0,0,0,,On Bowin Islands in the Grand Line,
 Dialogue: 0,0:17:32.77,0:17:36.27,Default,,0,0,0,,Usopp has been eating an \Nabundant variety of food
 Dialogue: 0,0:17:36.27,0:17:38.14,Default,,0,0,0,,and gaining a lot of weight!
@@ -288,8 +288,8 @@ Dialogue: 0,0:18:00.00,0:18:01.97,Default,,0,0,0,,He has no ear'n.
 Dialogue: 0,0:18:03.80,0:18:06.00,Default,,0,0,0,,--It's the newspaper'n!\N--Ah, hop!
 Dialogue: 0,0:18:06.57,0:18:08.94,Default,,0,0,0,,Grilled Chicken!
 Dialogue: 0,0:18:10.17,0:18:12.98,Default,,0,0,0,,Don't eat that'n!
-Dialogue: 0,0:18:18.35,0:18:22.49,Sign,,0,0,228,,{\blur0.3\fad(666,544)\fs88\bord2.4\c&H000000&\1a&HFF&\t(621,666,\1a&H00&)\t(3596,3641,\1a&HFF&)}Kamabakka Queendom
-Dialogue: 1,0:18:18.35,0:18:22.49,Sign,,0,0,228,,{\blur0.3\fad(666,544)\fs88\bord0\4a&HFF&}Kamabakka Queendom
+Dialogue: 0,0:18:18.35,0:18:22.49,Sign,,0,0,222,,{\blur0.3\fad(666,544)\fs88\bord2.4\c&H000000&\1a&HFF&\t(621,666,\1a&H00&)\t(3596,3641,\1a&HFF&)}Kamabakka Queendom
+Dialogue: 1,0:18:18.35,0:18:22.49,Sign,,0,0,222,,{\blur0.3\fad(666,544)\fs88\bord0\4a&HFF&}Kamabakka Queendom
 Dialogue: 0,0:18:19.35,0:18:23.22,DefaultLow,,0,0,0,,In the Kamabakka Queendom on Peachy Island...
 Dialogue: 0,0:18:23.89,0:18:26.72,Default,,0,0,0,,Hey! Stop!
 Dialogue: 0,0:18:30.26,0:18:32.43,Default,,0,0,0,,What a beautiful sunset.
@@ -299,8 +299,8 @@ Dialogue: 0,0:18:40.47,0:18:42.01,Default,,0,0,0,,How's my love horoscope today.
 Dialogue: 0,0:18:49.01,0:18:50.65,Default,,0,0,0,,What's wrong?
 Dialogue: 0,0:18:53.18,0:18:56.25,Default,,0,0,0,,What the hell is this?!
 Dialogue: 0,0:18:59.66,0:19:02.73,DefaultLow,,0,0,0,,In Tequila Wolf on the East Blue...
-Dialogue: 0,0:18:59.89,0:19:03.46,Sign,,0,0,195,,{\blur0.3\fad(520,0)\fs111\bord2.4\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Tequila Wolf
-Dialogue: 1,0:18:59.89,0:19:03.46,Sign,,0,0,195,,{\blur0.3\fad(520,0)\fs111\bord0\4a&HFF&}Tequila Wolf
+Dialogue: 0,0:18:59.89,0:19:03.46,Sign,,0,0,190,,{\blur0.3\fad(520,0)\fs111\bord2.4\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Tequila Wolf
+Dialogue: 1,0:18:59.89,0:19:03.46,Sign,,0,0,190,,{\blur0.3\fad(520,0)\fs111\bord0\4a&HFF&}Tequila Wolf
 Dialogue: 0,0:19:04.39,0:19:06.50,Default,,0,0,0,,Nico Robin, here...
 Dialogue: 0,0:19:20.84,0:19:24.45,Default,,0,0,0,,Thank you. How did you know my name?
 Dialogue: 0,0:19:25.45,0:19:29.19,Default,,0,0,0,,All the soldiers in the Revolutionary \NArmy know about you.
@@ -324,8 +324,8 @@ Dialogue: 0,0:20:28.71,0:20:32.28,Default,,0,0,0,,And the refrigerator that I cr
 Dialogue: 0,0:20:32.78,0:20:35.02,Default,,0,0,0,,And I beat him!
 Dialogue: 0,0:20:35.02,0:20:36.99,Default,,0,0,0,,It ended up great!
 Dialogue: 0,0:20:40.99,0:20:42.63,Default,,0,0,0,,What's that?
-Dialogue: 0,0:20:43.53,0:20:47.53,Sign,,0,0,233,,{\blur0.3\fad(750,0)\fs88\bord2.4\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Lazy Bones Island, Hungeria
-Dialogue: 1,0:20:43.53,0:20:47.53,Sign,,0,0,233,,{\blur0.3\fad(750,0)\fs88\bord0\4a&HFF&}Lazy Bones Island, Hungeria
+Dialogue: 0,0:20:43.53,0:20:47.53,Sign,,0,0,224,,{\blur0.3\fad(750,0)\fs88\bord2.4\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Lazy Bones Island, Hungeria
+Dialogue: 1,0:20:43.53,0:20:47.53,Sign,,0,0,224,,{\blur0.3\fad(750,0)\fs88\bord0\4a&HFF&}Lazy Bones Island, Hungeria
 Dialogue: 0,0:20:43.53,0:20:47.53,DefaultLow,,0,0,0,,In Hungeria on Lazy Bones Island...
 Dialogue: 0,0:20:55.64,0:20:59.08,Default,,0,0,0,,How terrifying to hear \Nthat voice of resentment!
 Dialogue: 0,0:20:59.08,0:21:04.05,Default,,0,0,0,,Satan-sama must be performing \Na forbidden ritual

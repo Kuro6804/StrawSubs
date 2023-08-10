@@ -24,14 +24,14 @@ Video File: [Panda-Raws] One Piece - 0512 (WEB 1080p AMZN JP 29.970fps EAC3) [15
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 339
-Active Line: 345
-Video Position: 42650
+Scroll Position: 204
+Active Line: 205
+Video Position: 22543
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
+Style: Sign,FOT-Rodin ProN B,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
 Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,28,1
 Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
 Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
@@ -243,8 +243,8 @@ Dialogue: 0,0:12:22.03,0:12:24.09,Default,,0,0,0,,Yes, of course.
 Dialogue: 0,0:12:25.10,0:12:28.43,Default,,0,0,0,,Vivi-sama was happy about \NLuffy-kun and the others.
 Dialogue: 0,0:12:29.20,0:12:30.77,Default,,0,0,0,,I bet she is.
 Dialogue: 0,0:12:30.77,0:12:32.14,Default,,0,0,0,,But...
-Dialogue: 0,0:12:32.17,0:12:35.21,Sign,,0,0,0,,{\blur0.3\fad(200,520)\fs74\bord0\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)\t(2520,2565,\1a&HFF&)\pos(963,820)}A few hours earlier
-Dialogue: 1,0:12:32.17,0:12:35.21,Sign,,0,0,0,,{\blur0.3\fad(200,520)\fs74\bord0\4a&HFF&\pos(963,820)}A few hours earlier
+Dialogue: 0,0:12:32.17,0:12:35.21,Sign,,0,0,0,,{\blur0.3\fad(200,520)\fs72.5\bord0\pos(963,820)\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)\t(2520,2565,\1a&HFF&)}A few hours earlier
+Dialogue: 1,0:12:32.17,0:12:35.21,Sign,,0,0,0,,{\blur0.3\fad(200,520)\fs72.5\bord0\pos(963,820)\4a&HFF&}A few hours earlier
 Dialogue: 0,0:12:36.24,0:12:37.57,Default,,0,0,0,,Karoo!
 Dialogue: 0,0:12:38.44,0:12:40.21,Default,,0,0,0,,Look at this, Karoo!
 Dialogue: 0,0:12:41.24,0:12:44.15,Default,,0,0,0,,Luffy-san is alive as I thought!

@@ -22,16 +22,16 @@ Audio File: [Panda-Raws] One Piece - 0395 (WEB 1080p AMZN JP EAC3) [FB185926].mk
 Video File: [Panda-Raws] One Piece - 0395 (WEB 1080p AMZN JP EAC3) [FB185926].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.687500
-Scroll Position: 438
-Active Line: 442
-Video Position: 34072
+Video Zoom Percent: 0.562500
+Scroll Position: 81
+Active Line: 82
+Video Position: 5571
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,87,100,0,0,1,3.8,0,2,10,10,32,1
-Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
+Style: Sign2,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
 Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
@@ -120,8 +120,8 @@ Dialogue: 0,0:03:42.33,0:03:51.21,Title Card - Top,,0,0,215,,{\blur0.8\fad(1980,
 Dialogue: 1,0:03:42.33,0:03:51.21,Title Card - Top,,0,0,215,,{\bord0\blur0.8\fad(1980,1980)\4a&HFF&}Time Limit
 Dialogue: 0,0:03:42.33,0:03:51.21,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1980,1980)\c&H000000&\1a&HFF&\t(1935,1980,\1a&H00&)\t(7020,7065,\1a&HFF&)}The Human Auction Begins
 Dialogue: 1,0:03:42.33,0:03:51.21,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1980,1980)\4a&HFF&}The Human Auction Begins
-Dialogue: 0,0:03:51.54,0:03:54.17,Sign,,0,0,290,,{\blur0.8\fad(730,0)\fs99\bord3.6\c&H000000&\1a&HFF&\t(685,730,\1a&H00&)}Navy Headquarters
-Dialogue: 1,0:03:51.54,0:03:54.17,Sign,,0,0,290,,{\blur0.8\fad(730,0)\fs99\bord0\4a&HFF&}Navy Headquarters
+Dialogue: 0,0:03:51.54,0:03:54.17,Sign2,,0,0,290,,{\blur0.8\fad(730,0)\fs99\bord3.6\c&H000000&\1a&HFF&\t(685,730,\1a&H00&)}Navy Headquarters
+Dialogue: 1,0:03:51.54,0:03:54.17,Sign2,,0,0,290,,{\blur0.8\fad(730,0)\fs99\bord0\4a&HFF&}Navy Headquarters
 Dialogue: 0,0:04:01.49,0:04:03.72,Default,,0,0,0,,"Dark King" Silvers Rayleigh, huh...
 Dialogue: 0,0:04:03.99,0:04:06.68,Default,,0,0,0,,Apparently, no one around him\Nrecognizes him,
 Dialogue: 0,0:04:06.68,0:04:09.54,Default,,0,0,0,,so he's being sold\Nas a regular old man...

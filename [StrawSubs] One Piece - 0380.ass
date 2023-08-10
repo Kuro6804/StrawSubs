@@ -22,10 +22,10 @@ Audio File: [Panda-Raws] One Piece - 0380 (WEB 1080p AMZN JP EAC3) [BB0D7BFE].mk
 Video File: [Panda-Raws] One Piece - 0380 (WEB 1080p AMZN JP EAC3) [BB0D7BFE].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.562500
-Scroll Position: 304
-Active Line: 310
-Video Position: 34192
+Video Zoom Percent: 0.687500
+Scroll Position: 163
+Active Line: 164
+Video Position: 16999
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,8 +33,8 @@ Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,1
 Style: Alt,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.2,0,2,10,10,32,1
 Style: Shanty ♪,FOT-Greco Std B,77,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,180,180,56,0
-Style: Sign,FOT-Rodin ProN DB,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.5,0,2,45,45,45,0
-Style: Sign2,FOT-Greco Std B,135,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.8,0,2,45,45,45,0
+Style: Sign,FOT-Rodin ProN B,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.5,0,2,45,45,45,0
+Style: Sign3,FOT-Greco Std B,135,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.8,0,2,45,45,45,0
 Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
 Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
@@ -204,8 +204,8 @@ Dialogue: 0,0:11:16.14,0:11:17.77,Default,,0,0,0,,...with that song I love so mu
 Dialogue: 0,0:11:31.28,0:11:36.95,Shanty ♪,,0,0,0,, Time to ship out Binks' Brew...
 Dialogue: 0,0:11:36.95,0:11:42.21,Shanty ♪,,0,0,0,,The sea breeze blows us to who-knows-where,\Nlet the waves be our guide...
 Dialogue: 0,0:11:42.21,0:11:47.59,Shanty ♪,,0,0,0,,O'er across the ocean tide, the sunset stirs, going wild...
-Dialogue: 0,0:11:48.98,0:11:55.53,Sign,,0,0,620,,{\blur0.8\fad(1000,1050)\bord2.8\fs115\fscx130\fnCandara\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(5460,5505,\1a&HFF&)}—{\fscx\fn} {\fs91}Florian Triangle {\fs115\fscx130\fnCandara}—{\fscx\fn}
-Dialogue: 1,0:11:48.98,0:11:55.53,Sign,,0,0,620,,{\blur0.8\fad(1000,1050)\bord0\fs115\fscx130\fnCandara\4a&HFF&}—{\fscx\fn} {\fs91}Florian Triangle {\fs115\fscx130\fnCandara}—{\fscx\fn}
+Dialogue: 0,0:11:48.98,0:11:55.53,Sign,,0,0,620,,{\blur0.8\fad(1000,1050)\bord2.8\fs115\fscx123\fnCandara\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(5460,5505,\1a&HFF&)}—{\fscx\fn} {\fs91}Florian Triangle {\fs115\fscx123\fnCandara}—{\fscx\fn}
+Dialogue: 1,0:11:48.98,0:11:55.53,Sign,,0,0,620,,{\blur0.8\fad(1000,1050)\bord0\fs115\fscx123\fnCandara\4a&HFF&}—{\fscx\fn} {\fs91}Florian Triangle {\fs115\fscx123\fnCandara}—{\fscx\fn}
 Dialogue: 0,0:11:48.98,0:11:55.53,Sign,,0,0,485,,{\blur0.8\fad(1000,1050)\bord2.8\fs91\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(5460,5505,\1a&HFF&)}Ten years after leaving Twin Cape
 Dialogue: 1,0:11:48.98,0:11:55.53,Sign,,0,0,485,,{\blur0.8\fad(1000,1050)\bord0\fs91\4a&HFF&}Ten years after leaving Twin Cape
 Dialogue: 0,0:12:02.02,0:12:03.85,Default,,0,0,0,,I took off my pants!
@@ -287,8 +287,8 @@ Dialogue: 0,0:17:38.85,0:17:41.37,Default,,0,0,0,,Let's give Laboon...
 Dialogue: 0,0:17:42.53,0:17:47.62,Default,,0,0,0,,...the Rumbar Pirate's\Nchoral number of a lifetime!
 Dialogue: 0,0:18:05.21,0:18:08.55,Default,,0,0,0,,Huh? I can sing along with this song!
 Dialogue: 0,0:18:19.98,0:18:24.27,Shanty ♪,,0,0,0,,Yo-ho ho ho, yo-ho ho ho...
-Dialogue: 0,0:18:20.54,0:18:28.55,Sign2,,0,0,330,,{\blur0.8\fad(990,1200)\fs150\bord1.8\c&H000000&\1a&HFF&\t(945,990,\1a&H00&)\t(6810,6855,\1a&HFF&)}Binks' Brew
-Dialogue: 1,0:18:20.54,0:18:28.55,Sign2,,0,0,330,,{\blur0.8\fad(990,1200)\fs150\bord0\4a&HFF&}Binks' Brew
+Dialogue: 0,0:18:20.54,0:18:28.55,Sign3,,0,0,330,,{\blur0.8\fad(990,1200)\fs150\bord1.8\c&H000000&\1a&HFF&\t(945,990,\1a&H00&)\t(6810,6855,\1a&HFF&)}Binks' Brew
+Dialogue: 1,0:18:20.54,0:18:28.55,Sign3,,0,0,330,,{\blur0.8\fad(990,1200)\fs150\bord0\4a&HFF&}Binks' Brew
 Dialogue: 0,0:18:24.27,0:18:28.53,Shanty ♪,,0,0,0,,Yo-ho ho ho, yo-ho ho ho!
 Dialogue: 0,0:18:28.53,0:18:32.91,Shanty ♪,,0,0,0,,Yo-ho ho ho, yo-ho ho ho...
 Dialogue: 0,0:18:32.91,0:18:37.25,Shanty ♪,,0,0,0,,Yo-ho ho ho, yo-ho ho ho!

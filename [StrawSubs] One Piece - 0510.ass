@@ -23,17 +23,16 @@ Audio File: [Panda-Raws] One Piece - 0510 (WEB 1080p AMZN JP 29.970fps EAC3) [02
 Video File: [Panda-Raws] One Piece - 0510 (WEB 1080p AMZN JP 29.970fps EAC3) [026CAC48].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 392
-Active Line: 404
-Video Position: 42650
+Video Zoom Percent: 0.562500
+Scroll Position: 358
+Active Line: 371
+Video Position: 39336
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,20,0
-Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Sign,FOT-Rodin ProN B,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
 Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,28,1
 Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
 Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
@@ -212,8 +211,8 @@ Dialogue: 0,0:08:47.21,0:08:49.65,Default,,0,0,0,,You've got to be kidding me!
 Dialogue: 0,0:08:51.62,0:08:54.02,Default,,0,0,0,,Why?! What's going on?!
 Dialogue: 0,0:08:54.02,0:08:56.59,Default,,0,0,0,,What made Luffy do this...?!
 Dialogue: 0,0:09:08.87,0:09:10.97,DefaultLow,,0,0,0,,Meanwhile, in the East Blue,
-Dialogue: 0,0:09:10.03,0:09:15.04,Sign,,0,0,260,,{\blur0.3\fad(1000,0)\fs88\bord2.4\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}East Blue, on the giant bridge
-Dialogue: 1,0:09:10.03,0:09:15.04,Sign,,0,0,260,,{\blur0.3\fad(1000,0)\fs88\bord0\4a&HFF&}East Blue, on the giant bridge
+Dialogue: 0,0:09:10.03,0:09:15.04,Sign,,0,0,260,,{\blur0.3\fad(1000,0)\fs83.7\bord2.4\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}East Blue, on the giant bridge
+Dialogue: 1,0:09:10.03,0:09:15.04,Sign,,0,0,260,,{\blur0.3\fad(1000,0)\fs83.7\bord0\4a&HFF&}East Blue, on the giant bridge
 Dialogue: 0,0:09:10.97,0:09:15.04,DefaultLow,,0,0,0,,Robin has been freed by the Revolutionary Army and...
 Dialogue: 0,0:09:27.38,0:09:31.25,Default,,0,0,0,,--You saved me!\N--Revolutionary Army, thanks for coming!
 Dialogue: 0,0:09:31.96,0:09:33.26,Default,,0,0,0,,I'm glad!
@@ -282,8 +281,8 @@ Dialogue: 0,0:13:31.93,0:13:35.73,Default,,0,0,0,,What is it? Is there something
 Dialogue: 0,0:13:37.67,0:13:39.20,Default,,0,0,0,,Yes.
 Dialogue: 0,0:14:11.37,0:14:14.97,Default,,0,0,0,,Meanwhile, on Peachy Island---
 Dialogue: 0,0:14:14.97,0:14:19.74,Default,,0,0,0,,Kamabakka Queendom, the island for New Kamas...
-Dialogue: 0,0:14:22.21,0:14:25.92,Sign,,0,0,363,,{\blur0.3\fad(780,0)\fs74\bord2.3\c&H000000&\1a&HFF&\t(735,780,\1a&H00&)}Grand Line\NPeachy Island, Kamabakka Queendom
-Dialogue: 1,0:14:22.21,0:14:25.92,Sign,,0,0,363,,{\blur0.3\fad(780,0)\fs74\bord0\4a&HFF&}Grand Line\NPeachy Island, Kamabakka Queendom
+Dialogue: 0,0:14:22.21,0:14:25.92,Sign,,0,0,363,,{\blur0.3\fad(780,0)\fs73.7\bord2.3\c&H000000&\1a&HFF&\t(735,780,\1a&H00&)}Grand Line\NPeachy Island, Kamabakka Queendom
+Dialogue: 1,0:14:22.21,0:14:25.92,Sign,,0,0,363,,{\blur0.3\fad(780,0)\fs73.7\bord0\4a&HFF&}Grand Line\NPeachy Island, Kamabakka Queendom
 Dialogue: 0,0:14:25.92,0:14:31.62,Default,,0,0,0,,I said "Give me a ship!" I \Nhave a promise to fulfill!
 Dialogue: 0,0:14:31.62,0:14:34.42,Default,,0,0,0,,I've wasted so much time fooling \Naround with you people!
 Dialogue: 0,0:14:34.82,0:14:37.13,Default,,0,0,0,,With that excuse, candy-chan,

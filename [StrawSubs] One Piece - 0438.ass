@@ -22,16 +22,16 @@ Audio File: [Panda-Raws] One Piece - 0438 (WEB 1080p AMZN JP EAC3) [1B1B1C7D].mk
 Video File: [Panda-Raws] One Piece - 0438 (WEB 1080p AMZN JP EAC3) [1B1B1C7D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.562500
-Scroll Position: 347
-Active Line: 353
-Video Position: 34072
+Video Zoom Percent: 0.437500
+Scroll Position: 52
+Active Line: 53
+Video Position: 5137
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,2,10,10,30,1
-Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
+Style: Sign,FOT-Rodin ProN B,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
 Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
 Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
@@ -229,30 +229,30 @@ Dialogue: 0,0:13:32.07,0:13:33.76,Default,,0,0,0,,Leave Bon-chan...
 Dialogue: 0,0:13:35.72,0:13:37.08,Default,,0,0,0,,...alone!
 Dialogue: 0,0:14:10.77,0:14:13.55,Default,,0,0,0,,S-Straw-chan! What did you do...
 Dialogue: 0,0:14:13.86,0:14:15.63,Default,,0,0,0,,...to them...?
-Dialogue: 0,0:14:51.04,0:14:51.29,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(761,622)\clip(251.64,533.46,461.09,629.39)\c&H000000&}Time until Ace's execution:
-Dialogue: 1,0:14:51.04,0:14:51.29,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(761,622)\clip(251.64,533.46,461.09,629.39)\4a&HFF&}Time until Ace's execution:
-Dialogue: 0,0:14:51.29,0:14:51.54,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(761,622)\clip(m 267.64 537.82 l 557.98 545.74 567.27 621.06 267.64 622.13)\c&H000000&}Time until Ace's execution:
-Dialogue: 1,0:14:51.29,0:14:51.54,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(761,622)\clip(m 267.64 537.82 l 557.98 545.74 567.27 621.06 267.64 622.13)\4a&HFF&}Time until Ace's execution:
-Dialogue: 0,0:14:51.54,0:14:51.83,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(761,622)\clip(261.82,533.46,634.18,626.49)\c&H000000&}Time until Ace's execution:
-Dialogue: 1,0:14:51.54,0:14:51.83,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(761,622)\clip(261.82,533.46,634.18,626.49)\4a&HFF&}Time until Ace's execution:
-Dialogue: 0,0:14:51.83,0:14:52.04,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(761,622)\clip(254.55,536.37,789.82,626.49)\c&H000000&}Time until Ace's execution:
-Dialogue: 1,0:14:51.83,0:14:52.04,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(761,622)\clip(254.55,536.37,789.82,626.49)\4a&HFF&}Time until Ace's execution:
-Dialogue: 0,0:14:52.04,0:14:52.33,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(761,622)\clip(256,510.2,862.55,629.39)\c&H000000&}Time until Ace's execution:
-Dialogue: 1,0:14:52.04,0:14:52.33,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(761,622)\clip(256,510.2,862.55,629.39)\4a&HFF&}Time until Ace's execution:
-Dialogue: 0,0:14:52.33,0:14:52.54,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(761,622)\clip(m 942.76 586.99 l 960.06 614.77 650.67 621.56 331.73 623.69 263.47 609.83 266.67 538.4 843.73 539.47 936.53 537.33 963.93 555.63)\c&H000000&}Time until Ace's execution:
-Dialogue: 1,0:14:52.33,0:14:52.54,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(761,622)\clip(m 942.76 586.99 l 960.06 614.77 650.67 621.56 331.73 623.69 263.47 609.83 266.67 538.4 843.73 539.47 936.53 537.33 963.93 555.63)\4a&HFF&}Time until Ace's execution:
-Dialogue: 0,0:14:52.54,0:14:52.83,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(761,622)\clip(m 993.19 589.86 l 990.55 571.99 961.88 542.82 264.47 528.71 276.71 642.54 648.47 638.78 978.82 621.85 998.27 607.16 989.87 590.81)\c&H000000&}Time until Ace's execution:
-Dialogue: 1,0:14:52.54,0:14:52.83,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(761,622)\clip(m 993.19 589.86 l 990.55 571.99 961.88 542.82 264.47 528.71 276.71 642.54 648.47 638.78 978.82 621.85 998.27 607.16 989.87 590.81)\4a&HFF&}Time until Ace's execution:
-Dialogue: 0,0:14:52.83,0:14:53.04,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(761,622)\clip(272,540.53,1077.33,620.49)\c&H000000&}Time until Ace's execution:
-Dialogue: 1,0:14:52.83,0:14:53.04,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(761,622)\clip(272,540.53,1077.33,620.49)\4a&HFF&}Time until Ace's execution:
-Dialogue: 0,0:14:53.04,0:14:57.00,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(761,622)\c&H000000&}Time until Ace's execution:
-Dialogue: 1,0:14:53.04,0:14:57.00,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(761,622)\4a&HFF&}Time until Ace's execution:
-Dialogue: 0,0:14:53.83,0:14:54.04,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(453,1055)\clip(261.82,970.98,328.5,1059.65)\c&H000000&}26 hours!
-Dialogue: 1,0:14:53.83,0:14:54.04,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(453,1055)\clip(261.82,970.98,328.5,1059.65)\4a&HFF&}26 hours!
-Dialogue: 0,0:14:54.04,0:14:54.54,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(453,1055)\clip(261.82,970.98,391.27,1059.65)\c&H000000&}26 hours!
-Dialogue: 1,0:14:54.04,0:14:54.54,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(453,1055)\clip(261.82,970.98,391.27,1059.65)\4a&HFF&}26 hours!
-Dialogue: 0,0:14:54.54,0:14:57.00,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(453,1055)\c&H000000&}26 hours!
-Dialogue: 1,0:14:54.54,0:14:57.00,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(453,1055)\4a&HFF&}26 hours!
+Dialogue: 0,0:14:51.04,0:14:51.29,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(769,622)\c&H000000&}Time {\alpha&HFF&}until Ace's execution:
+Dialogue: 1,0:14:51.04,0:14:51.29,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(769,622)\4a&HFF&}Time {\alpha&HFF&}until Ace's execution:
+Dialogue: 0,0:14:51.29,0:14:51.54,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(769,622)\c&H000000&}Time un{\alpha&HFF&}til Ace's execution:
+Dialogue: 1,0:14:51.29,0:14:51.54,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(769,622)\4a&HFF&}Time un{\alpha&HFF&}til Ace's execution:
+Dialogue: 0,0:14:51.54,0:14:51.83,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(769,622)\c&H000000&}Time until {\alpha&HFF&}Ace's execution:
+Dialogue: 1,0:14:51.54,0:14:51.83,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(769,622)\4a&HFF&}Time until {\alpha&HFF&}Ace's execution:
+Dialogue: 0,0:14:51.83,0:14:52.04,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(769,622)\c&H000000&}Time until Ace{\alpha&HFF&}'s execution:
+Dialogue: 1,0:14:51.83,0:14:52.04,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(769,622)\4a&HFF&}Time until Ace{\alpha&HFF&}'s execution:
+Dialogue: 0,0:14:52.04,0:14:52.33,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(769,622)\c&H000000&}Time until Ace's {\alpha&HFF&}execution:
+Dialogue: 1,0:14:52.04,0:14:52.33,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(769,622)\4a&HFF&}Time until Ace's {\alpha&HFF&}execution:
+Dialogue: 0,0:14:52.33,0:14:52.54,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(769,622)\c&H000000&}Time until Ace's ex{\alpha&HFF&}ecution:
+Dialogue: 1,0:14:52.33,0:14:52.54,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(769,622)\4a&HFF&}Time until Ace's ex{\alpha&HFF&}ecution:
+Dialogue: 0,0:14:52.54,0:14:52.83,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(769,622)\c&H000000&}Time until Ace's exe{\alpha&HFF&}cution:
+Dialogue: 1,0:14:52.54,0:14:52.83,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(769,622)\4a&HFF&}Time until Ace's exe{\alpha&HFF&}cution:
+Dialogue: 0,0:14:52.83,0:14:53.04,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(769,622)\c&H000000&}Time until Ace's execu{\alpha&HFF&}tion:
+Dialogue: 1,0:14:52.83,0:14:53.04,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(769,622)\4a&HFF&}Time until Ace's execu{\alpha&HFF&}tion:
+Dialogue: 0,0:14:53.04,0:14:57.00,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(769,622)\c&H000000&}Time until Ace's execution:
+Dialogue: 1,0:14:53.04,0:14:57.00,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(769,622)\4a&HFF&}Time until Ace's execution:
+Dialogue: 0,0:14:53.83,0:14:54.04,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(454,1055)\c&H000000&}2{\alpha&HFF&}6 hours!
+Dialogue: 1,0:14:53.83,0:14:54.04,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(454,1055)\4a&HFF&}2{\alpha&HFF&}6 hours!
+Dialogue: 0,0:14:54.04,0:14:54.54,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(454,1055)\c&H000000&}26 {\alpha&HFF&}hours!
+Dialogue: 1,0:14:54.04,0:14:54.54,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(454,1055)\4a&HFF&}26 {\alpha&HFF&}hours!
+Dialogue: 0,0:14:54.54,0:14:57.00,Sign,,0,0,0,,{\blur0.8\fs88\bord2.4\pos(454,1055)\c&H000000&}26 hours!
+Dialogue: 1,0:14:54.54,0:14:57.00,Sign,,0,0,0,,{\blur0.8\fs88\bord0\pos(454,1055)\4a&HFF&}26 hours!
 Dialogue: 0,0:14:51.32,0:14:53.75,Default,,0,0,0,,{\an8}Time until Ace's execution:
 Dialogue: 0,0:14:53.75,0:14:56.16,Default,,0,0,0,,{\an8}26 hours!
 Dialogue: 0,0:15:17.03,0:15:18.32,Default,,0,0,0,,Damn!

@@ -24,16 +24,15 @@ Video File: [Panda-Raws] One Piece - 0501 (WEB 1080p AMZN JP 29.970fps EAC3) [DC
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 344
-Active Line: 347
-Video Position: 42650
+Scroll Position: 136
+Active Line: 145
+Video Position: 15431
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,12,0
-Style: Sign,FOT-Rodin ProN DB,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Sign,FOT-Rodin ProN B,55,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2,0,2,45,45,45,0
 Style: Opening,@FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,10,10,28,1
 Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
 Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
@@ -169,8 +168,8 @@ Dialogue: 0,0:06:46.19,0:06:50.13,Default,,0,0,0,,I was right to adopt another \
 Dialogue: 0,0:06:51.50,0:06:54.80,Default,,0,0,0,,Open up, dad! I gotta go!
 Dialogue: 0,0:06:55.23,0:07:00.54,Default,,0,0,0,,There are people that I have \Nto help! Dad! Dad! Open Up!
 Dialogue: 0,0:07:10.58,0:07:12.52,Default,,0,0,0,,I...!
-Dialogue: 0,0:07:42.75,0:07:46.42,Sign,,0,0,260,,{\blur0.3\fad(500,0)\fs77\bord2.3\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Edge Town
-Dialogue: 1,0:07:42.75,0:07:46.42,Sign,,0,0,260,,{\blur0.3\fad(500,0)\fs77\bord0\4a&HFF&}Edge Town
+Dialogue: 0,0:07:42.75,0:07:46.42,Sign,,0,0,257,,{\blur0.3\fad(500,0)\fs77\bord2.3\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Edge Town
+Dialogue: 1,0:07:42.75,0:07:46.42,Sign,,0,0,257,,{\blur0.3\fad(500,0)\fs77\bord0\4a&HFF&}Edge Town
 Dialogue: 0,0:07:47.38,0:07:48.92,Default,,0,0,0,,Shut up!
 Dialogue: 0,0:07:49.49,0:07:52.32,Default,,0,0,0,,H-Hey! Look at that!
 Dialogue: 0,0:07:56.23,0:07:59.03,Default,,0,0,0,,Something's wrong with Gray Terminal.
@@ -180,13 +179,13 @@ Dialogue: 0,0:08:08.21,0:08:12.08,Default,,0,0,0,,B-B-Boss! Boss! You gotta see 
 Dialogue: 0,0:08:12.08,0:08:14.01,Default,,0,0,0,,What are you screaming about?
 Dialogue: 0,0:08:14.01,0:08:17.25,Default,,0,0,0,,--The sky in the north, look!\N--Is it the town?!
 Dialogue: 0,0:08:17.25,0:08:21.69,Default,,0,0,0,,No, closer than that!\NMust be Gray Terminal! It's on fire!
-Dialogue: 0,0:08:23.39,0:08:26.16,Sign,,0,0,260,,{\blur0.3\fad(520,0)\fs77\bord2.3\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Midtown
-Dialogue: 1,0:08:23.39,0:08:26.16,Sign,,0,0,260,,{\blur0.3\fad(520,0)\fs77\bord0\4a&HFF&}Midtown
+Dialogue: 0,0:08:23.39,0:08:26.16,Sign,,0,0,250,,{\blur0.3\fad(520,0)\fs77\bord2.3\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Midtown
+Dialogue: 1,0:08:23.39,0:08:26.16,Sign,,0,0,250,,{\blur0.3\fad(520,0)\fs77\bord0\4a&HFF&}Midtown
 Dialogue: 0,0:08:23.69,0:08:26.16,DefaultLow,,0,0,0,,What's going on? It's like a wildfire!
 Dialogue: 0,0:08:26.16,0:08:29.73,Default,,0,0,0,,It's never happened before!
 Dialogue: 0,0:08:31.26,0:08:34.00,Default,,0,0,0,,It's dangerous - evacuate Edge Town!
-Dialogue: 0,0:08:34.00,0:08:36.63,Sign,,0,0,260,,{\blur0.3\fad(500,0)\fs77\bord2.3\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Edge Town, Great Gate
-Dialogue: 1,0:08:34.00,0:08:36.63,Sign,,0,0,260,,{\blur0.3\fad(500,0)\fs77\bord0\4a&HFF&}Edge Town, Great Gate
+Dialogue: 0,0:08:34.00,0:08:36.63,Sign,,0,0,257,,{\blur0.3\fad(500,0)\fs77\bord2.3\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Edge Town, Great Gate
+Dialogue: 1,0:08:34.00,0:08:36.63,Sign,,0,0,257,,{\blur0.3\fad(500,0)\fs77\bord0\4a&HFF&}Edge Town, Great Gate
 Dialogue: 0,0:08:34.00,0:08:36.10,DefaultLow,,0,0,0,,All residents must head to Midtown!
 Dialogue: 0,0:08:37.00,0:08:41.41,Default,,0,0,0,,Leave the lifesaving and fire \Nextinguishing to us military!
 Dialogue: 0,0:08:42.87,0:08:46.34,Default,,0,0,0,,--We made it to the Great Gate!\N--We're safe now!

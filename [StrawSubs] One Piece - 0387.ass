@@ -23,9 +23,9 @@ Video File: [Panda-Raws] One Piece - 0387 (WEB 1080p AMZN JP EAC3) [9EF25F04].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 384
-Active Line: 396
-Video Position: 34192
+Scroll Position: 118
+Active Line: 119
+Video Position: 9941
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,7 @@ Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,1
 Style: Alt,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,20,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.2,0,2,10,10,32,1
-Style: Sign2,FOT-Greco Std B,135,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.8,0,2,45,45,45,0
+Style: Sign3,FOT-Greco Std B,135,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,2.8,0,2,45,45,45,0
 Style: Title Card - Top,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,8,45,45,165,0
 Style: Title Card - Bottom,FOT-NewRodin Pro UB,110,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,89,100,0,0,1,2.5,0,2,45,45,233,0
 
@@ -158,8 +158,8 @@ Dialogue: 0,0:06:43.25,0:06:43.87,Default,Duval,0,0,0,,You guys...
 Dialogue: 0,0:06:43.87,0:06:44.55,Default,All,0,0,0,,Yes, sir!
 Dialogue: 0,0:06:45.72,0:06:50.65,Default,Duval,0,0,0,,Do you know how I have felt \Nas I waited for those pirates?
 Dialogue: 0,0:06:51.49,0:06:56.98,DefaultLow,Duval,0,0,0,,I'm sure you know the story.
-Dialogue: 0,0:06:54.60,0:06:56.97,Sign2,Text,0,0,230,,{\blur0.8\fad(550,0)\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)}Duval
-Dialogue: 1,0:06:54.60,0:06:56.97,Sign2,Text,0,0,230,,{\bord0\blur0.8\fad(550,0)\4a&HFF&}Duval
+Dialogue: 0,0:06:54.60,0:06:56.97,Sign3,Text,0,0,230,,{\blur0.8\fad(550,0)\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)}Duval
+Dialogue: 1,0:06:54.60,0:06:56.97,Sign3,Text,0,0,230,,{\bord0\blur0.8\fad(550,0)\4a&HFF&}Duval
 Dialogue: 0,0:06:58.11,0:07:01.15,Default,Duval,0,0,0,,When I think about that man,
 Dialogue: 0,0:07:01.82,0:07:07.42,Default,Duval,0,0,0,,the huge wound on my back throbs terribly.
 Dialogue: 0,0:07:09.12,0:07:11.28,Default,Guy,0,0,0,,Uh-oh... The Head is mad!
@@ -180,12 +180,12 @@ Dialogue: 0,0:07:59.44,0:08:01.14,Default,Macro,0,0,0,,Gyaro, how could you call
 Dialogue: 0,0:08:01.14,0:08:02.88,Default,Macro,0,0,0,,And Tansui, "Yeah?" isn't right!
 Dialogue: 0,0:08:02.88,0:08:04.84,Default,Macro,0,0,0,,You're both being rude!
 Dialogue: 0,0:08:04.84,0:08:07.23,DefaultLow,Tansui,0,0,0,,Ha, ha. "Duva" sounds funny.
-Dialogue: 0,0:08:05.63,0:08:11.30,Sign2,Text,0,0,0,,{\blur0.8\fad(737,454)\pos(505,666)\c&H000000&\1a&HFF&\t(692,737,\1a&H00&)\t(5216,5261,\1a&HFF&)}Gyaro
-Dialogue: 1,0:08:05.63,0:08:11.30,Sign2,Text,0,0,0,,{\bord0\blur0.8\fad(737,454)\pos(505,666)\4a&HFF&}Gyaro
-Dialogue: 0,0:08:05.63,0:08:11.30,Sign2,Text,0,0,0,,{\blur0.8\fad(737,454)\pos(940,860)\c&H000000&\1a&HFF&\t(692,737,\1a&H00&)\t(5216,5261,\1a&HFF&)}Macro
-Dialogue: 1,0:08:05.63,0:08:11.30,Sign2,Text,0,0,0,,{\bord0\blur0.8\fad(737,454)\pos(940,860)\4a&HFF&}Macro
-Dialogue: 0,0:08:05.63,0:08:11.30,Sign2,Text,0,0,0,,{\blur0.8\fad(737,454)\pos(1363,666)\c&H000000&\1a&HFF&\t(692,737,\1a&H00&)\t(5216,5261,\1a&HFF&)}Tansui
-Dialogue: 1,0:08:05.63,0:08:11.30,Sign2,Text,0,0,0,,{\bord0\blur0.8\fad(737,454)\pos(1363,666)\4a&HFF&}Tansui
+Dialogue: 0,0:08:05.63,0:08:11.30,Sign3,Text,0,0,0,,{\blur0.8\fad(737,454)\pos(505,666)\c&H000000&\1a&HFF&\t(692,737,\1a&H00&)\t(5216,5261,\1a&HFF&)}Gyaro
+Dialogue: 1,0:08:05.63,0:08:11.30,Sign3,Text,0,0,0,,{\bord0\blur0.8\fad(737,454)\pos(505,666)\4a&HFF&}Gyaro
+Dialogue: 0,0:08:05.63,0:08:11.30,Sign3,Text,0,0,0,,{\blur0.8\fad(737,454)\pos(940,860)\c&H000000&\1a&HFF&\t(692,737,\1a&H00&)\t(5216,5261,\1a&HFF&)}Macro
+Dialogue: 1,0:08:05.63,0:08:11.30,Sign3,Text,0,0,0,,{\bord0\blur0.8\fad(737,454)\pos(940,860)\4a&HFF&}Macro
+Dialogue: 0,0:08:05.63,0:08:11.30,Sign3,Text,0,0,0,,{\blur0.8\fad(737,454)\pos(1363,666)\c&H000000&\1a&HFF&\t(692,737,\1a&H00&)\t(5216,5261,\1a&HFF&)}Tansui
+Dialogue: 1,0:08:05.63,0:08:11.30,Sign3,Text,0,0,0,,{\bord0\blur0.8\fad(737,454)\pos(1363,666)\4a&HFF&}Tansui
 Dialogue: 0,0:08:07.23,0:08:09.10,DefaultLow,Macro,0,0,0,,Oh, damn it!
 Dialogue: 0,0:08:09.10,0:08:12.03,DefaultLow,Macro,0,0,0,,Hey, Master Duval! Hey, hey, you called for us?
 Dialogue: 0,0:08:12.03,0:08:15.18,DefaultLow,Gyaro,0,0,0,,Boss, he's too worked up.
