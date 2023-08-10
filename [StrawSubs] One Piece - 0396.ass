@@ -124,8 +124,8 @@ Dialogue: 1,0:04:02.18,0:04:11.15,Title Card - Top,,0,0,180,,{\bord0\blur0.8\fad
 Dialogue: 0,0:04:02.18,0:04:11.15,Title Card - Bottom,,0,0,263,,{\blur0.8\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Destroy the Auction
 Dialogue: 1,0:04:02.18,0:04:11.15,Title Card - Bottom,,0,0,263,,{\bord0\blur0.8\fad(1982,1982)\4a&HFF&}Destroy the Auction
 Dialogue: 0,0:04:13.38,0:04:18.62,Default,,0,0,0,,Entry #15! The beautiful dancer, Pashia!
-Dialogue: 0,0:04:18.62,0:04:21.93,Default,,0,0,0,,Incredibly, her starting \Nprice of 800,000 Berries
-Dialogue: 0,0:04:21.93,0:04:26.72,Default,,0,0,0,,has rocketed to the sky-high \Nprice of 7.2 million Berries!
+Dialogue: 0,0:04:18.62,0:04:21.93,Default,,0,0,0,,Incredibly, her starting \Nprice of 800,000 berries
+Dialogue: 0,0:04:21.93,0:04:26.72,Default,,0,0,0,,has rocketed to the sky-high \Nprice of 7.2 million berries!
 Dialogue: 0,0:04:31.55,0:04:33.28,Default,,0,0,0,,I'm finally here...
 Dialogue: 0,0:04:37.63,0:04:40.85,Default,,0,0,0,,Okay! Now that things are \Nstarting to getting fired up,
 Dialogue: 0,0:04:40.85,0:04:44.57,Default,,0,0,0,,what do you say to this \Nnext piece of merchandise?!
@@ -151,7 +151,7 @@ Dialogue: 0,0:06:18.83,0:06:20.56,Default,,0,0,0,,Hey! Get walkin'!
 Dialogue: 0,0:06:23.05,0:06:25.53,Default,,0,0,0,,Okay! It looks like we're ready to continue!
 Dialogue: 0,0:06:25.53,0:06:30.74,Default,,0,0,0,,Entry #16 is none other than \Nthe captain of a pirate ship!
 Dialogue: 0,0:06:30.74,0:06:32.57,Default,,0,0,0,,A captain?
-Dialogue: 0,0:06:34.54,0:06:40.06,Default,,0,0,0,,Feast your eyes on this man, with \Na bounty of 17 million Berries!
+Dialogue: 0,0:06:34.54,0:06:40.06,Default,,0,0,0,,Feast your eyes on this man, with \Na bounty of 17 million berries!
 Dialogue: 0,0:06:40.06,0:06:41.76,Default,,0,0,0,,Goes by the name of Lacuba!
 Dialogue: 0,0:06:41.76,0:06:45.26,Default,,0,0,0,,He's known as a tactful strategist,
 Dialogue: 0,0:06:45.26,0:06:47.53,Default,,0,0,0,,but his well-trained body \Nis another great attribute!
@@ -226,7 +226,7 @@ Dialogue: 0,0:11:21.31,0:11:23.24,Default,,0,0,0,,Yes! An incredible item!
 Dialogue: 0,0:11:23.84,0:11:27.85,Default,,0,0,0,,I won't say much. Look upon \Nit with your own eyes!
 Dialogue: 0,0:11:27.85,0:11:29.12,Default,,0,0,0,,Now for the moment you've been waiting for!
 Dialogue: 0,0:11:29.42,0:11:33.09,Default,,0,0,0,,It's time for the unveiling! \NTake a good look!
-Dialogue: 0,0:11:44.30,0:11:49.35,Default,,0,0,0,,All the way from Fishman \NIsland, the Mermaid Camie!
+Dialogue: 0,0:11:44.30,0:11:49.35,Default,,0,0,0,,All the way from Fishman Island, the Mermaid Camie!
 Dialogue: 0,0:11:49.35,0:11:51.35,Default,,0,0,0,,It's real! A young Mermaid!
 Dialogue: 0,0:11:51.63,0:11:52.84,Default,,0,0,0,,Amazing!
 Dialogue: 0,0:11:52.84,0:11:53.98,Default,,0,0,0,,What a find!
@@ -242,7 +242,7 @@ Dialogue: 0,0:12:37.92,0:12:41.99,Default,,0,0,0,,Let's make the first move to \
 Dialogue: 0,0:12:42.84,0:12:45.53,Default,,0,0,0,,All right, then! Let's begin!
 Dialogue: 0,0:12:46.46,0:12:47.41,Default,,0,0,0,,Bidding will start at...
 Dialogue: 0,0:12:47.41,0:12:50.39,Default,,0,0,0,,500 million!
-Dialogue: 0,0:13:00.09,0:13:02.83,Default,,0,0,0,,I'll buy it for 500 million Berries!
+Dialogue: 0,0:13:00.09,0:13:02.83,Default,,0,0,0,,I'll buy it for 500 million berries!
 Dialogue: 0,0:13:22.62,0:13:24.24,Default,,0,0,0,,500 million...?
 Dialogue: 0,0:13:26.14,0:13:28.16,Default,,0,0,0,,It's no good. We can't compete with him.
 Dialogue: 0,0:13:32.47,0:13:34.79,Default,,0,0,0,,How could that happen so suddenly?! \NWe don't even have close to that much!
@@ -277,7 +277,7 @@ Dialogue: 0,0:15:51.72,0:15:54.80,Default,,0,0,0,,Today's super showcase \Nitem,
 Dialogue: 0,0:15:55.80,0:16:00.06,Default,,0,0,0,,...goes to the World Noble, \NSaint Charloss for his bid of...
 Dialogue: 0,0:16:03.98,0:16:05.27,Default,,0,0,0,,...500 million...
 Dialogue: 0,0:16:09.10,0:16:09.78,Default,,0,0,0,,What's that?
-Dialogue: 0,0:16:09.78,0:16:11.41,Default,,0,0,0,,...Berries!
+Dialogue: 0,0:16:09.78,0:16:11.41,Default,,0,0,0,,...berries!
 Dialogue: 0,0:16:21.42,0:16:22.46,Default,,0,0,0,,What the...?!
 Dialogue: 0,0:16:23.44,0:16:24.79,Default,,0,0,0,,How noisy.
 Dialogue: 0,0:16:27.67,0:16:28.73,Default,,0,0,0,,Luffy!
