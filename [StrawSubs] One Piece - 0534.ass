@@ -23,10 +23,10 @@ Audio File: [Panda-Raws] One Piece - 0534 (WEB 1080p AMZN JP 29.970fps EAC3) [87
 Video File: [Panda-Raws] One Piece - 0534 (WEB 1080p AMZN JP 29.970fps EAC3) [87FD7793].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 359
-Active Line: 370
-Video Position: 42650
+Video Zoom Percent: 0.562500
+Scroll Position: 254
+Active Line: 261
+Video Position: 30990
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,85 +40,85 @@ Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.00,0:00:20.00,Default,Narrator,0,0,0,,Once there was a man who had it all,\Nthe legendary Pirate King Gold Roger.
-Dialogue: 0,0:00:20.40,0:00:24.81,Default,Narrator,0,0,0,,His final words spurred people\Nto take to the seas in droves:
-Dialogue: 0,0:00:25.21,0:00:28.35,Default,Roger,0,0,0,,My treasure?\NIf you want it, you can have it...
+Dialogue: 0,0:00:15.00,0:00:20.40,Default,Narrator,0,0,0,,Once there was a man who had it all,\Nthe legendary Pirate King Gold Roger.
+Dialogue: 0,0:00:20.40,0:00:25.10,Default,Narrator,0,0,0,,His final words spurred people\Nto take to the seas in droves:
+Dialogue: 0,0:00:25.10,0:00:28.35,Default,Roger,0,0,0,,My treasure?\NIf you want it, you can have it...
 Dialogue: 0,0:00:28.35,0:00:31.85,Default,Roger,0,0,0,,Go, find it! I’ve left everything\Nthis world’s got to offer {\i1}there!{\i0}
-Dialogue: 0,0:00:32.32,0:00:34.85,Default,Narrator,0,0,0,,People now set sail\N in pursuit of their dreams.
-Dialogue: 0,0:00:34.85,0:00:37.45,Default,Narrator,0,0,0,,Indeed, the world is in the midst\Nof the Great Pirate Era!
-Dialogue: 0,0:00:37.45,0:00:41.33,Opening,English,0,0,0,,{\blur0.6\c&H000000&}I can't stay still!  I can't stop!
-Dialogue: 1,0:00:37.45,0:00:41.33,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can't stay still!  I can't stop!
-Dialogue: 0,0:00:41.43,0:00:45.80,Opening,English,0,0,0,,{\blur0.6\c&H000000&}Dawn can't come soon enough, I'm tired of waiting!
-Dialogue: 1,0:00:41.43,0:00:45.80,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}Dawn can't come soon enough, I'm tired of waiting!
-Dialogue: 0,0:00:45.86,0:00:49.53,Opening,English,0,0,0,,{\blur0.6\c&H000000&}One, two, Sunshine, four... We Go!
-Dialogue: 1,0:00:45.86,0:00:49.53,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}One, two, Sunshine, four... We Go!
-Dialogue: 0,0:00:51.04,0:00:55.04,Opening,English,0,0,0,,{\blur0.6\c&H000000&}Now raise our flag to the Break of Romance Dawn
-Dialogue: 1,0:00:51.04,0:00:55.04,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}Now raise our flag to the Break of Romance Dawn
-Dialogue: 0,0:00:56.47,0:01:01.71,Opening,English,0,0,0,,{\blur0.6\c&H000000&}Let the waves crash, they'll jump start us out of sleep
-Dialogue: 1,0:00:56.47,0:01:01.71,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}Let the waves crash, they'll jump start us out of sleep
-Dialogue: 0,0:01:01.81,0:01:06.25,Opening,English,0,0,0,,{\blur0.6\c&H000000&}If we're gonna travel through an unbelievable world,
-Dialogue: 1,0:01:01.81,0:01:06.25,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}If we're gonna travel through an unbelievable world,
-Dialogue: 0,0:01:06.35,0:01:10.69,Opening,English,0,0,0,,{\blur0.6\c&H000000&}you'll have to be tough
-Dialogue: 1,0:01:06.35,0:01:10.69,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}you'll have to be tough
-Dialogue: 0,0:01:11.12,0:01:13.66,Opening,English,0,0,0,,{\blur0.6\c&H000000&}Standing out too much, is that a crime?
-Dialogue: 1,0:01:11.12,0:01:13.66,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}Standing out too much, is that a crime?
-Dialogue: 0,0:01:13.82,0:01:16.69,Opening,English,0,0,0,,{\blur0.6\c&H000000&}Wanted → Means a Winner (・∀・)
-Dialogue: 1,0:01:13.82,0:01:16.69,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}Wanted → Means a Winner (・∀・)
-Dialogue: 0,0:01:16.86,0:01:22.47,Opening,English,0,0,0,,{\blur0.6\c&H000000&}Aah, freedom is our only rule!
-Dialogue: 1,0:01:16.86,0:01:22.47,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}Aah, freedom is our only rule!
-Dialogue: 0,0:01:22.57,0:01:27.97,Opening,English,0,0,0,,{\blur0.6\c&H000000&}Forget our worries, just let the wind blow
-Dialogue: 1,0:01:22.57,0:01:27.97,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}Forget our worries, just let the wind blow
-Dialogue: 0,0:01:28.04,0:01:30.51,Opening,English,0,0,0,,{\blur0.6\c&H000000&}I'll be the first to the One Piece, I swear
-Dialogue: 1,0:01:28.04,0:01:30.51,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}I'll be the first to the One Piece, I swear
-Dialogue: 0,0:01:30.57,0:01:34.31,Opening,English,0,0,0,,{\blur0.6\c&H000000&}Our hearts dream beyond measure
-Dialogue: 1,0:01:30.57,0:01:34.31,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}Our hearts dream beyond measure
-Dialogue: 0,0:01:34.51,0:01:38.88,Opening,English,0,0,0,,{\blur0.6\c&H000000&}So let's never wake them up
-Dialogue: 1,0:01:34.51,0:01:38.88,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}So let's never wake them up
-Dialogue: 0,0:01:38.98,0:01:41.39,Opening,English,0,0,0,,{\blur0.6\c&H000000&}I can't stay still!  I can't stop!
-Dialogue: 1,0:01:38.98,0:01:41.39,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can't stay still!  I can't stop!
-Dialogue: 0,0:01:41.49,0:01:45.52,Opening,English,0,0,0,,{\blur0.6\c&H000000&}Dawn can't come soon enough, I'm tired of waiting!
-Dialogue: 1,0:01:41.49,0:01:45.52,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}Dawn can't come soon enough, I'm tired of waiting!
-Dialogue: 0,0:01:45.66,0:01:49.09,Opening,English,0,0,0,,{\blur0.6\c&H000000&}One, two, Sunshine, four... We Go!
-Dialogue: 1,0:01:45.66,0:01:49.09,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}One, two, Sunshine, four... We Go!
-Dialogue: 0,0:01:50.79,0:01:56.57,Opening,English,0,0,0,,{\blur0.6\c&H000000&}We... have made it this far
-Dialogue: 1,0:01:50.79,0:01:56.57,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}We... have made it this far
-Dialogue: 0,0:01:56.70,0:01:59.50,Opening,English,0,0,0,,{\blur0.6\c&H000000&}We'll go... wherever our dreams take us
-Dialogue: 1,0:01:56.70,0:01:59.50,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}We'll go... wherever our dreams take us
-Dialogue: 0,0:01:59.67,0:02:04.64,Opening,English,0,0,0,,{\blur0.6\c&H000000&}And we won't leave anyone behind
-Dialogue: 1,0:01:59.67,0:02:04.64,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}And we won't leave anyone behind
-Dialogue: 0,0:02:04.74,0:02:07.28,Opening,English,0,0,0,,{\blur0.6\c&H000000&}We'll never look back, that's a vow
-Dialogue: 1,0:02:04.74,0:02:07.28,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}We'll never look back, that's a vow
-Dialogue: 0,0:02:07.38,0:02:11.15,Opening,English,0,0,0,,{\blur0.6\c&H000000&}On that day when our dreams began,
-Dialogue: 1,0:02:07.38,0:02:11.15,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}On that day when our dreams began,
-Dialogue: 0,0:02:11.35,0:02:15.65,Opening,English,0,0,0,,{\blur0.6\c&H000000&}we set our goals and they've never changed!
-Dialogue: 1,0:02:11.35,0:02:15.65,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}we set our goals and they've never changed!
-Dialogue: 0,0:02:15.75,0:02:18.16,Opening,English,0,0,0,,{\blur0.6\c&H000000&}I can't stay still!  I can't stop!
-Dialogue: 1,0:02:15.75,0:02:18.16,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}I can't stay still!  I can't stop!
-Dialogue: 0,0:02:18.29,0:02:22.59,Opening,English,0,0,0,,{\blur0.6\c&H000000&}The sun in my heart will never set!
-Dialogue: 1,0:02:18.29,0:02:22.59,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}The sun in my heart will never set!
-Dialogue: 0,0:02:22.69,0:02:29.53,Opening,English,0,0,0,,{\blur0.6\c&H000000&}One, two, Sunshine... One, two, Sunshine...
-Dialogue: 1,0:02:22.69,0:02:29.53,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}One, two, Sunshine... One, two, Sunshine...
-Dialogue: 0,0:02:30.80,0:02:36.84,Opening,English,0,0,0,,{\blur0.6\c&H000000&}One, two, Sunshine, four... We Go!
-Dialogue: 1,0:02:30.80,0:02:36.84,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}One, two, Sunshine, four... We Go!
-Dialogue: 0,0:02:39.24,0:02:42.01,Opening,English,0,0,0,,{\blur0.6\c&H000000&}We Go!
-Dialogue: 1,0:02:39.24,0:02:42.01,Opening,English,0,0,0,,{\bord0\blur0.6\4a&HFF&}We Go!
-Dialogue: 0,0:02:43.61,0:02:47.42,Default,,0,0,0,,All the pirates vying for the One Piece...
-Dialogue: 0,0:02:47.42,0:02:52.36,Default,,0,0,0,,head for the New World,\Nthe second half of the Grand Line.
-Dialogue: 0,0:02:52.36,0:02:58.33,Default,,0,0,0,,Now, Monkey D. Luffy, a boy whose body turned to rubber after he ate the Gum-Gum Fruit,
-Dialogue: 0,0:02:58.33,0:03:00.33,Default,,0,0,0,,and his friends venture into that sea.
-Dialogue: 0,0:03:01.00,0:03:04.67,Default,,0,0,0,,I'm gonna become the Pirate King!
+Dialogue: 0,0:00:32.30,0:00:34.88,Default,Narrator,0,0,0,,People now set sail\Nin pursuit of their dreams.
+Dialogue: 0,0:00:34.88,0:00:37.45,Default,Narrator,0,0,0,,Indeed, the world is in the midst of\Nthe Great Pirate Era!
+Dialogue: 0,0:00:37.45,0:00:41.33,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still!  I can't stop!
+Dialogue: 1,0:00:37.45,0:00:41.33,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still!  I can't stop!
+Dialogue: 0,0:00:41.43,0:00:45.80,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Dawn can't come soon enough, I'm tired of waiting!
+Dialogue: 1,0:00:41.43,0:00:45.80,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Dawn can't come soon enough, I'm tired of waiting!
+Dialogue: 0,0:00:45.86,0:00:49.53,Opening,English,0,0,0,,{\blur0.3\c&H000000&}One, two, {\bord3.8}Sunshine{\bord}, four... We Go!
+Dialogue: 1,0:00:45.86,0:00:49.53,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}One, two, {\bord0}Sunshine{\bord}, four... We Go!
+Dialogue: 0,0:00:51.04,0:00:55.04,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Now raise our flag to the {\bord3.8}Break of Romance Dawn
+Dialogue: 1,0:00:51.04,0:00:55.04,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Now raise our flag to the {\bord0}Break of Romance Dawn
+Dialogue: 0,0:00:56.47,0:01:01.71,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Let the waves crash, they'll jump start us out of sleep
+Dialogue: 1,0:00:56.47,0:01:01.71,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let the waves crash, they'll jump start us out of sleep
+Dialogue: 0,0:01:01.81,0:01:06.25,Opening,English,0,0,0,,{\blur0.3\c&H000000&}If we're gonna travel through an unbelievable world,
+Dialogue: 1,0:01:01.81,0:01:06.25,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}If we're gonna travel through an unbelievable world,
+Dialogue: 0,0:01:06.35,0:01:10.69,Opening,English,0,0,0,,{\blur0.3\c&H000000&}you'll have to be tough
+Dialogue: 1,0:01:06.35,0:01:10.69,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}you'll have to be tough
+Dialogue: 0,0:01:11.12,0:01:13.66,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Standing out too much, is that a crime?
+Dialogue: 1,0:01:11.12,0:01:13.66,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Standing out too much, is that a crime?
+Dialogue: 0,0:01:13.82,0:01:16.69,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Wanted → Means a {\bord3.8}Winner {\fsp-14}(・∀・)
+Dialogue: 1,0:01:13.82,0:01:16.69,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Wanted → Means a {\bord0}Winner {\fsp-14}(・∀・)
+Dialogue: 0,0:01:16.86,0:01:22.47,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Aah, freedom is our only rule!
+Dialogue: 1,0:01:16.86,0:01:22.47,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Aah, freedom is our only rule!
+Dialogue: 0,0:01:22.57,0:01:27.97,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Forget our worries, just let the wind blow
+Dialogue: 1,0:01:22.57,0:01:27.97,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Forget our worries, just let the wind blow
+Dialogue: 0,0:01:28.04,0:01:30.51,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I'll be the first to the One Piece, I swear
+Dialogue: 1,0:01:28.04,0:01:30.51,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I'll be the first to the One Piece, I swear
+Dialogue: 0,0:01:30.57,0:01:34.31,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Our hearts dream beyond measure
+Dialogue: 1,0:01:30.57,0:01:34.31,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Our hearts dream beyond measure
+Dialogue: 0,0:01:34.51,0:01:38.88,Opening,English,0,0,0,,{\blur0.3\c&H000000&}So let's never wake them up
+Dialogue: 1,0:01:34.51,0:01:38.88,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}So let's never wake them up
+Dialogue: 0,0:01:38.98,0:01:41.39,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still!  I can't stop!
+Dialogue: 1,0:01:38.98,0:01:41.39,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still!  I can't stop!
+Dialogue: 0,0:01:41.49,0:01:45.52,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Dawn can't come soon enough, I'm tired of waiting!
+Dialogue: 1,0:01:41.49,0:01:45.52,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Dawn can't come soon enough, I'm tired of waiting!
+Dialogue: 0,0:01:45.66,0:01:49.09,Opening,English,0,0,0,,{\blur0.3\c&H000000&}One, two, {\bord3.8}Sunshine{\bord}, four... We Go!
+Dialogue: 1,0:01:45.66,0:01:49.09,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}One, two, {\bord0}Sunshine{\bord}, four... We Go!
+Dialogue: 0,0:01:50.79,0:01:56.57,Opening,English,0,0,0,,{\blur0.3\c&H000000&}We... have made it this far
+Dialogue: 1,0:01:50.79,0:01:56.57,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}We... have made it this far
+Dialogue: 0,0:01:56.70,0:01:59.50,Opening,English,0,0,0,,{\blur0.3\c&H000000&}We'll go... wherever our dreams take us
+Dialogue: 1,0:01:56.70,0:01:59.50,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll go... wherever our dreams take us
+Dialogue: 0,0:01:59.67,0:02:04.64,Opening,English,0,0,0,,{\blur0.3\c&H000000&}And we won't leave anyone behind
+Dialogue: 1,0:01:59.67,0:02:04.64,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}And we won't leave anyone behind
+Dialogue: 0,0:02:04.74,0:02:07.28,Opening,English,0,0,0,,{\blur0.3\c&H000000&}We'll never look back, that's a vow
+Dialogue: 1,0:02:04.74,0:02:07.28,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll never look back, that's a vow
+Dialogue: 0,0:02:07.38,0:02:11.15,Opening,English,0,0,0,,{\blur0.3\c&H000000&}On that day when our dreams began,
+Dialogue: 1,0:02:07.38,0:02:11.15,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}On that day when our dreams began,
+Dialogue: 0,0:02:11.35,0:02:15.65,Opening,English,0,0,0,,{\blur0.3\c&H000000&}we set our goals and they've never changed!
+Dialogue: 1,0:02:11.35,0:02:15.65,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}we set our goals and they've never changed!
+Dialogue: 0,0:02:15.75,0:02:18.16,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still!  I can't stop!
+Dialogue: 1,0:02:15.75,0:02:18.16,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still!  I can't stop!
+Dialogue: 0,0:02:18.29,0:02:22.59,Opening,English,0,0,0,,{\blur0.3\c&H000000&}The sun in my heart will never set!
+Dialogue: 1,0:02:18.29,0:02:22.59,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}The sun in my heart will never set!
+Dialogue: 0,0:02:22.69,0:02:29.53,Opening,English,0,0,0,,{\blur0.3\c&H000000&}One, two, {\bord3.8}Sunshine{\bord}... One, two, {\bord3.8}Sunshine{\bord}...
+Dialogue: 1,0:02:22.69,0:02:29.53,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}One, two, {\bord0}Sunshine{\bord}... One, two, {\bord0}Sunshine{\bord}...
+Dialogue: 0,0:02:30.80,0:02:36.84,Opening,English,0,0,0,,{\blur0.3\c&H000000&}One, two, {\bord3.8}Sunshine{\bord}, four... We Go!
+Dialogue: 1,0:02:30.80,0:02:36.84,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}One, two, {\bord0}Sunshine{\bord}, four... We Go!
+Dialogue: 0,0:02:39.24,0:02:42.01,Opening,English,0,0,0,,{\blur0.3\c&H000000&}We Go!
+Dialogue: 1,0:02:39.24,0:02:42.01,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}We Go!
+Dialogue: 0,0:02:43.70,0:02:49.33,Default,Narrator,0,0,0,,All the pirates vying for the One Piece\Nhead for the second half of the Grand Line.
+Dialogue: 0,0:02:49.33,0:02:51.59,Default,Narrator,0,0,0,,People call it the "New World."
+Dialogue: 0,0:02:52.45,0:02:56.63,Default,Narrator,0,0,0,,Now, the boy whose body turned to rubber\Nafter eating the Gum-Gum Fruit,
+Dialogue: 0,0:02:57.17,0:03:00.33,Default,Narrator,0,0,0,,Monkey D. Luffy and his crew\Nventure into that very sea.
+Dialogue: 0,0:03:01.13,0:03:04.52,Default,Luffy,0,0,0,,I'm gonna be the Pirate King!!
 Dialogue: 0,0:03:07.84,0:03:10.84,Default,,0,0,0,,Two years have passed\Nsince the Paramount War at Marineford.
 Dialogue: 0,0:03:11.61,0:03:14.78,Default,,0,0,0,,Luffy and his crew\Neach completed individual training,
 Dialogue: 0,0:03:14.78,0:03:17.01,Default,,0,0,0,,and on their way\Nto the next stage—the New World—
 Dialogue: 0,0:03:17.01,0:03:22.95,Default,,0,0,0,,they reached Fishman Island,\Nlocated 10,000 meters below sea level.
 Dialogue: 0,0:03:29.36,0:03:31.80,Default,,0,0,0,,Go, Shark!
 Dialogue: 0,0:03:35.07,0:03:38.77,Default,,0,0,0,,To the Sea Forest!
-Dialogue: 0,0:03:38.77,0:03:47.78,Title Card - Top,,0,0,0,,{\fad(1982,1982)\blur0.6\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Ryugu Palace in Shock!
-Dialogue: 1,0:03:38.77,0:03:47.78,Title Card - Top,,0,0,0,,{\fad(1982,1982)\bord0\blur0.6\4a&HFF&}Ryugu Palace in Shock!
-Dialogue: 0,0:03:38.77,0:03:47.78,Title Card - Bottom,,0,0,0,,{\fad(1982,1982)\blur0.6\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Kidnapping of Shirahoshi
-Dialogue: 1,0:03:38.77,0:03:47.78,Title Card - Bottom,,0,0,0,,{\fad(1982,1982)\bord0\blur0.6\4a&HFF&}The Kidnapping of Shirahoshi
-Dialogue: 0,0:03:49.01,0:03:53.02,Sign,,0,0,265,,{\fad(521,521)\blur0.6\c&H000000&\1a&HFF&\t(476,521,\1a&H00&)\t(3489,3534,\1a&HFF&)}In the deep sea southeast of Fishman Island
-Dialogue: 1,0:03:49.01,0:03:53.02,Sign,,0,0,265,,{\fad(521,521)\bord0\blur0.6\4a&HFF&}In the deep sea southeast of Fishman Island
+Dialogue: 0,0:03:38.77,0:03:47.78,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Ryugu Palace in Shock!
+Dialogue: 1,0:03:38.77,0:03:47.78,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Ryugu Palace in Shock!
+Dialogue: 0,0:03:38.77,0:03:47.78,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Kidnapping of Shirahoshi
+Dialogue: 1,0:03:38.77,0:03:47.78,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Kidnapping of Shirahoshi
+Dialogue: 0,0:03:49.01,0:03:53.02,Sign,,0,0,268,,{\blur0.3\fad(520,520)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(3490,3535,\1a&HFF&)}In the deep sea southeast of Fishman Island
+Dialogue: 1,0:03:49.01,0:03:53.02,Sign,,0,0,268,,{\blur0.3\fad(520,520)\fs60\bord0\4a&HFF&}In the deep sea southeast of Fishman Island
 Dialogue: 0,0:03:52.55,0:03:56.85,DefaultLow,,0,0,0,,Thank you for coming all the way to see me!
 Dialogue: 0,0:03:56.85,0:04:02.76,Default,,0,0,0,,Well, Tom-san told me one of his family members\Nat home is also a shipwright, so...
 Dialogue: 0,0:04:03.46,0:04:07.77,Default,,0,0,0,,But it must've been difficult to come to Fishman Island.
@@ -171,8 +171,8 @@ Dialogue: 0,0:06:58.17,0:07:01.24,Default,,0,0,0,,They're gonna kill us if you d
 Dialogue: 0,0:07:01.24,0:07:02.21,Default,,0,0,0,,Kill you?
 Dialogue: 0,0:07:02.21,0:07:04.81,Default,,0,0,0,,Tell us!
 Dialogue: 0,0:07:04.81,0:07:07.18,Default,,0,0,0,,I don't know what you're talking about!
-Dialogue: 0,0:07:07.18,0:07:11.18,Sign,,0,0,265,,{\fad(362,523)\blur0.6\c&H000000&\1a&HFF&\t(317,362,\1a&H00&)\t(3497,3542,\1a&HFF&)}A few hours earlier; Fishman District, Noah
-Dialogue: 1,0:07:07.18,0:07:11.18,Sign,,0,0,265,,{\fad(362,523)\bord0\blur0.6\4a&HFF&}A few hours earlier; Fishman District, Noah
+Dialogue: 0,0:07:07.18,0:07:11.18,Sign,,0,0,268,,{\blur0.3\fad(360,520)\fs60\bord2.2\c&H000000&\1a&HFF&\t(315,360,\1a&H00&)\t(3480,3525,\1a&HFF&)}A few hours ago; Fishman District, Noah
+Dialogue: 1,0:07:07.18,0:07:11.18,Sign,,0,0,268,,{\blur0.3\fad(360,520)\fs60\bord0\4a&HFF&}A few hours ago; Fishman District, Noah
 Dialogue: 0,0:07:16.72,0:07:18.79,Default,,0,0,0,,What a pain in the ass!
 Dialogue: 0,0:07:18.79,0:07:22.56,Default,,0,0,0,,Humans are such lowly creatures—\Nthey can't even breathe in the water!
 Dialogue: 0,0:07:31.37,0:07:34.77,Default,,0,0,0,,Listen, you pirates under the control of Hody Jones!
@@ -301,8 +301,8 @@ Dialogue: 0,0:16:46.36,0:16:51.96,Default,,0,0,0,,Today, a new history for the F
 Dialogue: 0,0:16:53.83,0:16:57.30,Default,,0,0,0,,First, we conquer the Ryugu Kingdom!
 Dialogue: 0,0:16:57.30,0:16:59.37,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:17:01.10,0:17:04.21,Default,,0,0,0,,I'm coming to you soon, Shirahoshi!
-Dialogue: 0,0:17:09.21,0:17:13.72,Sign,,0,0,265,,{\fad(496,496)\blur0.6\c&H000000&\1a&HFF&\t(451,496,\1a&H00&)\t(4014,4059,\1a&HFF&)}Ryugu Palace, Northwest Side\NPassageway to the Hard Shell Tower
-Dialogue: 1,0:17:09.21,0:17:13.72,Sign,,0,0,265,,{\fad(496,496)\bord0\blur0.6\4a&HFF&}Ryugu Palace, Northwest Side\NPassageway to the Hard Shell Tower
+Dialogue: 0,0:17:09.21,0:17:13.72,Sign,,0,0,268,,{\blur0.3\fad(500,500)\fs60\bord2.2\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(4010,4055,\1a&HFF&)}Northwest side of Ryugu Palace\NPassageway to Hard Shell Tower
+Dialogue: 1,0:17:09.21,0:17:13.72,Sign,,0,0,268,,{\blur0.3\fad(500,500)\fs60\bord0\4a&HFF&}Northwest side of Ryugu Palace\NPassageway to Hard Shell Tower
 Dialogue: 0,0:17:09.91,0:17:12.68,DefaultLow,,0,0,0,,And now...
 Dialogue: 0,0:17:13.58,0:17:15.05,DefaultLow,,0,0,0,,Wait!
 Dialogue: 0,0:17:15.05,0:17:16.19,Default,,0,0,0,,No way!
@@ -391,8 +391,8 @@ Dialogue: 0,0:22:17.65,0:22:20.36,Default,,0,0,0,,What is that?\NSomething fun?
 Dialogue: 0,0:22:24.66,0:22:25.73,Default,,0,0,0,,It's a graveyard.
 Dialogue: 0,0:22:26.60,0:22:32.00,Default,,0,0,0,,There is a grave\Nthat I haven't been to since they built it.
 Dialogue: 0,0:22:32.94,0:22:39.04,Default,,0,0,0,,That is the place I've wanted to go to the most\Nfor the past ten years!
-Dialogue: 0,0:22:41.54,0:22:46.45,Sign,,0,0,265,,{\fad(441,441)\blur0.6\c&H000000&\1a&HFF&\t(396,441,\1a&H00&)\t(4459,4504,\1a&HFF&)}Sea Forest in the deep sea
-Dialogue: 1,0:22:41.54,0:22:46.45,Sign,,0,0,265,,{\fad(441,441)\bord0\blur0.6\4a&HFF&}Sea Forest in the deep sea
+Dialogue: 0,0:22:41.54,0:22:46.45,Sign,,0,0,268,,{\blur0.3\fad(500,500)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(4410,4455,\1a&HFF&)}Sea Forest in the deep sea
+Dialogue: 1,0:22:41.54,0:22:46.45,Sign,,0,0,268,,{\bord0\blur0.3\fad(500,500)\4a&HFF&}Sea Forest in the deep sea
 Dialogue: 0,0:22:45.75,0:22:48.18,DefaultLow,,0,0,0,,It's been ten years already.
 Dialogue: 0,0:22:48.18,0:22:50.92,Default,,0,0,0,,Since her assassination in broad daylight,
 Dialogue: 0,0:22:50.92,0:22:53.76,Default,,0,0,0,,that threw Fishman Island into chaos.
@@ -410,7 +410,7 @@ Dialogue: 0,0:23:33.50,0:23:38.77,Default,,0,0,0,,The New Fishman Pirates have a
 Dialogue: 0,0:23:38.77,0:23:40.24,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:40.24,0:23:43.07,Default,,0,0,0,,"Hody's Onslaught\NThe Retaliatory Plan Set Into Motion"
 Dialogue: 0,0:23:43.07,0:23:45.21,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.6\c&H000000&}Hody's Onslaught
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Hody's Onslaught
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.6\c&H000000&}The Retaliatory Plan Set Into Motion
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\4a&HFF&}The Retaliatory Plan Set Into Motion
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Hody's Onslaught
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Hody's Onslaught
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}The Retaliatory Plan Set Into Motion
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Retaliatory Plan Set Into Motion

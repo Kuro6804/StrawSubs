@@ -89,8 +89,8 @@ Dialogue: 0,0:03:46.38,0:03:50.71,Opening,English,0,0,0,,{\blur0.3\c&H000000&}yo
 Dialogue: 1,0:03:46.38,0:03:50.71,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}you'll have to be tough
 Dialogue: 0,0:03:51.15,0:03:53.68,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Standing out too much, is that a crime?
 Dialogue: 1,0:03:51.15,0:03:53.68,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Standing out too much, is that a crime?
-Dialogue: 0,0:03:53.85,0:03:56.72,Opening,English,0,0,0,,{\blur0.3\pos(954.2,1065)\c&H000000&}Wanted → Means a {\bord3.8}Winner (・∀・)
-Dialogue: 1,0:03:53.85,0:03:56.72,Opening,English,0,0,0,,{\bord0\blur0.3\pos(954.2,1065)\4a&HFF&}Wanted → Means a {\bord0}Winner (・∀・)
+Dialogue: 0,0:03:53.85,0:03:56.72,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Wanted → Means a {\bord3.8}Winner {\fsp-14}(・∀・)
+Dialogue: 1,0:03:53.85,0:03:56.72,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Wanted → Means a {\bord0}Winner {\fsp-14}(・∀・)
 Dialogue: 0,0:03:56.89,0:04:02.49,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Aah, freedom is our only rule!
 Dialogue: 1,0:03:56.89,0:04:02.49,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Aah, freedom is our only rule!
 Dialogue: 0,0:04:02.59,0:04:08.00,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Forget our worries, just let the wind blow
