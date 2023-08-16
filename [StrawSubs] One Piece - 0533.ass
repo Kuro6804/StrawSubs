@@ -24,7 +24,7 @@ Video File: [Panda-Raws] One Piece - 0533 (WEB 1080p AMZN JP 29.970fps EAC3) [C0
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 361
+Scroll Position: 357
 Active Line: 367
 Video Position: 42650
 
@@ -125,10 +125,10 @@ Dialogue: 0,0:04:34.46,0:04:36.29,Default,,0,0,0,,Take this!
 Dialogue: 0,0:04:40.10,0:04:41.20,Default,,0,0,0,,Zoro!
 Dialogue: 0,0:04:41.20,0:04:43.50,Default,,0,0,0,,I thought you'd been captured!
 Dialogue: 0,0:04:43.50,0:04:48.47,Default,,0,0,0,,I heard the sound of this festival so I let myself out!
-Dialogue: 0,0:04:48.94,0:04:57.92,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}It's an Emergency
-Dialogue: 1,0:04:48.94,0:04:57.92,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}It's an Emergency
-Dialogue: 0,0:04:48.94,0:04:57.92,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Ryugu Place Is Occupied
-Dialogue: 1,0:04:48.94,0:04:57.92,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Ryugu Place Is Occupied
+Dialogue: 0,0:04:48.94,0:04:57.92,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}An Emergency Breaks Out
+Dialogue: 1,0:04:48.94,0:04:57.92,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}An Emergency Breaks Out
+Dialogue: 0,0:04:48.94,0:04:57.92,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Ryugu Place Under Siege
+Dialogue: 1,0:04:48.94,0:04:57.92,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Ryugu Place Under Siege
 Dialogue: 0,0:05:01.35,0:05:02.49,Default,,0,0,0,,What the...
 Dialogue: 0,0:05:06.49,0:05:09.03,Default,,0,0,0,,How did he get out of jail?!
 Dialogue: 0,0:05:13.66,0:05:15.20,Default,,0,0,0,,What a fighter!
@@ -202,7 +202,7 @@ Dialogue: 0,0:09:32.16,0:09:37.49,Default,,0,0,0,,We should've broken their bubb
 Dialogue: 0,0:09:37.49,0:09:40.43,Default,,0,0,0,,I can't believe we let them drain all the water...
 Dialogue: 0,0:09:40.43,0:09:42.67,Default,,0,0,0,,Can't take it!
 Dialogue: 0,0:09:42.67,0:09:44.23,Default,,0,0,0,,Hey, you bastards!
-Dialogue: 0,0:09:44.23,0:09:50.41,Default,,0,0,0,,When the three princes of Neptune's army—\NFukaboshi, Ryuboshi, Manboshi—come back,
+Dialogue: 0,0:09:44.23,0:09:50.41,Default,,0,0,0,,When the three princes of the Neptune Army—\NFukaboshi, Ryuboshi, Manboshi—come back,
 Dialogue: 0,0:09:50.41,0:09:53.78,Default,,0,0,0,,you won't get away with this!
 Dialogue: 0,0:09:55.51,0:09:57.11,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:09:57.11,0:10:01.12,Default,,0,0,0,,In any case, we can't stay here on this island.
@@ -403,9 +403,9 @@ Dialogue: 0,0:23:24.65,0:23:27.66,Default,,0,0,0,,Furthermore, a group of unknow
 Dialogue: 0,0:23:27.66,0:23:33.03,Default,,0,0,0,,These pirates seem driven to attack\Nthe Straw Hats at all costs.
 Dialogue: 0,0:23:33.03,0:23:38.20,Default,,0,0,0,,Meanwhile, in Coral Hill, a critically wounded Hachi\Nappears before Sanji and Chopper!
 Dialogue: 0,0:23:38.20,0:23:39.47,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.47,0:23:42.91,Default,,0,0,0,,"Ryugu Palace in Shock!\NThe Kidnapping of Shirahoshi"
+Dialogue: 0,0:23:39.47,0:23:42.91,Default,,0,0,0,,"Ryugu Palace in Shock!\NThe Shirahoshi Kidnapping Incident"
 Dialogue: 0,0:23:42.91,0:23:45.11,Default,,0,0,0,,I'm gonna be the Pirate King!!
 Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Ryugu Palace in Shock!
 Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Ryugu Palace in Shock!
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}The Kidnapping of Shirahoshi
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Kidnapping of Shirahoshi
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}The Shirahoshi Kidnapping Incident
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Shirahoshi Kidnapping Incident

@@ -17,24 +17,24 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0542 (WEB 1080p AMZN JP 29.970fps EAC3) [946347E6].mkv
 Video File: [Panda-Raws] One Piece - 0542 (WEB 1080p AMZN JP 29.970fps EAC3) [946347E6].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 348
-Active Line: 357
-Video Position: 42648
+Scroll Position: 357
+Active Line: 366
+Video Position: 47322
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,200,200,56,0
-Style: Copy of OS2,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,4,40,20,20,0
-Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
+Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,20,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -100,304 +100,311 @@ Dialogue: 0,0:02:31.80,0:02:37.84,Opening,English,0,0,0,,{\blur0.3\c&H000000&}On
 Dialogue: 1,0:02:31.80,0:02:37.84,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}One, two, {\bord0}Sunshine{\bord}, four... We Go!
 Dialogue: 0,0:02:40.24,0:02:42.95,Opening,English,0,0,0,,{\blur0.3\c&H000000&}We Go!
 Dialogue: 1,0:02:40.24,0:02:42.95,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}We Go!
-Dialogue: 0,0:02:46.80,0:02:50.46,Default,Na,0,0,0,,Luffy reunited with Toriko and his friends when he popped out of a Spring Shark.
-Dialogue: 0,0:02:51.00,0:02:53.48,Default,Na,0,0,0,,The group headed to Chinese Tower Island,
-Dialogue: 0,0:02:53.48,0:02:56.59,Default,Na,0,0,0,,an island full of healthy foods and natural cures,
-Dialogue: 0,0:02:56.59,0:03:00.78,Default,Na,0,0,0,,in search of Seafood Fruit to cure Chopper's illness, Deep Sea Fever.
-Dialogue: 0,0:03:01.51,0:03:04.12,Default,Na,0,0,0,,They worked together to defeat the fierce beasts on the island
-Dialogue: 0,0:03:04.12,0:03:08.33,Default,Na,0,0,0,,and found the Seafood Fruit, which they fed to Chopper.
-Dialogue: 0,0:03:09.71,0:03:11.33,Default,Na,0,0,0,,However...
-Dialogue: 0,0:03:14.51,0:03:16.25,Default,Na,0,0,0,,Chopper's illness
-Dialogue: 0,0:03:17.60,0:03:19.32,Default,,0,0,0,,was not cured.
-Dialogue: 0,0:03:20.80,0:03:22.39,Default,All,0,0,0,,Chopper!
-Dialogue: 0,0:03:28.11,0:03:31.30,Default,Title,0,0,0,,"A Team is Formed! Save Chopper"
-Dialogue: 0,0:03:39.82,0:03:41.36,Default,Komatsu,0,0,0,,Isn't there anything we can do?
-Dialogue: 0,0:03:41.67,0:03:43.83,Default,Toriko,0,0,0,,Well, since we don't know what caused it...
-Dialogue: 0,0:03:53.81,0:03:54.98,Default,Komatsu,0,0,0,,Why...
-Dialogue: 0,0:03:54.98,0:03:57.34,Default,Komatsu,0,0,0,,Why is the Sunny here?!
-Dialogue: 0,0:03:57.74,0:04:00.09,Default,Franky,0,0,0,,We flew here with the Coup de Burst.
-Dialogue: 0,0:04:00.09,0:04:03.68,Default,Franky,0,0,0,,These guys said there was a sea in the middle of the island.
-Dialogue: 0,0:04:06.04,0:04:07.81,Default,Toriko,0,0,0,,Coco! Sunny!
-Dialogue: 0,0:04:08.75,0:04:09.64,Default,Toriko,0,0,0,,Rin!
-Dialogue: 0,0:04:12.70,0:04:14.10,Default,Toriko,0,0,0,,And even Kiss?!
-Dialogue: 0,0:04:14.35,0:04:16.66,Default,Rin,0,0,0,,Toriko! I was so worried!
-Dialogue: 0,0:04:16.66,0:04:18.60,Default,Toriko,0,0,0,,Why are you guys here?
-Dialogue: 0,0:04:18.60,0:04:22.61,Default,Coco,0,0,0,,My fortune told me that danger was coming your way.
-Dialogue: 0,0:04:22.86,0:04:25.94,Default,Coco,0,0,0,,I thought it must be about you or Komatsu-kun, but...
-Dialogue: 0,0:04:28.13,0:04:29.43,Default,Coco,0,0,0,,It looks like I was wrong.
-Dialogue: 0,0:04:30.12,0:04:31.44,Default,Sunny,0,0,0,,The Sunny!
-Dialogue: 0,0:04:31.44,0:04:33.51,Default,Sunny,0,0,0,,Yay! It's magnificent!
-Dialogue: 0,0:04:33.51,0:04:35.03,Default,Sunny,0,0,0,,And it flies! Beautiful!
-Dialogue: 0,0:04:35.03,0:04:37.71,Default,Sunny,0,0,0,,The name "The Sunny" is truly fantastic!
-Dialogue: 0,0:04:40.70,0:04:44.09,Default,Sanji,0,0,0,,We didn't talk much last time, so I didn't notice,
-Dialogue: 0,0:04:44.65,0:04:46.97,Default,Sanji,0,0,0,,but you're one weird-looking guy.
-Dialogue: 0,0:04:46.97,0:04:50.70,Default,Sunny,0,0,0,,I don't want to hear that from a guy with swirly eyebrows!
-Dialogue: 0,0:04:50.70,0:04:52.02,Default,Sanji,0,0,0,,What'd you say?!
-Dialogue: 0,0:04:58.14,0:05:00.35,Default,Sunny,0,0,0,,This is... Deep Sea Fever?
-Dialogue: 0,0:05:00.35,0:05:01.65,Default,Toriko,0,0,0,,You know it?
-Dialogue: 0,0:05:01.65,0:05:05.53,Default,Sunny,0,0,0,,Yes. I heard about it in Life, the nation of healing.
-Dialogue: 0,0:05:06.19,0:05:09.50,Default,Sunny,0,0,0,,First, you turn cold and blue, like the deep sea.
-Dialogue: 0,0:05:10.05,0:05:15.12,Default,Sunny,0,0,0,,In the terminal stage, you turn red hot, like the burning sun.
-Dialogue: 0,0:05:15.12,0:05:17.03,Default,Sunny,0,0,0,,It peaks at sunrise...
-Dialogue: 0,0:05:17.96,0:05:19.45,Default,Sunny,0,0,0,,And as the sun comes up,
-Dialogue: 0,0:05:19.95,0:05:21.38,Default,Sunny,0,0,0,,death comes with it.
-Dialogue: 0,0:05:26.77,0:05:30.51,Default,Komatsu,0,0,0,,We only have a few hours until sunrise!
-Dialogue: 0,0:05:30.94,0:05:32.80,Default,Komatsu,0,0,0,,This is terrible!
-Dialogue: 0,0:05:32.80,0:05:35.28,Default,Sunny,0,0,0,,Well, there is a way to save him.
-Dialogue: 0,0:05:35.28,0:05:37.66,Default,Sunny,0,0,0,,You need the legendary Seafood Fruit to—
-Dialogue: 0,0:05:37.66,0:05:39.21,Default,Luffy,0,0,0,,We tried that!
-Dialogue: 0,0:05:39.21,0:05:41.45,Default,Sunny,0,0,0,,Just eating the fruit isn't enough.
-Dialogue: 0,0:05:42.02,0:05:44.79,Default,Coco,0,0,0,,Spring, summer, autumn, winter.
-Dialogue: 0,0:05:45.28,0:05:49.91,Default,Coco,0,0,0,,He must eat the legendary ingredient of each of the four seasons together.
-Dialogue: 0,0:05:50.30,0:05:52.74,Default,Nami,0,0,0,,Legendary ingredient of each season?
-Dialogue: 0,0:05:52.99,0:05:57.06,Default,Coco,0,0,0,,Yes. The one said to be hardest to obtain
-Dialogue: 0,0:05:57.06,0:05:59.10,Default,Coco,0,0,0,,is the Mango Karin that blooms in spring.
-Dialogue: 0,0:05:59.10,0:06:00.46,Default,Toriko,0,0,0,,Mango Karin?!
-Dialogue: 0,0:06:01.36,0:06:04.45,Default,Toriko,0,0,0,,A sweet flower that tastes like mango pudding,
-Dialogue: 0,0:06:04.45,0:06:07.49,Default,Toriko,0,0,0,,also called the "spring pudding" that heralds the coming of spring.
-Dialogue: 0,0:06:07.49,0:06:13.01,Default,Toriko,0,0,0,,I hear its sweet flavor works as a revitalizing tonic that cures exhaustion!
-Dialogue: 0,0:06:13.01,0:06:14.34,Default,Toriko,0,0,0,,I wanna eat one!
-Dialogue: 0,0:06:14.34,0:06:16.23,Default,Komatsu,0,0,0,,Toriko-san, you're drooling! You're drooling!
-Dialogue: 0,0:06:16.45,0:06:18.73,Default,Nami,0,0,0,,It blooms in spring? Wait a minute!
-Dialogue: 0,0:06:18.73,0:06:22.75,Default,Nami,0,0,0,,You mean we have to go to Spring Island and Winter Island now?
-Dialogue: 0,0:06:22.75,0:06:25.23,Default,Nami,0,0,0,,We can't do that in just a few hours!
-Dialogue: 0,0:06:26.05,0:06:27.14,Default,Coco,0,0,0,,It's all right.
-Dialogue: 0,0:06:27.47,0:06:31.40,Default,Coco,0,0,0,,This is Chinese Tower Island, home of healthy foods and natural cures.
-Dialogue: 0,0:06:31.40,0:06:35.58,Default,Coco,0,0,0,,Let us go verify the legend handed down on this island!
-Dialogue: 0,0:06:37.20,0:06:38.08,B1,Text,0,0,0,,Seal
-Dialogue: 0,0:06:41.04,0:06:45.21,Default,Zoro,0,0,0,,Are these four ingredients really in a place like this?
-Dialogue: 0,0:06:47.47,0:06:48.97,Default,Coco,0,0,0,,Terry, you sense it, too?
-Dialogue: 0,0:06:48.97,0:06:52.67,Default,Coco,0,0,0,,I thought so. I can sense powerful electromagnetic waves here.
-Dialogue: 0,0:06:52.67,0:06:55.25,Default,Coco,0,0,0,,Toriko! This is definitely the place!
-Dialogue: 0,0:06:56.60,0:06:59.94,Default,Toriko,0,0,0,,Okay! We just have to get it out from under the earth, right?
-Dialogue: 0,0:07:00.77,0:07:04.36,Default,Toriko,0,0,0,,Nail Punch!
-Dialogue: 0,0:07:31.58,0:07:32.38,Default,Toriko,0,0,0,,This is...
-Dialogue: 0,0:07:32.68,0:07:34.48,Default,Luffy,0,0,0,,Wow!
-Dialogue: 0,0:07:35.59,0:07:38.52,Default,Luffy,0,0,0,,It's a huge mushroom tower!
-Dialogue: 0,0:07:40.11,0:07:41.33,Default,Coco,0,0,0,,I see.
-Dialogue: 0,0:07:41.89,0:07:43.85,Default,Coco,0,0,0,,This is "Mush Room."
-Dialogue: 0,0:07:44.61,0:07:45.77,Default,Sanji,0,0,0,,Mushroom?
-Dialogue: 0,0:07:45.77,0:07:50.25,Default,Coco,0,0,0,,Mush Room is a tower divided into four rooms,
-Dialogue: 0,0:07:48.03,0:07:52.74,Copy of OS2,Text,0,0,0,,Winter Autumn Summer Spring
-Dialogue: 0,0:07:50.25,0:07:52.27,Default,Coco,0,0,0,,with a different season on each floor.
-Dialogue: 0,0:07:52.92,0:07:57.83,Default,Toriko,0,0,0,,So we just have to get the seasonal ingredients from each floor, right?
-Dialogue: 0,0:07:58.04,0:08:00.46,Default,Nami,0,0,0,,What's something like this doing underground?
-Dialogue: 0,0:08:00.46,0:08:01.81,Default,Sunny,0,0,0,,This island's name
-Dialogue: 0,0:08:01.81,0:08:07.16,On Top,Text,0,0,0,,Chinese Tower Island
-Dialogue: 0,0:08:02.44,0:08:06.56,DefaultLow,,0,0,0,,means "an island of Chinese with a tower."
-Dialogue: 0,0:08:07.16,0:08:09.30,DefaultLow,Sunny,0,0,0,,This tower is the core, the center,
-Dialogue: 0,0:08:09.30,0:08:10.63,DefaultLow,,0,0,0,,of the island.
-Dialogue: 0,0:08:10.63,0:08:15.05,Default,Brook,0,0,0,,But you people certainly are knowledgeable about foodstuffs.
-Dialogue: 0,0:08:15.05,0:08:16.84,Default,Brook,0,0,0,,How very heartening!
-Dialogue: 0,0:08:16.84,0:08:19.26,Default,Komatsu,0,0,0,,Toriko-san, Coco-san, and Sunny-san
-Dialogue: 0,0:08:19.26,0:08:21.18,Default,,0,0,0,,are among the Four Heavenly Kings of Gourmet.
-Dialogue: 0,0:08:21.18,0:08:23.39,Default,Komatsu,0,0,0,,They're the cream of the Gourmet Hunter crop!
-Dialogue: 0,0:08:23.39,0:08:27.77,Default,Brook,0,0,0,,Four Heavenly Kings? Then is there not one more?
-Dialogue: 0,0:08:28.08,0:08:29.36,Default,Toriko,0,0,0,,Zebra is...
-Dialogue: 0,0:08:30.24,0:08:32.61,Default,Toriko,0,0,0,,...is prison right now.
-Dialogue: 0,0:08:33.70,0:08:38.36,Default,Luffy,0,0,0,,Gum-Gum Pistol!
-Dialogue: 0,0:08:43.33,0:08:45.79,Default,Luffy,0,0,0,,Nami! Take care of Chopper!
-Dialogue: 0,0:08:45.79,0:08:48.91,Default,Nami,0,0,0,,Right! These two are here, too, so we'll be fine!
-Dialogue: 0,0:08:48.91,0:08:49.92,Default,Nami,0,0,0,,Leave it to us!
-Dialogue: 0,0:08:50.76,0:08:52.72,Default,Luffy,0,0,0,,Okay! Ready to go?
-Dialogue: 0,0:08:52.88,0:08:54.32,Default,All,0,0,0,,Yeah!
-Dialogue: 0,0:09:08.82,0:09:10.27,Default,Luffy,0,0,0,,It's hot...
-Dialogue: 0,0:09:10.53,0:09:12.59,Default,Toriko,0,0,0,,This is like the tropics!
-Dialogue: 0,0:09:12.59,0:09:14.15,Default,Toriko,0,0,0,,So this is the summer floor, huh?
-Dialogue: 0,0:09:15.82,0:09:19.53,Default,Usopp,0,0,0,,But why is it so bright when there are no windows?
-Dialogue: 0,0:09:19.53,0:09:24.45,Default,Coco,0,0,0,,Oh, that's because of the Light Mushrooms growing on the walls and ceiling.
-Dialogue: 0,0:09:26.95,0:09:29.24,Default,Toriko,0,0,0,,Komatsu, you okay?
-Dialogue: 0,0:09:29.69,0:09:34.76,Default,Komatu,0,0,0,,This heat is nothing compared to Chopper-san's fever!
-Dialogue: 0,0:09:39.45,0:09:43.77,DefaultLow,Text,0,0,0,,Banjyan Tiger (Mammal Beast) Capture Level 29
-Dialogue: 0,0:09:44.63,0:09:46.18,Default,Komatsu,0,0,0,,S-S-Something jumped out!
-Dialogue: 0,0:09:46.18,0:09:48.56,Default,Toriko,0,0,0,,Oh, a Banjyan Tiger, huh?
-Dialogue: 0,0:09:49.53,0:09:54.99,Default,Toriko,0,0,0,,It's said that you can harvest rich, ripened chili paste from them.
-Dialogue: 0,0:09:55.32,0:09:58.25,Default,Coco,0,0,0,,The Banjyan Tiger is the first ingredient.
-Dialogue: 0,0:09:58.25,0:09:59.40,Default,Zoro,0,0,0,,Oh?
-Dialogue: 0,0:10:01.35,0:10:02.97,Default,Coco,0,0,0,,Poison Rifle!
-Dialogue: 0,0:10:08.71,0:10:10.18,Default,Brook,0,0,0,,We don't have much time.
-Dialogue: 0,0:10:10.18,0:10:13.71,Default,Brook,0,0,0,,Perhaps we should split up and visit each floor in groups?
-Dialogue: 0,0:10:13.71,0:10:15.38,Default,Rin,0,0,0,,I agree!
-Dialogue: 0,0:10:17.23,0:10:19.33,Default,Both,0,0,0,,Then I'll head upstairs!
-Dialogue: 0,0:10:19.33,0:10:21.04,Default,Both,0,0,0,,What? You, too?!
-Dialogue: 0,0:10:22.26,0:10:24.86,Default,Luffy,0,0,0,,You two are so compatible!
-Dialogue: 0,0:10:24.86,0:10:26.06,Default,Both,0,0,0,,We are not!
-Dialogue: 0,0:10:30.15,0:10:35.89,Default,Brook,0,0,0,,Luffy-san! Everyone! Leave this floor to us!
-Dialogue: 0,0:10:36.88,0:10:39.74,Default,Usopp,0,0,0,,Why is it chasing me?!
-Dialogue: 0,0:10:44.16,0:10:45.46,Default,Komatsu,0,0,0,,And up...
-Dialogue: 0,0:10:45.89,0:10:49.29,Default,Komatsu,0,0,0,,Is this the autumn floor?
-Dialogue: 0,0:10:51.04,0:10:53.25,Default,Rin,0,0,0,,Toriko! Leave this one to me!
-Dialogue: 0,0:10:53.53,0:10:54.74,Default,Both,0,0,0,,I'll stay here, too!
-Dialogue: 0,0:10:55.84,0:10:58.38,Default,Luffy,0,0,0,,You guys really are compatible!
-Dialogue: 0,0:10:58.92,0:11:00.59,Default,Both,0,0,0,,I told you, we are not!
-Dialogue: 0,0:11:00.95,0:11:04.82,Default,Sanji,0,0,0,,Don't copy me! I'm staying on this floor with Rin-chan!
-Dialogue: 0,0:11:04.82,0:11:08.34,Default,Sunny,0,0,0,,No, no! I decided at the start that I would stay on this floor!
-Dialogue: 0,0:11:08.34,0:11:10.60,Default,Sunny,0,0,0,,I have a personal interest in the ingredient here!
-Dialogue: 0,0:11:11.09,0:11:14.40,Default,Franky,0,0,0,,What ingredient is that? It sounds interesting.
-Dialogue: 0,0:11:14.67,0:11:16.15,Default,Toriko,0,0,0,,Okay, we'll leave it to you!
-Dialogue: 0,0:11:16.15,0:11:20.32,Default,Toriko,0,0,0,,Toriko! It seems the ingredient you can get on the next floor is sake!
-Dialogue: 0,0:11:20.32,0:11:22.49,Default,Toriko,0,0,0,,Got it, Rin! Take care of this floor!
-Dialogue: 0,0:11:22.49,0:11:25.06,Default,Rin,0,0,0,,Toriko asked me to take care of it!
-Dialogue: 0,0:11:25.06,0:11:27.59,Default,Franky,0,0,0,,Well? What are we gonna see here?
-Dialogue: 0,0:11:27.59,0:11:28.04,Default,Both,0,0,0,,Huh?
-Dialogue: 0,0:11:29.10,0:11:30.87,Default,Sunny,0,0,0,,Have you heard of unicorns?
-Dialogue: 0,0:11:31.19,0:11:35.96,Default,Franky,0,0,0,,Unicorn? You mean the horse with the single horn on the forehead?
-Dialogue: 0,0:11:35.96,0:11:38.09,Default,Sunny,0,0,0,,Yes. It is beautiful!
-Dialogue: 0,0:11:38.09,0:11:42.34,Default,Sunny,0,0,0,,The unicorn is a mythical horse of many legends.
-Dialogue: 0,0:11:42.60,0:11:46.31,Default,Sunny,0,0,0,,The creature we'll see here is not a unicorn,
-Dialogue: 0,0:11:46.84,0:11:49.56,Default,Sunny,0,0,0,,but an eight-horned beast: an Octohorn!
-Dialogue: 0,0:11:51.53,0:11:53.12,Default,Sunny,0,0,0,,I can't wait!
-Dialogue: 0,0:11:54.92,0:11:56.49,Default,Rin,0,0,0,,You mean that thing?
-Dialogue: 0,0:11:59.46,0:12:03.66,On Top,Text,0,0,0,,Octohorn (Eight-Horned Boar) (Mammal Beast) Capture Level 29
-Dialogue: 0,0:12:03.79,0:12:07.06,Default,Sanji,0,0,0,,It has an eight-horned herb on its head.
-Dialogue: 0,0:12:07.59,0:12:08.99,Default,Sunny,0,0,0,,Wh-What?!
-Dialogue: 0,0:12:09.94,0:12:11.23,Default,Sunny,0,0,0,,What is this?!
-Dialogue: 0,0:12:14.73,0:12:17.67,Default,Sunny,0,0,0,,I-It's not what I imagined at all!
-Dialogue: 0,0:12:17.99,0:12:21.67,Default,Sanji,0,0,0,,Nah, you just made up that image yourself.
-Dialogue: 0,0:12:31.56,0:12:33.55,Default,Luffy,0,0,0,,It's c-c-cold!
-Dialogue: 0,0:12:33.55,0:12:35.49,Default,Toriko,0,0,0,,This cold really has a kick!
-Dialogue: 0,0:12:35.49,0:12:37.02,Default,Komatsu,0,0,0,,It does...
-Dialogue: 0,0:12:37.38,0:12:39.57,Default,Komatsu,0,0,0,,But how is there a blizzard indoors?
-Dialogue: 0,0:12:41.16,0:12:46.14,Default,Toriko,0,0,0,,There's probably warm air coming from somewhere, causing convection.
-Dialogue: 0,0:12:48.70,0:12:50.12,Default,Toriko,0,0,0,,Is that the cause?
-Dialogue: 0,0:12:57.39,0:12:58.38,Default,Komatsu,0,0,0,,Huh?!
-Dialogue: 0,0:12:58.38,0:13:00.13,Default,Komatsu,0,0,0,,Something's there!
-Dialogue: 0,0:13:02.95,0:13:05.13,Default,Komatsu,0,0,0,,An orangutan wearing clothes!
-Dialogue: 0,0:13:05.13,0:13:07.93,Default,Komatsu,0,0,0,,Has it adapted human customs?!
-Dialogue: 0,0:13:09.82,0:13:12.25,Default,Komatsu,0,0,0,,Wait, it looks like it's drunk!
-Dialogue: 0,0:13:15.59,0:13:17.23,Default,Toriko,0,0,0,,This smell is...
-Dialogue: 0,0:13:17.60,0:13:19.45,Default,Toriko,0,0,0,,Raochu!
-Dialogue: 0,0:13:19.45,0:13:24.03,Default,Toriko,0,0,0,,That's the Raochu Spring, erupting with raochu!
-Dialogue: 0,0:13:24.03,0:13:27.00,Default,Komatsu,0,0,0,,So that's the third ingredient?
-Dialogue: 0,0:13:27.00,0:13:29.70,Default,Toriko,0,0,0,,Excuse me, could you share that sake with us?
-Dialogue: 0,0:13:38.96,0:13:40.25,Default,Komatsu,0,0,0,,Toriko-san!
-Dialogue: 0,0:13:40.25,0:13:41.34,Default,Luffy,0,0,0,,You okay?
-Dialogue: 0,0:13:41.34,0:13:43.30,Default,Toriko,0,0,0,,I see... That's...
-Dialogue: 0,0:13:43.57,0:13:45.50,Default,Toriko,0,0,0,,It's my first time seeing one.
-Dialogue: 0,0:13:45.50,0:13:48.30,Default,Toriko,0,0,0,,An orangutan whose favorite treat is raochu!
-Dialogue: 0,0:13:53.08,0:13:57.26,On Top,Text,0,0,0,,Raochutan (Mammal Beast) Capture Level 32
-Dialogue: 0,0:13:55.37,0:13:57.27,DefaultLow,Toriko,0,0,0,,A Raochutan!
-Dialogue: 0,0:13:57.51,0:13:59.87,Default,Luffy,0,0,0,,Its favorite treat is sake?
-Dialogue: 0,0:13:59.87,0:14:02.97,Default,Luffy,0,0,0,,Then it probably won't be easy to get it to share.
-Dialogue: 0,0:14:03.35,0:14:04.83,Default,Toriko,0,0,0,,Be careful.
-Dialogue: 0,0:14:04.83,0:14:07.78,Default,Toriko,0,0,0,,With all that wobbling, we can't predict its attacks.
-Dialogue: 0,0:14:07.78,0:14:09.95,Default,Komatsu,0,0,0,,It's like drunken boxing!
-Dialogue: 0,0:14:21.46,0:14:23.34,Default,Nami,0,0,0,,Hang in there, Chopper.
-Dialogue: 0,0:14:23.34,0:14:26.97,Default,,0,0,0,,I'm sure the others will bring back the ingredients.
-Dialogue: 0,0:14:27.88,0:14:29.96,Default,Nami,0,0,0,,There's no more time.
-Dialogue: 0,0:14:31.20,0:14:34.30,Default,Nami,0,0,0,,It's almost dawn...
-Dialogue: 0,0:14:39.86,0:14:42.45,Default,Usopp,0,0,0,,You guys!
-Dialogue: 0,0:14:42.45,0:14:45.73,Default,Usopp,0,0,0,,Don't just watch! Hurry up and catch this thing!
-Dialogue: 0,0:14:45.94,0:14:48.29,Default,Coco,0,0,0,,Just capturing it isn't enough.
-Dialogue: 0,0:14:48.67,0:14:51.18,Default,Coco,0,0,0,,If you don't make the Banjyan Tiger run fast,
-Dialogue: 0,0:14:51.18,0:14:53.45,Default,Coco,0,0,0,,you can't collect the chili paste.
-Dialogue: 0,0:14:53.45,0:14:57.66,Default,Zoro,0,0,0,,Looks like it's figured out by instinct that you're the easiest prey.
-Dialogue: 0,0:14:57.66,0:14:58.87,Default,Zoro,0,0,0,,Better run hard.
-Dialogue: 0,0:15:13.01,0:15:15.96,Default,Usopp,0,0,0,,Hey! It turned into chili paste!
-Dialogue: 0,0:15:15.96,0:15:17.99,Default,Robin,0,0,0,,So all that running around melted it.
-Dialogue: 0,0:15:18.83,0:15:20.22,Default,Brook,0,0,0,,We did it!
-Dialogue: 0,0:15:20.22,0:15:23.40,Default,Coco,0,0,0,,All right. We've got the first ingredient.
-Dialogue: 0,0:15:24.85,0:15:27.68,Default,Usopp,0,0,0,,Well, this is just what I can do!
-Dialogue: 0,0:15:29.41,0:15:33.28,Default,Franky,0,0,0,,Franky Rocket Launcher!
-Dialogue: 0,0:15:38.53,0:15:40.54,Default,Franky,0,0,0,,So it's got speed, too?
-Dialogue: 0,0:15:40.91,0:15:42.11,Default,Rin,0,0,0,,Not bad.
-Dialogue: 0,0:15:42.11,0:15:46.36,Default,Sunny,0,0,0,,I was so excited to see what beautiful creature would appear...
-Dialogue: 0,0:15:46.95,0:15:48.09,Default,,0,0,0,,and yet...
-Dialogue: 0,0:15:48.40,0:15:51.26,Default,Sanji,0,0,0,,Rin-chan! Are you okay?!
-Dialogue: 0,0:15:52.49,0:15:55.30,Default,Sanji,0,0,0,,I'll protect Rin-chan!
-Dialogue: 0,0:15:58.27,0:16:02.48,Default,Sunny,0,0,0,,How dare you betray my hopes so deeply?!
-Dialogue: 0,0:16:06.44,0:16:07.72,Default,Franky,0,0,0,,It stopped moving!
-Dialogue: 0,0:16:07.72,0:16:10.11,Default,Rin,0,0,0,,My brother stopped it with his Hair Lock!
-Dialogue: 0,0:16:10.48,0:16:13.66,Default,Sanji,0,0,0,,What the heck? Looks like that ended easily.
-Dialogue: 0,0:16:13.66,0:16:18.14,Default,Toriko,0,0,0,,The eight horns are a little cute, but I don't care about the rest.
-Dialogue: 0,0:16:18.14,0:16:21.79,Default,Rin,0,0,0,,Sorry my brother made trouble with you with his made-up expectations.
-Dialogue: 0,0:16:22.19,0:16:24.25,Default,Rin,0,0,0,,Now, I'll just... take these!
-Dialogue: 0,0:16:24.25,0:16:26.01,Default,Both,0,0,0,,Let's get moving!
-Dialogue: 0,0:16:26.96,0:16:30.00,Default,Franky,0,0,0,,You two really are compatible.
-Dialogue: 0,0:16:30.00,0:16:32.21,Default,Both,0,0,0,,We're not compatible at all!
-Dialogue: 0,0:16:49.14,0:16:50.94,Default,Komatsu,0,0,0,,Toriko-san! Luffy-san!
-Dialogue: 0,0:16:52.10,0:16:53.24,Default,Toriko,0,0,0,,That little...
-Dialogue: 0,0:16:53.97,0:16:56.24,Default,Luffy,0,0,0,,It's so cold, I can't move the way I want to...
-Dialogue: 0,0:17:03.51,0:17:05.70,Default,Luffy,0,0,0,,The more it drinks, the stronger it gets!
-Dialogue: 0,0:17:07.35,0:17:10.02,Default,Toriko,0,0,0,,The sake isn't the only thing making it stronger.
-Dialogue: 0,0:17:10.02,0:17:12.55,Default,Toriko,0,0,0,,There's also that leaf it's drinking out of!
-Dialogue: 0,0:17:13.03,0:17:15.58,Default,Toriko,0,0,0,,That's a Mango Karin leaf!
-Dialogue: 0,0:17:15.58,0:17:17.09,Default,Komatsu,0,0,0,,If the leaves are here...
-Dialogue: 0,0:17:17.09,0:17:19.05,Default,Luffy,0,0,0,,Does that mean the Mango Karin is nearby?
-Dialogue: 0,0:17:29.77,0:17:30.82,Default,Toriko,0,0,0,,Komatsu!
-Dialogue: 0,0:17:31.58,0:17:32.67,Default,Luffy,0,0,0,,Oh, no!
-Dialogue: 0,0:17:43.50,0:17:48.21,Default,Zebra,0,0,0,,Don't get cocky, now!
-Dialogue: 0,0:18:02.25,0:18:04.51,Default,Luffy,0,0,0,,What was that?! It was incredible!
-Dialogue: 0,0:18:04.51,0:18:07.69,Default,Toriko,0,0,0,,It's Zebra! That was Zebra's Sound Bullet!
-Dialogue: 0,0:18:08.05,0:18:11.50,Default,Toriko,0,0,0,,He shot a Sound Bullet from inside the prison!
-Dialogue: 0,0:18:12.99,0:18:16.03,Default,Zebra,0,0,0,,Let me enjoy this a little longer, Toriko.
-Dialogue: 0,0:18:16.51,0:18:19.28,Default,Zebra,0,0,0,,You figure out how to deal with the rest.
-Dialogue: 0,0:18:19.73,0:18:23.08,Default,Komatsu,0,0,0,,This is the power of Zebra-san of the Four Heavenly Kings...
-Dialogue: 0,0:18:23.40,0:18:26.42,Default,Toriko,0,0,0,,It's warmer now that the outside air is coming in!
-Dialogue: 0,0:18:26.42,0:18:28.62,Default,Luffy,0,0,0,,I can move really well now!
-Dialogue: 0,0:18:50.52,0:18:52.12,Default,Komatsu,0,0,0,,It grew gigantic!
-Dialogue: 0,0:18:53.60,0:18:55.82,Default,Komatsu,0,0,0,,Could that be...
-Dialogue: 0,0:18:55.82,0:18:57.86,Default,Komatsu,0,0,0,,A Mango Karin flower?!
-Dialogue: 0,0:18:57.86,0:19:00.19,Default,Toriko,0,0,0,,Yeah. There's no doubt.
-Dialogue: 0,0:19:00.19,0:19:01.95,Default,Luffy,0,0,0,,All right! I'll be taking that!
-Dialogue: 0,0:19:02.28,0:19:04.25,Default,Luffy,0,0,0,,Just wait, Chopper!
-Dialogue: 0,0:19:04.25,0:19:05.87,Default,Luffy,0,0,0,,Gear 3,
-Dialogue: 0,0:19:09.18,0:19:10.58,Default,Luffy,0,0,0,,Armament: Hardening!
-Dialogue: 0,0:19:10.97,0:19:12.42,Default,Toriko,0,0,0,,Fifteen-fold...
-Dialogue: 0,0:19:14.38,0:19:16.01,Default,Luffy,0,0,0,,Gum-Gum...
-Dialogue: 0,0:19:17.70,0:19:19.38,Default,Luffy,0,0,0,,Elephant Gun!
-Dialogue: 0,0:19:19.38,0:19:20.97,Default,Toriko,0,0,0,,Nail Punch!
-Dialogue: 0,0:19:32.13,0:19:33.61,Default,Both,0,0,0,,All right!
-Dialogue: 0,0:19:33.93,0:19:37.40,Default,Komatsu,0,0,0,,Amazing! They beat the Raochutan!
-Dialogue: 0,0:19:41.22,0:19:42.78,Default,Luffy,0,0,0,,This is the Mango Karin?
-Dialogue: 0,0:19:44.44,0:19:46.54,Default,Komatsu,0,0,0,,The flower isn't blooming!
-Dialogue: 0,0:19:46.94,0:19:49.91,Default,Toriko,0,0,0,,Looks like it's too cold for it to open completely.
-Dialogue: 0,0:19:49.91,0:19:53.10,Default,Luffy,0,0,0,,What?! So what do we do?!
-Dialogue: 0,0:19:53.10,0:19:56.27,Default,Toriko,0,0,0,,If it gets some warm light, like the spring sunlight...
-Dialogue: 0,0:19:56.27,0:19:58.46,Default,Komatsu,0,0,0,,You mean light from the sun?
-Dialogue: 0,0:19:59.25,0:20:03.28,Default,Luffy,0,0,0,,But once the sun comes up, Chopper will be done for!
-Dialogue: 0,0:20:05.40,0:20:07.73,Default,Luffy,0,0,0,,What the heck can we do?!
-Dialogue: 0,0:20:39.23,0:20:40.01,Default,Toriko,0,0,0,,That's...
-Dialogue: 0,0:20:40.28,0:20:43.26,Default,Luffy,0,0,0,,What? Is it dawn?
-Dialogue: 0,0:20:43.40,0:20:45.60,Default,Toriko,0,0,0,,No, it's...
-Dialogue: 0,0:20:46.87,0:20:48.47,Default,Toriko,0,0,0,,A school of Spring Sharks!
-Dialogue: 0,0:20:49.04,0:20:51.45,Default,Luffy,0,0,0,,Spring Sharks? Like the one that swallowed me?
-Dialogue: 0,0:20:51.45,0:20:56.40,Default,Toriko,0,0,0,,Yeah. They're a highly valuable shark, but they're called Spring Sharks
-Dialogue: 0,0:20:56.69,0:21:00.47,Default,Toriko,0,0,0,,because, during the spawning season, they glow!
-Dialogue: 0,0:21:00.47,0:21:05.20,Default,Toriko,0,0,0,,And that glow is said to be as warm and bright as the spring sunlight!
-Dialogue: 0,0:21:05.50,0:21:09.91,Default,Toriko,0,0,0,,The glow of a whole school rivals the warm glow of the sun!
-Dialogue: 0,0:21:33.46,0:21:34.56,Default,Komatsu,0,0,0,,That's...
-Dialogue: 0,0:21:34.93,0:21:36.76,Default,Komatsu,0,0,0,,The Mango Karin!
-Dialogue: 0,0:21:38.94,0:21:40.77,Default,Sunny,0,0,0,,So... So beautiful!
-Dialogue: 0,0:21:40.98,0:21:46.11,Default,Toriko,0,0,0,,Luffy, it looks like you have great Food Luck for finding ingredients.
-Dialogue: 0,0:21:46.11,0:21:49.08,Default,Toriko,0,0,0,,You had already met the last ingredient you needed to heal Chopper,
-Dialogue: 0,0:21:49.08,0:21:51.31,Default,Toriko,0,0,0,,the Spring Shark, once before!
-Dialogue: 0,0:21:54.60,0:21:58.70,Default,Komatsu,0,0,0,,Seafood Fruit, chili paste from the Banjyan Tiger,
-Dialogue: 0,0:21:58.70,0:22:00.47,Default,Komatsu,0,0,0,,the eight-horned herb from the Octohorn,
-Dialogue: 0,0:22:00.47,0:22:04.34,Default,Komatsu,0,0,0,,raochu from the Raochu Spring, and the Mango Karin flower.
-Dialogue: 0,0:22:04.95,0:22:06.33,Default,Komatsu,0,0,0,,It's finished!
-Dialogue: 0,0:22:06.33,0:22:10.35,Default,,0,0,0,,Seafood Fruit with a sauce made from the four seasonal ingredients!
-Dialogue: 0,0:22:10.56,0:22:13.10,Default,Komatsu,0,0,0,,Here, Chopper-san, eat this.
-Dialogue: 0,0:22:24.76,0:22:26.84,Default,Chopper,0,0,0,,Yum!
-Dialogue: 0,0:22:27.63,0:22:29.49,Default,Komatsu,0,0,0,,You're doing that again?
-Dialogue: 0,0:22:31.68,0:22:34.54,Default,Luffy,0,0,0,,We did it!
-Dialogue: 0,0:22:35.02,0:22:37.75,Default,Luffy,0,0,0,,He's cured!
-Dialogue: 0,0:22:40.20,0:22:42.96,Default,Chopper,0,0,0,,Thank you all so much!
-Dialogue: 0,0:22:42.96,0:22:45.67,Default,Chopper,0,0,0,,I'll never forget this!
-Dialogue: 0,0:22:46.08,0:22:48.22,Default,Luffy,0,0,0,,Toriko! See you again!
-Dialogue: 0,0:22:48.22,0:22:51.51,Default,Toriko,0,0,0,,Yeah! Let's eat our fill of tasty food again!
-Dialogue: 0,0:22:51.86,0:22:54.81,Default,Toriko,0,0,0,,The food you eat with your friends is the best!
-Dialogue: 0,0:22:56.09,0:22:57.46,Default,Sanji,0,0,0,,What's with him?
-Dialogue: 0,0:22:57.78,0:23:00.40,Default,Sanji,0,0,0,,I guess, in spite of everything, he's sad to say goodbye.
-Dialogue: 0,0:23:00.40,0:23:03.90,Default,All,0,0,0,,Goodbye!
-Dialogue: 0,0:23:06.63,0:23:08.15,Default,Sunny,0,0,0,,Take care!
-Dialogue: 0,0:23:08.15,0:23:10.68,Default,Sunny,0,0,0,,Let's meet again,
-Dialogue: 0,0:23:10.68,0:23:13.87,Default,Sunny,0,0,0,,The Sunny!
-Dialogue: 0,0:23:17.00,0:23:18.52,Default,All,0,0,0,,That's what you meant?!
-Dialogue: 0,0:23:22.10,0:23:27.20,Default,Na,0,0,0,,After a long voyage, Tiger finally returns Koala to her home.
-Dialogue: 0,0:23:27.68,0:23:31.72,Default,Na,0,0,0,,Watching Koala and her mother in a tearful embrace,
-Dialogue: 0,0:23:31.72,0:23:35.01,Default,Na,0,0,0,,Tiger sees hope for a new future for Fishmen and humans.
-Dialogue: 0,0:23:35.56,0:23:41.17,Default,Na,0,0,0,,But his hopes are cruelly trampled upon by humans.
-Dialogue: 0,0:23:41.60,0:23:42.94,Default,Luffy,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:42.94,0:23:45.94,Default,Luffy,0,0,0,,"The Death of the Hero! A Shocking Truth of Tiger!"
-Dialogue: 0,0:23:45.94,0:23:48.23,Default,Luffy,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:02:44.82,0:02:48.48,Default,Na,0,0,0,,Luffy reunited with Toriko and his friends when he popped out of a Spring Shark.
+Dialogue: 0,0:02:49.02,0:02:51.52,Default,Na,0,0,0,,The group headed to Chinese Tower Island,
+Dialogue: 0,0:02:51.52,0:02:54.63,Default,Na,0,0,0,,an island full of healthy foods and natural cures,
+Dialogue: 0,0:02:54.63,0:02:58.83,Default,Na,0,0,0,,in search of Seafood Fruit to cure Chopper's illness, Deep Sea Fever.
+Dialogue: 0,0:02:59.55,0:03:02.14,Default,Na,0,0,0,,They worked together to defeat the fierce beasts on the island
+Dialogue: 0,0:03:02.13,0:03:06.34,Default,Na,0,0,0,,and found the Seafood Fruit, which they fed to Chopper.
+Dialogue: 0,0:03:07.72,0:03:09.34,Default,Na,0,0,0,,However...
+Dialogue: 0,0:03:12.53,0:03:14.27,Default,Na,0,0,0,,Chopper's illness
+Dialogue: 0,0:03:15.62,0:03:17.34,Default,,0,0,0,,was not cured.
+Dialogue: 0,0:03:18.82,0:03:20.41,Default,All,0,0,0,,Chopper!
+Dialogue: 0,0:03:22.85,0:03:31.83,Title Card - Top,Title,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}A Team Forms!
+Dialogue: 1,0:03:22.85,0:03:31.83,Title Card - Top,Title,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}A Team Forms!
+Dialogue: 0,0:03:22.85,0:03:31.83,Title Card - Bottom,Title,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Save Chopper
+Dialogue: 1,0:03:22.85,0:03:31.83,Title Card - Bottom,Title,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Save Chopper
+Dialogue: 0,0:03:37.83,0:03:39.37,Default,Komatsu,0,0,0,,Isn't there anything we can do?
+Dialogue: 0,0:03:39.68,0:03:41.84,Default,Toriko,0,0,0,,Well, since we don't know what caused it...
+Dialogue: 0,0:03:51.84,0:03:53.02,Default,Komatsu,0,0,0,,Why...
+Dialogue: 0,0:03:53.02,0:03:55.39,Default,Komatsu,0,0,0,,Why is the Sunny here?!
+Dialogue: 0,0:03:55.78,0:03:58.09,Default,Franky,0,0,0,,We flew here with the Coup de Burst.
+Dialogue: 0,0:03:58.08,0:04:01.70,Default,Franky,0,0,0,,These guys said there was a sea in the middle of the island.
+Dialogue: 0,0:04:04.06,0:04:05.83,Default,Toriko,0,0,0,,Coco! Sunny!
+Dialogue: 0,0:04:06.77,0:04:07.66,Default,Toriko,0,0,0,,Rin!
+Dialogue: 0,0:04:10.73,0:04:12.13,Default,Toriko,0,0,0,,And even Kiss?!
+Dialogue: 0,0:04:12.38,0:04:14.69,Default,Rin,0,0,0,,Toriko! I was so worried!
+Dialogue: 0,0:04:14.69,0:04:16.63,Default,Toriko,0,0,0,,Why are you guys here?
+Dialogue: 0,0:04:16.63,0:04:20.64,Default,Coco,0,0,0,,My fortune told me that danger was coming your way.
+Dialogue: 0,0:04:20.89,0:04:23.95,Default,Coco,0,0,0,,I thought it must be about you or Komatsu-kun, but...
+Dialogue: 0,0:04:26.13,0:04:27.42,Default,Coco,0,0,0,,It looks like I was wrong.
+Dialogue: 0,0:04:28.11,0:04:29.43,Default,Sunny,0,0,0,,The Sunny!
+Dialogue: 0,0:04:29.43,0:04:31.51,Default,Sunny,0,0,0,,Yay! It's magnificent!
+Dialogue: 0,0:04:31.51,0:04:33.04,Default,Sunny,0,0,0,,And it flies! Beautiful!
+Dialogue: 0,0:04:33.04,0:04:35.73,Default,Sunny,0,0,0,,The name "The Sunny" is truly fantastic!
+Dialogue: 0,0:04:38.72,0:04:42.11,Default,Sanji,0,0,0,,We didn't talk much last time, so I didn't notice,
+Dialogue: 0,0:04:42.67,0:04:44.99,Default,Sanji,0,0,0,,but you're one weird-looking guy.
+Dialogue: 0,0:04:44.99,0:04:48.72,Default,Sunny,0,0,0,,I don't want to hear that from a guy with swirly eyebrows!
+Dialogue: 0,0:04:48.72,0:04:50.04,Default,Sanji,0,0,0,,What'd you say?!
+Dialogue: 0,0:04:56.16,0:04:58.37,Default,Sunny,0,0,0,,This is... Deep Sea Fever?
+Dialogue: 0,0:04:58.37,0:04:59.68,Default,Toriko,0,0,0,,You know it?
+Dialogue: 0,0:04:59.67,0:05:03.55,Default,Sunny,0,0,0,,Yes. I heard about it in Life, the nation of healing.
+Dialogue: 0,0:05:04.20,0:05:07.51,Default,Sunny,0,0,0,,First, you turn cold and blue, like the deep sea.
+Dialogue: 0,0:05:08.06,0:05:13.13,Default,Sunny,0,0,0,,In the terminal stage, you turn red hot, like the burning sun.
+Dialogue: 0,0:05:13.12,0:05:15.04,Default,Sunny,0,0,0,,It peaks at sunrise...
+Dialogue: 0,0:05:15.97,0:05:17.46,Default,Sunny,0,0,0,,And as the sun comes up,
+Dialogue: 0,0:05:17.97,0:05:19.40,Default,Sunny,0,0,0,,death comes with it.
+Dialogue: 0,0:05:24.78,0:05:28.51,Default,Komatsu,0,0,0,,We only have a few hours until sunrise!
+Dialogue: 0,0:05:28.94,0:05:30.80,Default,Komatsu,0,0,0,,This is terrible!
+Dialogue: 0,0:05:30.80,0:05:33.29,Default,Sunny,0,0,0,,Well, there is a way to save him.
+Dialogue: 0,0:05:33.29,0:05:35.67,Default,Sunny,0,0,0,,You need the legendary Seafood Fruit to—
+Dialogue: 0,0:05:35.67,0:05:37.23,Default,Luffy,0,0,0,,We tried that!
+Dialogue: 0,0:05:37.23,0:05:39.47,Default,Sunny,0,0,0,,Just eating the fruit isn't enough.
+Dialogue: 0,0:05:40.04,0:05:42.81,Default,Coco,0,0,0,,Spring, summer, autumn, winter.
+Dialogue: 0,0:05:43.30,0:05:47.93,Default,Coco,0,0,0,,He must eat the legendary ingredient of each of the four seasons together.
+Dialogue: 0,0:05:48.32,0:05:50.76,Default,Nami,0,0,0,,Legendary ingredient of each season?
+Dialogue: 0,0:05:51.01,0:05:55.08,Default,Coco,0,0,0,,Yes. The one said to be hardest to obtain
+Dialogue: 0,0:05:55.08,0:05:57.12,Default,Coco,0,0,0,,is the Mango Karin that blooms in spring.
+Dialogue: 0,0:05:57.12,0:05:58.47,Default,Toriko,0,0,0,,Mango Karin?!
+Dialogue: 0,0:05:59.38,0:06:02.47,Default,Toriko,0,0,0,,A sweet flower that tastes like mango pudding,
+Dialogue: 0,0:06:02.47,0:06:05.51,Default,Toriko,0,0,0,,also called the "spring pudding" that heralds the coming of spring.
+Dialogue: 0,0:06:05.51,0:06:11.04,Default,Toriko,0,0,0,,I hear its sweet flavor works as a revitalizing tonic that cures exhaustion!
+Dialogue: 0,0:06:11.04,0:06:12.37,Default,Toriko,0,0,0,,I wanna eat one!
+Dialogue: 0,0:06:12.37,0:06:14.26,Default,Komatsu,0,0,0,,Toriko-san, you're drooling! You're drooling!
+Dialogue: 0,0:06:14.48,0:06:16.76,Default,Nami,0,0,0,,It blooms in spring? Wait a minute!
+Dialogue: 0,0:06:16.75,0:06:20.78,Default,Nami,0,0,0,,You mean we have to go to Spring Island and Winter Island now?
+Dialogue: 0,0:06:20.78,0:06:23.26,Default,Nami,0,0,0,,We can't do that in just a few hours!
+Dialogue: 0,0:06:24.08,0:06:25.17,Default,Coco,0,0,0,,It's all right.
+Dialogue: 0,0:06:25.50,0:06:29.43,Default,Coco,0,0,0,,This is Chinese Tower Island, home of healthy foods and natural cures.
+Dialogue: 0,0:06:29.43,0:06:33.61,Default,Coco,0,0,0,,Let us go verify the legend handed down on this island!
+Dialogue: 0,0:06:35.20,0:06:36.11,"Sign",Text,0,0,0,,"Seal"
+Dialogue: 0,0:06:39.04,0:06:43.25,Default,Zoro,0,0,0,,Are these four ingredients really in a place like this?
+Dialogue: 0,0:06:45.49,0:06:46.99,Default,Coco,0,0,0,,Terry, you sense it, too?
+Dialogue: 0,0:06:46.99,0:06:50.69,Default,Coco,0,0,0,,I thought so. I can sense powerful electromagnetic waves here.
+Dialogue: 0,0:06:50.69,0:06:53.27,Default,Coco,0,0,0,,Toriko! This is definitely the place!
+Dialogue: 0,0:06:54.63,0:06:57.97,Default,Toriko,0,0,0,,Okay! We just have to get it out from under the earth, right?
+Dialogue: 0,0:06:58.79,0:07:02.37,Default,Toriko,0,0,0,,Nail Punch!
+Dialogue: 0,0:07:29.62,0:07:30.43,Default,Toriko,0,0,0,,This is...
+Dialogue: 0,0:07:30.72,0:07:32.52,Default,Luffy,0,0,0,,Wow!
+Dialogue: 0,0:07:33.62,0:07:36.54,Default,Luffy,0,0,0,,It's a huge mushroom tower!
+Dialogue: 0,0:07:38.13,0:07:39.34,Default,Coco,0,0,0,,I see.
+Dialogue: 0,0:07:39.90,0:07:41.85,Default,Coco,0,0,0,,This is "Mush Room."
+Dialogue: 0,0:07:42.61,0:07:43.78,Default,Sanji,0,0,0,,Mushroom?
+Dialogue: 0,0:07:43.77,0:07:48.26,Default,Coco,0,0,0,,Mush Room is a tower divided into four rooms,
+Dialogue: 0,0:07:46.03,0:07:50.75,"Sign",Text,0,0,0,,"Winter | Autumn | Summer | Spring"
+Dialogue: 0,0:07:48.26,0:07:50.28,Default,Coco,0,0,0,,with a different season on each floor.
+Dialogue: 0,0:07:50.93,0:07:55.86,Default,Toriko,0,0,0,,So we just have to get the seasonal ingredients from each floor, right?
+Dialogue: 0,0:07:56.07,0:07:58.48,Default,Nami,0,0,0,,What's something like this doing underground?
+Dialogue: 0,0:07:58.48,0:07:59.83,Default,Sunny,0,0,0,,This island's name
+Dialogue: 0,0:07:59.80,0:08:05.20,"Sign",Text,0,0,0,,"Chinese Tower Island"
+Dialogue: 0,0:08:00.46,0:08:04.57,DefaultLow,,0,0,0,,means "an island of Chinese with a tower."
+Dialogue: 0,0:08:05.17,0:08:07.30,DefaultLow,Sunny,0,0,0,,This tower is the core, the center,
+Dialogue: 0,0:08:07.30,0:08:08.64,DefaultLow,,0,0,0,,of the island.
+Dialogue: 0,0:08:08.63,0:08:13.06,Default,Brook,0,0,0,,But you people certainly are knowledgeable about foodstuffs.
+Dialogue: 0,0:08:13.06,0:08:14.86,Default,Brook,0,0,0,,How very heartening!
+Dialogue: 0,0:08:14.86,0:08:17.28,Default,Komatsu,0,0,0,,Toriko-san, Coco-san, and Sunny-san
+Dialogue: 0,0:08:17.28,0:08:19.21,Default,,0,0,0,,are among the Four Heavenly Kings of Gourmet.
+Dialogue: 0,0:08:19.21,0:08:21.43,Default,Komatsu,0,0,0,,They're the cream of the Gourmet Hunter crop!
+Dialogue: 0,0:08:21.43,0:08:25.82,Default,Brook,0,0,0,,Four Heavenly Kings? Then is there not one more?
+Dialogue: 0,0:08:26.12,0:08:27.36,Default,Toriko,0,0,0,,Zebra is...
+Dialogue: 0,0:08:28.25,0:08:30.66,Default,Toriko,0,0,0,,...is prison right now.
+Dialogue: 0,0:08:31.72,0:08:36.38,Default,Luffy,0,0,0,,Gum-Gum Pistol!
+Dialogue: 0,0:08:41.35,0:08:43.81,Default,Luffy,0,0,0,,Nami! Take care of Chopper!
+Dialogue: 0,0:08:43.81,0:08:46.93,Default,Nami,0,0,0,,Right! These two are here, too, so we'll be fine!
+Dialogue: 0,0:08:46.93,0:08:47.94,Default,Nami,0,0,0,,Leave it to us!
+Dialogue: 0,0:08:48.78,0:08:50.75,Default,Luffy,0,0,0,,Okay! Ready to go?
+Dialogue: 0,0:08:50.74,0:08:52.19,Default,All,0,0,0,,Yeah!
+Dialogue: 0,0:09:06.83,0:09:08.29,Default,Luffy,0,0,0,,It's hot...
+Dialogue: 0,0:09:08.55,0:09:10.61,Default,Toriko,0,0,0,,This is like the tropics!
+Dialogue: 0,0:09:10.61,0:09:12.17,Default,Toriko,0,0,0,,So this is the summer floor, huh?
+Dialogue: 0,0:09:13.84,0:09:17.55,Default,Usopp,0,0,0,,But why is it so bright when there are no windows?
+Dialogue: 0,0:09:17.55,0:09:22.47,Default,Coco,0,0,0,,Oh, that's because of the Light Mushrooms growing on the walls and ceiling.
+Dialogue: 0,0:09:24.97,0:09:27.27,Default,Toriko,0,0,0,,Komatsu, you okay?
+Dialogue: 0,0:09:27.72,0:09:32.79,Default,Komatu,0,0,0,,This heat is nothing compared to Chopper-san's fever!
+Dialogue: 0,0:09:37.48,0:09:41.80,"Sign",Text,0,0,0,,"Banjyan Tiger (Mammal Beast) Capture Level 29"
+Dialogue: 0,0:09:42.66,0:09:44.20,Default,Komatsu,0,0,0,,S-S-Something jumped out!
+Dialogue: 0,0:09:44.20,0:09:46.56,Default,Toriko,0,0,0,,Oh, a Banjyan Tiger, huh?
+Dialogue: 0,0:09:47.54,0:09:53.01,Default,Toriko,0,0,0,,It's said that you can harvest rich, ripened chili paste from them.
+Dialogue: 0,0:09:53.34,0:09:56.27,Default,Coco,0,0,0,,The Banjyan Tiger is the first ingredient.
+Dialogue: 0,0:09:56.27,0:09:57.42,Default,Zoro,0,0,0,,Oh?
+Dialogue: 0,0:09:59.36,0:10:00.98,Default,Coco,0,0,0,,Poison Rifle!
+Dialogue: 0,0:10:06.72,0:10:08.19,Default,Brook,0,0,0,,We don't have much time.
+Dialogue: 0,0:10:08.19,0:10:11.72,Default,Brook,0,0,0,,Perhaps we should split up and visit each floor in groups?
+Dialogue: 0,0:10:11.72,0:10:13.39,Default,Rin,0,0,0,,I agree!
+Dialogue: 0,0:10:15.24,0:10:17.34,Default,Both,0,0,0,,Then I'll head upstairs!
+Dialogue: 0,0:10:17.34,0:10:19.05,Default,Both,0,0,0,,What? You, too?!
+Dialogue: 0,0:10:20.27,0:10:22.87,Default,Luffy,0,0,0,,You two are so compatible!
+Dialogue: 0,0:10:22.87,0:10:24.07,Default,Both,0,0,0,,We are not!
+Dialogue: 0,0:10:28.17,0:10:33.91,Default,Brook,0,0,0,,Luffy-san! Everyone! Leave this floor to us!
+Dialogue: 0,0:10:34.90,0:10:37.76,Default,Usopp,0,0,0,,Why is it chasing me?!
+Dialogue: 0,0:10:42.18,0:10:43.48,Default,Komatsu,0,0,0,,And up...
+Dialogue: 0,0:10:43.91,0:10:47.31,Default,Komatsu,0,0,0,,Is this the autumn floor?
+Dialogue: 0,0:10:49.06,0:10:51.27,Default,Rin,0,0,0,,Toriko! Leave this one to me!
+Dialogue: 0,0:10:51.54,0:10:52.75,Default,Both,0,0,0,,I'll stay here, too!
+Dialogue: 0,0:10:53.85,0:10:56.39,Default,Luffy,0,0,0,,You guys really are compatible!
+Dialogue: 0,0:10:56.93,0:10:58.60,Default,Both,0,0,0,,I told you, we are not!
+Dialogue: 0,0:10:58.96,0:11:02.84,Default,Sanji,0,0,0,,Don't copy me! I'm staying on this floor with Rin-chan!
+Dialogue: 0,0:11:02.84,0:11:06.36,Default,Sunny,0,0,0,,No, no! I decided at the start that I would stay on this floor!
+Dialogue: 0,0:11:06.36,0:11:08.62,Default,Sunny,0,0,0,,I have a personal interest in the ingredient here!
+Dialogue: 0,0:11:09.11,0:11:12.42,Default,Franky,0,0,0,,What ingredient is that? It sounds interesting.
+Dialogue: 0,0:11:12.69,0:11:14.15,Default,Toriko,0,0,0,,Okay, we'll leave it to you!
+Dialogue: 0,0:11:14.15,0:11:18.33,Default,Toriko,0,0,0,,Toriko! It seems the ingredient you can get on the next floor is sake!
+Dialogue: 0,0:11:18.33,0:11:20.51,Default,Toriko,0,0,0,,Got it, Rin! Take care of this floor!
+Dialogue: 0,0:11:20.51,0:11:23.08,Default,Rin,0,0,0,,Toriko asked me to take care of it!
+Dialogue: 0,0:11:23.08,0:11:25.62,Default,Franky,0,0,0,,Well? What are we gonna see here?
+Dialogue: 0,0:11:25.62,0:11:26.07,Default,Both,0,0,0,,Huh?
+Dialogue: 0,0:11:27.13,0:11:28.90,Default,Sunny,0,0,0,,Have you heard of unicorns?
+Dialogue: 0,0:11:29.22,0:11:33.97,Default,Franky,0,0,0,,Unicorn? You mean the horse with the single horn on the forehead?
+Dialogue: 0,0:11:33.97,0:11:36.10,Default,Sunny,0,0,0,,Yes. It is beautiful!
+Dialogue: 0,0:11:36.10,0:11:40.34,Default,Sunny,0,0,0,,The unicorn is a mythical horse of many legends.
+Dialogue: 0,0:11:40.61,0:11:44.33,Default,Sunny,0,0,0,,The creature we'll see here is not a unicorn,
+Dialogue: 0,0:11:44.85,0:11:47.57,Default,Sunny,0,0,0,,but an eight-horned beast: an Octohorn!
+Dialogue: 0,0:11:49.54,0:11:51.13,Default,Sunny,0,0,0,,I can't wait!
+Dialogue: 0,0:11:52.93,0:11:54.50,Default,Rin,0,0,0,,You mean that thing?
+Dialogue: 0,0:11:57.43,0:12:01.68,"Sign",Text,0,0,0,,"Octohorn (Eight-Horned Boar) (Mammal Beast) Capture Level 29"
+Dialogue: 0,0:12:01.80,0:12:05.09,Default,Sanji,0,0,0,,It has an eight-horned herb on its head.
+Dialogue: 0,0:12:05.63,0:12:07.04,Default,Sunny,0,0,0,,Wh-What?!
+Dialogue: 0,0:12:07.98,0:12:09.27,Default,Sunny,0,0,0,,What is this?!
+Dialogue: 0,0:12:12.76,0:12:15.68,Default,Sunny,0,0,0,,I-It's not what I imagined at all!
+Dialogue: 0,0:12:16.00,0:12:19.68,Default,Sanji,0,0,0,,Nah, you just made up that image yourself.
+Dialogue: 0,0:12:29.56,0:12:31.55,Default,Luffy,0,0,0,,It's c-c-cold!
+Dialogue: 0,0:12:31.55,0:12:33.50,Default,Toriko,0,0,0,,This cold really has a kick!
+Dialogue: 0,0:12:33.50,0:12:35.03,Default,Komatsu,0,0,0,,It does...
+Dialogue: 0,0:12:35.40,0:12:37.61,Default,Komatsu,0,0,0,,But how is there a blizzard indoors?
+Dialogue: 0,0:12:39.20,0:12:44.17,Default,Toriko,0,0,0,,There's probably warm air coming from somewhere, causing convection.
+Dialogue: 0,0:12:46.73,0:12:48.15,Default,Toriko,0,0,0,,Is that the cause?
+Dialogue: 0,0:12:55.41,0:12:56.40,Default,Komatsu,0,0,0,,Huh?!
+Dialogue: 0,0:12:56.40,0:12:58.15,Default,Komatsu,0,0,0,,Something's there!
+Dialogue: 0,0:13:00.96,0:13:03.14,Default,Komatsu,0,0,0,,An orangutan wearing clothes!
+Dialogue: 0,0:13:03.14,0:13:05.93,Default,Komatsu,0,0,0,,Has it adapted human customs?!
+Dialogue: 0,0:13:07.83,0:13:10.26,Default,Komatsu,0,0,0,,Wait, it looks like it's drunk!
+Dialogue: 0,0:13:13.60,0:13:15.24,Default,Toriko,0,0,0,,This smell is...
+Dialogue: 0,0:13:15.61,0:13:17.46,Default,Toriko,0,0,0,,Raochu!
+Dialogue: 0,0:13:17.46,0:13:22.05,Default,Toriko,0,0,0,,That's the Raochu Spring, erupting with raochu!
+Dialogue: 0,0:13:22.04,0:13:25.02,Default,Komatsu,0,0,0,,So that's the third ingredient?
+Dialogue: 0,0:13:25.02,0:13:27.72,Default,Toriko,0,0,0,,Excuse me, could you share that sake with us?
+Dialogue: 0,0:13:37.00,0:13:38.29,Default,Komatsu,0,0,0,,Toriko-san!
+Dialogue: 0,0:13:38.29,0:13:39.38,Default,Luffy,0,0,0,,You okay?
+Dialogue: 0,0:13:39.38,0:13:41.34,Default,Toriko,0,0,0,,I see... That's...
+Dialogue: 0,0:13:41.61,0:13:43.54,Default,Toriko,0,0,0,,It's my first time seeing one.
+Dialogue: 0,0:13:43.54,0:13:46.34,Default,Toriko,0,0,0,,An orangutan whose favorite treat is raochu!
+Dialogue: 0,0:13:51.08,0:13:55.27,"Sign",Text,0,0,0,,"Raochutan (Mammal Beast) Capture Level 32"
+Dialogue: 0,0:13:53.39,0:13:55.28,DefaultLow,Toriko,0,0,0,,A Raochutan!
+Dialogue: 0,0:13:55.52,0:13:57.88,Default,Luffy,0,0,0,,Its favorite treat is sake?
+Dialogue: 0,0:13:57.88,0:14:00.98,Default,Luffy,0,0,0,,Then it probably won't be easy to get it to share.
+Dialogue: 0,0:14:01.36,0:14:02.84,Default,Toriko,0,0,0,,Be careful.
+Dialogue: 0,0:14:02.84,0:14:05.79,Default,Toriko,0,0,0,,With all that wobbling, we can't predict its attacks.
+Dialogue: 0,0:14:05.79,0:14:07.96,Default,Komatsu,0,0,0,,It's like drunken boxing!
+Dialogue: 0,0:14:19.47,0:14:21.35,Default,Nami,0,0,0,,Hang in there, Chopper.
+Dialogue: 0,0:14:21.35,0:14:24.98,Default,,0,0,0,,I'm sure the others will bring back the ingredients.
+Dialogue: 0,0:14:25.89,0:14:27.97,Default,Nami,0,0,0,,There's no more time.
+Dialogue: 0,0:14:29.21,0:14:32.31,Default,Nami,0,0,0,,It's almost dawn...
+Dialogue: 0,0:14:37.86,0:14:40.45,Default,Usopp,0,0,0,,You guys!
+Dialogue: 0,0:14:40.45,0:14:43.73,Default,Usopp,0,0,0,,Don't just watch! Hurry up and catch this thing!
+Dialogue: 0,0:14:43.94,0:14:46.29,Default,Coco,0,0,0,,Just capturing it isn't enough.
+Dialogue: 0,0:14:46.67,0:14:49.18,Default,Coco,0,0,0,,If you don't make the Banjyan Tiger run fast,
+Dialogue: 0,0:14:49.18,0:14:51.45,Default,Coco,0,0,0,,you can't collect the chili paste.
+Dialogue: 0,0:14:51.45,0:14:55.67,Default,Zoro,0,0,0,,Looks like it's figured out by instinct that you're the easiest prey.
+Dialogue: 0,0:14:55.67,0:14:56.88,Default,Zoro,0,0,0,,Better run hard.
+Dialogue: 0,0:15:11.02,0:15:13.97,Default,Usopp,0,0,0,,Hey! It turned into chili paste!
+Dialogue: 0,0:15:13.97,0:15:16.00,Default,Robin,0,0,0,,So all that running around melted it.
+Dialogue: 0,0:15:16.84,0:15:18.23,Default,Brook,0,0,0,,We did it!
+Dialogue: 0,0:15:18.23,0:15:21.41,Default,Coco,0,0,0,,All right. We've got the first ingredient.
+Dialogue: 0,0:15:22.86,0:15:25.70,Default,Usopp,0,0,0,,Well, this is just what I can do!
+Dialogue: 0,0:15:27.43,0:15:31.31,Default,Franky,0,0,0,,Franky Rocket Launcher!
+Dialogue: 0,0:15:36.55,0:15:38.56,Default,Franky,0,0,0,,So it's got speed, too?
+Dialogue: 0,0:15:38.93,0:15:40.13,Default,Rin,0,0,0,,Not bad.
+Dialogue: 0,0:15:40.13,0:15:44.37,Default,Sunny,0,0,0,,I was so excited to see what beautiful creature would appear...
+Dialogue: 0,0:15:44.96,0:15:46.10,Default,,0,0,0,,and yet...
+Dialogue: 0,0:15:46.41,0:15:49.26,Default,Sanji,0,0,0,,Rin-chan! Are you okay?!
+Dialogue: 0,0:15:50.49,0:15:53.30,Default,Sanji,0,0,0,,I'll protect Rin-chan!
+Dialogue: 0,0:15:56.27,0:16:00.51,Default,Sunny,0,0,0,,How dare you betray my hopes so deeply?!
+Dialogue: 0,0:16:04.48,0:16:05.76,Default,Franky,0,0,0,,It stopped moving!
+Dialogue: 0,0:16:05.76,0:16:08.15,Default,Rin,0,0,0,,My brother stopped it with his Hair Lock!
+Dialogue: 0,0:16:08.52,0:16:11.69,Default,Sanji,0,0,0,,What the heck? Looks like that ended easily.
+Dialogue: 0,0:16:11.68,0:16:16.15,Default,Toriko,0,0,0,,The eight horns are a little cute, but I don't care about the rest.
+Dialogue: 0,0:16:16.15,0:16:19.79,Default,Rin,0,0,0,,Sorry my brother made trouble with you with his made-up expectations.
+Dialogue: 0,0:16:20.20,0:16:22.26,Default,Rin,0,0,0,,Now, I'll just... take these!
+Dialogue: 0,0:16:22.26,0:16:24.02,Default,Both,0,0,0,,Let's get moving!
+Dialogue: 0,0:16:24.97,0:16:28.01,Default,Franky,0,0,0,,You two really are compatible.
+Dialogue: 0,0:16:28.01,0:16:30.22,Default,Both,0,0,0,,We're not compatible at all!
+Dialogue: 0,0:16:52.16,0:16:53.96,Default,Komatsu,0,0,0,,Toriko-san! Luffy-san!
+Dialogue: 0,0:16:55.11,0:16:56.25,Default,Toriko,0,0,0,,That little...
+Dialogue: 0,0:16:56.98,0:16:59.24,Default,Luffy,0,0,0,,It's so cold, I can't move the way I want to...
+Dialogue: 0,0:17:06.49,0:17:08.68,Default,Luffy,0,0,0,,The more it drinks, the stronger it gets!
+Dialogue: 0,0:17:10.33,0:17:12.99,Default,Toriko,0,0,0,,The sake isn't the only thing making it stronger.
+Dialogue: 0,0:17:12.99,0:17:15.52,Default,Toriko,0,0,0,,There's also that leaf it's drinking out of!
+Dialogue: 0,0:17:16.00,0:17:18.56,Default,Toriko,0,0,0,,That's a Mango Karin leaf!
+Dialogue: 0,0:17:18.56,0:17:20.08,Default,Komatsu,0,0,0,,If the leaves are here...
+Dialogue: 0,0:17:20.08,0:17:22.05,Default,Luffy,0,0,0,,Does that mean the Mango Karin is nearby?
+Dialogue: 0,0:17:32.79,0:17:33.84,Default,Toriko,0,0,0,,Komatsu!
+Dialogue: 0,0:17:34.60,0:17:35.68,Default,Luffy,0,0,0,,Oh, no!
+Dialogue: 0,0:17:46.48,0:17:51.19,Default,Zebra,0,0,0,,Don't get cocky, now!
+Dialogue: 0,0:18:05.23,0:18:07.49,Default,Luffy,0,0,0,,What was that?! It was incredible!
+Dialogue: 0,0:18:07.49,0:18:10.68,Default,Toriko,0,0,0,,It's Zebra! That was Zebra's Sound Bullet!
+Dialogue: 0,0:18:11.04,0:18:14.49,Default,Toriko,0,0,0,,He shot a Sound Bullet from inside the prison!
+Dialogue: 0,0:18:15.98,0:18:19.03,Default,Zebra,0,0,0,,Let me enjoy this a little longer, Toriko.
+Dialogue: 0,0:18:19.51,0:18:22.28,Default,Zebra,0,0,0,,You figure out how to deal with the rest.
+Dialogue: 0,0:18:22.73,0:18:26.09,Default,Komatsu,0,0,0,,This is the power of Zebra-san of the Four Heavenly Kings...
+Dialogue: 0,0:18:26.41,0:18:29.43,Default,Toriko,0,0,0,,It's warmer now that the outside air is coming in!
+Dialogue: 0,0:18:29.43,0:18:31.62,Default,Luffy,0,0,0,,I can move really well now!
+Dialogue: 0,0:18:53.52,0:18:55.12,Default,Komatsu,0,0,0,,It grew gigantic!
+Dialogue: 0,0:18:56.59,0:18:58.82,Default,Komatsu,0,0,0,,Could that be...
+Dialogue: 0,0:18:58.81,0:19:00.85,Default,Komatsu,0,0,0,,A Mango Karin flower?!
+Dialogue: 0,0:19:00.85,0:19:03.19,Default,Toriko,0,0,0,,Yeah. There's no doubt.
+Dialogue: 0,0:19:03.19,0:19:04.96,Default,Luffy,0,0,0,,All right! I'll be taking that!
+Dialogue: 0,0:19:05.29,0:19:07.25,Default,Luffy,0,0,0,,Just wait, Chopper!
+Dialogue: 0,0:19:07.25,0:19:08.86,Default,Luffy,0,0,0,,Gear 3,
+Dialogue: 0,0:19:12.19,0:19:13.60,Default,Luffy,0,0,0,,Armament: Hardening!
+Dialogue: 0,0:19:13.97,0:19:15.34,Default,Toriko,0,0,0,,Fifteen-fold...
+Dialogue: 0,0:19:17.34,0:19:19.01,Default,Luffy,0,0,0,,Gum-Gum...
+Dialogue: 0,0:19:20.67,0:19:22.27,Default,Luffy,0,0,0,,Elephant Gun!
+Dialogue: 0,0:19:22.27,0:19:23.88,Default,Toriko,0,0,0,,Nail Punch!
+Dialogue: 0,0:19:35.11,0:19:36.59,Default,Both,0,0,0,,All right!
+Dialogue: 0,0:19:36.92,0:19:40.39,Default,Komatsu,0,0,0,,Amazing! They beat the Raochutan!
+Dialogue: 0,0:19:44.21,0:19:45.77,Default,Luffy,0,0,0,,This is the Mango Karin?
+Dialogue: 0,0:19:47.43,0:19:49.54,Default,Komatsu,0,0,0,,The flower isn't blooming!
+Dialogue: 0,0:19:49.94,0:19:52.92,Default,Toriko,0,0,0,,Looks like it's too cold for it to open completely.
+Dialogue: 0,0:19:52.92,0:19:56.11,Default,Luffy,0,0,0,,What?! So what do we do?!
+Dialogue: 0,0:19:56.11,0:19:59.29,Default,Toriko,0,0,0,,If it gets some warm light, like the spring sunlight...
+Dialogue: 0,0:19:59.29,0:20:01.48,Default,Komatsu,0,0,0,,You mean light from the sun?
+Dialogue: 0,0:20:02.27,0:20:06.30,Default,Luffy,0,0,0,,But once the sun comes up, Chopper will be done for!
+Dialogue: 0,0:20:08.42,0:20:10.75,Default,Luffy,0,0,0,,What the heck can we do?!
+Dialogue: 0,0:20:42.25,0:20:43.03,Default,Toriko,0,0,0,,That's...
+Dialogue: 0,0:20:43.30,0:20:46.26,Default,Luffy,0,0,0,,What? Is it dawn?
+Dialogue: 0,0:20:46.39,0:20:48.59,Default,Toriko,0,0,0,,No, it's...
+Dialogue: 0,0:20:49.86,0:20:51.46,Default,Toriko,0,0,0,,A school of Spring Sharks!
+Dialogue: 0,0:20:52.03,0:20:54.44,Default,Luffy,0,0,0,,Spring Sharks? Like the one that swallowed me?
+Dialogue: 0,0:20:54.44,0:20:59.38,Default,Toriko,0,0,0,,Yeah. They're a highly valuable shark, but they're called Spring Sharks
+Dialogue: 0,0:20:59.67,0:21:03.45,Default,Toriko,0,0,0,,because, during the spawning season, they glow!
+Dialogue: 0,0:21:03.45,0:21:08.18,Default,Toriko,0,0,0,,And that glow is said to be as warm and bright as the spring sunlight!
+Dialogue: 0,0:21:08.49,0:21:12.92,Default,Toriko,0,0,0,,The glow of a whole school rivals the warm glow of the sun!
+Dialogue: 0,0:21:36.45,0:21:37.55,Default,Komatsu,0,0,0,,That's...
+Dialogue: 0,0:21:37.91,0:21:39.74,Default,Komatsu,0,0,0,,The Mango Karin!
+Dialogue: 0,0:21:41.91,0:21:43.78,Default,Sunny,0,0,0,,So... So beautiful!
+Dialogue: 0,0:21:43.98,0:21:49.11,Default,Toriko,0,0,0,,Luffy, it looks like you have great Food Luck for finding ingredients.
+Dialogue: 0,0:21:49.11,0:21:52.08,Default,Toriko,0,0,0,,You had already met the last ingredient you needed to heal Chopper,
+Dialogue: 0,0:21:52.08,0:21:54.31,Default,Toriko,0,0,0,,the Spring Shark, once before!
+Dialogue: 0,0:21:57.60,0:22:01.70,Default,Komatsu,0,0,0,,Seafood Fruit, chili paste from the Banjyan Tiger,
+Dialogue: 0,0:22:01.70,0:22:03.47,Default,Komatsu,0,0,0,,the eight-horned herb from the Octohorn,
+Dialogue: 0,0:22:03.47,0:22:07.34,Default,Komatsu,0,0,0,,raochu from the Raochu Spring, and the Mango Karin flower.
+Dialogue: 0,0:22:07.95,0:22:09.33,Default,Komatsu,0,0,0,,It's finished!
+Dialogue: 0,0:22:09.33,0:22:13.35,Default,,0,0,0,,Seafood Fruit with a sauce made from the four seasonal ingredients!
+Dialogue: 0,0:22:13.56,0:22:16.10,Default,Komatsu,0,0,0,,Here, Chopper-san, eat this.
+Dialogue: 0,0:22:27.74,0:22:29.82,Default,Chopper,0,0,0,,Yum!
+Dialogue: 0,0:22:30.61,0:22:32.47,Default,Komatsu,0,0,0,,You're doing that again?
+Dialogue: 0,0:22:34.65,0:22:37.51,Default,Luffy,0,0,0,,We did it!
+Dialogue: 0,0:22:37.99,0:22:40.73,Default,Luffy,0,0,0,,He's cured!
+Dialogue: 0,0:22:43.19,0:22:45.95,Default,Chopper,0,0,0,,Thank you all so much!
+Dialogue: 0,0:22:45.94,0:22:48.66,Default,Chopper,0,0,0,,I'll never forget this!
+Dialogue: 0,0:22:49.07,0:22:51.22,Default,Luffy,0,0,0,,Toriko! See you again!
+Dialogue: 0,0:22:51.21,0:22:54.52,Default,Toriko,0,0,0,,Yeah! Let's eat our fill of tasty food again!
+Dialogue: 0,0:22:54.87,0:22:57.79,Default,Toriko,0,0,0,,The food you eat with your friends is the best!
+Dialogue: 0,0:22:59.07,0:23:00.43,Default,Sanji,0,0,0,,What's with him?
+Dialogue: 0,0:23:00.75,0:23:03.37,Default,Sanji,0,0,0,,I guess, in spite of everything, he's sad to say goodbye.
+Dialogue: 0,0:23:03.36,0:23:06.90,Default,All,0,0,0,,Goodbye!
+Dialogue: 0,0:23:09.64,0:23:11.17,Default,Sunny,0,0,0,,Take care!
+Dialogue: 0,0:23:11.17,0:23:13.68,Default,Sunny,0,0,0,,Let's meet again,
+Dialogue: 0,0:23:13.68,0:23:16.85,Default,Sunny,0,0,0,,The Sunny!
+Dialogue: 0,0:23:19.98,0:23:21.50,Default,All,0,0,0,,That's what you meant?!
+Dialogue: 0,0:25:54.94,0:25:59.94,Default,Na,0,0,0,,After a long voyage, Tiger finally returns Koala to her home.
+Dialogue: 0,0:26:00.48,0:26:04.71,Default,Na,0,0,0,,Watching Koala and her mother in a tearful embrace,
+Dialogue: 0,0:26:04.71,0:26:08.35,Default,Na,0,0,0,,Tiger sees hope for a new future for Fishmen and humans.
+Dialogue: 0,0:26:08.35,0:26:14.62,Default,Na,0,0,0,,But his hopes are cruelly trampled upon by humans.
+Dialogue: 0,0:26:14.62,0:26:15.96,Default,Luffy,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:26:15.96,0:26:18.96,Default,Luffy,0,0,0,,"The End of a Hero\NTiger's Shocking Truth"
+Dialogue: 0,0:26:18.96,0:26:21.21,Default,Luffy,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:26:18.96,0:26:22.97,Title Card - Top,Title,0,0,0,,{\blur0.3\c&H000000&}The End of a Hero
+Dialogue: 1,0:26:18.96,0:26:22.97,Title Card - Top,Title,0,0,0,,{\bord0\blur0.3\4a&HFF&}The End of a Hero
+Dialogue: 0,0:26:18.96,0:26:22.97,Title Card - Bottom,Title,0,0,0,,{\blur0.3\c&H000000&}Tiger's Shocking Truth
+Dialogue: 1,0:26:18.96,0:26:22.97,Title Card - Bottom,Title,0,0,0,,{\bord0\blur0.3\4a&HFF&}Tiger's Shocking Truth

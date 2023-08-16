@@ -18,23 +18,25 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0544 (WEB 1080p AMZN JP 29.970fps EAC3) [950B0564].mkv
 Video File: [Panda-Raws] One Piece - 0544 (WEB 1080p AMZN JP 29.970fps EAC3) [950B0564].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 56
-Active Line: 68
-Video Position: 5997
+Video Zoom Percent: 0.562500
+Scroll Position: 309
+Active Line: 316
+Video Position: 42650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
-Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,8,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
+Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -113,7 +115,10 @@ Dialogue: 0,0:03:35.83,0:03:41.57,Default,,0,0,0,,where the New Fishman Pirates 
 Dialogue: 0,0:03:41.57,0:03:45.68,Default,,0,0,0,,...assisted by Vander Decken, who is after Shirahoshi, are engaging in secret maneuvers.
 Dialogue: 0,0:03:45.68,0:03:50.51,Default,,0,0,0,,The Straw Hats find themselves caught up in the turmoil.
 Dialogue: 0,0:03:55.92,0:03:59.79,Default,,0,0,0,,Boss!
-Dialogue: 0,0:03:59.79,0:04:08.77,B1,,0,0,0,,{\fad(2000,2000)}"The Sun Pirates Split! Jinbe vs. Arlong!"
+Dialogue: 0,0:03:59.89,0:04:08.87,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Sun Pirates Break Apart
+Dialogue: 1,0:03:59.89,0:04:08.87,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Sun Pirates Break Apart
+Dialogue: 0,0:03:59.89,0:04:08.87,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Jinbe vs. Arlong
+Dialogue: 1,0:03:59.89,0:04:08.87,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Jinbe vs. Arlong
 Dialogue: 0,0:04:10.83,0:04:20.58,Default,,0,0,0,,And so that was how the captain of the Sun Pirates - Fisher Tiger died.
 Dialogue: 0,0:04:23.98,0:04:25.52,Default,,0,0,0,,The captain's death.
 Dialogue: 0,0:04:27.02,0:04:33.46,Default,,0,0,0,,I think you all must know how painful it was...
@@ -131,10 +136,11 @@ Dialogue: 0,0:05:41.56,0:05:43.73,Default,,0,0,0,,You're the Fishman...
 Dialogue: 0,0:05:51.47,0:05:53.64,Default,,0,0,0,,So noisy!
 Dialogue: 0,0:06:03.18,0:06:05.62,Default,,0,0,0,,You're Arlong, aren't you?
 Dialogue: 0,0:06:06.15,0:06:10.59,Default,,0,0,0,,What brought you here? Why did you come back so...
-Dialogue: 0,0:06:16.13,0:06:22.07,OS,,0,0,0,,{\fad(500,1)}NAVY HQ VICE ADMIRAL BORSALINO (FUTURE ADMIRAL YELLOW MONKEY)
+Dialogue: 0,0:06:16.19,0:06:22.17,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Navy HQ Vice Admiral Borsalino\N(Future Admiral Yellow Monkey)
+Dialogue: 1,0:06:16.19,0:06:22.17,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord0\4a&HFF&}Navy HQ Vice Admiral Borsalino\N(Future Admiral Yellow Monkey)
 Dialogue: 0,0:06:19.83,0:06:22.07,DefaultLow,,0,0,0,,...nonchalantly?
-Dialogue: 0,0:06:22.07,0:06:26.60,Default,,0,0,0,,I'm gonna kill all the people who betrayed Big Brother Tai!
-Dialogue: 0,0:06:26.60,0:06:28.61,Default,,0,0,0,,I'm gonna go to that island too!
+Dialogue: 0,0:06:22.17,0:06:26.68,Default,,0,0,0,,I'm gonna kill all the people who betrayed Big Brother Tai!
+Dialogue: 0,0:06:26.68,0:06:28.67,Default,,0,0,0,,I'm gonna go to that island too!
 Dialogue: 0,0:06:29.31,0:06:31.74,Default,,0,0,0,,So you're seeking revenge?
 Dialogue: 0,0:06:31.74,0:06:34.98,Default,,0,0,0,,That's right! Fisher Tiger is dead!
 Dialogue: 0,0:06:34.98,0:06:38.05,Default,,0,0,0,,You lowly creatures killed him!
@@ -164,9 +170,10 @@ Dialogue: 0,0:08:14.38,0:08:17.85,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:08:18.45,0:08:23.22,Default,,0,0,0,,I start identifying myself as "First Son of the Sea" Jinbe
 Dialogue: 0,0:08:23.22,0:08:26.89,Default,,0,0,0,,and as the captain of the Sun Pirates,
 Dialogue: 0,0:08:26.89,0:08:31.63,Default,,0,0,0,,I did nothing but fight, day in and day out.
-Dialogue: 0,0:08:31.76,0:08:35.47,OS,,0,0,0,,{\fad(500,1)}FISHMAN ISLAND - THE RYUGU PALACE
-Dialogue: 0,0:08:33.20,0:08:35.47,DefaultLow,,0,0,0,,"I am writing this because..."
-Dialogue: 0,0:08:35.47,0:08:39.90,Default,,0,0,0,,"...I thought that you two deserved to know the whole truth."
+Dialogue: 0,0:08:31.90,0:08:35.57,Sign,,0,0,268,,{\blur0.3\fad(350,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(305,350,\1a&H00&)}Fishman Island, Ryugu Palace
+Dialogue: 1,0:08:31.90,0:08:35.57,Sign,,0,0,268,,{\blur0.3\fad(350,0)\fs60\bord0\4a&HFF&}Fishman Island, Ryugu Palace
+Dialogue: 0,0:08:33.20,0:08:35.57,DefaultLow,,0,0,0,,"I am writing this because..."
+Dialogue: 0,0:08:35.57,0:08:39.97,DefaultLow,,0,0,0,,"...I thought that you two\Ndeserved to know the whole truth."
 Dialogue: 0,0:08:40.84,0:08:44.88,Default,,0,0,0,,"The Sun Pirates captain - Jinbe."
 Dialogue: 0,0:08:45.88,0:08:47.31,Default,,0,0,0,,My mind is set.
 Dialogue: 0,0:08:48.38,0:08:52.88,Default,,0,0,0,,I guess Tiger had no choice but to live the way he did-jamon.
@@ -265,8 +272,9 @@ Dialogue: 0,0:17:09.35,0:17:12.52,Default,,0,0,0,,But you can go home someday.
 Dialogue: 0,0:17:14.85,0:17:17.82,Default,,0,0,0,,We former slaves will get killed if they find us.
 Dialogue: 0,0:17:17.82,0:17:24.26,Default,,0,0,0,,So whether we want it or not, we have to keep sailing for the rest of our lives.
 Dialogue: 0,0:17:24.26,0:17:28.26,Default,,0,0,0,,I'm sorry! I didn't mean it.
-Dialogue: 0,0:17:29.80,0:17:32.74,OS,,0,0,0,,{\fad(500,1)}NAVY HEADQUARTERS
-Dialogue: 0,0:17:32.74,0:17:35.74,Default,,0,0,0,,Are you alright now?
+Dialogue: 0,0:17:29.90,0:17:32.80,Sign,,0,0,268,,{\blur0.3\fad(420,1)\c&H000000&\1a&HFF&\t(375,420,\1a&H00&)\t(2899,2944,\1a&HFF&)}Navy Headquarters
+Dialogue: 1,0:17:29.90,0:17:32.80,Sign,,0,0,268,,{\bord0\blur0.3\fad(420,1)\4a&HFF&}Navy Headquarters
+Dialogue: 0,0:17:32.80,0:17:35.74,Default,,0,0,0,,Are you alright now?
 Dialogue: 0,0:17:35.74,0:17:37.71,Default,,0,0,0,,It was awful.
 Dialogue: 0,0:17:37.71,0:17:41.24,Default,,0,0,0,,I can't believe that you got beaten so bad.
 Dialogue: 0,0:17:41.88,0:17:48.05,Default,,0,0,0,,Arlong, who was locked up in Impel down the other day, is nothing.
@@ -274,7 +282,7 @@ Dialogue: 0,0:17:48.05,0:17:51.52,Default,,0,0,0,,The most violent one is Jinbe!
 Dialogue: 0,0:17:56.03,0:17:59.60,Default,,0,0,0,,He was unbelievably strong.
 Dialogue: 0,0:18:00.23,0:18:03.13,Default,,0,0,0,,It's too dangerous to have him at large.
 Dialogue: 0,0:18:03.13,0:18:06.24,Default,,0,0,0,,Hmm...
-Dialogue: 0,0:18:06.24,0:18:09.01,OS,,0,0,0,,UNCLEAR JUSTICE
+Dialogue: 0,0:18:06.34,0:18:09.14,"Sign",,0,0,0,,"Unclear Justice"
 Dialogue: 0,0:18:10.71,0:18:13.68,Default,,0,0,0,,They want me to join the Seven Warlords?!
 Dialogue: 0,0:18:13.68,0:18:17.85,Default,,0,0,0,,Your bounty was raised to 250 million berries!
 Dialogue: 0,0:18:17.85,0:18:24.69,Default,,0,0,0,,They figured that you're gonna be an even bigger threat to the Government.
@@ -293,7 +301,8 @@ Dialogue: 0,0:19:13.77,0:19:17.14,Default,,0,0,0,,She's not feeling well now.
 Dialogue: 0,0:19:19.44,0:19:22.08,Default,,0,0,0,,And it could make the late Tiger's dream come true -
 Dialogue: 0,0:19:22.08,0:19:26.55,Default,,0,0,0,,liberation and freedom for the Fishmen!
 Dialogue: 0,0:19:26.55,0:19:33.12,Default,,0,0,0,,But at the same time, I think the amnesty would cause us some trouble too...
-Dialogue: 0,0:19:34.36,0:19:38.86,OS,,0,0,0,,{\fad(500,1)}IMPEL DOWN
+Dialogue: 0,0:19:34.46,0:19:38.96,Sign,,0,0,222,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Impel Down
+Dialogue: 1,0:19:34.46,0:19:38.96,Sign,,0,0,222,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Impel Down
 Dialogue: 0,0:19:43.07,0:19:46.07,Default,,0,0,0,,--Arlong-san! --Arlong!
 Dialogue: 0,0:19:47.87,0:19:49.04,Default,,0,0,0,,Arlong-san!
 Dialogue: 0,0:19:50.67,0:19:55.08,Default,,0,0,0,,--Arlong-san! --Arlong-san is back! He's back!
@@ -345,5 +354,9 @@ Dialogue: 0,0:23:30.83,0:23:33.26,Default,,0,0,0,,a drifting ship arrived.
 Dialogue: 0,0:23:33.26,0:23:36.50,Default,,0,0,0,,On board is a Celestial Dragon who thinks of Fishmen as
 Dialogue: 0,0:23:36.50,0:23:38.13,Default,,0,0,0,,nothing more than slaves!
 Dialogue: 0,0:23:38.13,0:23:39.44,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.44,0:23:42.97,Default,,0,0,0,,"Shaking Fishman Island! A Celestial Dragon Drifts In!"
+Dialogue: 0,0:23:39.44,0:23:42.97,Default,,0,0,0,,"Shaking Fishman Island!\NThe Shipwrecked Celestial Dragon"
 Dialogue: 0,0:23:42.97,0:23:45.01,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Shaking Fishman Island!
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Shaking Fishman Island!
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}The Shipwrecked Celestial Dragon
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Shipwrecked Celestial Dragon

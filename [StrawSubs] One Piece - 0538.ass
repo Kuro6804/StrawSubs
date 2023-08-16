@@ -18,22 +18,25 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0538 (WEB 1080p AMZN JP 29.970fps EAC3) [C38889C6].mkv
 Video File: [Panda-Raws] One Piece - 0538 (WEB 1080p AMZN JP 29.970fps EAC3) [C38889C6].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 48
-Active Line: 68
-Video Position: 5997
+Scroll Position: 333
+Active Line: 338
+Video Position: 42650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: B1,Arial,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
-Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
+Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,4,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -128,7 +131,10 @@ Dialogue: 0,0:04:38.13,0:04:43.10,Default,,0,0,0,,...are fighting an intense bat
 Dialogue: 0,0:04:44.27,0:04:48.84,Default,,0,0,0,,Drop dead, you lowly creature!
 Dialogue: 0,0:04:57.35,0:04:59.25,Default,,0,0,0,,One-Sword Style, Draw...
 Dialogue: 0,0:04:59.82,0:05:02.02,Default,,0,0,0,,...Lion Song!
-Dialogue: 0,0:05:05.62,0:05:14.70,B1,,0,0,0,,{\fad(2000,2000)}"The Straw Hats Defeated?! Hody Gains Control of the Ryugu Palace"
+Dialogue: 0,0:05:05.62,0:05:14.63,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Straw Hats Defeated?!
+Dialogue: 1,0:05:05.62,0:05:14.63,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Straw Hats Defeated?!
+Dialogue: 0,0:05:05.62,0:05:14.63,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Hody Takes Control of Ryugu Palace
+Dialogue: 1,0:05:05.62,0:05:14.63,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Hody Takes Control of Ryugu Palace
 Dialogue: 0,0:05:25.74,0:05:26.88,Default,,0,0,0,,Zoro!
 Dialogue: 0,0:05:30.75,0:05:33.22,Default,,0,0,0,,--Boss! --Boss!
 Dialogue: 0,0:05:33.22,0:05:35.99,Default,,0,0,0,,--Boss! --Boss!
@@ -139,7 +145,7 @@ Dialogue: 0,0:05:49.40,0:05:52.14,Default,,0,0,0,,Damn! How dare he cut Boss!
 Dialogue: 0,0:05:52.14,0:05:56.97,Default,,0,0,0,,Don't be afraid! He's just a human! He can't stay long in the water!
 Dialogue: 0,0:05:56.97,0:05:58.68,Default,,0,0,0,,Catch the swordsman!
 Dialogue: 0,0:05:59.91,0:06:02.85,Default,,0,0,0,,Let's take the Energy Steroid!
-Dialogue: 0,0:06:19.60,0:06:24.57,Default,,0,0,0,,Screw this! Kill them all --Neptune's army, too!
+Dialogue: 0,0:06:19.60,0:06:24.57,Default,,0,0,0,,Screw this! Kill them all --The Neptune Army, too!
 Dialogue: 0,0:06:27.57,0:06:29.71,Default,,0,0,0,,Damn!
 Dialogue: 0,0:06:34.04,0:06:38.22,Default,,0,0,0,,What's this? I sense a great deal of madness!
 Dialogue: 0,0:06:38.95,0:06:39.78,Default,,0,0,0,,Zoro!
@@ -240,9 +246,10 @@ Dialogue: 0,0:13:22.32,0:13:23.22,Default,,0,0,0,,Brother.
 Dialogue: 0,0:13:24.19,0:13:25.59,Default,,0,0,0,,This is Fukaboshi.
 Dialogue: 0,0:13:25.59,0:13:29.39,Default,,0,0,0,,Prince, we have a problem! I'm in Waterwheel Town.
 Dialogue: 0,0:13:29.96,0:13:31.29,Default,,0,0,0,,Waterwheel Town?
-Dialogue: 0,0:13:31.29,0:13:35.50,DefaultLow,,0,0,0,,Men from the Fishman District invaded the town
-Dialogue: 0,0:13:31.43,0:13:35.43,OS,,0,0,0,,{\fad(500,500)}WATERWHEEL TOWN
-Dialogue: 0,0:13:35.50,0:13:37.83,Default,,0,0,0,,and Queen Otohime...
+Dialogue: 0,0:13:31.29,0:13:35.50,DefaultLow2,,0,0,0,,Men from the Fishman District invaded the town
+Dialogue: 0,0:13:31.43,0:13:35.43,Sign,,0,0,268,,{\blur0.3\fad(520,520)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(3480,3525,\1a&HFF&)}Waterwheel Town
+Dialogue: 1,0:13:31.43,0:13:35.43,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,520)\4a&HFF&}Waterwheel Town
+Dialogue: 0,0:13:35.50,0:13:37.83,DefaultLow2,,0,0,0,,and Queen Otohime...
 Dialogue: 0,0:13:39.70,0:13:42.37,Default,,0,0,0,,You shouldn't have done that.
 Dialogue: 0,0:13:47.78,0:13:52.15,Default,,0,0,0,,What about my mother?! Hey! Answer me!
 Dialogue: 0,0:13:53.35,0:13:56.15,Default,,0,0,0,,--Let's go to Waterwheel Town! --Yes, sir!
@@ -252,10 +259,11 @@ Dialogue: 0,0:14:05.43,0:14:09.37,Default,,0,0,0,,Dosun acted too early-ch.
 Dialogue: 0,0:14:09.37,0:14:13.37,Default,,0,0,0,,There's no point in doing it unless it's simultaneous.
 Dialogue: 0,0:14:13.37,0:14:17.41,Default,,0,0,0,,But that's okay. Alright, let's do this-ch.
 Dialogue: 0,0:14:17.41,0:14:23.08,Default,,0,0,0,,Listen, guys! Our dreams will finally come true!
-Dialogue: 0,0:14:23.08,0:14:25.55,Default,,0,0,0,,Be as wild as you like -ch!
+Dialogue: 0,0:14:23.08,0:14:25.55,Default,,0,0,0,,Be as wild as you like-ch!
 Dialogue: 0,0:14:25.55,0:14:28.05,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:14:46.10,0:14:51.61,OS,,0,0,0,,{\fad(500,1)}SEA FOREST
-Dialogue: 0,0:14:48.84,0:14:51.61,DefaultLow,,0,0,0,,It's a beautiful place!
+Dialogue: 0,0:14:46.10,0:14:51.61,Sign,,0,0,268,,{\blur0.3\fad(970,0)\c&H000000&\1a&HFF&\t(925,970,\1a&H00&)}Sea Forest
+Dialogue: 1,0:14:46.10,0:14:51.61,Sign,,0,0,268,,{\bord0\blur0.3\fad(970,0)\4a&HFF&}Sea Forest
+Dialogue: 0,0:14:48.84,0:14:51.61,DefaultLow,,0,0,0,,What a beautiful place!
 Dialogue: 0,0:14:52.08,0:14:54.38,Default,,0,0,0,,So this is the Sea Forest!
 Dialogue: 0,0:14:54.38,0:14:59.62,Default,,0,0,0,,I... always wanted to come here!
 Dialogue: 0,0:15:00.85,0:15:05.02,Default,,0,0,0,,Thank you very much, Luffy-sama!
@@ -368,5 +376,9 @@ Dialogue: 0,0:23:25.66,0:23:29.96,Default,,0,0,0,,Things become tense between th
 Dialogue: 0,0:23:29.96,0:23:34.93,Default,,0,0,0,,Jinbe then tells the great story of two individuals
 Dialogue: 0,0:23:34.93,0:23:38.10,Default,,0,0,0,,who tried to change the bitter history between Fishmen and humans.
 Dialogue: 0,0:23:38.10,0:23:39.54,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.54,0:23:42.81,Default,,0,0,0,,"The Haunting Ties! Nami and the Fishman Pirates!"
+Dialogue: 0,0:23:39.54,0:23:42.81,Default,,0,0,0,,"Haunting Ties!\NNami and the Fishman Pirates!"
 Dialogue: 0,0:23:42.81,0:23:45.17,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Haunting Ties!
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Haunting Ties!
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Nami and the Fishman Pirates!
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Nami and the Fishman Pirates!

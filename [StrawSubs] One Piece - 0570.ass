@@ -18,23 +18,23 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0570 (WEB 1080p AMZN JP 29.970fps EAC3) [0A10486A].mkv
 Video File: [Panda-Raws] One Piece - 0570 (WEB 1080p AMZN JP 29.970fps EAC3) [0A10486A].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 48
-Active Line: 68
-Video Position: 5997
+Video Zoom Percent: 0.625000
+Scroll Position: 344
+Active Line: 351
+Video Position: 42648
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
 Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,8,200,200,56,0
-Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
-Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -119,7 +119,10 @@ Dialogue: 0,0:04:00.39,0:04:03.99,Default,,0,0,0,,The Mermaid Princess who lived
 Dialogue: 0,0:04:05.00,0:04:08.30,Default,,0,0,0,,...was known by a specific name, wasn't she?
 Dialogue: 0,0:04:09.03,0:04:10.47,Default,,0,0,0,,The ancient weapon...
 Dialogue: 0,0:04:11.97,0:04:13.77,Default,,0,0,0,,...Poseidon!
-Dialogue: 0,0:04:13.80,0:04:22.75,B1,,0,0,0,,{\fad(2000,2000)}"The Straw Hats Stunned! The New Fleet Admiral of the Navy!"
+Dialogue: 0,0:04:13.77,0:04:22.75,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Straw Hats in Shock!
+Dialogue: 1,0:04:13.77,0:04:22.75,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Straw Hats in Shock!
+Dialogue: 0,0:04:13.77,0:04:22.75,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Navy's New Fleet Admiral!
+Dialogue: 1,0:04:13.77,0:04:22.75,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Navy's New Fleet Admiral!
 Dialogue: 0,0:04:35.53,0:04:37.39,Default,,0,0,0,,I do not know their purpose
 Dialogue: 0,0:04:37.96,0:04:43.63,Default,,0,0,0,,but a long time ago, there were powerful entities that could destroy the world.
 Dialogue: 0,0:04:45.90,0:04:49.77,Default,,0,0,0,,They were 3 Ancient Weapons given the names of gods.
@@ -384,5 +387,9 @@ Dialogue: 0,0:23:28.79,0:23:32.73,Default,,0,0,0,,Just as Fishman Island faces d
 Dialogue: 0,0:23:32.73,0:23:36.90,Default,,0,0,0,,...at the hands of one of the overwhelmingly powerful Four Emperors...
 Dialogue: 0,0:23:36.90,0:23:38.63,Default,,0,0,0,,...Luffy takes a stand!
 Dialogue: 0,0:23:38.63,0:23:40.30,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:40.30,0:23:43.01,Default,,0,0,0,,"She Loves Sweets! Big Mom of the Four Emperors!"
+Dialogue: 0,0:23:40.30,0:23:43.01,Default,,0,0,0,,"She Loves Sweets!\NBig Mom of the Four Emperors"
 Dialogue: 0,0:23:43.01,0:23:45.31,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}She Loves Sweets!
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}She Loves Sweets!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Big Mom of the Four Emperors
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Big Mom of the Four Emperors

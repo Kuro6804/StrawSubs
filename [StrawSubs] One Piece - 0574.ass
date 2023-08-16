@@ -18,21 +18,22 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0574 (WEB 1080p AMZN JP 29.970fps EAC3) [E8163357].mkv
 Video File: [Panda-Raws] One Piece - 0574 (WEB 1080p AMZN JP 29.970fps EAC3) [E8163357].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 56
-Active Line: 68
-Video Position: 5997
+Scroll Position: 338
+Active Line: 344
+Video Position: 42648
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,8,200,200,56,0
-Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -122,7 +123,10 @@ Dialogue: 0,0:04:20.08,0:04:22.71,Default,,0,0,0,,we'll get to the ultimate sea!
 Dialogue: 0,0:04:23.55,0:04:26.75,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:04:26.75,0:04:29.32,Default,,0,0,0,,Guys!
 Dialogue: 0,0:04:30.59,0:04:33.02,Default,,0,0,0,,To the New World!
-Dialogue: 0,0:04:36.13,0:04:40.60,Default,,0,0,0,,"To the New World! Heading for the Ultimate Sea!"
+Dialogue: 0,0:04:33.06,0:04:42.00,Title Card - Top,,0,0,0,,{\blur0.3\fad(1967,1967)\c&H000000&\1a&HFF&\t(1922,1967,\1a&H00&)\t(6973,7018,\1a&HFF&)}To the New World!
+Dialogue: 1,0:04:33.06,0:04:42.00,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1967,1967)\4a&HFF&}To the New World!
+Dialogue: 0,0:04:33.06,0:04:42.00,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1967,1967)\c&H000000&\1a&HFF&\t(1922,1967,\1a&H00&)\t(6973,7018,\1a&HFF&)}Heading for the Ultimate Sea
+Dialogue: 1,0:04:33.06,0:04:42.00,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1967,1967)\4a&HFF&}Heading for the Ultimate Sea
 Dialogue: 0,0:04:51.94,0:04:53.81,Default,,0,0,0,,After leaving Fishman Island,
 Dialogue: 0,0:04:53.81,0:04:59.38,Default,,0,0,0,,the ship ascends toward the New World, the second half of the Grand Line.
 Dialogue: 0,0:05:03.75,0:05:07.72,Default,,0,0,0,,--It's going very well! --Yeah, almost too well.
@@ -375,5 +379,9 @@ Dialogue: 0,0:23:30.86,0:23:32.53,Default,,0,0,0,,However...
 Dialogue: 0,0:23:32.53,0:23:34.86,Default,,0,0,0,,...it also brings to light a conspiracy...
 Dialogue: 0,0:23:34.86,0:23:38.17,Default,,0,0,0,,...between pirates and the Navy of the New World!
 Dialogue: 0,0:23:38.17,0:23:39.70,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.70,0:23:43.01,Default,,0,0,0,,"Z's Ambition! Lily the Little Giant!"
+Dialogue: 0,0:23:39.70,0:23:43.01,Default,,0,0,0,,"Z's Ambition\NLily, the Little Giant!"
 Dialogue: 0,0:23:43.01,0:23:44.94,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Z's Ambition
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Z's Ambition
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Lily, the Little Giant!
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Lily, the Little Giant!

@@ -18,22 +18,24 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0540 (WEB 1080p AMZN JP 29.970fps EAC3) [300293E0].mkv
 Video File: [Panda-Raws] One Piece - 0540 (WEB 1080p AMZN JP 29.970fps EAC3) [300293E0].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 48
-Active Line: 68
-Video Position: 5997
+Video Zoom Percent: 0.562500
+Scroll Position: 333
+Active Line: 337
+Video Position: 42648
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
-Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -116,14 +118,18 @@ Dialogue: 0,0:03:58.06,0:04:01.16,Default,,0,0,0,,One was Queen Otohime.
 Dialogue: 0,0:04:02.23,0:04:08.37,Default,,0,0,0,,And the other is the hero who freed the slaves - Fisher Tiger.
 Dialogue: 0,0:04:09.73,0:04:13.14,Default,,0,0,0,,Let's talk. They were two monumental figures!
 Dialogue: 0,0:04:13.14,0:04:16.14,Default,,0,0,0,,But what was their hidden angst?!
-Dialogue: 0,0:04:16.97,0:04:25.98,B1,,0,0,0,,{\fad(2000,2000)}"A Hero Who Freed the Slaves! An Adventurer Tiger!"
+Dialogue: 0,0:04:16.97,0:04:25.98,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Hero Who Freed the Slaves
+Dialogue: 1,0:04:16.97,0:04:25.98,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Hero Who Freed the Slaves
+Dialogue: 0,0:04:16.97,0:04:25.98,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Tiger the Adventurer
+Dialogue: 1,0:04:16.97,0:04:25.98,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Tiger the Adventurer
 Dialogue: 0,0:04:32.02,0:04:34.86,Default,,0,0,0,,I'm going to tell you about...
 Dialogue: 0,0:04:34.86,0:04:40.90,Default,,0,0,0,,...an incident that made Arlong rampage through the East Blue.
 Dialogue: 0,0:04:41.63,0:04:44.70,Default,,0,0,0,,I want you especially to know about this.
 Dialogue: 0,0:04:46.77,0:04:47.57,Default,,0,0,0,,Alright.
 Dialogue: 0,0:04:56.85,0:04:58.78,Default,,0,0,0,,It all began...
 Dialogue: 0,0:04:59.58,0:05:02.52,Default,,0,0,0,,...16 years ago.
-Dialogue: 0,0:05:03.12,0:05:07.36,OS,,0,0,0,,{\fad(500,500)}16 YEARS AGO - FISHMAN ISLAND
+Dialogue: 0,0:05:03.22,0:05:07.39,Sign,,0,0,268,,{\blur0.3\fad(520,520)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(3650,3695,\1a&HFF&)}Sixteen years ago, Fishman Island
+Dialogue: 1,0:05:03.22,0:05:07.39,Sign,,0,0,268,,{\blur0.3\fad(520,520)\fs60\bord0\4a&HFF&}Sixteen years ago, Fishman Island
 Dialogue: 0,0:05:09.73,0:05:10.53,Default,,0,0,0,,Outta my way!
 Dialogue: 0,0:05:11.56,0:05:12.86,Default,,0,0,0,,Thief!
 Dialogue: 0,0:05:12.86,0:05:15.83,Default,,0,0,0,,Somebody, catch him!
@@ -141,7 +147,8 @@ Dialogue: 0,0:05:53.07,0:05:56.64,Default,,0,0,0,,I-I warned you!
 Dialogue: 0,0:06:05.85,0:06:07.08,Default,,0,0,0,,Did I miss?
 Dialogue: 0,0:06:07.08,0:06:09.22,Default,,0,0,0,,Dammit! Stay away!
 Dialogue: 0,0:06:18.10,0:06:19.53,Default,,0,0,0,,I got you!
-Dialogue: 0,0:06:28.61,0:06:33.64,OS,,0,0,0,,{\fad(500,1)}KING NEPTUNE'S WIFE QUEEN OTOHIME (GOLDFISH MERMAID)
+Dialogue: 0,0:06:28.64,0:06:33.64,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}King Neptune's Wife\NQueen Otohime (Goldfish Mermaid)
+Dialogue: 1,0:06:28.64,0:06:33.64,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}King Neptune's Wife\NQueen Otohime (Goldfish Mermaid)
 Dialogue: 0,0:06:35.61,0:06:39.02,Default,,0,0,0,,It's... Otohime-sama!
 Dialogue: 0,0:06:39.02,0:06:41.08,Default,,0,0,0,,--Ouch! --Really?!
 Dialogue: 0,0:06:41.69,0:06:43.62,Default,,0,0,0,,--My hand! --Doctor!
@@ -259,7 +266,8 @@ Dialogue: 0,0:15:12.10,0:15:15.50,Default,,0,0,0,,What? Does anyone have somethi
 Dialogue: 0,0:15:19.84,0:15:21.44,Default,,0,0,0,,Shut your mouth!
 Dialogue: 0,0:15:26.88,0:15:29.28,Default,,0,0,0,,You make my sake taste bad.
 Dialogue: 0,0:15:30.21,0:15:32.05,Default,,0,0,0,,O-Okay...
-Dialogue: 0,0:15:35.85,0:15:40.96,OS,,0,0,0,,{\fad(500,1)}THE RYUGU KINGDOM - A SOLDIER OF NEPTUNE'S ARMY JINBE 30 YEARS OLD
+Dialogue: 0,0:15:35.82,0:15:40.99,Sign,,0,0,365,,{\blur0.3\fad(680,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(635,680,\1a&H00&)}Jinbe, 30 years old\NA soldier in Ryugu Kingdom's Neptune Army
+Dialogue: 1,0:15:35.82,0:15:40.99,Sign,,0,0,365,,{\blur0.3\fad(680,0)\fs60\bord0\4a&HFF&}Jinbe, 30 years old\NA soldier in Ryugu Kingdom's Neptune Army
 Dialogue: 0,0:15:56.61,0:16:00.24,Default,,0,0,0,,So Otohime-san was a very unusual woman.
 Dialogue: 0,0:16:00.24,0:16:03.75,Default,,0,0,0,,You're a crybaby just like your mother, huh?
 Dialogue: 0,0:16:03.75,0:16:07.08,Default,,0,0,0,,Well... I-I don't know...
@@ -275,7 +283,7 @@ Dialogue: 0,0:16:37.65,0:16:40.45,Default,,0,0,0,,and was too much for the admin
 Dialogue: 0,0:16:40.45,0:16:45.79,Default,,0,0,0,,so it became a lawless area that drew misfits from all over the island.
 Dialogue: 0,0:16:46.96,0:16:51.09,Default,,0,0,0,,Fisher Tiger was the leader figure in the Fishman District
 Dialogue: 0,0:16:51.09,0:16:54.63,Default,,0,0,0,,but he left the country to chase adventure.
-Dialogue: 0,0:16:54.63,0:16:58.90,Default,,0,0,0,,And I was his lieutenant but I joined Neptune's army.
+Dialogue: 0,0:16:54.63,0:16:58.90,Default,,0,0,0,,And I was his lieutenant but I joined the Neptune Army.
 Dialogue: 0,0:16:59.54,0:17:03.07,Default,,0,0,0,,Macro and the others became kidnappers even though they were Fishmen themselves.
 Dialogue: 0,0:17:04.21,0:17:09.38,Default,,0,0,0,,And all the others went their separate ways as well.
 Dialogue: 0,0:17:10.75,0:17:13.22,Default,,0,0,0,,But one day...
@@ -287,17 +295,18 @@ Dialogue: 0,0:17:31.97,0:17:35.27,Default,,0,0,0,,Hey! Cut it out! You're Arlong
 Dialogue: 0,0:17:38.64,0:17:41.24,Default,,0,0,0,,Arlong from the Fishman District?
 Dialogue: 0,0:17:43.58,0:17:45.05,Default,,0,0,0,,L-Let go of me!
 Dialogue: 0,0:17:45.05,0:17:47.12,Default,,0,0,0,,You're a bit wrong.
-Dialogue: 0,0:17:47.18,0:17:52.26,OS,,0,0,0,,{\fad(500,1)}THE CAPTAIN OF THE ARLONG PIRATES ARLONG 25 YEARS OLD
-Dialogue: 0,0:17:47.82,0:17:52.26,DefaultLow,,0,0,0,,I'm Captain Arlong from the Arlong Pirates!
+Dialogue: 0,0:17:47.22,0:17:52.26,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Arlong, 25 years old\NCaptain of the Arlong Pirates
+Dialogue: 1,0:17:47.22,0:17:52.26,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Arlong, 25 years old\NCaptain of the Arlong Pirates
+Dialogue: 0,0:17:47.82,0:17:52.26,DefaultLow,,0,0,0,,I'm Captain Arlong of the Arlong Pirates!
 Dialogue: 0,0:17:52.82,0:17:59.56,Default,,0,0,0,,I make a living by hunting those lowly pirates who can't even breathe in water.
-Dialogue: 0,0:17:59.56,0:18:03.77,Default,,0,0,0,,We're doing it on behalf of all of you - Neptune's army!
+Dialogue: 0,0:17:59.56,0:18:03.77,Default,,0,0,0,,We're doing it on behalf of all of you - the Neptune Army!
 Dialogue: 0,0:18:03.77,0:18:05.77,Default,,0,0,0,,Thank me with your money!
 Dialogue: 0,0:18:05.77,0:18:09.31,Default,,0,0,0,,B-Boss Jinbe, don't just watch - help me!
 Dialogue: 0,0:18:09.31,0:18:10.74,Default,,0,0,0,,Jinbe?
 Dialogue: 0,0:18:12.78,0:18:16.81,Default,,0,0,0,,Hey, punk! Let go of that rookie soldier.
 Dialogue: 0,0:18:16.81,0:18:21.82,Default,,0,0,0,,He is my man, in a way. And the papers with signatures.
 Dialogue: 0,0:18:21.82,0:18:26.66,Default,,0,0,0,,I have no interest in them but they're important for the Queen. So give them back.
-Dialogue: 0,0:18:26.66,0:18:29.86,Default,,0,0,0,,--That's Boss Jinbe of Neptune's army! --Great!
+Dialogue: 0,0:18:26.66,0:18:29.86,Default,,0,0,0,,--That's Boss Jinbe of the Neptune Army! --Great!
 Dialogue: 0,0:18:31.56,0:18:35.13,Default,,0,0,0,,"Boss"? That's a good title.
 Dialogue: 0,0:18:35.13,0:18:38.17,Default,,0,0,0,,Sounds like you're running a gang!
 Dialogue: 0,0:18:38.17,0:18:40.47,Default,,0,0,0,,Do as I say, Arlong!
@@ -365,5 +374,9 @@ Dialogue: 0,0:23:24.95,0:23:29.16,Default,,0,0,0,,Pursued by the Marines, they f
 Dialogue: 0,0:23:29.16,0:23:34.70,Default,,0,0,0,,until he has a fateful encounter with a human girl with a painful past.
 Dialogue: 0,0:23:35.40,0:23:38.53,Default,,0,0,0,,And a certain man finally makes his move.
 Dialogue: 0,0:23:38.53,0:23:39.80,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.80,0:23:42.57,Default,,0,0,0,,"Yellow Monkey Appears! A Trap to Catch Tiger!"
+Dialogue: 0,0:23:39.80,0:23:42.57,Default,,0,0,0,,"Yellow Monkey Arrives!\NA Trap to Catch Tiger!"
 Dialogue: 0,0:23:42.57,0:23:45.04,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Yellow Monkey Arrives!
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Yellow Monkey Arrives!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}A Trap to Catch Tiger!
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}A Trap to Catch Tiger!

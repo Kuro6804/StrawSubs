@@ -18,23 +18,23 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0562 (WEB 1080p AMZN JP 29.970fps EAC3) [6726A68F].mkv
 Video File: [Panda-Raws] One Piece - 0562 (WEB 1080p AMZN JP 29.970fps EAC3) [6726A68F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 56
-Active Line: 68
-Video Position: 5997
+Video Zoom Percent: 0.562500
+Scroll Position: 316
+Active Line: 326
+Video Position: 42646
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
 Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,8,200,200,56,0
-Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
-Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -118,7 +118,10 @@ Dialogue: 0,0:04:13.87,0:04:16.34,Default,,0,0,0,,The Noah is falling!
 Dialogue: 0,0:04:22.91,0:04:24.62,Default,,0,0,0,,Just in time!
 Dialogue: 0,0:04:28.32,0:04:29.72,Default,,0,0,0,,Fishman Island...
 Dialogue: 0,0:04:30.72,0:04:32.86,Default,,0,0,0,,...is in danger!
-Dialogue: 0,0:04:32.86,0:04:41.87,B1,,0,0,0,,{\fad(2000,2000)}"Luffy Loses the Fight?! Hody's Long-Awaited Revenge!"
+Dialogue: 0,0:04:32.86,0:04:41.87,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Luffy Defeated?!
+Dialogue: 1,0:04:32.86,0:04:41.87,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Luffy Defeated?!
+Dialogue: 0,0:04:32.86,0:04:41.87,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Hody's Long-Awaited Revenge
+Dialogue: 1,0:04:32.86,0:04:41.87,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Hody's Long-Awaited Revenge
 Dialogue: 0,0:05:18.14,0:05:20.47,Default,,0,0,0,,So he's dead finally!
 Dialogue: 0,0:05:20.47,0:05:23.94,Default,,0,0,0,,Now, Vander Decken's power became ineffective
 Dialogue: 0,0:05:23.94,0:05:27.28,Default,,0,0,0,,and the Noah will crash into Fishman Island!
@@ -355,9 +358,13 @@ Dialogue: 0,0:22:55.59,0:22:58.59,Default,,0,0,0,,I found out who he really is!
 Dialogue: 0,0:23:19.88,0:23:21.78,Default,,0,0,0,,As the Noah once again draws near,
 Dialogue: 0,0:23:21.78,0:23:24.69,Default,,0,0,0,,Fishman Island is in chaos as the citizens evacuate.
 Dialogue: 0,0:23:24.69,0:23:27.96,Default,,0,0,0,,The Straw Hats continue to believe in Luffy and fight on.
-Dialogue: 0,0:23:27.96,0:23:31.33,Default,,0,0,0,,Neptune's army finally joins the battle, as well.
+Dialogue: 0,0:23:27.96,0:23:31.33,Default,,0,0,0,,The Neptune Army finally joins the battle, as well.
 Dialogue: 0,0:23:31.33,0:23:34.73,Default,,0,0,0,,The battle at the Conchcorde Plaza is unfolding rapidly,
 Dialogue: 0,0:23:34.73,0:23:38.33,Default,,0,0,0,,as a new truth further shakes up the citizens!
 Dialogue: 0,0:23:38.33,0:23:39.70,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.70,0:23:42.67,Default,,0,0,0,,"A Shocking Fact! The True Identity of Hody!"
+Dialogue: 0,0:23:39.70,0:23:42.67,Default,,0,0,0,,"A Shocking Truth!\NHody's True Colors!"
 Dialogue: 0,0:23:42.67,0:23:44.84,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:42.94,0:23:46.94,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}A Shocking Truth!
+Dialogue: 1,0:23:42.94,0:23:46.94,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}A Shocking Truth!
+Dialogue: 0,0:23:42.94,0:23:46.94,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Hody's True Colors!
+Dialogue: 1,0:23:42.94,0:23:46.94,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Hody's True Colors!

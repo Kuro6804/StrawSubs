@@ -18,23 +18,24 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0554 (WEB 1080p AMZN JP 29.970fps EAC3) [06EE97E9].mkv
 Video File: [Panda-Raws] One Piece - 0554 (WEB 1080p AMZN JP 29.970fps EAC3) [06EE97E9].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 54
-Active Line: 66
-Video Position: 5429
+Scroll Position: 357
+Active Line: 362
+Video Position: 42648
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
 Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,8,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -111,7 +112,10 @@ Dialogue: 0,0:03:14.58,0:03:18.62,Default,,0,0,0,,who are looking to destroy the
 Dialogue: 0,0:03:18.62,0:03:22.09,Default,,0,0,0,,The Straw Hats find themselves caught up in the turmoil.
 Dialogue: 0,0:03:23.99,0:03:27.99,Default,,0,0,0,,Friends or foes? That's something...
 Dialogue: 0,0:03:27.99,0:03:31.76,Default,,0,0,0,,...you'll have to decide on your own!
-Dialogue: 0,0:03:31.93,0:03:40.87,B1,,0,0,0,,{\fad(2000,2000)}"A Big Clash! The Straw Hats vs. A Hundred Thousand Enemies!"
+Dialogue: 0,0:03:31.90,0:03:40.87,Title Card - Top,,0,0,0,,{\blur0.3\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}A Huge Clash!
+Dialogue: 1,0:03:31.90,0:03:40.87,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1973,1973)\4a&HFF&}A Huge Clash!
+Dialogue: 0,0:03:31.90,0:03:40.87,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}The Straw Hats vs. 100,000 Enemies
+Dialogue: 1,0:03:31.90,0:03:40.87,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1973,1973)\4a&HFF&}The Straw Hats vs. 100,000 Enemies
 Dialogue: 0,0:03:45.74,0:03:52.72,Default,,0,0,0,,S-So he's the Straw Hat Luffy who invaded Navy HQ twice, 2 years ago!
 Dialogue: 0,0:03:53.28,0:03:55.52,Default,,0,0,0,,A pirate ship is here, too!
 Dialogue: 0,0:03:55.52,0:03:57.92,Default,,0,0,0,,So are all the Straw Hats!
@@ -395,5 +399,9 @@ Dialogue: 0,0:23:26.86,0:23:30.13,Default,,0,0,0,,they must protect Shirahoshi f
 Dialogue: 0,0:23:30.56,0:23:33.43,Default,,0,0,0,,And the new attacks developed over two years
 Dialogue: 0,0:23:33.90,0:23:37.80,Default,,0,0,0,,by Zoro and Sanji will erupt!
 Dialogue: 0,0:23:37.80,0:23:39.20,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.20,0:23:42.44,Default,,0,0,0,,"Deadly Attacks One After Another! Zoro and Sanji Join the Battle!"
+Dialogue: 0,0:23:39.20,0:23:42.44,Default,,0,0,0,,"A Flurry of Deadly Attacks!\NZoro and Sanji Join the Fray!"
 Dialogue: 0,0:23:42.44,0:23:44.94,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}A Flurry of Deadly Attacks!
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}A Flurry of Deadly Attacks!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Zoro and Sanji Join the Fray!
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Zoro and Sanji Join the Fray!

@@ -25,7 +25,7 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
 Scroll Position: 324
-Active Line: 330
+Active Line: 332
 Video Position: 42648
 
 [V4+ Styles]
@@ -134,10 +134,10 @@ Dialogue: 0,0:04:50.01,0:04:55.01,Default,,0,0,0,,They kidnapped the Mermaid Pri
 Dialogue: 0,0:04:55.01,0:04:59.02,Default,,0,0,0,,No, Sanji!\NDon't turn around at any cost!
 Dialogue: 0,0:04:59.02,0:05:01.19,Default,,0,0,0,,Huh? What's going on?
 Dialogue: 0,0:05:01.19,0:05:05.42,Default,,0,0,0,,If you do, you're gonna die, Sanji!
-Dialogue: 0,0:05:05.42,0:05:13.50,Title Card - Top,,0,0,0,,{\blur0.3\fad(1970,1100)\c&H000000&\1a&HFF&\t(1925,1970,\1a&H00&)\t(6980,7025,\1a&HFF&)}Keep Shirahoshi Safe
-Dialogue: 1,0:05:05.42,0:05:13.50,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1970,1100)\4a&HFF&}Keep Shirahoshi Safe
-Dialogue: 0,0:05:05.42,0:05:13.50,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1970,1100)\c&H000000&\1a&HFF&\t(1925,1970,\1a&H00&)\t(6980,7025,\1a&HFF&)}Decken Close Behind
-Dialogue: 1,0:05:05.42,0:05:13.50,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1970,1100)\4a&HFF&}Decken Close Behind
+Dialogue: 0,0:05:05.42,0:05:13.50,Title Card - Top,,0,0,0,,{\blur0.3\fad(1970,1100)\c&H000000&\1a&HFF&\t(1925,1970,\1a&H00&)\t(6980,7025,\1a&HFF&)}Protect Shirahoshi
+Dialogue: 1,0:05:05.42,0:05:13.50,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1970,1100)\4a&HFF&}Protect Shirahoshi
+Dialogue: 0,0:05:05.42,0:05:13.50,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1970,1100)\c&H000000&\1a&HFF&\t(1925,1970,\1a&H00&)\t(6980,7025,\1a&HFF&)}Decken's Pursuit
+Dialogue: 1,0:05:05.42,0:05:13.50,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1970,1100)\4a&HFF&}Decken's Pursuit
 Dialogue: 0,0:05:21.31,0:05:25.34,Default,,0,0,0,,I'm coming!\NTo wherever my Shirahoshi is!
 Dialogue: 0,0:05:25.34,0:05:29.01,Default,,0,0,0,,It's death or marriage!
 Dialogue: 0,0:05:48.70,0:05:52.07,Default,,0,0,0,,P-Princess Shirahoshi has...
@@ -367,9 +367,9 @@ Dialogue: 0,0:23:27.19,0:23:29.26,Default,,0,0,0,,and gain the upper hand again.
 Dialogue: 0,0:23:29.89,0:23:34.00,Default,,0,0,0,,Meanwhile, Luffy's group\Nhas finally reached Jinbe in the Sea Forest
 Dialogue: 0,0:23:34.00,0:23:38.33,Default,,0,0,0,,and he tells them of the shocking past events\Ninvolving Nami and Arlong.
 Dialogue: 0,0:23:38.33,0:23:39.57,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.57,0:23:43.01,Default,,0,0,0,,"The Straw Hats Defeated?!\NHody Gains Control of Ryugu Palace"
+Dialogue: 0,0:23:39.57,0:23:43.01,Default,,0,0,0,,"The Straw Hats Defeated?!\NHody Takes Control of Ryugu Palace"
 Dialogue: 0,0:23:43.01,0:23:45.31,Default,,0,0,0,,I'm gonna be the Pirate King!!
 Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}The Straw Hats Defeated?!
 Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Straw Hats Defeated?!
-Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Hody Gains Control of Ryugu Palace
-Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Hody Gains Control of Ryugu Palace
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Hody Takes Control of Ryugu Palace
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Hody Takes Control of Ryugu Palace

@@ -24,9 +24,9 @@ Video File: [Panda-Raws] One Piece - 0532 (WEB 1080p AMZN JP 29.970fps EAC3) [02
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 86
-Active Line: 87
-Video Position: 8890
+Scroll Position: 380
+Active Line: 386
+Video Position: 42650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -409,7 +409,7 @@ Dialogue: 0,0:22:45.31,0:22:47.32,Default,,0,0,0,,Decken! Decken!
 Dialogue: 0,0:22:45.31,0:22:47.32,Alt,,0,0,0,,Decken! Decken!
 Dialogue: 0,0:22:47.32,0:22:52.49,Default,,0,0,0,,Neptune is a nuisance for both of us.
 Dialogue: 0,0:22:52.49,0:22:55.56,Default,,0,0,0,,We have the same goal.
-Dialogue: 0,0:22:55.56,0:23:01.76,Default,,0,0,0,,Beat Neptune's army who take no pride\Nin being Fishmen or Mermaids...
+Dialogue: 0,0:22:55.56,0:23:01.76,Default,,0,0,0,,Beat the Neptune Army who take no pride\Nin being Fishmen or Mermaids...
 Dialogue: 0,0:23:01.76,0:23:05.13,Default,,0,0,0,,And kill Neptune, the God of the Sea!
 Dialogue: 0,0:23:05.77,0:23:07.24,Default,,0,0,0,,And...
 Dialogue: 0,0:23:07.70,0:23:09.77,Default,,0,0,0,,We will destroy...
@@ -421,9 +421,9 @@ Dialogue: 0,0:23:25.32,0:23:29.83,Default,,0,0,0,,protecting Zoro's group to tur
 Dialogue: 0,0:23:29.83,0:23:35.70,Default,,0,0,0,,Meanwhile, unidentified pirates continue attacking Hard Shell Tower where Luffy and Shirahoshi are.
 Dialogue: 0,0:23:35.70,0:23:38.40,Default,,0,0,0,,The tension inside Ryugu Palace continues to rise!
 Dialogue: 0,0:23:38.40,0:23:39.64,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.64,0:23:43.07,Default,,0,0,0,,"It's an Emergency\NRyugu Place Is Occupied"
+Dialogue: 0,0:23:39.64,0:23:43.07,Default,,0,0,0,,"An Emergency Breaks Out\NRyugu Place Under Siege"
 Dialogue: 0,0:23:43.07,0:23:45.24,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}It's an Emergency
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}It's an Emergency
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Ryugu Place Is Occupied
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Ryugu Place Is Occupied
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}An Emergency Breaks Out
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}An Emergency Breaks Out
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Ryugu Place Under Siege
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Ryugu Place Under Siege

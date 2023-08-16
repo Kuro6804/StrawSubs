@@ -18,22 +18,22 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0577 (WEB 1080p AMZN JP 29.970fps EAC3) [EB49020B].mkv
 Video File: [Panda-Raws] One Piece - 0577 (WEB 1080p AMZN JP 29.970fps EAC3) [EB49020B].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 48
-Active Line: 60
-Video Position: 4803
+Scroll Position: 323
+Active Line: 333
+Video Position: 42678
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,8,200,200,56,0
-Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
-Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -135,7 +135,10 @@ Dialogue: 0,0:04:36.73,0:04:39.80,Default,,0,0,0,,I won't let you do whatever yo
 Dialogue: 0,0:04:39.80,0:04:41.97,Default,,0,0,0,,while it's under the control of the Navy!
 Dialogue: 0,0:04:46.00,0:04:48.11,Default,,0,0,0,,Pops' heavenly food is...
 Dialogue: 0,0:04:48.61,0:04:50.47,Default,,0,0,0,,...all mine!
-Dialogue: 0,0:04:50.47,0:04:59.52,B1,,0,0,0,,{\fad(2000,2000)}"Z's Ambition! A Great and Desperate Escape Plan!"
+Dialogue: 0,0:04:50.47,0:04:59.48,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Z's Ambition
+Dialogue: 1,0:04:50.47,0:04:59.48,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Z's Ambition
+Dialogue: 0,0:04:50.47,0:04:59.48,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}A Desperate Escape Plan!
+Dialogue: 1,0:04:50.47,0:04:59.48,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}A Desperate Escape Plan!
 Dialogue: 0,0:05:23.57,0:05:24.78,Default,,0,0,0,,Invade the ship!
 Dialogue: 0,0:05:27.18,0:05:29.15,Default,,0,0,0,,We won't let you!
 Dialogue: 0,0:05:34.59,0:05:36.85,Default,,0,0,0,,Kill the pirates!
@@ -365,5 +368,9 @@ Dialogue: 0,0:23:30.86,0:23:32.50,Default,,0,0,0,,and unleashes it on Luffy.
 Dialogue: 0,0:23:33.03,0:23:35.43,Default,,0,0,0,,As the shockwave hits the Straw Hats,
 Dialogue: 0,0:23:35.43,0:23:39.47,Default,,0,0,0,,Lily takes fate into her own hands and makes her decision!
 Dialogue: 0,0:23:39.47,0:23:41.00,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:41.00,0:23:43.67,Default,,0,0,0,,"Z's Ambition! Luffy vs. Shuzo!"
+Dialogue: 0,0:23:41.00,0:23:43.67,Default,,0,0,0,,"Z's Ambition\NLuffy vs. Shuzo!"
 Dialogue: 0,0:23:43.67,0:23:45.81,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:44.01,0:23:48.01,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Z's Ambition
+Dialogue: 1,0:23:44.01,0:23:48.01,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Z's Ambition
+Dialogue: 0,0:23:44.01,0:23:48.01,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Luffy vs. Shuzo!
+Dialogue: 1,0:23:44.01,0:23:48.01,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Luffy vs. Shuzo!

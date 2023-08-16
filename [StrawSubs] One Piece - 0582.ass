@@ -18,14 +18,15 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [SOFCJ-Raws] One Piece - 582 (BD 1920x1080 x264 29.970fps FLAC) [50A2F6D4].mkv
 Video File: [SOFCJ-Raws] One Piece - 582 (BD 1920x1080 x264 29.970fps FLAC) [50A2F6D4].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.562500
-Scroll Position: 56
-Active Line: 68
-Video Position: 5637
+Video Zoom Percent: 0.687500
+Scroll Position: 369
+Active Line: 376
+Video Position: 42407
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,6 +34,8 @@ Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,1
 Style: On Top,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,22,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -135,7 +138,10 @@ Dialogue: 0,0:04:35.97,0:04:37.09,Default,,0,0,0,,I see.
 Dialogue: 0,0:04:38.97,0:04:41.00,Default,,0,0,0,,That's exciting.
 Dialogue: 0,0:04:41.37,0:04:43.52,Default,,0,0,0,,Please be careful!
 Dialogue: 0,0:04:43.80,0:04:44.53,Default,,0,0,0,,Roger.
-Dialogue: 0,0:04:53.67,0:04:57.66,Default,,0,0,0,,"Startling! The Secret of the Island is Finally Revealed!"
+Dialogue: 0,0:04:50.34,0:04:59.32,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Shocking!
+Dialogue: 1,0:04:50.34,0:04:59.32,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Shocking!
+Dialogue: 0,0:04:50.34,0:04:59.32,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Island's Secret is Finally Revealed
+Dialogue: 1,0:04:50.34,0:04:59.32,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Island's Secret is Finally Revealed
 Dialogue: 0,0:05:04.68,0:05:06.30,Default,,0,0,0,,Sliced up by your enemy and...
 Dialogue: 0,0:05:06.56,0:05:09.17,Default,,0,0,0,,...Alive without your body?
 Dialogue: 0,0:05:09.17,0:05:11.17,Default,,0,0,0,,How? I don't get it!
@@ -407,5 +413,9 @@ Dialogue: 0,0:23:16.49,0:23:19.62,Default,,0,0,0,,the children begin speaking an
 Dialogue: 0,0:23:20.63,0:23:23.59,Default,,0,0,0,,Nami hears their desperate pleas
 Dialogue: 0,0:23:23.59,0:23:25.15,Default,,0,0,0,,and her decision moves the entire crew!
 Dialogue: 0,0:23:25.15,0:23:26.47,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:26.47,0:23:29.62,Default,,0,0,0,,"Save the Children! The Straw Hats Start to Fight!"
+Dialogue: 0,0:23:26.47,0:23:29.62,Default,,0,0,0,,"Save the Children!\NThe Straw Hats' Battle Begins"
 Dialogue: 0,0:23:29.62,0:23:31.72,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Save the Children!
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Save the Children!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}The Straw Hats' Battle Begins
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Straw Hats' Battle Begins

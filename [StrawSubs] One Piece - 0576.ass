@@ -18,23 +18,23 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0576 (WEB 1080p AMZN JP 29.970fps EAC3) [DB69B976].mkv
 Video File: [Panda-Raws] One Piece - 0576 (WEB 1080p AMZN JP 29.970fps EAC3) [DB69B976].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.437500
-Scroll Position: 41
-Active Line: 60
-Video Position: 4803
+Scroll Position: 359
+Active Line: 371
+Video Position: 42680
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
 Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,8,200,200,56,0
-Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
-Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -123,7 +123,10 @@ Dialogue: 0,0:03:56.05,0:03:59.46,Default,,0,0,0,,I heard a ship carrying Panz F
 Dialogue: 0,0:03:59.46,0:04:03.49,Default,,0,0,0,,will pass through the Maubeugemour Sea soon.
 Dialogue: 0,0:04:05.80,0:04:07.00,Default,,0,0,0,,It's the Navy!
 Dialogue: 0,0:04:12.97,0:04:14.91,Default,,0,0,0,,--Dad! --Is that him?
-Dialogue: 0,0:04:16.11,0:04:24.95,B1,,0,0,0,,{\fad(2000,2000)}"Z's Ambition! A Dark and Powerful Army!"
+Dialogue: 0,0:04:16.01,0:04:24.95,Title Card - Top,,0,0,0,,{\blur0.3\fad(1967,1967)\c&H000000&\1a&HFF&\t(1922,1967,\1a&H00&)\t(6973,7018,\1a&HFF&)}Z's Ambition
+Dialogue: 1,0:04:16.01,0:04:24.95,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1967,1967)\4a&HFF&}Z's Ambition
+Dialogue: 0,0:04:16.01,0:04:24.95,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1967,1967)\c&H000000&\1a&HFF&\t(1922,1967,\1a&H00&)\t(6973,7018,\1a&HFF&)}A Mysterious, Powerful Army Appears!
+Dialogue: 1,0:04:16.01,0:04:24.95,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1967,1967)\4a&HFF&}A Mysterious, Powerful Army Appears!
 Dialogue: 0,0:04:40.66,0:04:44.60,OS,,0,0,0,,SIN
 Dialogue: 0,0:04:47.24,0:04:51.61,Default,,0,0,0,,They deployed 4 ships just to transport a pirate?
 Dialogue: 0,0:04:51.61,0:04:55.08,Default,,0,0,0,,I guess Lily's dad is really a big-shot.
@@ -398,12 +401,15 @@ Dialogue: 0,0:22:40.78,0:22:42.58,Default,,0,0,0,,...all mine!
 Dialogue: 0,0:22:42.58,0:22:47.88,Default,,0,0,0,,He's a pirate with a 400-million-berry bounty - Straw Hat Luffy!
 Dialogue: 0,0:22:47.88,0:22:50.89,Default,,0,0,0,,Oh, 400 million, huh?
 Dialogue: 0,0:22:53.96,0:22:57.63,Default,,0,0,0,,Great! I'll kill you all at once!
-Dialogue: 0,0:23:20.38,0:23:21.98,Default,,0,0,0,,The Straw Hats have begun fighting the Marines
-Dialogue: 0,0:23:21.98,0:23:26.49,Default,,0,0,0,,as well as the mysterious Neo Marines.
+Dialogue: 0,0:23:20.38,0:23:26.49,Default,,0,0,0,,The Straw Hats have begun fighting the Marines\Nas well as the mysterious Neo Marines.
 Dialogue: 0,0:23:26.49,0:23:28.79,Default,,0,0,0,,They fight each other to a draw.
 Dialogue: 0,0:23:28.79,0:23:32.03,Default,,0,0,0,,Then, as Maubeugemour reveals its unimaginable wrath
 Dialogue: 0,0:23:32.03,0:23:35.53,Default,,0,0,0,,and rescuing Panz Fry seems impossible...
 Dialogue: 0,0:23:35.53,0:23:39.50,Default,,0,0,0,,The Straw Hats pull off something incredible!
 Dialogue: 0,0:23:39.50,0:23:40.74,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:40.74,0:23:43.84,Default,,0,0,0,,"Z's Ambition! A Great and Desperate Escape Plan!"
+Dialogue: 0,0:23:40.74,0:23:43.84,Default,,0,0,0,,"Z's Ambition\NA Desperate Escape Plan!"
 Dialogue: 0,0:23:43.84,0:23:45.81,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:44.07,0:23:48.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Z's Ambition
+Dialogue: 1,0:23:44.07,0:23:48.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Z's Ambition
+Dialogue: 0,0:23:44.07,0:23:48.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}A Desperate Escape Plan!
+Dialogue: 1,0:23:44.07,0:23:48.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}A Desperate Escape Plan!

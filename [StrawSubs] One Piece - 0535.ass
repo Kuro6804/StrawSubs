@@ -23,10 +23,10 @@ Audio File: [Panda-Raws] One Piece - 0535 (WEB 1080p AMZN JP 29.970fps EAC3) [E2
 Video File: [Panda-Raws] One Piece - 0535 (WEB 1080p AMZN JP 29.970fps EAC3) [E23297D7].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.687500
-Scroll Position: 84
-Active Line: 85
-Video Position: 7782
+Video Zoom Percent: 0.437500
+Scroll Position: 327
+Active Line: 338
+Video Position: 42650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,8 +115,8 @@ Dialogue: 0,0:03:18.18,0:03:23.45,Default,,0,0,0,,they reached Fishman Island,\N
 Dialogue: 0,0:03:24.32,0:03:29.66,Default,,0,0,0,,But they have yet to gather\Nand are stirring things up as a fragmented crew!
 Dialogue: 0,0:03:29.66,0:03:38.64,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Hody's Onslaught
 Dialogue: 1,0:03:29.66,0:03:38.64,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Hody's Onslaught
-Dialogue: 0,0:03:29.66,0:03:38.64,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Retaliatory Plan Set Into Motion
-Dialogue: 1,0:03:29.66,0:03:38.64,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Retaliatory Plan Set Into Motion
+Dialogue: 0,0:03:29.66,0:03:38.64,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Revenge Plot Set in Motion
+Dialogue: 1,0:03:29.66,0:03:38.64,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Revenge Plot Set in Motion
 Dialogue: 0,0:03:46.61,0:03:48.88,Default,,0,0,0,,Look at that, Luffy-sama!
 Dialogue: 0,0:03:49.65,0:03:55.12,Default,,0,0,0,,That cloud looks like an animal called a "raccoon dog"\Nthat I've seen before in a book!
 Dialogue: 0,0:03:55.12,0:03:59.16,Default,,0,0,0,,Ah, that looks like Chopper!
@@ -154,7 +154,7 @@ Dialogue: 0,0:06:11.49,0:06:15.96,Default,,0,0,0,,Today will be the anniversary 
 Dialogue: 0,0:06:15.96,0:06:20.56,Default,,0,0,0,,No need to hurry.\NLet's get married tomorrow!
 Dialogue: 0,0:06:20.56,0:06:27.20,Default,,0,0,0,,That annoying faction from the Sun Pirates,\NJinbe's group, is not here-dosun!
 Dialogue: 0,0:06:27.20,0:06:32.68,Default,,0,0,0,,Neptune, the God of the Sea, and the brothers;\NFukaboshi, Ryuboshi, Manboshi!
-Dialogue: 0,0:06:32.68,0:06:39.28,Default,,0,0,0,,Much! If we can bring those four under control, Neptune's army can't stand against us-ch!
+Dialogue: 0,0:06:32.68,0:06:39.28,Default,,0,0,0,,Much! If we can bring those four under control, the Neptune Army can't stand against us-ch!
 Dialogue: 0,0:06:40.35,0:06:43.62,Default,,0,0,0,,Let's bite all the soldiers' flesh off!
 Dialogue: 0,0:06:44.22,0:06:47.69,Default,,0,0,0,,I'll just cut them—whatever you tell me to do.
 Dialogue: 0,0:06:49.16,0:06:50.89,Default,,0,0,0,,Let's begin.
@@ -372,14 +372,14 @@ Dialogue: 0,0:23:07.14,0:23:09.84,Default,,0,0,0,,Before you become somebody els
 Dialogue: 0,0:23:09.84,0:23:12.48,Default,,0,0,0,,I'd rather see you dead\Nwith your blood splattered all over!
 Dialogue: 0,0:23:12.48,0:23:15.58,Default,,0,0,0,,Shirahoshi!
 Dialogue: 0,0:23:19.65,0:23:22.49,Default,,0,0,0,,A wall of the royal palace is destroyed and seawater begins rushing in.
-Dialogue: 0,0:23:22.49,0:23:26.02,Default,,0,0,0,,Hody attacks Neptune's army with his full might.
+Dialogue: 0,0:23:22.49,0:23:26.02,Default,,0,0,0,,Hody attacks the Neptune Army with his full might.
 Dialogue: 0,0:23:26.02,0:23:30.53,Default,,0,0,0,,The soldiers risk their lives\Nto protect Neptune, the God of the Sea
 Dialogue: 0,0:23:30.53,0:23:33.43,Default,,0,0,0,,when Zoro stands to face Hody.
 Dialogue: 0,0:23:33.43,0:23:38.80,Default,,0,0,0,,With the seawater is rising, Zoro will battle in dramatically unfavorable conditions.
 Dialogue: 0,0:23:38.80,0:23:40.14,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:40.14,0:23:43.07,Default,,0,0,0,,"The Battle in Ryugu Palace!\NZoro vs. Hody"
+Dialogue: 0,0:23:40.14,0:23:43.07,Default,,0,0,0,,"Showdown in Ryugu Palace!\NZoro vs. Hody"
 Dialogue: 0,0:23:43.07,0:23:45.31,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}The Battle in Ryugu Palace!
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Battle in Ryugu Palace!
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Showdown in Ryugu Palace!
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Showdown in Ryugu Palace!
 Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Zoro vs. Hody
 Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Zoro vs. Hody

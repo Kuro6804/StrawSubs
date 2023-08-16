@@ -18,23 +18,23 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0560 (WEB 1080p AMZN JP 29.970fps EAC3) [281C1701].mkv
 Video File: [Panda-Raws] One Piece - 0560 (WEB 1080p AMZN JP 29.970fps EAC3) [281C1701].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 56
-Active Line: 68
-Video Position: 5997
+Video Zoom Percent: 0.562500
+Scroll Position: 274
+Active Line: 281
+Video Position: 42767
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
 Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,8,200,200,56,0
-Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
-Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -138,7 +138,10 @@ Dialogue: 0,0:05:22.31,0:05:26.28,Default,,0,0,0,,What is it? Let me hear it.
 Dialogue: 0,0:05:27.64,0:05:30.15,Default,,0,0,0,,If you die now...
 Dialogue: 0,0:05:43.49,0:05:46.63,Default,,0,0,0,,What'll happen to this ship?
 Dialogue: 0,0:05:46.63,0:05:49.13,Default,,0,0,0,,Decken!
-Dialogue: 0,0:05:49.17,0:05:58.18,B1,,0,0,0,,{\fad(2000,2000)}"The Fierce Fight Begins! Luffy vs. Hody!"
+Dialogue: 0,0:05:49.13,0:05:58.14,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Start of an Intense Battle!
+Dialogue: 1,0:05:49.13,0:05:58.14,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Start of an Intense Battle!
+Dialogue: 0,0:05:49.13,0:05:58.14,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Luffy vs. Hody!
+Dialogue: 1,0:05:49.13,0:05:58.14,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Luffy vs. Hody!
 Dialogue: 0,0:06:47.72,0:06:52.70,Default,,0,0,0,,Hody! You... squirt!
 Dialogue: 0,0:06:52.70,0:06:54.67,Default,,0,0,0,,My left hand...
 Dialogue: 0,0:06:54.67,0:06:56.93,Default,,0,0,0,,...touched you.
@@ -314,5 +317,9 @@ Dialogue: 0,0:23:30.83,0:23:32.63,Default,,0,0,0,,Far above them,
 Dialogue: 0,0:23:32.63,0:23:35.53,Default,,0,0,0,,the Noah is getting closer by the second,
 Dialogue: 0,0:23:35.53,0:23:37.77,Default,,0,0,0,,as it descends to destroy Fishman Island.
 Dialogue: 0,0:23:37.77,0:23:39.40,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.40,0:23:42.47,Default,,0,0,0,,"A Massive Confused Fight! The Straw Hats vs. The New Fishman Pirates!"
+Dialogue: 0,0:23:39.40,0:23:42.47,Default,,0,0,0,,"A Massive Brawl!\NStraw Hats vs. New Fishman Pirates!"
 Dialogue: 0,0:23:42.47,0:23:44.74,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}A Massive Brawl!
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}A Massive Brawl!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Straw Hats vs. New Fishman Pirates!
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Straw Hats vs. New Fishman Pirates!

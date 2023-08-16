@@ -23,10 +23,10 @@ Audio File: [Panda-Raws] One Piece - 0534 (WEB 1080p AMZN JP 29.970fps EAC3) [87
 Video File: [Panda-Raws] One Piece - 0534 (WEB 1080p AMZN JP 29.970fps EAC3) [87FD7793].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.562500
-Scroll Position: 254
-Active Line: 261
-Video Position: 30990
+Video Zoom Percent: 0.437500
+Scroll Position: 353
+Active Line: 373
+Video Position: 42650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,8 +115,8 @@ Dialogue: 0,0:03:29.36,0:03:31.80,Default,,0,0,0,,Go, Shark!
 Dialogue: 0,0:03:35.07,0:03:38.77,Default,,0,0,0,,To the Sea Forest!
 Dialogue: 0,0:03:38.77,0:03:47.78,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Ryugu Palace in Shock!
 Dialogue: 1,0:03:38.77,0:03:47.78,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Ryugu Palace in Shock!
-Dialogue: 0,0:03:38.77,0:03:47.78,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Kidnapping of Shirahoshi
-Dialogue: 1,0:03:38.77,0:03:47.78,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Kidnapping of Shirahoshi
+Dialogue: 0,0:03:38.77,0:03:47.78,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Shirahoshi Kidnapping Incident
+Dialogue: 1,0:03:38.77,0:03:47.78,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Shirahoshi Kidnapping Incident
 Dialogue: 0,0:03:49.01,0:03:53.02,Sign,,0,0,268,,{\blur0.3\fad(520,520)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(3490,3535,\1a&HFF&)}In the deep sea southeast of Fishman Island
 Dialogue: 1,0:03:49.01,0:03:53.02,Sign,,0,0,268,,{\blur0.3\fad(520,520)\fs60\bord0\4a&HFF&}In the deep sea southeast of Fishman Island
 Dialogue: 0,0:03:52.55,0:03:56.85,DefaultLow,,0,0,0,,Thank you for coming all the way to see me!
@@ -268,7 +268,7 @@ Dialogue: 0,0:14:36.63,0:14:40.40,Default,,0,0,0,,they'll both follow until the 
 Dialogue: 0,0:14:40.40,0:14:42.43,Default,,0,0,0,,That is my power!
 Dialogue: 0,0:14:42.43,0:14:43.37,Default,,0,0,0,,Awesome!
 Dialogue: 0,0:14:43.83,0:14:48.10,Default,,0,0,0,,That's why he could continue stalking her insidiously...
-Dialogue: 0,0:14:48.10,0:14:51.84,Default,,0,0,0,,without showing himself\Nor getting caught by Neptune's army!
+Dialogue: 0,0:14:48.10,0:14:51.84,Default,,0,0,0,,without showing himself\Nor getting caught by the Neptune Army!
 Dialogue: 0,0:14:51.84,0:14:53.38,Default,,0,0,0,,That's right!
 Dialogue: 0,0:14:53.38,0:14:55.04,Default,,0,0,0,,What a sinister guy!
 Dialogue: 0,0:14:55.04,0:14:57.38,Default,,0,0,0,,Sinister! Sinister! Sinister!
@@ -408,9 +408,9 @@ Dialogue: 0,0:23:27.49,0:23:29.69,Default,,0,0,0,,The crew has been caught up in
 Dialogue: 0,0:23:29.69,0:23:33.50,Default,,0,0,0,,and the once impregnable Ryugu Palace gate is breached.
 Dialogue: 0,0:23:33.50,0:23:38.77,Default,,0,0,0,,The New Fishman Pirates have arrived—\Nintent on destroying the kingdom!
 Dialogue: 0,0:23:38.77,0:23:40.24,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:40.24,0:23:43.07,Default,,0,0,0,,"Hody's Onslaught\NThe Retaliatory Plan Set Into Motion"
+Dialogue: 0,0:23:40.24,0:23:43.07,Default,,0,0,0,,"Hody's Onslaught\NThe Revenge Plot Set in Motion"
 Dialogue: 0,0:23:43.07,0:23:45.21,Default,,0,0,0,,I'm gonna be the Pirate King!!
 Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Hody's Onslaught
 Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Hody's Onslaught
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}The Retaliatory Plan Set Into Motion
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Retaliatory Plan Set Into Motion
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}The Revenge Plot Set in Motion
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Revenge Plot Set in Motion

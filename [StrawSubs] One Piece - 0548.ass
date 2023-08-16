@@ -18,23 +18,24 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0548 (WEB 1080p AMZN JP 29.970fps EAC3) [FAE4EC39].mkv
 Video File: [Panda-Raws] One Piece - 0548 (WEB 1080p AMZN JP 29.970fps EAC3) [FAE4EC39].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.437500
-Scroll Position: 52
-Active Line: 68
-Video Position: 5997
+Scroll Position: 322
+Active Line: 338
+Video Position: 42648
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: B1,Arial,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
 Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,8,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -116,7 +117,10 @@ Dialogue: 0,0:03:47.34,0:03:52.15,Default,,0,0,0,,Uh, everybody on Fishman Islan
 Dialogue: 0,0:03:52.62,0:03:54.59,Default,,0,0,0,,Can you hear me?
 Dialogue: 0,0:03:55.12,0:04:01.09,Default,,0,0,0,,I'm the captain of the New Fishman Pirates from the Fishman District,
 Dialogue: 0,0:04:01.09,0:04:04.60,Default,,0,0,0,,Hody Jones!
-Dialogue: 0,0:04:06.40,0:04:15.37,B1,,0,0,0,,{\fad(2000,2000)}"The Kingdom in Shock! An Order to Execute Neptune Issued!"
+Dialogue: 0,0:04:06.40,0:04:15.41,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}A Kingdom in Shock
+Dialogue: 1,0:04:06.40,0:04:15.41,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}A Kingdom in Shock
+Dialogue: 0,0:04:06.40,0:04:15.41,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Orders to Execute Neptune
+Dialogue: 1,0:04:06.40,0:04:15.41,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Orders to Execute Neptune
 Dialogue: 0,0:04:15.37,0:04:16.77,Default,,0,0,0,,All right. Next!
 Dialogue: 0,0:04:18.78,0:04:20.61,Default,,0,0,0,,Next!
 Dialogue: 0,0:04:23.75,0:04:25.15,Default,,0,0,0,,Next!
@@ -132,7 +136,7 @@ Dialogue: 0,0:05:04.96,0:05:06.09,Default,,0,0,0,,Huh?
 Dialogue: 0,0:05:09.13,0:05:14.70,Default,,0,0,0,,--So he is the one who is behind all of this! --He made us step on the picture!
 Dialogue: 0,0:05:14.70,0:05:21.54,Default,,0,0,0,,Hey, wasn't he the one who killed the assassin of Otohime-sama?
 Dialogue: 0,0:05:21.54,0:05:25.04,Default,,0,0,0,,Yes, his name is Hody Jones! I'm sure it was him!
-Dialogue: 0,0:05:25.04,0:05:27.68,Default,,0,0,0,,Wasn't he a soldier of Neptune's army?
+Dialogue: 0,0:05:25.04,0:05:27.68,Default,,0,0,0,,Wasn't he a soldier of the Neptune Army?
 Dialogue: 0,0:05:27.68,0:05:31.05,DefaultLow,,0,0,0,,There is something I want to tell all citizens of...
 Dialogue: 0,0:05:27.71,0:05:31.72,OS,,0,0,0,,{\fad(500,500)}SEA FOREST
 Dialogue: 0,0:05:31.05,0:05:33.05,DefaultLow,,0,0,0,,...the Ryugu Kingdom.
@@ -179,8 +183,8 @@ Dialogue: 0,0:08:09.61,0:08:10.97,Default,,0,0,0,,...or Zoro.
 Dialogue: 0,0:08:11.51,0:08:17.11,Default,,0,0,0,,Don't worry, Nami-san. It's all that Mosshead's fault.
 Dialogue: 0,0:08:17.11,0:08:19.45,Default,,0,0,0,,What did you people do?!
 Dialogue: 0,0:08:19.45,0:08:21.72,Default,,0,0,0,,B-B-But, Boss Jinbe!
-Dialogue: 0,0:08:21.72,0:08:26.32,Default,,0,0,0,,Soldiers of Neptune's army attacked Nami-chin and the others first!
-Dialogue: 0,0:08:26.32,0:08:28.06,Default,,0,0,0,,Neptune's army?
+Dialogue: 0,0:08:21.72,0:08:26.32,Default,,0,0,0,,Soldiers of the Neptune Army attacked Nami-chin and the others first!
+Dialogue: 0,0:08:26.32,0:08:28.06,Default,,0,0,0,,The Neptune Army?
 Dialogue: 0,0:08:28.06,0:08:30.96,Default,,0,0,0,,Citizens of Fishman Island!
 Dialogue: 0,0:08:31.66,0:08:34.36,Default,,0,0,0,,It's time to say goodbye...
 Dialogue: 0,0:08:36.13,0:08:38.34,Default,,0,0,0,,...to the old Ryugu Kingdom!
@@ -371,5 +375,9 @@ Dialogue: 0,0:23:19.68,0:23:25.35,Default,,0,0,0,,Luffy and Jinbei's emotional b
 Dialogue: 0,0:23:25.35,0:23:30.89,Default,,0,0,0,,Luffy faces the overwhelming force of Jinbe's Fishman Karate.
 Dialogue: 0,0:23:31.73,0:23:37.77,Default,,0,0,0,,Their duel is interrupted, and takes an unexpected turn!
 Dialogue: 0,0:23:37.77,0:23:38.80,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:38.80,0:23:42.24,Default,,0,0,0,,"A Rift Opens Up! Luffy vs. Jinbe!"
+Dialogue: 0,0:23:38.80,0:23:42.24,Default,,0,0,0,,"A Rift Opens!\NLuffy vs. Jinbe"
 Dialogue: 0,0:23:42.24,0:23:44.74,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}A Rift Opens!
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}A Rift Opens!
+Dialogue: 0,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Luffy vs. Jinbe
+Dialogue: 1,0:23:43.01,0:23:47.01,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Luffy vs. Jinbe

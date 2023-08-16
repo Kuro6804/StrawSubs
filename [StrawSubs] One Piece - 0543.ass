@@ -18,23 +18,24 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: One Piece 517-590
 Audio File: [Panda-Raws] One Piece - 0543 (WEB 1080p AMZN JP 29.970fps EAC3) [1F56EC28].mkv
 Video File: [Panda-Raws] One Piece - 0543 (WEB 1080p AMZN JP 29.970fps EAC3) [1F56EC28].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 56
-Active Line: 68
-Video Position: 5997
+Video Zoom Percent: 0.562500
+Scroll Position: 324
+Active Line: 334
+Video Position: 42650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
-Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
-Style: On Top,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,8,200,200,56,0
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -119,13 +120,18 @@ Dialogue: 0,0:04:07.23,0:04:07.87,Default,,0,0,0,,What?
 Dialogue: 0,0:04:09.37,0:04:12.67,Default,,0,0,0,,We won't kill anybody!
 Dialogue: 0,0:04:12.67,0:04:14.51,Default,,0,0,0,,We'll take her...
 Dialogue: 0,0:04:16.44,0:04:18.81,Default,,0,0,0,,...to her hometown!
-Dialogue: 0,0:04:18.81,0:04:27.92,B1,,0,0,0,,{\fad(2000,2000)}"The Death of the Hero! A Shocking Truth of Tiger!"
+Dialogue: 0,0:04:18.81,0:04:27.85,Title Card - Top,,0,0,0,,{\blur0.3\fad(1989,1989)\c&H000000&\1a&HFF&\t(1944,1989,\1a&H00&)\t(7051,7096,\1a&HFF&)}The End of a Hero
+Dialogue: 1,0:04:18.81,0:04:27.85,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1989,1989)\4a&HFF&}The End of a Hero
+Dialogue: 0,0:04:18.81,0:04:27.85,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1989,1989)\c&H000000&\1a&HFF&\t(1944,1989,\1a&H00&)\t(7051,7096,\1a&HFF&)}Tiger's Shocking Truth
+Dialogue: 1,0:04:18.81,0:04:27.85,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1989,1989)\4a&HFF&}Tiger's Shocking Truth
 Dialogue: 0,0:04:30.99,0:04:35.23,DefaultLow,,0,0,0,,We finally got an Eternal Pose to Koala's hometown!
-Dialogue: 0,0:04:31.26,0:04:35.56,OS,,0,0,0,,{\fad(500,500)}12 YEARS AGO - THE GRAND LINE
+Dialogue: 0,0:04:31.29,0:04:35.56,Sign,,0,0,268,,{\blur0.3\fad(450,520)\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)\t(3750,3795,\1a&HFF&)}Twelve years ago on the Grand Line
+Dialogue: 1,0:04:31.29,0:04:35.56,Sign,,0,0,268,,{\bord0\blur0.3\fad(450,520)\4a&HFF&}Twelve years ago on the Grand Line
 Dialogue: 0,0:04:35.23,0:04:38.20,DefaultLow,,0,0,0,,Nyu! Koala, you can go back to your home!
 Dialogue: 0,0:04:38.80,0:04:40.23,Default,,0,0,0,,Um...
-Dialogue: 0,0:04:45.54,0:04:48.47,Default,,0,0,0,,I can't believe my eyes. You've changed a lot!
-Dialogue: 0,0:04:48.24,0:04:52.31,OS,,0,0,0,,{\fad(500,500)}KOALA (THE FORMER SLAVE GIRL)
+Dialogue: 0,0:04:45.54,0:04:48.47,DefaultLow,,0,0,0,,I can't believe my eyes. You've changed a lot!
+Dialogue: 0,0:04:48.24,0:04:52.24,Sign,,0,0,268,,{\blur0.3\fad(520,480)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(3520,3565,\1a&HFF&)}Koala (Former slave girl)
+Dialogue: 1,0:04:48.24,0:04:52.24,Sign,,0,0,268,,{\blur0.3\fad(520,480)\fs60\bord0\4a&HFF&}Koala (Former slave girl)
 Dialogue: 0,0:04:48.47,0:04:50.94,DefaultLow,,0,0,0,,You look like a girl now!
 Dialogue: 0,0:04:52.34,0:04:54.61,Default,,0,0,0,,I don't normally wear these...
 Dialogue: 0,0:04:58.58,0:05:02.39,Default,,0,0,0,,What? We bought them for you but you don't like them?
@@ -136,7 +142,8 @@ Dialogue: 0,0:05:14.03,0:05:18.20,Default,,0,0,0,,Nyu! You need to stop working 
 Dialogue: 0,0:05:18.20,0:05:20.54,Default,,0,0,0,,This is not Mary Geoise!
 Dialogue: 0,0:05:20.54,0:05:22.57,Default,,0,0,0,,Leave her alone.
 Dialogue: 0,0:05:23.07,0:05:24.81,DefaultLow,,0,0,0,,She needs time.
-Dialogue: 0,0:05:24.04,0:05:28.08,OS,,0,0,0,,{\fad(500,1)}THE SHIP'S DOCTOR OF THE SUN PIRATES ALADDIN
+Dialogue: 0,0:05:24.07,0:05:28.08,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Sun Pirates, Ship Doctor Aladdin
+Dialogue: 1,0:05:24.07,0:05:28.08,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Sun Pirates, Ship Doctor Aladdin
 Dialogue: 0,0:05:24.81,0:05:28.08,DefaultLow,,0,0,0,,Trauma can't be healed that easily.
 Dialogue: 0,0:05:28.65,0:05:29.68,Default,,0,0,0,,Alright.
 Dialogue: 0,0:05:29.68,0:05:32.88,Default,,0,0,0,,You understand her very well, Brother Aladdin.
@@ -177,7 +184,8 @@ Dialogue: 0,0:07:59.30,0:08:00.06,Default,,0,0,0,,This one.
 Dialogue: 0,0:08:00.06,0:08:02.00,Default,,0,0,0,,Wrong again!
 Dialogue: 0,0:08:59.59,0:09:03.23,Default,,0,0,0,,Just as Koala was fitting in so well.
 Dialogue: 0,0:09:03.66,0:09:09.43,Default,,0,0,0,,That's when we arrived at Foolshout Island - where she came from.
-Dialogue: 0,0:09:09.83,0:09:14.07,OS,,0,0,0,,{\fad(500,1)}THE GRAND LINE - FOOLSHOUT ISLAND
+Dialogue: 0,0:09:09.83,0:09:14.07,Sign,,0,0,268,,{\blur0.3\fad(750,0)\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Grand Line, Foolshout Island
+Dialogue: 1,0:09:09.83,0:09:14.07,Sign,,0,0,268,,{\bord0\blur0.3\fad(750,0)\4a&HFF&}Grand Line, Foolshout Island
 Dialogue: 0,0:09:10.33,0:09:12.44,DefaultLow,,0,0,0,,Koala, get off of the ship.
 Dialogue: 0,0:09:12.44,0:09:14.07,DefaultLow,,0,0,0,,This is your home island.
 Dialogue: 0,0:09:19.61,0:09:22.45,Default,,0,0,0,,--Where is your home village? --Huh?
@@ -363,5 +371,9 @@ Dialogue: 0,0:23:26.69,0:23:31.29,Default,,0,0,0,,As the Fishmen waver, Arlong's
 Dialogue: 0,0:23:31.29,0:23:34.30,Default,,0,0,0,,and Jinbe's desire to preserve Otohime and Tiger's ideals
 Dialogue: 0,0:23:34.30,0:23:38.43,Default,,0,0,0,,will bring their convictions into conflict!
 Dialogue: 0,0:23:38.43,0:23:39.54,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.54,0:23:42.54,Default,,0,0,0,,"The Sun Pirates Split! Jinbe vs Arlong!"
+Dialogue: 0,0:23:39.54,0:23:42.54,Default,,0,0,0,,"The Sun Pirates Break Apart\NJinbe vs. Arlong"
 Dialogue: 0,0:23:42.54,0:23:45.21,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}The Sun Pirates Break Apart
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Sun Pirates Break Apart
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Jinbe vs. Arlong
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Jinbe vs. Arlong
