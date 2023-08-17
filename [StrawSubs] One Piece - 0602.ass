@@ -1,0 +1,266 @@
+﻿[Script Info]
+ScaledBorderAndShadow: yes
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,22,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:34.35,0:02:37.71,Default,,0,0,0,,All the pirates who are \Nafter the One Piece...
+Dialogue: 0,0:02:37.70,0:02:42.68,Default,,0,0,0,,...head for the New World, the \Nsecond half of the Grand Line.
+Dialogue: 0,0:02:44.91,0:02:52.32,Default,,0,0,0,,However, no one has ever fully explored it \Nexcept for Gold Roger, King of the Pirates.
+Dialogue: 0,0:02:52.32,0:02:58.10,Default,,0,0,0,,The New World has ruined many \Npirates' dreams and ambitions.
+Dialogue: 0,0:02:59.48,0:03:05.41,Default,,0,0,0,,Now, Monkey D. Luffy, a boy whose body \Nturned to rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:05.40,0:03:07.42,Default,,0,0,0,,and his friends venture into that sea.
+Dialogue: 0,0:03:08.01,0:03:11.87,Default,,0,0,0,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:15.34,0:03:17.61,Default,,0,0,0,,After surviving a fierce battle,
+Dialogue: 0,0:03:17.61,0:03:20.48,Default,,0,0,0,,the Straw Hats finally \Nentered the New World,--
+Dialogue: 0,0:03:20.47,0:03:22.69,Default,,0,0,0,,the harshest sea ruled by the Four Emperors.
+Dialogue: 0,0:03:23.34,0:03:27.12,Default,,0,0,0,,They landed on Punk Hazard; an island with \Ntwo parts, one burning, the other frozen.
+Dialogue: 0,0:03:27.70,0:03:30.82,Default,,0,0,0,,After forming an alliance with Trafalgar Law,
+Dialogue: 0,0:03:30.81,0:03:33.66,Default,,0,0,0,,Luffy finally encountered Caesar Clown
+Dialogue: 0,0:03:34.13,0:03:36.18,Default,,0,0,0,,but was beaten by his mysterious power.
+Dialogue: 0,0:03:36.76,0:03:42.87,Default,,0,0,0,,Meanwhile, Law, too, got taken down by \Nthe Navy G-5 base commander - Vergo.
+Dialogue: 0,0:03:43.34,0:03:47.14,Default,,0,0,0,,So what I'm going to do is give Smiley,
+Dialogue: 0,0:03:47.14,0:03:49.90,Default,,0,0,0,,the weapon from four \Nyears ago, a big "boost."
+Dialogue: 0,0:03:50.21,0:03:53.83,Default,,0,0,0,,It will add a new effect to the poison gas
+Dialogue: 0,0:03:53.83,0:03:57.53,Default,,0,0,0,,and the weapon of mass destruction \Nwill reach completion.
+Dialogue: 0,0:03:58.33,0:04:01.86,Default,,0,0,0,,The new weapon that will make \Nits debut today is called...
+Dialogue: 0,0:04:03.14,0:04:04.80,Default,,0,0,0,,...Shinokuni!
+Dialogue: 0,0:04:05.86,0:04:08.95,Default,,0,0,0,,Hey, guys! I see a ball!
+Dialogue: 0,0:04:10.14,0:04:11.63,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:04:17.67,0:04:22.31,Default,,0,0,0,,Smiley! I missed you!
+Dialogue: 0,0:04:22.88,0:04:24.85,Default,,0,0,0,,It's been three years!
+Dialogue: 0,0:04:27.87,0:04:32.19,Default,,0,0,0,,Oh yes, Smiley?
+Dialogue: 0,0:04:32.18,0:04:34.11,Default,,0,0,0,,This brings back memories!
+Dialogue: 0,0:04:34.11,0:04:37.73,Default,,0,0,0,,I have something good for you!
+Dialogue: 0,0:04:44.41,0:04:47.07,Default,,0,0,0,,That's a big candy!
+Dialogue: 0,0:04:53.64,0:04:55.54,Default,,0,0,0,,What is that?
+Dialogue: 0,0:04:55.68,0:04:58.15,Default,,0,0,0,,Good boy, Smiley.
+Dialogue: 0,0:05:01.93,0:05:05.81,Default,,0,0,0,,Nobody can stop him now!
+Dialogue: 0,0:05:15.89,0:05:20.06,Default,,0,0,0,,"The Deadliest Weapon of Mass \NDestruction in History! Shinokuni!"
+Dialogue: 0,0:05:29.46,0:05:33.31,Default,,0,0,0,,--What is that creature?!\N--Doesn't it look like those creepy jellies?!
+Dialogue: 0,0:05:34.00,0:05:36.51,Default,,0,0,0,,What is going on?!
+Dialogue: 0,0:05:43.46,0:05:44.90,Default,,0,0,0,,He ate it!
+Dialogue: 0,0:05:44.90,0:05:47.65,Default,,0,0,0,,He ate the candy!
+Dialogue: 0,0:05:49.06,0:05:50.31,Default,,0,0,0,,You ate it!
+Dialogue: 0,0:05:51.01,0:05:53.28,Default,,0,0,0,,Smiley!
+Dialogue: 0,0:06:01.50,0:06:03.11,Default,,0,0,0,,Be reborn!
+Dialogue: 0,0:06:07.50,0:06:10.25,Default,,0,0,0,,What can he be reborn as?
+Dialogue: 0,0:06:10.74,0:06:13.73,Default,,0,0,0,,The perfect weapon of mass destruction.
+Dialogue: 0,0:06:13.72,0:06:16.02,Default,,0,0,0,,That's such a big frog!
+Dialogue: 0,0:06:24.82,0:06:25.83,Default,,0,0,0,,Now...
+Dialogue: 0,0:06:26.19,0:06:28.30,Default,,0,0,0,,...be reborn!
+Dialogue: 0,0:06:28.30,0:06:31.49,Default,,0,0,0,,Smiley!
+Dialogue: 0,0:06:56.70,0:06:58.82,Default,,0,0,0,,Look out! Something's going on!
+Dialogue: 0,0:06:58.82,0:07:00.50,Default,,0,0,0,,What is "something"?!
+Dialogue: 0,0:07:00.50,0:07:03.31,Default,,0,0,0,,How do I know?! But I'm \Nsure it's something bad!
+Dialogue: 0,0:07:03.30,0:07:06.71,Default,,0,0,0,,Just do as the Master \Nsays and run to the lab!
+Dialogue: 0,0:07:06.70,0:07:10.39,Default,,0,0,0,,Damn! I can't believe the \Nsled broke! Why now?!
+Dialogue: 0,0:07:10.81,0:07:13.32,Default,,0,0,0,,Master!
+Dialogue: 0,0:07:13.39,0:07:16.10,Default,,0,0,0,,He's acting strange since he ate the candy!
+Dialogue: 0,0:07:16.10,0:07:18.99,Default,,0,0,0,,I wonder if the candy was that good!
+Dialogue: 0,0:07:19.16,0:07:20.88,Default,,0,0,0,,Let's just run!
+Dialogue: 0,0:07:20.88,0:07:23.67,Default,,0,0,0,,Even soldiers from this island \Nare running desperately!
+Dialogue: 0,0:07:23.67,0:07:25.33,Default,,0,0,0,,I have a bad feeling about this!
+Dialogue: 0,0:07:25.69,0:07:27.04,Default,,0,0,0,,Couldn't agree more!
+Dialogue: 0,0:08:39.57,0:08:41.89,Default,,0,0,0,,Good work, Smiley!
+Dialogue: 0,0:08:42.34,0:08:43.98,Default,,0,0,0,,See you again!
+Dialogue: 0,0:09:08.67,0:09:11.16,Default,,0,0,0,,Now, come to life!
+Dialogue: 0,0:09:12.15,0:09:15.47,Default,,0,0,0,,The weapon of mass destruction - Shinokuni!
+Dialogue: 0,0:09:16.79,0:09:17.61,Default,,0,0,0,,What is that?!
+Dialogue: 0,0:09:18.22,0:09:21.50,Default,,0,0,0,,Change the face of the island completely!
+Dialogue: 0,0:09:33.00,0:09:34.89,Default,,0,0,0,,Hey, don't tell me...
+Dialogue: 0,0:09:43.30,0:09:44.81,Default,,0,0,0,,Run!
+Dialogue: 0,0:09:44.81,0:09:46.35,Default,,0,0,0,,Wait for me!
+Dialogue: 0,0:10:10.01,0:10:11.19,Default,,0,0,0,,Oh! Hey, wait!
+Dialogue: 0,0:10:13.97,0:10:15.24,Default,,0,0,0,,Oh, my legs!
+Dialogue: 0,0:10:16.35,0:10:17.91,Default,,0,0,0,,What happened?!
+Dialogue: 0,0:10:23.48,0:10:24.96,Default,,0,0,0,,Help me...
+Dialogue: 0,0:10:34.33,0:10:37.72,Default,,0,0,0,,--What's happening?!\N--I don't know! Just run!
+Dialogue: 0,0:10:44.42,0:10:45.60,Default,,0,0,0,,My body...
+Dialogue: 0,0:10:46.88,0:10:47.77,Default,,0,0,0,,I can't move it!
+Dialogue: 0,0:10:52.36,0:10:54.39,Default,,0,0,0,,Run! Just run!
+Dialogue: 0,0:10:54.39,0:10:56.99,Default,,0,0,0,,Master!!
+Dialogue: 0,0:11:01.24,0:11:03.83,Default,,0,0,0,,Yes! It worked!
+Dialogue: 0,0:11:03.83,0:11:06.39,Default,,0,0,0,,Nobody can get away this time!
+Dialogue: 0,0:11:06.39,0:11:08.08,Default,,0,0,0,,This is it!
+Dialogue: 0,0:11:08.92,0:11:13.22,Default,,0,0,0,,The problem with the last experiment \Nwas there were survivors.
+Dialogue: 0,0:11:14.25,0:11:17.32,Default,,0,0,0,,They could still move even after being \Npoisoned so they were able to escape.
+Dialogue: 0,0:11:17.32,0:11:18.82,Default,,0,0,0,,Which means...
+Dialogue: 0,0:11:19.28,0:11:22.10,Default,,0,0,0,,...I should've petrified them!
+Dialogue: 0,0:11:22.09,0:11:25.42,Default,,0,0,0,,The gas clings to people's bodies like ash.
+Dialogue: 0,0:11:26.79,0:11:30.54,Default,,0,0,0,,It enters through their skin and \Nparalyzes their whole body at once!
+Dialogue: 0,0:11:34.45,0:11:38.33,Default,,0,0,0,,Now, the perfect weapon of \Nmass destruction, Shinokuni!
+Dialogue: 0,0:11:39.24,0:11:43.68,Default,,0,0,0,,Give us a good glimpse of hell!
+Dialogue: 0,0:11:57.39,0:11:58.94,Default,,0,0,0,,What the hell is going on?!
+Dialogue: 0,0:11:59.52,0:12:01.06,Default,,0,0,0,,People are...
+Dialogue: 0,0:12:04.26,0:12:06.46,Default,,0,0,0,,Help me...
+Dialogue: 0,0:12:08.38,0:12:10.15,Default,,0,0,0,,...solidifying!
+Dialogue: 0,0:12:18.98,0:12:20.84,Default,,0,0,0,,Master!
+Dialogue: 0,0:12:27.73,0:12:29.70,Default,,0,0,0,,Hey, what is that?
+Dialogue: 0,0:12:30.03,0:12:32.06,Default,,0,0,0,,This is something out of a horror movie!
+Dialogue: 0,0:12:32.06,0:12:36.07,Default,,0,0,0,,Those who just died looked \Nlike Caesar's men...
+Dialogue: 0,0:12:36.07,0:12:38.57,Default,,0,0,0,,What was that purple smoke?
+Dialogue: 0,0:12:40.28,0:12:44.13,Default,,0,0,0,,By the way, where are they filming this?
+Dialogue: 0,0:12:44.13,0:12:46.73,Default,,0,0,0,,If you don't know yet, you \Nbetter not turn around!
+Dialogue: 0,0:12:50.46,0:12:52.25,Default,,0,0,0,,Don't tell me that was...
+Dialogue: 0,0:13:01.98,0:13:04.85,Default,,0,0,0,,No! That was happening on this island?!
+Dialogue: 0,0:13:04.85,0:13:06.87,Default,,0,0,0,,Master!
+Dialogue: 0,0:13:10.06,0:13:13.68,Default,,0,0,0,,Oh no! We have to run! Or \Nwe'll end up like them...
+Dialogue: 0,0:13:13.67,0:13:14.71,Default,,0,0,0,,It's impossible!
+Dialogue: 0,0:13:14.71,0:13:17.55,Default,,0,0,0,,There's nowhere to run on \Nthe island from such gas!
+Dialogue: 0,0:13:17.55,0:13:20.76,Default,,0,0,0,,Oh, I see! That's why \Nthey sealed off the lab!
+Dialogue: 0,0:13:20.76,0:13:22.50,Default,,0,0,0,,They didn't want the gas to enter!
+Dialogue: 0,0:13:25.35,0:13:27.22,Default,,0,0,0,,Open up, Caesar!
+Dialogue: 0,0:13:27.22,0:13:30.45,Default,,0,0,0,,Damn! I don't wanna die here!
+Dialogue: 0,0:13:30.45,0:13:34.58,Default,,0,0,0,,Damn! Damn! This is not joke! Open up!
+Dialogue: 0,0:13:58.69,0:14:00.49,Default,,0,0,0,,Hey! I found him!
+Dialogue: 0,0:14:02.04,0:14:03.43,Default,,0,0,0,,Brownbeard, you okay?!
+Dialogue: 0,0:14:03.57,0:14:06.02,Default,,0,0,0,,He's still breathing but...
+Dialogue: 0,0:14:08.36,0:14:09.62,Default,,0,0,0,,He's badly wounded...
+Dialogue: 0,0:14:11.01,0:14:13.44,Default,,0,0,0,,We're okay thanks to you...
+Dialogue: 0,0:14:16.15,0:14:18.77,Default,,0,0,0,,Caesar!
+Dialogue: 0,0:14:19.30,0:14:20.67,Default,,0,0,0,,Gastanet!
+Dialogue: 0,0:14:23.35,0:14:24.45,Default,,0,0,0,,Brownbeard...
+Dialogue: 0,0:14:30.10,0:14:33.77,Default,,0,0,0,,Anyway, let's pull him out from \Nunder this iron pipe, Sanji!
+Dialogue: 0,0:14:33.77,0:14:35.49,Default,,0,0,0,,I am Nami!
+Dialogue: 0,0:14:39.03,0:14:41.56,Default,,0,0,0,,Hey! Don't be so disappointed again!
+Dialogue: 0,0:14:41.56,0:14:43.49,Default,,0,0,0,,Well, it's just...
+Dialogue: 0,0:14:44.69,0:14:48.20,Default,,0,0,0,,It's gonna be pretty heavy physical work!
+Dialogue: 0,0:14:49.49,0:14:51.04,Default,,0,0,0,,We have no choice!
+Dialogue: 0,0:14:51.32,0:14:52.20,Default,,0,0,0,,Uh-huh!
+Dialogue: 0,0:14:56.91,0:14:59.29,Default,,0,0,0,,Damn! It won't budge an inch!
+Dialogue: 0,0:14:59.29,0:15:01.38,Default,,0,0,0,,Come on!
+Dialogue: 0,0:15:06.20,0:15:09.26,Default,,0,0,0,,We'll pull you out soon! \NHang in there, Brownbeard!
+Dialogue: 0,0:15:09.26,0:15:11.83,Default,,0,0,0,,He's right! You can do it!
+Dialogue: 0,0:15:14.11,0:15:15.50,Default,,0,0,0,,You two...
+Dialogue: 0,0:15:25.96,0:15:29.45,Default,,0,0,0,,Don't die, Brownbeard!
+Dialogue: 0,0:15:31.34,0:15:32.71,Default,,0,0,0,,I'm not gonna...
+Dialogue: 0,0:15:33.11,0:15:35.49,Default,,0,0,0,,…kick the bucket yet!
+Dialogue: 0,0:15:42.66,0:15:44.66,Default,,0,0,0,,That asshole - Caesar is...
+Dialogue: 0,0:15:45.40,0:15:46.80,Default,,0,0,0,,...unforgivable!
+Dialogue: 0,0:15:47.70,0:15:48.90,Default,,0,0,0,,Brownbeard...
+Dialogue: 0,0:15:50.36,0:15:54.34,Default,,0,0,0,,But I have to save my crew first!
+Dialogue: 0,0:15:54.93,0:15:57.40,Default,,0,0,0,,Otherwise, I can't die in peace!
+Dialogue: 0,0:16:00.30,0:16:02.07,Default,,0,0,0,,Hey, you...
+Dialogue: 0,0:16:05.48,0:16:09.58,Default,,0,0,0,,I gotta get to the lab where my \Ncrew are as soon as possible!
+Dialogue: 0,0:16:09.57,0:16:12.29,Default,,0,0,0,,But you're hurt all over...
+Dialogue: 0,0:16:12.29,0:16:14.37,Default,,0,0,0,,So we all wanna go to the same place!
+Dialogue: 0,0:16:15.07,0:16:19.26,Default,,0,0,0,,We have to save those \Nkids from that jerk, too!
+Dialogue: 0,0:16:21.58,0:16:26.30,Default,,0,0,0,,So why don't you join forces with \Nus and beat that gas bastard...
+Dialogue: 0,0:16:26.30,0:16:27.77,Default,,0,0,0,,What's that smoke?
+Dialogue: 0,0:16:35.69,0:16:38.94,Default,,0,0,0,,Huh? What's that? It's \Na huge amount of smoke!
+Dialogue: 0,0:16:38.94,0:16:41.57,Default,,0,0,0,,That doesn't look like just smoke to me.
+Dialogue: 0,0:16:41.57,0:16:42.74,Default,,0,0,0,,It could be poison gas.
+Dialogue: 0,0:16:42.74,0:16:44.75,Default,,0,0,0,,What? Poison gas?!
+Dialogue: 0,0:16:48.89,0:16:50.16,Default,,0,0,0,,It's coming this way!
+Dialogue: 0,0:16:50.16,0:16:52.32,Default,,0,0,0,,Hey hey hey! What should do?!
+Dialogue: 0,0:16:52.32,0:16:53.72,Default,,0,0,0,,Don't ask me!
+Dialogue: 0,0:16:53.72,0:16:55.07,Default,,0,0,0,,Do something about it!
+Dialogue: 0,0:16:55.07,0:16:58.22,Default,,0,0,0,,Oh no no! What do you want \Nme to do about that smoke?!
+Dialogue: 0,0:16:58.22,0:17:00.99,Default,,0,0,0,,--Let's just go to the...\N--You two, get on my back!
+Dialogue: 0,0:17:00.99,0:17:02.00,Default,,0,0,0,,What?
+Dialogue: 0,0:17:04.43,0:17:05.14,Default,,0,0,0,,R...
+Dialogue: 0,0:17:05.73,0:17:08.14,Default,,0,0,0,,Run!!
+Dialogue: 0,0:17:11.74,0:17:14.22,Default,,0,0,0,,It's gonna reach us soon!
+Dialogue: 0,0:17:16.68,0:17:18.66,Default,,0,0,0,,Guys, run at full speed!
+Dialogue: 0,0:17:18.66,0:17:19.97,Default,,0,0,0,,If anybody gets caught, \Nwe'll have to leave you!
+Dialogue: 0,0:17:26.35,0:17:29.16,Default,,0,0,0,,Zoro-san, it's gonna catch \Nus if we don't do something!
+Dialogue: 0,0:17:37.93,0:17:40.81,Default,,0,0,0,,We're dead! It's catching up to us!
+Dialogue: 0,0:17:40.81,0:17:42.48,Default,,0,0,0,,Run faster than the wind!
+Dialogue: 0,0:17:56.43,0:17:58.50,Default,,0,0,0,,Did we outrun it even a little bit?!
+Dialogue: 0,0:17:58.50,0:18:01.93,Default,,0,0,0,,Don't turn around! Just focus \Non running at full speed!
+Dialogue: 0,0:18:02.96,0:18:05.58,Default,,0,0,0,,We can't run like this for very long!
+Dialogue: 0,0:18:09.77,0:18:12.27,Default,,0,0,0,,I see a mysterious animal up ahead!
+Dialogue: 0,0:18:12.27,0:18:14.18,Default,,0,0,0,,What is that?!
+Dialogue: 0,0:18:14.55,0:18:15.51,Default,,0,0,0,,That's...
+Dialogue: 0,0:18:19.57,0:18:22.22,Default,,0,0,0,,--A dragon!\N--A dragon?!
+Dialogue: 0,0:18:22.21,0:18:23.52,Default,,0,0,0,,A dragon?!
+Dialogue: 0,0:18:23.51,0:18:26.38,Default,,0,0,0,,No way! A dragon is a mythical creature!
+Dialogue: 0,0:18:26.38,0:18:27.98,Default,,0,0,0,,They exist on this island!
+Dialogue: 0,0:18:27.98,0:18:30.33,Default,,0,0,0,,But that one is way smaller \Nthan the one I saw!
+Dialogue: 0,0:18:30.54,0:18:33.63,Default,,0,0,0,,Oh yeah! If we can catch \Nit, we can fly on it!
+Dialogue: 0,0:18:33.82,0:18:35.28,Default,,0,0,0,,That's a great idea!
+Dialogue: 0,0:18:35.28,0:18:37.37,Default,,0,0,0,,Alright! I can't run like this any longer!
+Dialogue: 0,0:18:37.37,0:18:38.89,Default,,0,0,0,,Let's catch it!
+Dialogue: 0,0:18:38.89,0:18:41.81,Default,,0,0,0,,Wait, dragon!
+Dialogue: 0,0:18:47.59,0:18:49.15,Default,,0,0,0,,Oh, that's Zoro and the others!
+Dialogue: 0,0:18:49.15,0:18:50.44,Default,,0,0,0,,They're being chased by the smoke!
+Dialogue: 0,0:18:52.08,0:18:53.35,Default,,0,0,0,,Dragon!--
+Dialogue: 0,0:18:53.64,0:18:56.46,Default,,0,0,0,,What are they doing there?
+Dialogue: 0,0:18:56.46,0:18:59.21,Default,,0,0,0,,I mean, why are they running like that?
+Dialogue: 0,0:18:59.21,0:19:01.84,Default,,0,0,0,,Samurai-san got his whole body back.
+Dialogue: 0,0:19:01.84,0:19:06.71,Default,,0,0,0,,Oh yeah! He's not gonna let \Nme have those legs, then.
+Dialogue: 0,0:19:06.71,0:19:09.34,Default,,0,0,0,,Hey, Robin! That's not important now!
+Dialogue: 0,0:19:10.15,0:19:15.04,Default,,0,0,0,,Hey, guys! That smoke is \Ndeadly! You have to run...
+Dialogue: 0,0:19:17.37,0:19:20.29,Default,,0,0,0,,Oh no... I can't even raise my voice.
+Dialogue: 0,0:19:20.29,0:19:23.14,Default,,0,0,0,,Damn Sea Prism Stone!
+Dialogue: 0,0:19:24.00,0:19:27.31,Default,,0,0,0,,Are they your friends, "Straw Hat Luffy"?
+Dialogue: 0,0:19:29.63,0:19:33.03,Default,,0,0,0,,That's just what I'd expect from \Nyour friends - they're tough!
+Dialogue: 0,0:19:35.18,0:19:39.06,Default,,0,0,0,,But soon they're going to be running \Nout of breath and poisoned by the gas.
+Dialogue: 0,0:19:42.60,0:19:47.97,Default,,0,0,0,,And eventually, there'll be only an \Nuninhabitable "Land of Death (Shinokuni)"!
+Dialogue: 0,0:19:50.41,0:19:56.81,Default,,0,0,0,,No one outside of this \Nlaboratory will survive.
+Dialogue: 0,0:20:00.64,0:20:04.71,Default,,0,0,0,,Neither will any of you!
+Dialogue: 0,0:20:06.97,0:20:08.02,Default,,0,0,0,,What's happening?!
+Dialogue: 0,0:20:22.03,0:20:25.67,Default,,0,0,0,,Now prove it to the world!
+Dialogue: 0,0:20:25.67,0:20:29.14,Default,,0,0,0,,Before this weapon of mass \Ndestruction - Shinokuni,
+Dialogue: 0,0:20:29.53,0:20:31.72,Default,,0,0,0,,a pirate with a 400 million berry bounty,
+Dialogue: 0,0:20:32.45,0:20:34.51,Default,,0,0,0,,a Navy vice admiral,
+Dialogue: 0,0:20:35.61,0:20:37.98,Default,,0,0,0,,and even a Warlord...
+Dialogue: 0,0:20:39.03,0:20:40.76,Default,,0,0,0,,...are totally helpless...
+Dialogue: 0,0:20:41.20,0:20:44.54,Default,,0,0,0,,...against the tide of death!
+Dialogue: 0,0:20:53.36,0:20:55.46,Default,,0,0,0,,Oh no! Oh no!
+Dialogue: 0,0:20:55.46,0:20:57.09,Default,,0,0,0,,He's gonna do something \Nto Luffy and the others!
+Dialogue: 0,0:20:57.09,0:20:58.74,Default,,0,0,0,,What should I do?!
+Dialogue: 0,0:20:59.17,0:21:03.65,Default,,0,0,0,,I want to help but I'd be easily \Ncaught with these wounds!
+Dialogue: 0,0:21:03.64,0:21:07.92,Default,,0,0,0,,And then the formula for \Nthe drug that I found
+Dialogue: 0,0:21:07.92,0:21:10.78,Default,,0,0,0,,and the sedatives I got will be wasted!
+Dialogue: 0,0:21:10.78,0:21:14.02,Default,,0,0,0,,Oh no! What should I do?!
+Dialogue: 0,0:21:16.70,0:21:18.11,Default,,0,0,0,,Ouch! Oh!
+Dialogue: 0,0:21:22.07,0:21:23.86,Default,,0,0,0,,Boy! That was close!
+Dialogue: 0,0:21:23.86,0:21:25.53,Default,,0,0,0,,Huh? A paper?
+Dialogue: 0,0:21:28.07,0:21:29.31,Default,,0,0,0,,"Don't do anything"?
+Dialogue: 0,0:21:30.65,0:21:31.50,Default,,0,0,0,,Who wrote this?!
+Dialogue: 0,0:21:37.33,0:21:38.78,Default,,0,0,0,,What's that?! A cage?!
+Dialogue: 0,0:21:41.77,0:21:43.45,Default,,0,0,0,,Could it be...
+Dialogue: 0,0:21:43.73,0:21:46.11,Default,,0,0,0,,--Smo-yan!\N--Tashigi-chan!
+Dialogue: 0,0:21:46.11,0:21:48.33,Default,,0,0,0,,What a relief! They're fine!
+Dialogue: 0,0:21:48.84,0:21:49.53,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:21:49.53,0:21:53.68,Default,,0,0,0,,--But they're still held captive!\N--Damn! So we're all gonna die!
+Dialogue: 0,0:21:53.68,0:21:56.56,Default,,0,0,0,,Smo-yan! Tashigi-chan!
+Dialogue: 0,0:21:56.56,0:21:57.68,Default,,0,0,0,,Everybody!
+Dialogue: 0,0:22:16.51,0:22:18.44,Default,,0,0,0,,By the way,
+Dialogue: 0,0:22:20.88,0:22:24.26,Default,,0,0,0,,that laboratory is really well-built!
+Dialogue: 0,0:22:25.37,0:22:26.58,Default,,0,0,0,,Yes, it is.
+Dialogue: 0,0:22:27.69,0:22:31.08,Default,,0,0,0,,You can easily carry big \Nequipment with this thing.
+Dialogue: 0,0:22:31.35,0:22:33.60,Default,,0,0,0,,H-How can you two be so relaxed?!
+Dialogue: 0,0:22:33.90,0:22:38.00,Default,,0,0,0,,Hmmm... Okay, what should we do?
+Dialogue: 0,0:22:39.10,0:22:43.43,Default,,0,0,0,,It was unexpected to see Vergo \Nhere but Straw Hat-ya...
+Dialogue: 0,0:22:45.09,0:22:49.07,Default,,0,0,0,,We can't miss a beat here.
+Dialogue: 0,0:22:49.56,0:22:51.30,Default,,0,0,0,,The plan is still on.
+Dialogue: 0,0:22:51.76,0:22:53.68,Default,,0,0,0,,Don't mess it up this time.
+Dialogue: 0,0:22:55.89,0:22:57.36,Default,,0,0,0,,Let's fight back.
+Dialogue: 0,0:23:00.21,0:23:01.34,Default,,0,0,0,,Okay!
+Dialogue: 0,0:23:10.07,0:23:12.31,Default,,0,0,0,,As it garners attention all across the New World...
+Dialogue: 0,0:23:12.70,0:23:16.17,Default,,0,0,0,,...the Straw Hats finally come face to face with Shinokuni.
+Dialogue: 0,0:23:16.87,0:23:20.75,Default,,0,0,0,,Just when the crew's annihilation is all but guaranteed...
+Dialogue: 0,0:23:21.31,0:23:24.78,Default,,0,0,0,,Law's life-or-death plan is set in motion!
+Dialogue: 0,0:23:24.98,0:23:25.92,Default,,0,0,0,,On the next episode of One Piece!
+Dialogue: 0,0:23:26.29,0:23:29.22,Default,,0,0,0,,"Launching the Counter Attack! \NLuffy and Law's Great Escape!"
+Dialogue: 0,0:23:29.47,0:23:31.86,Default,,0,0,0,,I'm gonna be King of the Pirates!!

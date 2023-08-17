@@ -24,16 +24,16 @@ Video File: [SOFCJ-Raws] One Piece - 583 (BD 1920x1080 x264 29.970fps FLAC) [9D9
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 347
-Active Line: 357
-Video Position: 42407
+Scroll Position: 355
+Active Line: 361
+Video Position: 42288
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: On Top,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,22,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -129,8 +129,10 @@ Dialogue: 0,0:04:15.84,0:04:24.75,Title Card - Top,,0,0,0,,{\blur0.3\fad(1960,19
 Dialogue: 1,0:04:15.84,0:04:24.75,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1960,1960)\4a&HFF&}Save the Children!
 Dialogue: 0,0:04:15.84,0:04:24.75,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1960,1960)\c&H000000&\1a&HFF&\t(1915,1960,\1a&H00&)\t(6950,6995,\1a&HFF&)}The Straw Hats' Battle Begins
 Dialogue: 1,0:04:15.84,0:04:24.75,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1960,1960)\4a&HFF&}The Straw Hats' Battle Begins
-Dialogue: 0,0:04:28.26,0:04:32.54,DefaultLow,,0,0,0,,THE ICE LANDS - A MYSTERIOUS FACILITY
-Dialogue: 0,0:04:33.61,0:04:38.11,DefaultLow,,0,0,0,,BISCUIT ROOM SANJI'S GROUP
+Dialogue: 0,0:04:28.32,0:04:32.62,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}The Ice Lands, the mysterious facility
+Dialogue: 1,0:04:28.32,0:04:32.62,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}The Ice Lands, the mysterious facility
+Dialogue: 0,0:04:33.62,0:04:38.20,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Biscuits Room, Team Sanji
+Dialogue: 1,0:04:33.62,0:04:38.20,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Biscuits Room, Team Sanji
 Dialogue: 0,0:04:57.92,0:05:00.80,Default,,0,0,0,,Who are these kids?
 Dialogue: 0,0:05:01.11,0:05:04.48,Default,,0,0,0,,Is this the island's day-care or something?
 Dialogue: 0,0:05:05.05,0:05:08.21,Default,,0,0,0,,They're so big but are they Giants?
@@ -207,11 +209,12 @@ Dialogue: 0,0:08:34.83,0:08:38.40,Default,,0,0,0,,Easy! We're not allowed to use
 Dialogue: 0,0:08:38.40,0:08:40.19,Default,,0,0,0,,Use as few gas canisters as possible!
 Dialogue: 0,0:08:42.95,0:08:46.29,Default,,0,0,0,,If we hit a child, the Master will be furious!
 Dialogue: 0,0:08:49.82,0:08:51.03,Default,,0,0,0,,Hey.
-Dialogue: 0,0:08:51.42,0:08:55.43,DefaultLow,,0,0,0,,Do you really wanna cross this lake, Luffy?
-Dialogue: 0,0:08:51.44,0:08:55.43,On Top,,0,0,0,,THE BURNING LANDS LUFFY'S GROUP
-Dialogue: 0,0:08:55.42,0:08:56.18,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:08:56.18,0:08:59.97,Default,,0,0,0,,But how do we cross it?
-Dialogue: 0,0:08:59.97,0:09:02.67,Default,,0,0,0,,Some parts are burning but there are ice flows as well.
+Dialogue: 0,0:08:51.42,0:08:55.52,DefaultLow,,0,0,0,,Do you really wanna cross this lake, Luffy?
+Dialogue: 0,0:08:51.62,0:08:55.52,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}The Burning Lands, Luffy's Group
+Dialogue: 1,0:08:51.62,0:08:55.52,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}The Burning Lands, Luffy's Group
+Dialogue: 0,0:08:55.52,0:08:56.25,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:08:56.25,0:09:00.06,Default,,0,0,0,,But how do we cross it?
+Dialogue: 0,0:09:00.06,0:09:02.67,Default,,0,0,0,,Some parts are burning but there are ice floes as well.
 Dialogue: 0,0:09:02.94,0:09:04.93,Default,,0,0,0,,The temperature could be just right.
 Dialogue: 0,0:09:04.93,0:09:07.27,Default,,0,0,0,,We're all sweaty so let's swim!
 Dialogue: 0,0:09:07.27,0:09:08.08,Default,,0,0,0,,No way!
@@ -373,11 +376,12 @@ Dialogue: 0,0:21:46.57,0:21:50.51,Default,,0,0,0,,You don't have to do this, Fra
 Dialogue: 0,0:21:50.91,0:21:56.55,Default,,0,0,0,,Letting down Armored Franky fans is not an option for me!
 Dialogue: 0,0:21:59.06,0:22:00.58,Default,,0,0,0,,We will fight you!
 Dialogue: 0,0:22:01.97,0:22:04.04,Default,,0,0,0,,Bring it on!
-Dialogue: 0,0:22:11.27,0:22:14.92,DefaultLow,,0,0,0,,Snow! Snow! I love playing with snow!
-Dialogue: 0,0:22:13.45,0:22:17.97,On Top,,0,0,0,,IN FRONT OF THE MYSTERIOUS FACILITY BROOK
-Dialogue: 0,0:22:14.92,0:22:17.97,DefaultLow,,0,0,0,,It's a great way to kill time!
-Dialogue: 0,0:22:18.21,0:22:24.34,Default,,0,0,0,,Robin-san told me to wait here but what's taking them so long?!
-Dialogue: 0,0:22:24.34,0:22:27.52,Default,,0,0,0,,Ta-dah! Snowmen!
+Dialogue: 0,0:22:11.18,0:22:14.92,DefaultLow,,0,0,0,,Snow! Snow! I love playing with snow!
+Dialogue: 0,0:22:13.55,0:22:18.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}In front of the mysterious facility, Team Brook
+Dialogue: 1,0:22:13.55,0:22:18.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}In front of the mysterious facility, Team Brook
+Dialogue: 0,0:22:14.92,0:22:18.05,DefaultLow,,0,0,0,,It's a great way to kill time!
+Dialogue: 0,0:22:18.05,0:22:24.43,Default,,0,0,0,,Robin-san told me to wait here but what's taking them so long?!
+Dialogue: 0,0:22:24.43,0:22:27.60,Default,,0,0,0,,Ta-dah! Snowmen!
 Dialogue: 0,0:22:29.77,0:22:33.15,Default,,0,0,0,,Let's rearrange its eyes and nose!
 Dialogue: 0,0:22:33.60,0:22:36.15,Default,,0,0,0,,It looks like me!
 Dialogue: 0,0:22:38.37,0:22:38.86,Default,,0,0,0,,Oh?

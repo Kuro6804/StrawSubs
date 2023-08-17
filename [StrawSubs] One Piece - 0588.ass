@@ -24,17 +24,18 @@ Video File: [SOFCJ-Raws] One Piece - 588 (BD 1920x1080 x264 29.970fps FLAC) [F1B
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 394
-Active Line: 401
-Video Position: 42311
+Scroll Position: 397
+Active Line: 403
+Video Position: 42288
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: Italics,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,1,0,2,20,20,22,0
-Style: On Top,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,22,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
+Style: Alt,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
+Style: Flashback,Candara,83,&H00F6FBF6,&H00F5FEF5,&H005E5E5E,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -208,14 +209,14 @@ Dialogue: 0,0:09:08.49,0:09:11.01,Default,,0,0,0,,I thought so! It's Smokey and 
 Dialogue: 0,0:09:11.01,0:09:12.57,Default,,0,0,0,,It's been a while!
 Dialogue: 0,0:09:17.22,0:09:19.34,Default,,0,0,0,,There is a hole in his chest!
 Dialogue: 0,0:09:19.80,0:09:22.01,Default,,0,0,0,,Smoker-san!
-Dialogue: 0,0:09:23.13,0:09:26.46,Italics,,0,0,0,,To become a member of the Warlords...
-Dialogue: 0,0:09:26.46,0:09:29.00,Italics,,0,0,0,,...he delivered the hearts of one hundred pirates
-Dialogue: 0,0:09:29.00,0:09:30.71,Italics,,0,0,0,,to the headquarters!
-Dialogue: 0,0:09:30.71,0:09:32.29,Italics,,0,0,0,,He's crazy!
+Dialogue: 0,0:09:23.13,0:09:26.46,Flashback,,0,0,0,,To become a member of the Warlords...
+Dialogue: 0,0:09:26.46,0:09:29.00,Flashback,,0,0,0,,...he delivered the hearts of one hundred pirates
+Dialogue: 0,0:09:29.00,0:09:30.71,Flashback,,0,0,0,,to the headquarters!
+Dialogue: 0,0:09:30.71,0:09:32.29,Flashback,,0,0,0,,He's crazy!
 Dialogue: 0,0:09:44.79,0:09:46.00,Default,,0,0,0,,How dare you!
-Dialogue: 0,0:09:46.00,0:09:47.10,Default,,0,0,0,,How dare you!
+Dialogue: 0,0:09:46.00,0:09:47.10,Alt,,0,0,0,,How dare you!
 Dialogue: 0,0:09:47.10,0:09:48.43,Default,,0,0,0,,How dare you!
-Dialogue: 0,0:09:49.83,0:09:52.45,Default,,0,0,0,,How dare you!!
+Dialogue: 0,0:09:49.83,0:09:52.45,Alt,,0,0,0,,How dare you!!
 Dialogue: 0,0:09:54.64,0:09:56.58,Default,,0,0,0,,Whoa whoa, don't.
 Dialogue: 0,0:09:56.58,0:09:59.65,Default,,0,0,0,,I don't like these lame tearjerking scenes.
 Dialogue: 0,0:10:01.83,0:10:02.82,Default,,0,0,0,,Room.
@@ -246,7 +247,8 @@ Dialogue: 0,0:11:35.44,0:11:37.86,Default,,0,0,0,,Stop! This is no time for that
 Dialogue: 0,0:11:37.86,0:11:39.48,Default,,0,0,0,,Smo-san and Captain-chan are injured!
 Dialogue: 0,0:11:52.52,0:11:54.32,Default,,0,0,0,,It's freezing!
 Dialogue: 0,0:11:54.86,0:11:55.99,DefaultLow,,0,0,0,,What should we do?!
-Dialogue: 0,0:11:54.86,0:11:58.13,On Top,,0,0,0,,{\fad(500,1)}A MOUNTAIN BEHIND THE LABORATORY SANJI'S GROUP
+Dialogue: 0,0:11:54.97,0:11:58.13,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Sanji\NA mountain behind the laboratory
+Dialogue: 1,0:11:54.97,0:11:58.13,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Sanji\NA mountain behind the laboratory
 Dialogue: 0,0:11:55.99,0:11:58.13,DefaultLow,,0,0,0,,The kids can't take it anymore.
 Dialogue: 0,0:11:58.13,0:12:00.71,Default,,0,0,0,,Alright, let's remove this fur and...
 Dialogue: 0,0:12:00.71,0:12:02.67,Default,,0,0,0,,No! It's my body!
@@ -313,12 +315,13 @@ Dialogue: 0,0:15:41.40,0:15:43.42,Default,,0,0,0,,Shh...
 Dialogue: 0,0:15:45.22,0:15:47.33,Default,,0,0,0,,Huh? Hey, what are you doing?!
 Dialogue: 0,0:15:47.33,0:15:48.64,Default,,0,0,0,,Don't do it, Franky!
 Dialogue: 0,0:15:48.64,0:15:50.93,Default,,0,0,0,,Hello...
-Dialogue: 0,0:16:00.73,0:16:06.40,On Top,,0,0,0,,{\fad(500,500)}THE STRAW HATS' ENCAMPMENT
+Dialogue: 0,0:16:00.88,0:16:06.05,Sign,,0,0,268,,{\blur0.3\fad(520,520)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(4650,4695,\1a&HFF&)}The Straw Hats' Encampment
+Dialogue: 1,0:16:00.88,0:16:06.05,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,520)\4a&HFF&}The Straw Hats' Encampment
 Dialogue: 0,0:16:01.77,0:16:03.98,DefaultLow,,0,0,0,,We're here! This is good.
 Dialogue: 0,0:16:03.98,0:16:07.36,DefaultLow,,0,0,0,,This building has a similar style as the other one.
-Dialogue: 0,0:16:07.36,0:16:08.82,Default,,0,0,0,,But it's crumbling.
-Dialogue: 0,0:16:08.82,0:16:11.20,Default,,0,0,0,,It looks like there was a huge explosion or something.
-Dialogue: 0,0:16:11.20,0:16:13.92,Default,,0,0,0,,It's fine as long as it'll shelter us from the blizzard.
+Dialogue: 0,0:16:07.36,0:16:08.82,DefaultLow,,0,0,0,,But it's crumbling.
+Dialogue: 0,0:16:08.82,0:16:11.20,DefaultLow,,0,0,0,,It looks like there was\Na huge explosion or something.
+Dialogue: 0,0:16:11.20,0:16:13.92,DefaultLow,,0,0,0,,It's fine as long as it'll\Nshelter us from the blizzard.
 Dialogue: 0,0:16:13.92,0:16:16.73,Default,,0,0,0,,Now, where should we begin?
 Dialogue: 0,0:16:17.93,0:16:20.50,Default,,0,0,0,,I hurt my own delicate body!
 Dialogue: 0,0:16:20.50,0:16:22.76,Default,,0,0,0,,I'll treat it right away!

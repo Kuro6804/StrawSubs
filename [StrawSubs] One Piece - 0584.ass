@@ -24,17 +24,16 @@ Video File: [SOFCJ-Raws] One Piece - 584 (BD 1920x1080 x264 29.970fps FLAC) [C0F
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 327
-Active Line: 337
+Scroll Position: 333
+Active Line: 339
 Video Position: 42290
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: OS,Gandhi Sans,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,1,1,15,0
-Style: On Top,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,22,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -187,12 +186,14 @@ Dialogue: 0,0:08:44.04,0:08:47.68,Default,,0,0,0,,--What the hell?! --A wall of 
 Dialogue: 0,0:08:48.04,0:08:51.22,Default,,0,0,0,,If we collide into it, even this warship would sink!
 Dialogue: 0,0:08:51.22,0:08:53.76,Default,,0,0,0,,--Oh no! --We gotta destroy it!
 Dialogue: 0,0:08:53.76,0:08:55.18,Default,,0,0,0,,Shoot!
-Dialogue: 0,0:09:01.99,0:09:07.70,On Top,,0,0,0,,PUNK HAZARD ISLAND - THE MIDDLE LAKE LUFFY'S GROUP
+Dialogue: 0,0:09:02.03,0:09:07.70,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Luffy\NPunk Hazard, Center Lake
+Dialogue: 1,0:09:02.03,0:09:07.70,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Luffy\NPunk Hazard, Center Lake
 Dialogue: 0,0:09:11.82,0:09:13.33,Default,,0,0,0,,They are...
 Dialogue: 0,0:09:16.23,0:09:19.71,Default,,0,0,0,,Boss! Please take care of them!
-Dialogue: 0,0:09:25.33,0:09:26.48,Default,,0,0,0,,Be ready!
+Dialogue: 0,0:09:25.33,0:09:26.48,DefaultLow,,0,0,0,,Be ready!
 Dialogue: 0,0:09:26.48,0:09:28.33,DefaultLow,,0,0,0,,I, Brownbeard-sama,
-Dialogue: 0,0:09:27.21,0:09:34.43,OS,,0,0,0,,THE BOSS – BROWNBEARD - AN ALLIGATOR CENTAUR (A FORMER PIRATE, BOUNTY: 80 MILLION 60 THOUSAND BERRIES)
+Dialogue: 0,0:09:27.18,0:09:34.42,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Boss Brownbeard — Alligator Centaur\N(Former Pirate, Bounty: 80 million 60 thousand berries)
+Dialogue: 1,0:09:27.18,0:09:34.42,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord0\4a&HFF&}Boss Brownbeard — Alligator Centaur\N(Former Pirate, Bounty: 80 million 60 thousand berries)
 Dialogue: 0,0:09:28.33,0:09:31.51,DefaultLow,,0,0,0,,will kick your asses all the way to hell!
 Dialogue: 0,0:09:36.51,0:09:39.16,Default,,0,0,0,,They're all centaurs!
 Dialogue: 0,0:09:39.16,0:09:41.08,Default,,0,0,0,,I wonder if they wanna join us too!
@@ -217,7 +218,8 @@ Dialogue: 0,0:10:32.94,0:10:36.25,Default,,0,0,0,,--I'm not gonna kill you! Stop
 Dialogue: 0,0:10:36.85,0:10:38.79,Default,,0,0,0,,What a pathetic ploy!
 Dialogue: 0,0:10:39.16,0:10:43.11,Default,,0,0,0,,We can't let them go any further! Shoot them!
 Dialogue: 0,0:10:43.11,0:10:44.00,Default,,0,0,0,,Understood!
-Dialogue: 0,0:10:50.49,0:10:54.57,OS,,0,0,0,,THE ICE LANDS - INSIDE OF THE MYSTERIOUS FACILITY NAMI'S GROUP
+Dialogue: 0,0:10:50.47,0:10:54.57,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Nami\NThe Ice Lands, inside the mysterious facility
+Dialogue: 1,0:10:50.47,0:10:54.57,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Nami\NThe Ice Lands, inside the mysterious facility
 Dialogue: 0,0:11:01.90,0:11:05.44,Default,,0,0,0,,This way, kids! Run if you wanna get away!
 Dialogue: 0,0:11:06.20,0:11:07.82,Default,,0,0,0,,You're on fire, Chopper!
 Dialogue: 0,0:11:07.82,0:11:09.00,Default,,0,0,0,,Of course!
@@ -236,7 +238,8 @@ Dialogue: 0,0:11:54.13,0:11:56.60,Default,,0,0,0,,Sis, are we going to be okay?
 Dialogue: 0,0:11:57.63,0:12:02.61,Default,,0,0,0,,Of course! We've been though situations like this lots of times!
 Dialogue: 0,0:12:02.61,0:12:05.05,Default,,0,0,0,,So just relax and follow us!
 Dialogue: 0,0:12:05.05,0:12:06.04,Default,,0,0,0,,Uh-huh!
-Dialogue: 0,0:12:13.74,0:12:18.18,On Top,,0,0,0,,THE MYSTERIOUS FACILITY - BISCUIT ROOM SANJI'S GROUP
+Dialogue: 0,0:12:13.65,0:12:18.36,Sign,,0,0,365,,{\blur0.3\fad(520,520)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(4190,4235,\1a&HFF&)}Team Sanji\NThe mysterious facility, Biscuits Room
+Dialogue: 1,0:12:13.65,0:12:18.36,Sign,,0,0,365,,{\blur0.3\fad(520,520)\fs60\bord0\4a&HFF&}Team Sanji\NThe mysterious facility, Biscuits Room
 Dialogue: 0,0:12:19.98,0:12:23.29,Default,,0,0,0,,Weapons Left!
 Dialogue: 0,0:12:30.72,0:12:32.94,Default,,0,0,0,,Super!
 Dialogue: 0,0:12:33.76,0:12:35.91,Default,,0,0,0,,He has weapons all over his body!
@@ -257,7 +260,8 @@ Dialogue: 0,0:13:37.17,0:13:39.46,Default,,0,0,0,,This one is different from the
 Dialogue: 0,0:13:39.46,0:13:43.34,Default,,0,0,0,,Who is he? He's proving an able opponent!
 Dialogue: 0,0:13:43.61,0:13:45.81,Default,,0,0,0,,Again, what are you talking about?
 Dialogue: 0,0:13:45.81,0:13:49.72,Default,,0,0,0,,Well, that's what's going on with my torso!
-Dialogue: 0,0:13:52.40,0:13:56.05,On Top,,0,0,0,,IN FRONT OF THE MYSTERIOUS FACILITY BROOK
+Dialogue: 0,0:13:52.32,0:13:56.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Brook\NIn front of the mysterious facility
+Dialogue: 1,0:13:52.32,0:13:56.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Brook\NIn front of the mysterious facility
 Dialogue: 0,0:13:59.83,0:14:02.76,Default,,0,0,0,,Hey! What's going on?!
 Dialogue: 0,0:14:02.76,0:14:05.53,Default,,0,0,0,,Wh-Wh-Who are you?!
 Dialogue: 0,0:14:07.68,0:14:10.57,Default,,0,0,0,,Where is your head and legs?!

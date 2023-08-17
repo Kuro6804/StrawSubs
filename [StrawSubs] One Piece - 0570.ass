@@ -24,15 +24,15 @@ Video File: [Panda-Raws] One Piece - 0570 (WEB 1080p AMZN JP 29.970fps EAC3) [0A
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 344
-Active Line: 351
+Scroll Position: 350
+Active Line: 353
 Video Position: 42648
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -257,7 +257,8 @@ Dialogue: 0,0:13:29.43,0:13:30.83,Default,,0,0,0,,Sanji!
 Dialogue: 0,0:13:32.00,0:13:36.50,Default,,0,0,0,,I think there is a wild animal or something in this palace.
 Dialogue: 0,0:13:36.50,0:13:38.27,Default,,0,0,0,,You're right.
 Dialogue: 0,0:13:38.27,0:13:40.00,Default,,0,0,0,,I feel it, too.
-Dialogue: 0,0:13:40.00,0:13:43.44,OS,,0,0,0,,THE HARD SHELL TOWER
+Dialogue: 0,0:13:40.00,0:13:43.44,Sign,,0,0,268,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Hard Shell Tower
+Dialogue: 1,0:13:40.00,0:13:43.44,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Hard Shell Tower
 Dialogue: 0,0:13:46.88,0:13:53.18,Default,,0,0,0,,I did not know it's such fun to party with everybody!
 Dialogue: 0,0:14:55.48,0:14:57.21,Default,,0,0,0,,Help!
 Dialogue: 0,0:14:57.75,0:15:00.05,Default,,0,0,0,,Shhh!
@@ -320,7 +321,8 @@ Dialogue: 0,0:18:11.31,0:18:13.14,Default,,0,0,0,,Go find him now!
 Dialogue: 0,0:18:18.61,0:18:20.92,Default,,0,0,0,,K-King-sama!
 Dialogue: 0,0:18:20.92,0:18:23.89,Default,,0,0,0,,Something wrong with Hody and the others! Their cuffs came off!
 Dialogue: 0,0:18:23.89,0:18:25.72,Default,,0,0,0,,What?!
-Dialogue: 0,0:18:25.82,0:18:31.69,OS,,0,0,0,,THE PRISON TOWER
+Dialogue: 0,0:18:25.82,0:18:31.69,Sign,,0,0,268,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Prison Tower
+Dialogue: 1,0:18:25.82,0:18:31.69,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Prison Tower
 Dialogue: 0,0:18:31.69,0:18:36.23,Default,,0,0,0,,Damn humans! Our grudge against you will never go away...
 Dialogue: 0,0:18:36.23,0:18:38.94,Default,,0,0,0,,Our time to avenge will come again...
 Dialogue: 0,0:18:41.47,0:18:45.88,Default,,0,0,0,,Bring Straw Hat here! I'll kill him!

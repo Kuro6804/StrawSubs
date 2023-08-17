@@ -24,15 +24,16 @@ Video File: [Panda-Raws] One Piece - 0562 (WEB 1080p AMZN JP 29.970fps EAC3) [67
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 316
-Active Line: 326
+Scroll Position: 322
+Active Line: 329
 Video Position: 42646
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -282,11 +283,13 @@ Dialogue: 0,0:17:47.82,0:17:50.25,Default,,0,0,0,,Ring, ring, ring... Ring, ring
 Dialogue: 0,0:17:50.25,0:17:52.59,Default,,0,0,0,,Ring, ring, ring... Clank.
 Dialogue: 0,0:17:52.59,0:17:56.86,Default,,0,0,0,,Straw Hat Luffy-san, this is the Air Tank. We met you a while ago.
 Dialogue: 0,0:17:56.86,0:17:58.46,Default,,0,0,0,,Oh, it's you guys.
-Dialogue: 0,0:17:58.63,0:18:02.07,OS,,0,0,0,,AIR TANK
-Dialogue: 0,0:17:58.90,0:18:02.07,Default,,0,0,0,,We've been listening to what's been going on out there.
-Dialogue: 0,0:18:02.07,0:18:05.60,Default,,0,0,0,,And we see the Noah falling towards the island.
-Dialogue: 0,0:18:02.23,0:18:06.57,OS,,0,0,0,,CONTROL ROOM
-Dialogue: 0,0:18:05.60,0:18:08.44,Default,,0,0,0,,We're getting ready as planned.
+Dialogue: 0,0:17:58.63,0:18:02.07,Sign,,0,0,268,,{\blur0.3\fad(360,0)\c&H000000&\1a&HFF&\t(315,360,\1a&H00&)}Air Tank
+Dialogue: 1,0:17:58.63,0:18:02.07,Sign,,0,0,268,,{\bord0\blur0.3\fad(360,0)\4a&HFF&}Air Tank
+Dialogue: 0,0:17:58.90,0:18:02.07,DefaultLow,,0,0,0,,We've been listening to what's been going on out there.
+Dialogue: 0,0:18:02.07,0:18:05.60,DefaultLow,,0,0,0,,And we see the Noah falling towards the island.
+Dialogue: 0,0:18:02.20,0:18:06.57,Sign,,0,0,268,,{\blur0.3\fad(380,520)\c&H000000&\1a&HFF&\t(335,380,\1a&H00&)\t(3850,3895,\1a&HFF&)}Control Room
+Dialogue: 1,0:18:02.20,0:18:06.57,Sign,,0,0,268,,{\bord0\blur0.3\fad(380,520)\4a&HFF&}Control Room
+Dialogue: 0,0:18:05.60,0:18:08.44,DefaultLow,,0,0,0,,We're getting ready as planned.
 Dialogue: 0,0:18:08.44,0:18:11.14,Default,,0,0,0,,That's what Brother-hoshi was talking about.
 Dialogue: 0,0:18:11.14,0:18:13.68,Default,,0,0,0,,You wanna go to the deck?
 Dialogue: 0,0:18:13.68,0:18:15.08,Default,,0,0,0,,Hody!
@@ -297,9 +300,10 @@ Dialogue: 0,0:18:24.65,0:18:29.33,Default,,0,0,0,,Hody has an advantage in the w
 Dialogue: 0,0:18:29.33,0:18:32.40,Default,,0,0,0,,--If nothing is done... --What should we do?
 Dialogue: 0,0:18:32.40,0:18:33.96,Default,,0,0,0,,I have an idea!
 Dialogue: 0,0:18:35.57,0:18:38.94,Default,,0,0,0,,Hey, where are you going?! Brother-hoshi!
-Dialogue: 0,0:18:39.90,0:18:45.27,OS,,0,0,0,,THE MAIN ENTRANCE OF FISHMAN ISLAND
-Dialogue: 0,0:18:42.11,0:18:43.71,Default,,0,0,0,,Prince Fukaboshi?
-Dialogue: 0,0:18:43.71,0:18:45.27,Default,,0,0,0,,What brought you here, Prince?
+Dialogue: 0,0:18:39.94,0:18:45.27,Sign,,0,0,268,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Main Entrance of Fishman Island
+Dialogue: 1,0:18:39.94,0:18:45.27,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Main Entrance of Fishman Island
+Dialogue: 0,0:18:42.11,0:18:43.71,DefaultLow,,0,0,0,,Prince Fukaboshi?
+Dialogue: 0,0:18:43.71,0:18:45.27,DefaultLow,,0,0,0,,What brought you here, Prince?
 Dialogue: 0,0:18:45.27,0:18:49.88,Default,,0,0,0,,Listen, we might need a large amount of air soon.
 Dialogue: 0,0:18:49.88,0:18:51.25,Default,,0,0,0,,Make preparations!
 Dialogue: 0,0:18:51.25,0:18:52.32,Default,,0,0,0,,Yes, sir!

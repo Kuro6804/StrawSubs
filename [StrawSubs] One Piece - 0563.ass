@@ -24,15 +24,17 @@ Video File: [Panda-Raws] One Piece - 0563 (WEB 1080p AMZN JP 29.970fps EAC3) [1E
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 344
-Active Line: 349
+Scroll Position: 346
+Active Line: 352
 Video Position: 42648
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
+Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,4,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -273,22 +275,26 @@ Dialogue: 0,0:15:37.82,0:15:41.46,Default,,0,0,0,,The giant ship - Noah is falli
 Dialogue: 0,0:15:41.46,0:15:44.99,Default,,0,0,0,,Please leave the island immediately!
 Dialogue: 0,0:16:00.21,0:16:04.35,Default,,0,0,0,,The giant ship - Noah is falling onto the island again!
 Dialogue: 0,0:16:04.35,0:16:07.98,Default,,0,0,0,,Please leave the island immediately!
-Dialogue: 0,0:16:07.98,0:16:09.65,Default,,0,0,0,,What?!
-Dialogue: 0,0:16:08.02,0:16:10.85,OS,,0,0,0,,CORAL HILL
-Dialogue: 0,0:16:09.65,0:16:10.85,Default,,0,0,0,,Look!
+Dialogue: 0,0:16:07.98,0:16:09.65,DefaultLow2,,0,0,0,,What?!
+Dialogue: 0,0:16:08.02,0:16:10.85,Sign,,0,0,268,,{\blur0.3\fad(220,0)\c&H000000&\1a&HFF&\t(175,220,\1a&H00&)}Coral Hill
+Dialogue: 1,0:16:08.02,0:16:10.85,Sign,,0,0,268,,{\bord0\blur0.3\fad(220,0)\4a&HFF&}Coral Hill
+Dialogue: 0,0:16:09.65,0:16:10.85,DefaultLow2,,0,0,0,,Look!
 Dialogue: 0,0:16:11.49,0:16:13.76,Default,,0,0,0,,It's the shadow of the Noah!
-Dialogue: 0,0:16:13.79,0:16:16.06,OS,,0,0,0,,WATERWHEEL TOWN
-Dialogue: 0,0:16:14.19,0:16:16.06,Default,,0,0,0,,Decken did it?
+Dialogue: 0,0:16:13.79,0:16:16.06,Sign,,0,0,268,,{\blur0.3\fad(220,0)\c&H000000&\1a&HFF&\t(175,220,\1a&H00&)}Waterwheel Town
+Dialogue: 1,0:16:13.79,0:16:16.06,Sign,,0,0,268,,{\bord0\blur0.3\fad(220,0)\4a&HFF&}Waterwheel Town
+Dialogue: 0,0:16:14.19,0:16:16.06,DefaultLow2,,0,0,0,,Decken did it?
 Dialogue: 0,0:16:16.06,0:16:18.56,Default,,0,0,0,,That's what I heard.
 Dialogue: 0,0:16:18.56,0:16:21.97,Default,,0,0,0,,That damn stalker! I can't believe he threw it!
-Dialogue: 0,0:16:21.97,0:16:23.77,Default,,0,0,0,,The bubble's gonna break!
-Dialogue: 0,0:16:22.00,0:16:24.73,OS,,0,0,0,,FISHVERLY HILLS
-Dialogue: 0,0:16:23.77,0:16:25.97,Default,,0,0,0,,The island will be destroyed!
+Dialogue: 0,0:16:21.97,0:16:23.77,DefaultLow,,0,0,0,,The bubble's gonna break!
+Dialogue: 0,0:16:22.00,0:16:24.73,Sign,,0,0,268,,{\blur0.3\fad(220,0)\c&H000000&\1a&HFF&\t(175,220,\1a&H00&)}Fishverly Hills
+Dialogue: 1,0:16:22.00,0:16:24.73,Sign,,0,0,268,,{\bord0\blur0.3\fad(220,0)\4a&HFF&}Fishverly Hills
+Dialogue: 0,0:16:23.77,0:16:25.97,DefaultLow,,0,0,0,,The island will be destroyed!
 Dialogue: 0,0:16:27.24,0:16:29.84,Default,,0,0,0,,Hurry up! Forget about your suitcase!
 Dialogue: 0,0:16:29.84,0:16:31.07,Default,,0,0,0,,B-But...
 Dialogue: 0,0:16:31.07,0:16:33.24,Default,,0,0,0,,Get out to the sea!
-Dialogue: 0,0:16:35.45,0:16:38.21,Default,,0,0,0,,Everybody, escape from the island!
-Dialogue: 0,0:16:35.51,0:16:38.21,OS,,0,0,0,,CORAL APARTMENT
+Dialogue: 0,0:16:35.45,0:16:38.21,DefaultLow,,0,0,0,,Everybody, escape from the island!
+Dialogue: 0,0:16:35.48,0:16:38.21,Sign,,0,0,268,,{\blur0.3\fad(220,0)\c&H000000&\1a&HFF&\t(175,220,\1a&H00&)}Coral Apartments
+Dialogue: 1,0:16:35.48,0:16:38.21,Sign,,0,0,268,,{\bord0\blur0.3\fad(220,0)\4a&HFF&}Coral Apartments
 Dialogue: 0,0:16:39.35,0:16:43.52,Default,,0,0,0,,I heard Princess Shirahoshi was drawing the ship away from the island.
 Dialogue: 0,0:16:43.52,0:16:47.66,Default,,0,0,0,,Yeah, we can't just run and leave her alone like that!
 Dialogue: 0,0:16:47.66,0:16:50.29,Default,,0,0,0,,But the Noah is falling onto the island!

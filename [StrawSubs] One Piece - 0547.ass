@@ -24,15 +24,16 @@ Video File: [Panda-Raws] One Piece - 0547 (WEB 1080p AMZN JP 29.970fps EAC3) [D8
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 304
-Active Line: 312
-Video Position: 42769
+Scroll Position: 307
+Active Line: 313
+Video Position: 42650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
+Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -184,7 +185,8 @@ Dialogue: 0,0:09:53.44,0:09:57.45,Default,,0,0,0,,I can't take over her quest be
 Dialogue: 0,0:09:57.45,0:10:00.58,Default,,0,0,0,,by what I have done in the past-jamon.
 Dialogue: 0,0:10:01.49,0:10:07.89,Default,,0,0,0,,B-But we all change and we all are full of contradictions.
 Dialogue: 0,0:10:07.89,0:10:15.07,Default,,0,0,0,,We Fishmen, and humans too. And there are things that only soldiers can protect.
-Dialogue: 0,0:10:18.67,0:10:21.67,OS,,0,0,0,,{\fad(500,500)}A FEW DAYS LATER
+Dialogue: 0,0:10:18.70,0:10:21.71,Sign,,0,0,268,,{\blur0.3\fad(520,520)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(2490,2535,\1a&HFF&)}A few days later
+Dialogue: 1,0:10:18.70,0:10:21.71,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,520)\4a&HFF&}A few days later
 Dialogue: 0,0:10:24.27,0:10:25.78,Default,,0,0,0,,King-sama!
 Dialogue: 0,0:10:30.98,0:10:32.98,Default,,0,0,0,,Thank you all.
 Dialogue: 0,0:10:32.98,0:10:37.35,Default,,0,0,0,,It's my own wife's funeral - I have to attend it-jamon.
@@ -195,13 +197,13 @@ Dialogue: 0,0:10:54.47,0:10:55.51,Default,,0,0,0,,My sons.
 Dialogue: 0,0:10:56.97,0:10:58.34,Default,,0,0,0,,I'm glad to see you.
 Dialogue: 0,0:11:02.01,0:11:06.82,Default,,0,0,0,,I'm sorry to make you feel so left alone.
 Dialogue: 0,0:11:08.65,0:11:10.95,Default,,0,0,0,,Um... Father-sama, look at this.
-Dialogue: 0,0:11:08.65,0:11:10.95,OS,,0,0,0,,TO SHIRAHOSHI
+Dialogue: 0,0:11:08.79,0:11:10.95,"Sign",,0,0,0,,{\fad(500,0)}"To Shirahoshi"
 Dialogue: 0,0:11:12.66,0:11:14.12,Default,,0,0,0,,What is it?
 Dialogue: 0,0:11:14.12,0:11:17.96,Default,,0,0,0,,These letters keep flying in wherever I go.
 Dialogue: 0,0:11:17.96,0:11:21.13,Default,,0,0,0,,There are already 5 of them, Father-sama!
 Dialogue: 0,0:11:21.13,0:11:22.67,Default,,0,0,0,,It's...
 Dialogue: 0,0:11:22.67,0:11:27.24,Default,,0,0,0,,...a love letter! But Shirahoshi is only 6 years old.
-Dialogue: 0,0:11:22.67,0:11:30.01,OS,,0,0,0,,I'M IN LUV WITH YOU. I SUSPECT. MARRY ME. VANDER DECKEN
+Dialogue: 0,0:11:22.67,0:11:30.01,"Sign",,0,0,0,,"I'm in luv with you. I suspect. Marry me.\NVander Decken"
 Dialogue: 0,0:11:27.24,0:11:30.01,Default,,0,0,0,,Who is Vander Decken?
 Dialogue: 0,0:11:30.01,0:11:33.04,Default,,0,0,0,,That is the name of a pirate family.
 Dialogue: 0,0:11:35.48,0:11:37.98,Default,,0,0,0,,My children won't attend the funeral!

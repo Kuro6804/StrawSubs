@@ -24,16 +24,16 @@ Video File: [Panda-Raws] One Piece - 0571 (WEB 1080p AMZN JP 29.970fps EAC3) [6D
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 329
-Active Line: 338
+Scroll Position: 335
+Active Line: 342
 Video Position: 42648
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -146,12 +146,12 @@ Dialogue: 0,0:05:35.89,0:05:39.76,Default,,0,0,0,,I wonder if Luffy-sama and the
 Dialogue: 0,0:05:39.76,0:05:41.12,Default,,0,0,0,,They're fine!
 Dialogue: 0,0:05:41.12,0:05:44.86,Default,,0,0,0,,We're finally gonna become a rich pirate group!
 Dialogue: 0,0:05:44.86,0:05:48.50,Default,,0,0,0,,Things in life usually aren't that easy...
-Dialogue: 0,0:05:48.87,0:05:52.27,Default,,0,0,0,,Hey Usopp, do you wanna go look for him too?
-Dialogue: 0,0:05:52.27,0:05:55.27,Default,,0,0,0,,No, we better not. I did some research
-Dialogue: 0,0:05:55.27,0:05:56.97,DefaultLow,,0,0,0,,and found out that his
-Dialogue: 0,0:05:56.47,0:06:01.18,OS,,0,0,0,,FISHMAN ISLAND - THE OUTSKIRTS OF CORAL HILL NEAR THE CANDY FACTORY
-Dialogue: 0,0:05:56.97,0:05:58.01,DefaultLow,,0,0,0,,bounty is over 200 million.
-Dialogue: 0,0:05:58.51,0:06:01.18,Default,,0,0,0,,What?! Mine's only 50 berries...
+Dialogue: 0,0:05:48.87,0:05:52.27,DefaultLow,,0,0,0,,Hey Usopp, do you wanna go look for him too?
+Dialogue: 0,0:05:52.27,0:05:55.27,DefaultLow,,0,0,0,,No, we better not. I did some research
+Dialogue: 0,0:05:55.27,0:05:58.01,DefaultLow,,0,0,0,,and found out that his bounty is over 200 million.
+Dialogue: 0,0:05:56.44,0:06:01.18,Sign,,0,0,365,,{\blur0.3\fs60\bord2.2\fad(750,0)\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Fishman Island\NOutskirts of Coral Hill near the Candy Factory
+Dialogue: 1,0:05:56.44,0:06:01.18,Sign,,0,0,365,,{\blur0.3\fs60\bord0\fad(750,0)\4a&HFF&}Fishman Island\NOutskirts of Coral Hill near the Candy Factory
+Dialogue: 0,0:05:58.01,0:06:01.18,DefaultLow,,0,0,0,,What?! Mine's only 50 berries...
 Dialogue: 0,0:06:01.18,0:06:05.88,Default,,0,0,0,,Hey look, Zoro, Sanji! There he is! That was easy!
 Dialogue: 0,0:06:05.88,0:06:10.99,Default,,0,0,0,,He got knocked out cold already by your punch. How pathetic!
 Dialogue: 0,0:06:10.99,0:06:13.92,Default,,0,0,0,,There is so much treasure scattered around here.
@@ -167,11 +167,12 @@ Dialogue: 0,0:06:54.53,0:06:56.67,Default,,0,0,0,,All right, Minister of the Lef
 Dialogue: 0,0:06:56.67,0:06:59.60,Default,,0,0,0,,Please show us mercy!
 Dialogue: 0,0:06:59.60,0:07:03.41,Default,,0,0,0,,It was all unexpected! Hody and the others destroyed the factory and...
 Dialogue: 0,0:07:03.41,0:07:07.54,Default,,0,0,0,,That's none of our concern! Grr!
-Dialogue: 0,0:07:07.95,0:07:12.08,Default,,0,0,0,,I was planning on snatching some for myself so I'm very hungry!
-Dialogue: 0,0:07:12.08,0:07:15.22,Default,,0,0,0,,You pay us with sweets once a month.
-Dialogue: 0,0:07:15.22,0:07:18.29,Default,,0,0,0,,And we allow you to use Mama's name.
-Dialogue: 0,0:07:16.65,0:07:21.93,OS,,0,0,0,,PEKOMS-- A MEMBER OF THE Big Mom PIRATES
-Dialogue: 0,0:07:18.29,0:07:21.93,Default,,0,0,0,,That was the agreement, wasn't it? Grr!
+Dialogue: 0,0:07:07.95,0:07:12.08,DefaultLow,,0,0,0,,I was planning on snatching some for myself so I'm very hungry!
+Dialogue: 0,0:07:12.08,0:07:15.22,DefaultLow,,0,0,0,,You pay us with sweets once a month.
+Dialogue: 0,0:07:15.22,0:07:18.29,DefaultLow,,0,0,0,,And we allow you to use Mama's name.
+Dialogue: 0,0:07:16.69,0:07:21.93,Sign,,0,0,365,,{\blur0.3\fs60\bord2.2\fad(750,0)\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Big Mom Pirates, Crewmate Pekoms
+Dialogue: 1,0:07:16.69,0:07:21.93,Sign,,0,0,365,,{\blur0.3\fs60\bord0\fad(750,0)\4a&HFF&}Big Mom Pirates, Crewmate Pekoms
+Dialogue: 0,0:07:18.29,0:07:21.93,DefaultLow,,0,0,0,,That was the agreement, wasn't it? Grr!
 Dialogue: 0,0:07:22.89,0:07:27.26,Default,,0,0,0,,Now, I don't want to say this to you seeing as how we're business partners
 Dialogue: 0,0:07:27.26,0:07:32.30,Default,,0,0,0,,but you know how scary Mama can be! If you make her mad, she will...
 Dialogue: 0,0:07:33.17,0:07:35.14,Default,,0,0,0,,...destroy you all!
@@ -222,8 +223,9 @@ Dialogue: 0,0:09:59.58,0:10:03.79,Default,,0,0,0,,We can make it on time if we l
 Dialogue: 0,0:10:03.79,0:10:07.02,Default,,0,0,0,,There's another odd one! Who are you?
 Dialogue: 0,0:10:09.43,0:10:13.36,Default,,0,0,0,,Bon to meet you, you half-boiled pirates.
 Dialogue: 0,0:10:13.36,0:10:17.87,DefaultLow,,0,0,0,,My name is Baron Tamago-soir!
-Dialogue: 0,0:10:13.96,0:10:17.87,OS,,0,0,0,,BARON TAMAGO-- A MEMBER OF THE BIG MOM PIRATES (LONGFEET TRIBE)
-Dialogue: 0,0:10:17.87,0:10:19.37,Default,,0,0,0,,Tamago (egg)?!
+Dialogue: 0,0:10:13.86,0:10:17.87,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Big Mom Pirates, Crewmate Baron Tamago (Longleg Tribe)
+Dialogue: 1,0:10:13.86,0:10:17.87,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Big Mom Pirates, Crewmate Baron Tamago (Longleg Tribe)
+Dialogue: 0,0:10:17.87,0:10:19.37,Default,,0,0,0,,Tamago, like an egg?!
 Dialogue: 0,0:10:22.57,0:10:26.41,Default,,0,0,0,,Remember my name at least-s'il vous plait!
 Dialogue: 0,0:10:30.55,0:10:32.92,Default,,0,0,0,,Now, you gentlemen...
 Dialogue: 0,0:10:34.99,0:10:40.82,Default,,0,0,0,,Did you just say you ate the sweets from this factory-c'est si bon?
@@ -231,7 +233,7 @@ Dialogue: 0,0:10:40.82,0:10:41.89,Default,,0,0,0,,He looks like a compass.
 Dialogue: 0,0:10:41.89,0:10:45.43,Default,,0,0,0,,Yes, I did! I wanna have some more if they have any!
 Dialogue: 0,0:10:46.16,0:10:49.90,Default,,0,0,0,,They don't. That's why we don't know what to do-bon!
 Dialogue: 0,0:10:52.54,0:10:56.01,Default,,0,0,0,,That big mark on the factory is...
-Dialogue: 0,0:10:56.01,0:11:00.64,Default,,0,0,0,,...the Jolly Roger of the great pirate and our boss- Charlotte Lingling-soir.
+Dialogue: 0,0:10:56.01,0:11:00.64,Default,,0,0,0,,...the Jolly Roger of the great pirate and our boss- Charlotte Linlin-soir.
 Dialogue: 0,0:11:00.64,0:11:06.35,Default,,0,0,0,,It claims this island as Big Mom's territory - she is one of the Four Emperors.
 Dialogue: 0,0:11:06.35,0:11:12.72,Default,,0,0,0,,Which means, Fishman Island is protected under Big Mom's name-bon!
 Dialogue: 0,0:11:12.72,0:11:18.66,Default,,0,0,0,,Sounds like a nice person! I wanna meet your boss! Big Mom, huh?
@@ -261,9 +263,11 @@ Dialogue: 0,0:12:44.55,0:12:48.92,Default,,0,0,0,,...descend on the island and d
 Dialogue: 0,0:12:48.92,0:12:52.09,Default,,0,0,0,,Destroy the island?!
 Dialogue: 0,0:12:52.09,0:12:56.16,Default,,0,0,0,,Are you guys nuts? You can't destroy a country over candies!
 Dialogue: 0,0:12:56.16,0:12:58.76,Default,,0,0,0,,This island has just been saved!
-Dialogue: 0,0:13:21.48,0:13:26.32,OS,,0,0,0,,WHOLE CAKE ISLAND SOMEWHERE IN THE NEW WORLD
+Dialogue: 0,0:13:21.48,0:13:26.32,Sign,,0,0,365,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Whole Cake Island\NSomewhere in the New World
+Dialogue: 1,0:13:21.48,0:13:26.32,Sign,,0,0,365,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Whole Cake Island\NSomewhere in the New World
 Dialogue: 0,0:13:23.72,0:13:26.32,DefaultLow,,0,0,0,,You look happy, Mama.
-Dialogue: 0,0:13:27.52,0:13:32.70,OS,,0,0,0,,ONE OF THE FOUR EMPERORS-- - THE GREAT PIRATE "BIG MOM" CHARLOTTE LINGLING
+Dialogue: 0,0:13:27.52,0:13:32.70,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}One of the Four Emperors\NThe Great Pirate "Big Mom" Charlotte Linlin
+Dialogue: 1,0:13:27.52,0:13:32.70,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}One of the Four Emperors\NThe Great Pirate "Big Mom" Charlotte Linlin
 Dialogue: 0,0:13:27.76,0:13:30.49,DefaultLow,,0,0,0,,I can't wait for the tea party
 Dialogue: 0,0:13:30.49,0:13:33.60,DefaultLow,,0,0,0,,four days from now because...
 Dialogue: 0,0:13:38.33,0:13:43.51,Default,,0,0,0,,...I'll get my hands on those delicious sweets from Fishman Island!

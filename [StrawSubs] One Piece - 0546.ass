@@ -24,15 +24,15 @@ Video File: [Panda-Raws] One Piece - 0546 (WEB 1080p AMZN JP 29.970fps EAC3) [7D
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 289
+Scroll Position: 295
 Active Line: 299
 Video Position: 42643
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -155,7 +155,7 @@ Dialogue: 0,0:06:16.99,0:06:21.27,Default,,0,0,0,,Alright, I'll start writing an
 Dialogue: 0,0:06:21.27,0:06:23.47,Default,,0,0,0,,You have to propose to her first!
 Dialogue: 0,0:06:23.47,0:06:26.14,Default,,0,0,0,,Oh, I don't have any friends!
 Dialogue: 0,0:06:27.14,0:06:29.97,Default,,0,0,0,,There had been no word from the Queen for days.
-Dialogue: 0,0:06:29.97,0:06:32.11,OS,,0,0,0,,WE NEED YOUR SIGNATURE FOR THE FUTURE OF THE ISLAND!
+Dialogue: 0,0:06:29.97,0:06:32.11,"Sign",,0,0,0,,{\an9}"We need your signature\Nfor the future of the island!"
 Dialogue: 0,0:06:29.97,0:06:32.94,Default,,0,0,0,,And worries kept growing.
 Dialogue: 0,0:06:33.81,0:06:35.48,Default,,0,0,0,,I wanna hear her speeches again.
 Dialogue: 0,0:06:38.38,0:06:41.32,Default,,0,0,0,,Please come back safe!

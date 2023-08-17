@@ -23,17 +23,17 @@ Audio File: [Panda-Raws] One Piece - 0554 (WEB 1080p AMZN JP 29.970fps EAC3) [06
 Video File: [Panda-Raws] One Piece - 0554 (WEB 1080p AMZN JP 29.970fps EAC3) [06EE97E9].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.562500
+Video Zoom Percent: 0.687500
 Scroll Position: 357
-Active Line: 362
+Active Line: 364
 Video Position: 42648
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,200,200,56,0
-Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -128,7 +128,8 @@ Dialogue: 0,0:04:45.77,0:04:47.57,Default,,0,0,0,,Straw Hat boy...
 Dialogue: 0,0:04:51.94,0:04:54.51,Default,,0,0,0,,Did I do okay, Jinbe?
 Dialogue: 0,0:04:54.51,0:04:57.61,Default,,0,0,0,,It wasn't so disastrous, considering it was Luffy.
 Dialogue: 0,0:04:57.61,0:05:02.52,Default,,0,0,0,,Mm-hm. Although it did not go exactly as we had planned...
-Dialogue: 0,0:05:02.55,0:05:04.12,OS,,0,0,0,,A FEW HOURS AGO--SEA FOREST
+Dialogue: 0,0:05:02.55,0:05:04.12,Sign,,0,0,268,,{\blur0.3\c&H000000&}A few hours ago in the Sea Forest
+Dialogue: 1,0:05:02.55,0:05:04.12,Sign,,0,0,268,,{\bord0\blur0.3\4a&HFF&}A few hours ago in the Sea Forest
 Dialogue: 0,0:05:04.12,0:05:05.06,Default,,0,0,0,,Outta my way!
 Dialogue: 0,0:05:05.06,0:05:07.56,Default,,0,0,0,,No, I won't let you go!
 Dialogue: 0,0:05:07.56,0:05:10.49,Default,,0,0,0,,Luffy-chin... Boss Jinbe...
@@ -216,9 +217,10 @@ Dialogue: 0,0:09:47.64,0:09:49.61,Default,,0,0,0,,Alright, let's hurry up!
 Dialogue: 0,0:09:51.58,0:09:55.98,Default,,0,0,0,,So you saved your friends at the Ryugu Palace successfully.
 Dialogue: 0,0:09:55.98,0:09:57.98,Default,,0,0,0,,Straw!
 Dialogue: 0,0:09:57.98,0:10:01.49,Default,,0,0,0,,Pappagu! I'm happy to see you again!
-Dialogue: 0,0:10:01.49,0:10:06.36,Default,,0,0,0,,But, but, I've had quite a few brushes with death because of them!
-Dialogue: 0,0:10:06.82,0:10:10.13,DefaultLow,,0,0,0,,Straw Hat Luffy is a human and a pirate
-Dialogue: 0,0:10:07.32,0:10:12.83,OS,,0,0,0,,{\fad(500,500)}THE OUTSKIRTS OF CONCHCORDE PLAZA
+Dialogue: 0,0:10:01.49,0:10:06.20,Default,,0,0,0,,But, but, I've had quite a few brushes with death because of them!
+Dialogue: 0,0:10:07.29,0:10:10.13,DefaultLow,,0,0,0,,Straw Hat Luffy is a human and a pirate
+Dialogue: 0,0:10:07.29,0:10:12.80,Sign,,0,0,268,,{\blur0.3\fad(1000,520)\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(4990,5035,\1a&HFF&)}Outskirts of Conchcorde Plaza
+Dialogue: 1,0:10:07.29,0:10:12.80,Sign,,0,0,268,,{\bord0\blur0.3\fad(1000,520)\4a&HFF&}Outskirts of Conchcorde Plaza
 Dialogue: 0,0:10:10.13,0:10:11.66,DefaultLow,,0,0,0,,but he's on our side, right?
 Dialogue: 0,0:10:11.66,0:10:15.20,DefaultLow,,0,0,0,,Princess Shirahoshi called for his help!
 Dialogue: 0,0:10:15.20,0:10:19.74,Default,,0,0,0,,It looks like he came to save this country with Boss Jinbe!

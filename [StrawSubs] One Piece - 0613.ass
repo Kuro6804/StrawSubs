@@ -1,0 +1,288 @@
+﻿[Script Info]
+ScaledBorderAndShadow: yes
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,22,0
+Style: OS,Gandhi Sans,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,1,1,15,0
+Style: On Top,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,22,0
+Style: DefaultLow,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:34.36,0:02:37.71,Default,,0,0,0,,All the pirates who are \Nafter the One Piece...
+Dialogue: 0,0:02:37.70,0:02:42.68,Default,,0,0,0,,...head for the New World, the \Nsecond half of the Grand Line.
+Dialogue: 0,0:02:44.98,0:02:48.23,Default,,0,0,0,,However, no one has ever fully explored it
+Dialogue: 0,0:02:48.22,0:02:51.42,Default,,0,0,0,,except for Gold Roger, King of the Pirates.
+Dialogue: 0,0:02:52.42,0:02:58.15,Default,,0,0,0,,The New World has ruined many \Npirates' dreams and ambitions.
+Dialogue: 0,0:02:59.47,0:03:01.32,Default,,0,0,0,,Now, Monkey D. Luffy,
+Dialogue: 0,0:03:01.32,0:03:05.61,Default,,0,0,0,,a boy whose body turned to rubber \Nafter he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:05.61,0:03:07.36,Default,,0,0,0,,and his friends venture into that sea.
+Dialogue: 0,0:03:08.03,0:03:11.48,Default,,0,0,0,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:14.87,0:03:17.07,Default,,0,0,0,,After surviving a fierce battle,
+Dialogue: 0,0:03:17.07,0:03:20.39,Default,,0,0,0,,the Straw Hats finally entered the New World,
+Dialogue: 0,0:03:20.39,0:03:22.75,Default,,0,0,0,,the harshest sea ruled by the Four Emperors.
+Dialogue: 0,0:03:23.50,0:03:24.97,Default,,0,0,0,,They landed on Punk Hazard;
+Dialogue: 0,0:03:24.97,0:03:27.39,Default,,0,0,0,,an island with two parts, one \Nburning, the other frozen.
+Dialogue: 0,0:03:28.05,0:03:33.03,Default,,0,0,0,,After learning about the ruler of \Nthe island - Caesar Clown's motive,
+Dialogue: 0,0:03:33.02,0:03:36.45,Default,,0,0,0,,and all while trying to escape Shinokuni,
+Dialogue: 0,0:03:36.45,0:03:40.67,Default,,0,0,0,,along with their pirate ally \N- the Warlord - Trafalgar Law,
+Dialogue: 0,0:03:40.66,0:03:45.64,Default,,0,0,0,,they are on the move to kidnap \NCaesar, save the children,
+Dialogue: 0,0:03:45.64,0:03:47.57,Default,,0,0,0,,and escape from the island.
+Dialogue: 0,0:03:51.44,0:03:52.45,Default,,0,0,0,,What a shame.
+Dialogue: 0,0:03:52.74,0:03:54.98,Default,,0,0,0,,Why are you trying to attack the weak ones?
+Dialogue: 0,0:04:04.37,0:04:06.95,Default,,0,0,0,,How did the gas flow in?!
+Dialogue: 0,0:04:06.95,0:04:09.49,Default,,0,0,0,,I thought the door was closed!
+Dialogue: 0,0:04:09.49,0:04:11.26,Default,,0,0,0,,Is it leaking from somewhere?
+Dialogue: 0,0:04:11.43,0:04:13.32,Default,,0,0,0,,Really?!
+Dialogue: 0,0:04:13.32,0:04:16.42,Default,,0,0,0,,If so, this building is no longer safe!
+Dialogue: 0,0:04:16.71,0:04:18.75,Default,,0,0,0,,We have no time!
+Dialogue: 0,0:04:18.75,0:04:21.41,Default,,0,0,0,,Let's split up to look for the \NSea Prism Stone Handcuffs!
+Dialogue: 0,0:04:24.04,0:04:27.93,Default,,0,0,0,,You've been only defending yourself
+Dialogue: 0,0:04:27.93,0:04:30.69,Default,,0,0,0,,without even trying to attack. Why is it?
+Dialogue: 0,0:04:34.47,0:04:37.51,Default,,0,0,0,,Could it be what I think it is?
+Dialogue: 0,0:04:38.23,0:04:41.76,Default,,0,0,0,,To be honest, I didn't think \NI could beat you but...
+Dialogue: 0,0:04:43.22,0:04:45.36,Default,,0,0,0,,...maybe I can.
+Dialogue: 0,0:04:46.15,0:04:47.87,Default,,0,0,0,,I'm gonna stay here!
+Dialogue: 0,0:04:47.99,0:04:48.74,Default,,0,0,0,,What?!
+Dialogue: 0,0:04:59.49,0:05:01.11,Default,,0,0,0,,What are you thinking?
+Dialogue: 0,0:05:01.36,0:05:03.89,Default,,0,0,0,,I think you need my help here!
+Dialogue: 0,0:05:04.32,0:05:05.60,Default,,0,0,0,,What?
+Dialogue: 0,0:05:09.44,0:05:13.84,Default,,0,0,0,,"Showing Off His Techniques! Zoro's \NFormidable One-Sword Style!"
+Dialogue: 0,0:05:15.30,0:05:17.52,Default,,0,0,0,,Alright! Let's go, G-5!
+Dialogue: 0,0:05:17.52,0:05:20.77,Default,,0,0,0,,Let's go save the children \Nlike Captain-chan said!
+Dialogue: 0,0:05:20.76,0:05:23.14,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:05:23.14,0:05:26.19,Default,,0,0,0,,I can't believe there is another \NLogia eater besides Caesar!
+Dialogue: 0,0:05:26.19,0:05:30.34,Default,,0,0,0,,That cute harpy-chan was \Na Devil Fruit eater?!
+Dialogue: 0,0:05:30.34,0:05:31.83,Default,,0,0,0,,How awful!
+Dialogue: 0,0:05:31.83,0:05:34.07,Default,,0,0,0,,We can't handle her!
+Dialogue: 0,0:05:34.56,0:05:36.19,Default,,0,0,0,,Black Foot brother!
+Dialogue: 0,0:05:36.19,0:05:40.15,Default,,0,0,0,,Why didn't you help us when \Nshe was attacking us?!
+Dialogue: 0,0:05:40.44,0:05:44.30,Default,,0,0,0,,Don't be such a baby! I don't kick women!
+Dialogue: 0,0:05:45.27,0:05:48.46,Default,,0,0,0,,Then what would you do in \Na life-or-death battle?!
+Dialogue: 0,0:05:48.77,0:05:49.83,Default,,0,0,0,,I'd choose death!
+Dialogue: 0,0:05:50.98,0:05:52.47,Default,,0,0,0,,That's ridiculous!
+Dialogue: 0,0:05:52.96,0:05:56.73,Default,,0,0,0,,They're all so different even though \Nthey're in the same pirate group!
+Dialogue: 0,0:05:56.73,0:05:59.14,Default,,0,0,0,,That Pirate Hunter guy looked like
+Dialogue: 0,0:05:59.14,0:06:02.14,Default,,0,0,0,,he'd chop up anybody without mercy.
+Dialogue: 0,0:06:02.26,0:06:03.68,Default,,0,0,0,,Yeah, yeah.
+Dialogue: 0,0:06:07.48,0:06:11.44,Default,,0,0,0,,Surprisingly, he has a soft side \Ntoo but he will find a way out!
+Dialogue: 0,0:06:11.44,0:06:13.19,Default,,0,0,0,,You can count on him.
+Dialogue: 0,0:06:13.19,0:06:15.35,Default,,0,0,0,,Don't worry about Tashigi-chan, either!
+Dialogue: 0,0:06:15.60,0:06:17.43,Default,,0,0,0,,What we have got to do
+Dialogue: 0,0:06:17.43,0:06:23.29,Default,,0,0,0,,is save those damn children to impress \NNami-san, Robin-chan, and Tashigi-chan!
+Dialogue: 0,0:06:23.29,0:06:24.16,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:06:24.48,0:06:27.00,Default,,0,0,0,,All for the ladies!
+Dialogue: 0,0:06:29.60,0:06:33.98,On Top,,0,0,0,,NEAR THE EXIT OF THE BISCUIT ROOM
+Dialogue: 0,0:06:29.82,0:06:31.43,DefaultLow,,0,0,0,,Why don't you go with them?
+Dialogue: 0,0:06:31.68,0:06:33.03,DefaultLow,,0,0,0,,I'm free to do whatever I want!
+Dialogue: 0,0:06:33.03,0:06:34.91,DefaultLow,,0,0,0,,I don't need you here!
+Dialogue: 0,0:06:34.91,0:06:36.61,Default,,0,0,0,,You're free to think whatever you like!
+Dialogue: 0,0:06:36.99,0:06:38.44,Default,,0,0,0,,Well then,
+Dialogue: 0,0:06:40.50,0:06:42.38,Default,,0,0,0,,am I free to take care
+Dialogue: 0,0:06:42.38,0:06:46.58,Default,,0,0,0,,of you first since I'm a \Npirate, Navy soldier girl?!
+Dialogue: 0,0:06:48.62,0:06:49.59,Default,,0,0,0,,You can't do that.
+Dialogue: 0,0:06:49.81,0:06:51.01,Default,,0,0,0,,What?!
+Dialogue: 0,0:06:51.26,0:06:53.30,Default,,0,0,0,,You're not gonna cut me...
+Dialogue: 0,0:06:55.48,0:06:57.44,Default,,0,0,0,,…or that woman!
+Dialogue: 0,0:06:57.97,0:06:59.97,Default,,0,0,0,,You don't know that!
+Dialogue: 0,0:07:02.17,0:07:04.10,Default,,0,0,0,,That's what I was just thinking.
+Dialogue: 0,0:07:04.84,0:07:05.90,Default,,0,0,0,,I was right.
+Dialogue: 0,0:07:15.38,0:07:17.93,Default,,0,0,0,,Well then... I'm in a hurry, so...
+Dialogue: 0,0:07:23.23,0:07:24.53,Default,,0,0,0,,Why aren't you finishing me off?!
+Dialogue: 0,0:07:28.71,0:07:31.99,Default,,0,0,0,,Is it because I'm a woman?!
+Dialogue: 0,0:07:32.60,0:07:35.25,Default,,0,0,0,,It's humiliating that you won't \Nfight seriously in a game played
+Dialogue: 0,0:07:35.25,0:07:38.54,Default,,0,0,0,,in earnest just because men're \Nphysically stronger than women!
+Dialogue: 0,0:07:39.06,0:07:42.56,Default,,0,0,0,,I'm sure you don't understand the feeling
+Dialogue: 0,0:07:42.56,0:07:44.47,Default,,0,0,0,,that I wish I was born a boy!
+Dialogue: 0,0:07:44.78,0:07:48.08,Default,,0,0,0,,I don't carry a sword for pleasure!
+Dialogue: 0,0:07:48.33,0:07:50.92,Default,,0,0,0,,I don't like your very being!
+Dialogue: 0,0:07:52.17,0:07:54.90,Default,,0,0,0,,Listen! Your face!
+Dialogue: 0,0:07:54.90,0:07:58.06,Default,,0,0,0,,It looks exactly like my close \Nfriend's who died long ago!
+Dialogue: 0,0:07:58.06,0:08:02.18,Default,,0,0,0,,On top of that, you started saying \Nthe same thing she used to say!
+Dialogue: 0,0:08:02.47,0:08:05.77,Default,,0,0,0,,Don't imitate, you copycat woman!
+Dialogue: 0,0:08:06.76,0:08:08.74,Default,,0,0,0,,What?! Stop talking like a child!
+Dialogue: 0,0:08:25.03,0:08:26.99,Default,,0,0,0,,You view women as inferior!
+Dialogue: 0,0:08:26.99,0:08:28.67,Default,,0,0,0,,You don't really try to fight us!
+Dialogue: 0,0:08:28.67,0:08:30.37,Default,,0,0,0,,You won't kill us!
+Dialogue: 0,0:08:30.37,0:08:32.40,Default,,0,0,0,,Maybe you're not gonna lose but \Nyou're not gonna win either!
+Dialogue: 0,0:08:32.68,0:08:35.50,Default,,0,0,0,,That's why I had to stay here!
+Dialogue: 0,0:08:36.54,0:08:41.80,Default,,0,0,0,,If I let this Logia eater go after \Nmy people, there will be carnage!
+Dialogue: 0,0:08:43.79,0:08:45.99,Default,,0,0,0,,Are you looking down on me?!
+Dialogue: 0,0:08:45.99,0:08:46.70,Default,,0,0,0,,Yes, I am.
+Dialogue: 0,0:08:48.25,0:08:49.00,Default,,0,0,0,,Oh!
+Dialogue: 0,0:08:55.48,0:08:57.06,Default,,0,0,0,,Do as you like.
+Dialogue: 0,0:08:58.61,0:09:02.76,Default,,0,0,0,,My duty is to keep her from \Ngoing after my friends, too.
+Dialogue: 0,0:09:03.53,0:09:06.13,Default,,0,0,0,,I just wanna keep her away from that path.
+Dialogue: 0,0:09:06.38,0:09:08.10,Default,,0,0,0,,How can you take it so easy?
+Dialogue: 0,0:09:08.57,0:09:10.29,Default,,0,0,0,,Don't you know that we're out of time?!
+Dialogue: 0,0:09:10.29,0:09:11.67,Default,,0,0,0,,You better run, too!
+Dialogue: 0,0:09:13.29,0:09:16.84,Default,,0,0,0,,Don't drop your guard. \NShe's willing to kill you.
+Dialogue: 0,0:09:18.00,0:09:22.31,Default,,0,0,0,,He's right! Thank you for \Nsharing his weak point!
+Dialogue: 0,0:09:22.77,0:09:24.68,Default,,0,0,0,,Even though you can use Haki,
+Dialogue: 0,0:09:24.67,0:09:27.65,Default,,0,0,0,,it's not so hard for me to gnaw you to death!
+Dialogue: 0,0:09:39.05,0:09:40.51,Default,,0,0,0,,How annoying!
+Dialogue: 0,0:09:40.56,0:09:44.47,Default,,0,0,0,,But even if Haki allows you to sense \Na Devil Fruit eater's true form,
+Dialogue: 0,0:09:45.14,0:09:49.26,Default,,0,0,0,,you can't catch me unless \Nyou can keep up with me!
+Dialogue: 0,0:09:50.65,0:09:52.44,Default,,0,0,0,,Isn't that right?!
+Dialogue: 0,0:10:02.78,0:10:03.68,Default,,0,0,0,,I thought so.
+Dialogue: 0,0:10:05.18,0:10:07.42,Default,,0,0,0,,You're a cold man.
+Dialogue: 0,0:10:07.67,0:10:09.89,Default,,0,0,0,,This? Coming from a snow woman?
+Dialogue: 0,0:10:10.54,0:10:12.36,Default,,0,0,0,,Pay attention!
+Dialogue: 0,0:10:14.51,0:10:16.10,Default,,0,0,0,,Do you like snowball fights?
+Dialogue: 0,0:10:18.51,0:10:20.05,Default,,0,0,0,,Snow Rabbit!
+Dialogue: 0,0:10:22.27,0:10:23.18,Default,,0,0,0,,Shave!
+Dialogue: 0,0:10:31.66,0:10:33.50,Default,,0,0,0,,You're Smoker's right-hand girl.
+Dialogue: 0,0:10:34.09,0:10:36.28,Default,,0,0,0,,Maybe I have underestimated you a little bit.
+Dialogue: 0,0:10:37.91,0:10:40.53,Default,,0,0,0,,I wonder how he is now.
+Dialogue: 0,0:10:40.53,0:10:43.76,Default,,0,0,0,,I know he's pretty strong \Nbut Vergo is more...
+Dialogue: 0,0:10:43.75,0:10:46.93,Default,,0,0,0,,You don't have to worry about Smoker-san!
+Dialogue: 0,0:10:46.93,0:10:50.90,Default,,0,0,0,,You people can't beat him! \NNot in a million years!
+Dialogue: 0,0:10:50.90,0:10:53.54,Default,,0,0,0,,I know that better than anybody!
+Dialogue: 0,0:10:53.79,0:10:55.80,Default,,0,0,0,,How scary.
+Dialogue: 0,0:10:55.80,0:10:56.85,Default,,0,0,0,,Snowstorm.
+Dialogue: 0,0:11:05.69,0:11:06.81,Default,,0,0,0,,Whoa-whoa!
+Dialogue: 0,0:11:15.75,0:11:18.56,DefaultLow,,0,0,0,,Why is it chasing me?!
+Dialogue: 0,0:11:15.91,0:11:18.56,On Top,,0,0,0,,B BUILDING - USOPP
+Dialogue: 0,0:11:19.94,0:11:21.00,Default,,0,0,0,,Don't follow me!
+Dialogue: 0,0:11:23.53,0:11:26.33,Default,,0,0,0,,Alright. It's not gonna be safe here
+Dialogue: 0,0:11:26.33,0:11:28.87,Default,,0,0,0,,and I gotta find the Sea Prism \NStone handcuffs already!
+Dialogue: 0,0:11:40.72,0:11:42.42,Default,,0,0,0,,That was close...
+Dialogue: 0,0:11:43.81,0:11:45.72,Default,,0,0,0,,What is this place?
+Dialogue: 0,0:11:45.72,0:11:48.43,Default,,0,0,0,,It's dark and I can't see anything!
+Dialogue: 0,0:11:48.43,0:11:50.22,Default,,0,0,0,,And it's cold!
+Dialogue: 0,0:11:53.45,0:11:57.24,Default,,0,0,0,,The handcuffs... Where are the handcuffs?
+Dialogue: 0,0:11:57.39,0:12:01.20,Default,,0,0,0,,I hope there are no monsters in here!
+Dialogue: 0,0:12:03.45,0:12:05.15,Default,,0,0,0,,Oh! Oops!
+Dialogue: 0,0:12:10.40,0:12:12.66,Default,,0,0,0,,Excuse me, Kin'emon-san!
+Dialogue: 0,0:12:13.58,0:12:15.61,Default,,0,0,0,,Where are you hurrying off to?
+Dialogue: 0,0:12:15.80,0:12:19.71,Default,,0,0,0,,Corpse-dono! I heard children's \Nvoices - they were close!
+Dialogue: 0,0:12:20.39,0:12:25.40,Default,,0,0,0,,What?! But that doesn't \Nmean you can leave me here!
+Dialogue: 0,0:12:25.40,0:12:27.86,Default,,0,0,0,,The poison gas is coming this way, too!
+Dialogue: 0,0:12:28.02,0:12:29.76,Default,,0,0,0,,Momonosuke!
+Dialogue: 0,0:12:29.93,0:12:32.30,Default,,0,0,0,,--Oh, children!\N--Who are you?!
+Dialogue: 0,0:12:32.72,0:12:35.87,Default,,0,0,0,,Do you kids know Momonosuke?
+Dialogue: 0,0:12:35.86,0:12:37.71,Default,,0,0,0,,He is my son!
+Dialogue: 0,0:12:38.90,0:12:40.81,Default,,0,0,0,,--I'm scared!\N--What?
+Dialogue: 0,0:12:41.37,0:12:43.60,Default,,0,0,0,,Wait! Just wait!
+Dialogue: 0,0:12:44.00,0:12:44.82,Default,,0,0,0,,What?
+Dialogue: 0,0:12:46.78,0:12:48.19,Default,,0,0,0,,There are so many of them!
+Dialogue: 0,0:12:48.19,0:12:51.49,Default,,0,0,0,,Momonosuke! Is Momonosuke here?!
+Dialogue: 0,0:12:51.85,0:12:54.02,Default,,0,0,0,,Answer me if you're here!
+Dialogue: 0,0:12:59.40,0:13:01.20,Default,,0,0,0,,There were still this many kids?!
+Dialogue: 0,0:13:03.03,0:13:04.00,Default,,0,0,0,,Alright!
+Dialogue: 0,0:13:04.16,0:13:08.48,Default,,0,0,0,,It's dangerous here! Everybody, \Nget to R Building!
+Dialogue: 0,0:13:08.48,0:13:09.64,Default,,0,0,0,,A skeleton!
+Dialogue: 0,0:13:09.80,0:13:13.16,Default,,0,0,0,,How could you say that? \NBut I'm glad they're fine!
+Dialogue: 0,0:13:13.16,0:13:14.77,Default,,0,0,0,,Go to R Building now!
+Dialogue: 0,0:13:15.08,0:13:18.18,Default,,0,0,0,,Hey, are you looking for Momonosuke-kun?
+Dialogue: 0,0:13:19.98,0:13:21.22,Default,,0,0,0,,Mocha!
+Dialogue: 0,0:13:21.22,0:13:23.05,DefaultLow,,0,0,0,,Give us the candy!
+Dialogue: 0,0:13:22.02,0:13:25.82,OS,,0,0,0,,B BUILDING 3RD FLOOR - A PATH IN THE BACK
+Dialogue: 0,0:13:23.11,0:13:25.82,DefaultLow,,0,0,0,,Stop! You can't have it all!
+Dialogue: 0,0:13:26.23,0:13:28.90,Default,,0,0,0,,Konbu! Doran! Everybody!
+Dialogue: 0,0:13:28.90,0:13:31.12,Default,,0,0,0,,I know it's hard but you can't have it!
+Dialogue: 0,0:13:33.42,0:13:34.77,Default,,0,0,0,,There she is! Mocha!
+Dialogue: 0,0:13:35.06,0:13:37.40,Default,,0,0,0,,Robin! Hold the children!
+Dialogue: 0,0:13:38.08,0:13:39.54,Default,,0,0,0,,Cien Fleurs!
+Dialogue: 0,0:13:45.43,0:13:47.51,Default,,0,0,0,,What?! The hands again?!
+Dialogue: 0,0:13:47.51,0:13:49.71,Default,,0,0,0,,I'm sorry! I had to do this.
+Dialogue: 0,0:13:51.38,0:13:54.25,Default,,0,0,0,,This will ease your pain a bit.
+Dialogue: 0,0:13:58.98,0:14:01.32,Default,,0,0,0,,Sis!
+Dialogue: 0,0:14:01.87,0:14:02.76,Default,,0,0,0,,Mocha!
+Dialogue: 0,0:14:06.04,0:14:09.16,Default,,0,0,0,,Mocha! Don't let them have those candies!
+Dialogue: 0,0:14:14.79,0:14:16.47,Default,,0,0,0,,Keep running!
+Dialogue: 0,0:14:16.46,0:14:17.36,Default,,0,0,0,,Uh-huh!
+Dialogue: 0,0:14:18.13,0:14:20.99,Default,,0,0,0,,Chopper-chan, I'm not gonna give up!
+Dialogue: 0,0:14:20.99,0:14:22.64,Default,,0,0,0,,I won't give up - for everyone's sake!
+Dialogue: 0,0:14:23.38,0:14:25.12,Default,,0,0,0,,I'm not gonna let anybody have it!
+Dialogue: 0,0:14:41.65,0:14:45.70,On Top,,0,0,0,,THE BASEMENT OF C BUILDING - A GARBAGE DUMP
+Dialogue: 0,0:14:59.63,0:15:01.26,Default,,0,0,0,,Hey, are you alright?!
+Dialogue: 0,0:15:07.89,0:15:10.70,Default,,0,0,0,,I'll take it from here, Momo!
+Dialogue: 0,0:15:13.77,0:15:16.56,Default,,0,0,0,,Wait for me, Caesar!
+Dialogue: 0,0:15:30.64,0:15:34.01,Default,,0,0,0,,I'll say hi to your people for you
+Dialogue: 0,0:15:34.43,0:15:37.15,Default,,0,0,0,,and tell them "She died a tragic death."
+Dialogue: 0,0:15:47.86,0:15:49.84,Default,,0,0,0,,Sword Snow - Skin Sword!
+Dialogue: 0,0:16:05.99,0:16:09.28,Default,,0,0,0,,Wh-What happened to my shoulder?!
+Dialogue: 0,0:16:27.63,0:16:31.28,Default,,0,0,0,,What are you doing?! Let go of me!
+Dialogue: 0,0:16:37.32,0:16:40.25,Default,,0,0,0,,If I let go of her, she's \Ngonna bite off my shoulder!
+Dialogue: 0,0:16:45.96,0:16:50.05,Default,,0,0,0,,I can just shred it to pieces if you prefer!
+Dialogue: 0,0:17:14.54,0:17:18.28,Default,,0,0,0,,You talked so big but took so much time.
+Dialogue: 0,0:17:19.12,0:17:20.51,Default,,0,0,0,,Time's up.
+Dialogue: 0,0:17:26.57,0:17:29.16,Default,,0,0,0,,I have to go now.
+Dialogue: 0,0:17:39.40,0:17:42.92,Default,,0,0,0,,I thought he wouldn't cut women.
+Dialogue: 0,0:17:42.92,0:17:47.48,Default,,0,0,0,,But he just tried to cut me!
+Dialogue: 0,0:17:48.89,0:17:51.79,Default,,0,0,0,,You've underestimated me, snow woman.
+Dialogue: 0,0:17:54.85,0:17:58.07,Default,,0,0,0,,When you thought you couldn't beat me,
+Dialogue: 0,0:17:58.71,0:18:00.85,Default,,0,0,0,,you should have run.
+Dialogue: 0,0:18:02.45,0:18:05.54,Default,,0,0,0,,Of course, there are things \Nthat I don't wanna cut.
+Dialogue: 0,0:18:07.04,0:18:08.17,Default,,0,0,0,,But...
+Dialogue: 0,0:18:09.95,0:18:11.83,Default,,0,0,0,,...let me ask you something.
+Dialogue: 0,0:18:11.83,0:18:17.82,Default,,0,0,0,,Have you ever seen a fierce animal \Nyou were sure would never bite?
+Dialogue: 0,0:18:23.92,0:18:26.09,Default,,0,0,0,,Because I haven't.
+Dialogue: 0,0:18:27.97,0:18:29.53,Default,,0,0,0,,Wh-What?!
+Dialogue: 0,0:18:30.03,0:18:32.16,Default,,0,0,0,,I can't move!
+Dialogue: 0,0:18:33.46,0:18:35.36,Default,,0,0,0,,One-Sword!
+Dialogue: 0,0:18:35.70,0:18:36.67,Default,,0,0,0,,He's gonna cut me!
+Dialogue: 0,0:18:57.63,0:18:59.09,Default,,0,0,0,,Great Dragon Shock!
+Dialogue: 0,0:19:22.43,0:19:24.96,Default,,0,0,0,,Are you two happy now?
+Dialogue: 0,0:19:31.54,0:19:32.72,Default,,0,0,0,,He cut her!
+Dialogue: 0,0:19:40.72,0:19:43.77,Default,,0,0,0,,How insulting!
+Dialogue: 0,0:19:45.19,0:19:46.14,Default,,0,0,0,,What?
+Dialogue: 0,0:19:47.83,0:19:49.21,Default,,0,0,0,,Is she still alive?!
+Dialogue: 0,0:19:54.59,0:19:57.61,Default,,0,0,0,,He didn't use Haki?
+Dialogue: 0,0:19:59.37,0:20:03.85,Default,,0,0,0,,Is this how he shows his mercy?
+Dialogue: 0,0:20:21.96,0:20:24.31,Default,,0,0,0,,I guess she can't control her body.
+Dialogue: 0,0:20:25.29,0:20:28.13,Default,,0,0,0,,Because she's frightened by \Nhis overwhelming strength
+Dialogue: 0,0:20:28.13,0:20:30.22,Default,,0,0,0,,and the fact she could have \Ndied if he had used Haki!
+Dialogue: 0,0:20:31.91,0:20:33.66,Default,,0,0,0,,I've never seen anyone \Nbeat somebody like this!
+Dialogue: 0,0:20:35.00,0:20:36.35,Default,,0,0,0,,When the Straw Hats disappeared \Nfor two years,--
+Dialogue: 0,0:20:36.34,0:20:39.96,Default,,0,0,0,,I wonder where they were \Nand what they were doing.
+Dialogue: 0,0:20:41.07,0:20:45.03,Default,,0,0,0,,Just how strong have they become?!
+Dialogue: 0,0:20:45.75,0:20:50.07,Default,,0,0,0,,Ro... ro... noa... Zoro!
+Dialogue: 0,0:20:56.04,0:20:58.11,Default,,0,0,0,,I won't let you get away!
+Dialogue: 0,0:20:59.02,0:21:00.23,Default,,0,0,0,,Sword Autumn Rain!
+Dialogue: 0,0:21:07.45,0:21:10.54,Default,,0,0,0,,You lose.
+Dialogue: 0,0:21:27.07,0:21:28.65,Default,,0,0,0,,What was that?!
+Dialogue: 0,0:21:28.65,0:21:31.81,Default,,0,0,0,,You didn't try to kill \Nher after all, did you?!
+Dialogue: 0,0:21:32.00,0:21:35.24,Default,,0,0,0,,See, like I said, you're...
+Dialogue: 0,0:21:35.70,0:21:38.78,Default,,0,0,0,,I didn't ask you to do that. So shut up.
+Dialogue: 0,0:21:39.10,0:21:42.48,Default,,0,0,0,,If you didn't kill her, I did.
+Dialogue: 0,0:21:43.15,0:21:47.22,Default,,0,0,0,,Don't lie! It's not fair! I already cut her!
+Dialogue: 0,0:21:47.22,0:21:48.81,Default,,0,0,0,,You didn't have to do that.
+Dialogue: 0,0:21:50.34,0:21:51.35,Default,,0,0,0,,But...
+Dialogue: 0,0:21:53.17,0:21:55.26,Default,,0,0,0,,Good job, Captain Eyeglasses.
+Dialogue: 0,0:21:55.49,0:21:58.26,Default,,0,0,0,,You stopped her from going after anybody.
+Dialogue: 0,0:21:59.52,0:22:01.57,Default,,0,0,0,,You can take the credit.
+Dialogue: 0,0:22:03.10,0:22:06.22,Default,,0,0,0,,Why do you always talk like \Nyou're greater than me?!
+Dialogue: 0,0:22:06.22,0:22:07.95,Default,,0,0,0,,Because I am.
+Dialogue: 0,0:22:19.34,0:22:20.26,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:22:22.04,0:22:25.69,Default,,0,0,0,,It's nothing. You can go ahead.
+Dialogue: 0,0:22:27.92,0:22:29.06,Default,,0,0,0,,Hey, hey!
+Dialogue: 0,0:22:29.78,0:22:33.03,Default,,0,0,0,,Monet... Huh! How useless!
+Dialogue: 0,0:22:33.57,0:22:37.21,Default,,0,0,0,,Straw Hats! Make your way \Nto R Building already!
+Dialogue: 0,0:22:37.61,0:22:39.91,Default,,0,0,0,,That's where you'll meet your demise!
+Dialogue: 0,0:22:41.21,0:22:43.31,Default,,0,0,0,,I can't wait to see you suffer
+Dialogue: 0,0:22:43.31,0:22:46.59,Default,,0,0,0,,from the gas and groan, as my test subjects!
+Dialogue: 0,0:23:09.73,0:23:12.63,Default,,0,0,0,,While holding the candy, \NMocha desperately tries to get away.
+Dialogue: 0,0:23:12.63,0:23:15.74,Default,,0,0,0,,But then the crazed children surround her.
+Dialogue: 0,0:23:15.74,0:23:18.98,Default,,0,0,0,,Just when the children almost \Nsuccessfully take the candy,
+Dialogue: 0,0:23:18.98,0:23:21.48,Default,,0,0,0,,Mocha makes a surprising move,
+Dialogue: 0,0:23:21.48,0:23:24.10,Default,,0,0,0,,making Chopper's heartbreaking scream resonate.
+Dialogue: 0,0:23:24.10,0:23:25.48,Default,,0,0,0,,On the next episode of One Piece!
+Dialogue: 0,0:23:25.48,0:23:28.89,Default,,0,0,0,,"To Save Her Friends! Mocha \NRuns at the Risk of Her Life!"
+Dialogue: 0,0:23:28.89,0:23:30.98,Default,,0,0,0,,I'm gonna be King of the Pirates!!

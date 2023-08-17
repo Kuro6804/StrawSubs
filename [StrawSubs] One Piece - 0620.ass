@@ -1,0 +1,266 @@
+﻿[Script Info]
+ScaledBorderAndShadow: yes
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,22,0
+Style: Italics,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,1,0,2,20,20,22,0
+Style: On Top,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,20,20,22,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.86,0:00:05.52,Default,,0,0,0,,{\i1}Gold Roger, the King of the Pirates,
+Dialogue: 0,0:00:05.52,0:00:07.95,Italics,,0,0,0,,\Nonce attained everything this world has to offer.{\i0}
+Dialogue: 0,0:00:08.24,0:00:10.56,Default,,0,0,0,,{\i1}The words he uttered \Njust before his death
+Dialogue: 0,0:00:10.56,0:00:12.76,Italics,,0,0,0,,\Ndrove people around the world to the seas.{\i0}
+Dialogue: 0,0:00:12.97,0:00:16.21,Default,,0,0,0,,My treasure?\NIf you want it, you can have it!
+Dialogue: 0,0:00:16.21,0:00:19.80,Default,,0,0,0,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:00:20.08,0:00:22.72,Default,,0,0,0,,{\i1}Now everyone is in \Nsearch of romanticism!{\i0}
+Dialogue: 0,0:00:22.72,0:00:25.39,Default,,0,0,0,,{\i1}The world has truly entered \Na Great Pirate Era!{\i0}
+Dialogue: 0,0:00:25.45,0:00:29.36,On Top,,0,0,0,,{\i1}jitto dekinai tomarenai{\i0}
+Dialogue: 0,0:00:25.45,0:00:29.36,Default,,0,0,0,,{\i1}I can't stand still, I can't stop{\i0}
+Dialogue: 0,0:00:29.36,0:00:33.76,On Top,,0,0,0,,{\i1}yoake ga osokute jirettai{\i0}
+Dialogue: 0,0:00:29.36,0:00:33.76,Default,,0,0,0,,{\i1}Daybreak hasn't come \Nyet and I can't wait{\i0}
+Dialogue: 0,0:00:33.76,0:00:38.03,On Top,,0,0,0,,{\i1}ichi, ni, Sunshine yon...we go!{\i0}
+Dialogue: 0,0:00:33.76,0:00:38.03,Default,,0,0,0,,{\i1}One, two, Sunshine four...WE GO!{\i0}
+Dialogue: 0,0:00:38.90,0:00:44.24,On Top,,0,0,0,,{\i1}hata wo ageyou Break of Romance Dawn{\i0}
+Dialogue: 0,0:00:38.90,0:00:44.24,Default,,0,0,0,,{\i1}Fly the flag, Break of Romance Dawn{\i0}
+Dialogue: 0,0:00:44.24,0:00:49.68,On Top,,0,0,0,,{\i1}namikaze tateyou suriipu \Nkara no janpusutaato{\i0}
+Dialogue: 0,0:00:44.24,0:00:49.68,Default,,0,0,0,,{\i1}Make waves, jump from your sleep{\i0}
+Dialogue: 0,0:00:49.68,0:00:54.21,On Top,,0,0,0,,{\i1}arienai sekai wo iku nara{\i0}
+Dialogue: 0,0:00:49.68,0:00:54.21,Default,,0,0,0,,{\i1}If you want to go to \Nthe unbelievable world{\i0}
+Dialogue: 0,0:00:54.21,0:00:58.99,On Top,,0,0,0,,{\i1}kimi no tafunesu sore ga hitsuyou{\i0}
+Dialogue: 0,0:00:54.21,0:00:58.99,Default,,0,0,0,,{\i1}your toughness, that's what it takes{\i0}
+Dialogue: 0,0:00:58.99,0:01:01.59,On Top,,0,0,0,,{\i1}medachisugi sorette tsumi?{\i0}
+Dialogue: 0,0:00:58.99,0:01:01.59,Default,,0,0,0,,{\i1}Being brazen, is it a crime?{\i0}
+Dialogue: 0,0:01:01.59,0:01:04.76,On Top,,0,0,0,,{\i1}shimeitehai->tsumari Winner :D{\i0}
+Dialogue: 0,0:01:01.59,0:01:04.76,Default,,0,0,0,,{\i1}Wanted->means Winner:D{\i0}
+Dialogue: 0,0:01:04.76,0:01:10.43,On Top,,0,0,0,,{\i1}jiyuu dakega ore tachi no ruuru{\i0}
+Dialogue: 0,0:01:04.76,0:01:10.43,Default,,0,0,0,,{\i1}Freedom is our only rule{\i0}
+Dialogue: 0,0:01:10.43,0:01:15.93,On Top,,0,0,0,,{\i1}shinpai nante dokofuku kaze--{\i0}
+Dialogue: 0,0:01:10.43,0:01:15.93,Default,,0,0,0,,{\i1}It's not our way to worry{\i0}
+Dialogue: 0,0:01:15.93,0:01:18.45,On Top,,0,0,0,,{\i1}ttai one piece ichibannori{\i0}
+Dialogue: 0,0:01:15.93,0:01:18.45,Default,,0,0,0,,{\i1}At any cost, One Piece, \NI'll be the first{\i0}
+Dialogue: 0,0:01:18.45,0:01:22.45,On Top,,0,0,0,,{\i1}yume miru kokoro wa choo dekai{\i0}
+Dialogue: 0,0:01:18.45,0:01:22.45,Default,,0,0,0,,{\i1}My dreaming heart is huge{\i0}
+Dialogue: 0,0:01:22.45,0:01:26.67,On Top,,0,0,0,,{\i1}samenai koto ga daiji--{\i0}
+Dialogue: 0,0:01:22.45,0:01:26.67,Default,,0,0,0,,{\i1}It's important not to wake up{\i0}
+Dialogue: 0,0:01:26.67,0:01:29.30,On Top,,0,0,0,,{\i1}tto dekinai tomarenai{\i0}
+Dialogue: 0,0:01:26.67,0:01:29.30,Default,,0,0,0,,{\i1}I can't stand still, I can't stop{\i0}
+Dialogue: 0,0:01:29.30,0:01:33.43,On Top,,0,0,0,,{\i1}yoake ga osokute jirettai{\i0}
+Dialogue: 0,0:01:29.30,0:01:33.43,Default,,0,0,0,,{\i1}Daybreak hasn't come \Nyet and I can't wait{\i0}
+Dialogue: 0,0:01:33.43,0:01:37.99,On Top,,0,0,0,,{\i1}ichi, ni, Sunshine yon...we go!{\i0}
+Dialogue: 0,0:01:33.43,0:01:37.99,Default,,0,0,0,,{\i1}One, two, Sunshine four...WE GO!{\i0}
+Dialogue: 0,0:01:38.59,0:01:44.59,On Top,,0,0,0,,{\i1}ore tachi wa...koko made kitaze{\i0}
+Dialogue: 0,0:01:38.59,0:01:44.59,Default,,0,0,0,,{\i1}We...made it this far{\i0}
+Dialogue: 0,0:01:44.59,0:01:47.48,On Top,,0,0,0,,{\i1}ore tachi wa iku...yume no arika e{\i0}
+Dialogue: 0,0:01:44.59,0:01:47.48,Default,,0,0,0,,{\i1}We go...to where the dream is{\i0}
+Dialogue: 0,0:01:47.48,0:01:52.41,On Top,,0,0,0,,{\i1}dare mo oitekanaize--{\i0}
+Dialogue: 0,0:01:47.48,0:01:52.41,Default,,0,0,0,,{\i1}We won't left anyone behind{\i0}
+Dialogue: 0,0:01:52.41,0:01:55.10,On Top,,0,0,0,,{\i1}nshin aru nomi sore ga chikai{\i0}
+Dialogue: 0,0:01:52.41,0:01:55.10,Default,,0,0,0,,{\i1}Keep going forward, that's our pledge{\i0}
+Dialogue: 0,0:01:55.10,0:01:59.09,On Top,,0,0,0,,{\i1}yume ga hajimatta ano hi kara{\i0}
+Dialogue: 0,0:01:55.10,0:01:59.09,Default,,0,0,0,,{\i1}Since the day that the dream began{\i0}
+Dialogue: 0,0:01:59.09,0:02:03.39,On Top,,0,0,0,,{\i1}mezasu mirai wa onaji--{\i0}
+Dialogue: 0,0:01:59.09,0:02:03.39,Default,,0,0,0,,{\i1}the future that I'm \Naiming at hasn't changed{\i0}
+Dialogue: 0,0:02:03.39,0:02:05.99,Default,,0,0,0,,{\i1}I can't stand still, I can't stop{\i0}
+Dialogue: 0,0:02:03.39,0:02:05.99,On Top,,0,0,0,,{\i1}tto dekinai tomarenai{\i0}
+Dialogue: 0,0:02:05.99,0:02:10.44,Default,,0,0,0,,{\i1}The sun of my heart will never set{\i0}
+Dialogue: 0,0:02:05.99,0:02:10.44,On Top,,0,0,0,,{\i1}kokoro no taiyou shizumanai{\i0}
+Dialogue: 0,0:02:10.44,0:02:13.18,Default,,0,0,0,,{\i1}One, two, Sunshine{\i0}
+Dialogue: 0,0:02:10.44,0:02:13.18,On Top,,0,0,0,,{\i1}ichi, ni, Sunshine{\i0}
+Dialogue: 0,0:02:14.57,0:02:17.35,Default,,0,0,0,,{\i1}One, two, Sunshine{\i0}
+Dialogue: 0,0:02:14.57,0:02:17.35,On Top,,0,0,0,,{\i1}ichi, ni, Sunshine{\i0}
+Dialogue: 0,0:02:18.60,0:02:24.85,Default,,0,0,0,,{\i1}One, two, Sunshine four...WE GO!{\i0}
+Dialogue: 0,0:02:18.60,0:02:24.85,On Top,,0,0,0,,{\i1}ichi, ni, Sunshine yon...we go!{\i0}
+Dialogue: 0,0:02:27.08,0:02:29.26,Default,,0,0,0,,{\i1}WE GO!{\i0}
+Dialogue: 0,0:02:27.08,0:02:29.26,On Top,,0,0,0,,{\i1}we go!{\i0}
+Dialogue: 0,0:02:34.33,0:02:37.60,Default,,0,0,0,,{\i1}All the pirates who are \Nafter the One Piece...{\i0}
+Dialogue: 0,0:02:37.60,0:02:42.58,Default,,0,0,0,,{\i1}...head for the New World,\Nthe second half of the Grand Line.{\i0}
+Dialogue: 0,0:02:44.99,0:02:48.23,Default,,0,0,0,,{\i1}However, no one has \Never fully explored it
+Dialogue: 0,0:02:48.23,0:02:51.34,Italics,,0,0,0,,\Nexcept for Gold Roger, King of the Pirates.{\i0}
+Dialogue: 0,0:02:52.41,0:02:57.72,Default,,0,0,0,,{\i1}The New World has ruined\Nmany pirates' dreams and ambitions.{\i0}
+Dialogue: 0,0:02:59.46,0:03:02.43,Default,,0,0,0,,{\i1}Now, Monkey D. Luffy, a boy whose body
+Dialogue: 0,0:03:02.43,0:03:05.50,Italics,,0,0,0,,turned to rubber after \Nhe ate the Gum-Gum Fruit,{\i0}
+Dialogue: 0,0:03:05.50,0:03:07.30,Default,,0,0,0,,{\i1}and his friends venture into that sea.{\i0}
+Dialogue: 0,0:03:08.07,0:03:11.96,Default,,0,0,0,,I'm gonna become the \NKing of the Pirates!
+Dialogue: 0,0:03:15.23,0:03:17.96,Default,,0,0,0,,{\i1}The Straw Hats finally \Nentered the New World,
+Dialogue: 0,0:03:17.96,0:03:20.96,Italics,,0,0,0,,\Nthe harshest sea ruled by the Four Emperors{\i0}
+Dialogue: 0,0:03:20.96,0:03:22.91,Default,,0,0,0,,{\i1}and landed on Punk Hazard;
+Dialogue: 0,0:03:22.91,0:03:25.05,Italics,,0,0,0,,an island with two parts, one \Nburning, the other frozen.{\i0}
+Dialogue: 0,0:03:25.84,0:03:29.21,Default,,0,0,0,,{\i1}They learned about the ruler \Nof the island and the puppeteer
+Dialogue: 0,0:03:29.21,0:03:31.45,Italics,,0,0,0,,of Shinokuni - Caesar Clown's motive{\i0}
+Dialogue: 0,0:03:31.45,0:03:35.54,Default,,0,0,0,,{\i1}and along with their pirate ally -\Nthe Warlord - Trafalgar Law,{\i0}
+Dialogue: 0,0:03:35.54,0:03:37.49,Default,,0,0,0,,{\i1}they are caught in a climactic battle.{\i0}
+Dialogue: 0,0:03:38.03,0:03:42.35,Default,,0,0,0,,{\i1}And they finally defeated Caesar.{\i0}
+Dialogue: 0,0:03:51.51,0:03:55.19,Default,,0,0,0,,Smoker! The least I can do is...
+Dialogue: 0,0:03:55.48,0:03:57.98,Default,,0,0,0,,...take you along to hell with me!
+Dialogue: 0,0:04:00.86,0:04:04.51,Default,,0,0,0,,{\i1}Monet. I can't believe you're alive.{\i0}
+Dialogue: 0,0:04:05.55,0:04:07.55,Default,,0,0,0,,{\i1}Vergo's been beaten.{\i0}
+Dialogue: 0,0:04:08.42,0:04:11.29,Default,,0,0,0,,{\i1}It's all because of my misjudgment.{\i0}
+Dialogue: 0,0:04:11.29,0:04:14.21,Default,,0,0,0,,{\i1}I feel bad for you all.{\i0}
+Dialogue: 0,0:04:15.29,0:04:19.38,Default,,0,0,0,,{\i1}But I want to make sure\Nto wipe out all those squirts now.{\i0}
+Dialogue: 0,0:04:20.26,0:04:23.62,Default,,0,0,0,,{\i1}At the Third Laboratory, there \Nis another weapon that was
+Dialogue: 0,0:04:23.62,0:04:27.89,Italics,,0,0,0,,responsible for destroying the \NFirst and Second Laboratory{\i0}
+Dialogue: 0,0:04:27.89,0:04:30.46,Default,,0,0,0,,{\i1}and the rest of the \Nisland four years ago.{\i0}
+Dialogue: 0,0:04:30.46,0:04:33.34,Default,,0,0,0,,{\i1}With just the push of a button,
+Dialogue: 0,0:04:33.34,0:04:36.26,Italics,,0,0,0,,\Nthere will be only one survivor on the whole island.{\i0}
+Dialogue: 0,0:04:37.22,0:04:40.15,Default,,0,0,0,,{\i1}No one else can take \Nthat highly toxic gas.{\i0}
+Dialogue: 0,0:04:41.11,0:04:43.76,Default,,0,0,0,,{\i1}And that's Caesar!{\i0}
+Dialogue: 0,0:04:44.11,0:04:45.61,Default,,0,0,0,,{\i1}The button is at...{\i0}
+Dialogue: 0,0:04:45.61,0:04:48.19,Default,,0,0,0,,You don't have to say it, Joker.
+Dialogue: 0,0:04:49.71,0:04:51.68,Default,,0,0,0,,I was gonna do that, anyway.
+Dialogue: 0,0:04:53.05,0:04:54.61,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:04:55.38,0:04:59.13,Default,,0,0,0,,I need you to perish along \Nwith everything else.
+Dialogue: 0,0:05:03.05,0:05:04.39,Default,,0,0,0,,{\i1}Understood.{\i0}
+Dialogue: 0,0:05:07.76,0:05:12.19,Default,,0,0,0,,{\i1}"A Critical Situation!\NPunk Hazard Explodes!"{\i0}
+Dialogue: 0,0:05:48.11,0:05:49.66,Default,,0,0,0,,It's fast!
+Dialogue: 0,0:05:55.97,0:05:59.35,Default,,0,0,0,,Hey, get off of him!
+Dialogue: 0,0:05:59.35,0:06:01.02,Default,,0,0,0,,I won't!
+Dialogue: 0,0:06:02.32,0:06:05.51,Default,,0,0,0,,Hey, you're heavy! Get off!
+Dialogue: 0,0:06:05.73,0:06:07.90,Default,,0,0,0,,Why is there a dragon here?!
+Dialogue: 0,0:06:07.90,0:06:10.20,Default,,0,0,0,,Oh, I met him at a garbage dump.
+Dialogue: 0,0:06:10.20,0:06:11.15,Default,,0,0,0,,You brought him with you?
+Dialogue: 0,0:06:13.97,0:06:15.62,Default,,0,0,0,,It's no mistake!
+Dialogue: 0,0:06:23.11,0:06:24.81,Default,,0,0,0,,Father!
+Dialogue: 0,0:06:24.81,0:06:27.66,Default,,0,0,0,,What's wrong with him?
+Dialogue: 0,0:06:28.20,0:06:30.58,Default,,0,0,0,,Father!
+Dialogue: 0,0:06:30.58,0:06:33.40,Default,,0,0,0,,The eel is gonna attack me!
+Dialogue: 0,0:06:36.99,0:06:38.76,Default,,0,0,0,,Hey, Momo!
+Dialogue: 0,0:06:40.89,0:06:44.93,Default,,0,0,0,,Who is this dragon? He said "Father."
+Dialogue: 0,0:06:44.93,0:06:46.78,Default,,0,0,0,,Find out later.
+Dialogue: 0,0:06:49.40,0:06:54.32,Default,,0,0,0,,I don't see any light.\NThe exit must be farther away.
+Dialogue: 0,0:06:55.61,0:06:58.80,Default,,0,0,0,,How far did Caesar fly?!
+Dialogue: 0,0:07:25.90,0:07:28.36,Default,,0,0,0,,This is it for you!
+Dialogue: 0,0:07:28.64,0:07:30.96,Default,,0,0,0,,Smoker!
+Dialogue: 0,0:08:01.24,0:08:03.83,Default,,0,0,0,,{\i1}The Straw Hats.{\i0}
+Dialogue: 0,0:08:07.65,0:08:09.59,Default,,0,0,0,,{\i1}Trafalgar Law.{\i0}
+Dialogue: 0,0:08:13.49,0:08:14.84,Default,,0,0,0,,{\i1}G-5.{\i0}
+Dialogue: 0,0:08:20.33,0:08:22.15,Default,,0,0,0,,{\i1}Poor children.{\i0}
+Dialogue: 0,0:08:28.24,0:08:29.94,Default,,0,0,0,,{\i1}You all...{\i0}
+Dialogue: 0,0:08:30.60,0:08:32.67,Default,,0,0,0,,{\i1}...have to...{\i0}
+Dialogue: 0,0:08:33.27,0:08:34.42,Default,,0,0,0,,{\i1}...die with me.{\i0}
+Dialogue: 0,0:08:39.71,0:08:42.00,Default,,0,0,0,,{\i1}Goodbye, Young Master.{\i0}
+Dialogue: 0,0:08:44.72,0:08:46.78,Default,,0,0,0,,{\i1}I know you will become...{\i0}
+Dialogue: 0,0:08:48.72,0:08:53.38,Default,,0,0,0,,{\i1}...the King of the Pirates.{\i0}
+Dialogue: 0,0:10:07.57,0:10:11.49,Default,,0,0,0,,Why is the Transponder Snail \Nstill receiving the signal?
+Dialogue: 0,0:10:39.17,0:10:40.67,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:10:40.67,0:10:42.07,Default,,0,0,0,,Uh-huh!
+Dialogue: 0,0:10:43.74,0:10:45.79,Default,,0,0,0,,Seems like there was an explosion!
+Dialogue: 0,0:10:46.34,0:10:48.06,Default,,0,0,0,,I think it was in D Building.
+Dialogue: 0,0:10:48.68,0:10:51.91,Default,,0,0,0,,The SAD Manufacturing \NRoom where I was before.
+Dialogue: 0,0:11:02.12,0:11:03.31,Default,,0,0,0,,{\i1}Monet.{\i0}
+Dialogue: 0,0:11:19.84,0:11:23.04,Default,,0,0,0,,Goodbye, Smoker!
+Dialogue: 0,0:11:42.30,0:11:44.83,Default,,0,0,0,,{\i1}What happened, Monet?{\i0}
+Dialogue: 0,0:11:50.40,0:11:53.42,Default,,0,0,0,,Young Master...
+Dialogue: 0,0:12:15.86,0:12:17.60,Default,,0,0,0,,Hey, Law.
+Dialogue: 0,0:12:25.21,0:12:29.88,Default,,0,0,0,,If we can get out of here,\Nwe'll go separate ways.
+Dialogue: 0,0:12:29.88,0:12:32.73,Default,,0,0,0,,But there is something \NI want to ask you.
+Dialogue: 0,0:12:33.81,0:12:34.73,Default,,0,0,0,,What?
+Dialogue: 0,0:12:49.36,0:12:51.55,Default,,0,0,0,,This is yours.
+Dialogue: 0,0:13:01.38,0:13:05.26,Default,,0,0,0,,I thought Caesar had my heart.
+Dialogue: 0,0:13:06.08,0:13:08.63,Default,,0,0,0,,How did it end up in your hands?
+Dialogue: 0,0:13:10.35,0:13:12.77,Default,,0,0,0,,He just got the wrong idea.
+Dialogue: 0,0:13:14.39,0:13:17.59,Default,,0,0,0,,Let me keep your heart!
+Dialogue: 0,0:13:17.59,0:13:19.61,Default,,0,0,0,,And that's a deal!
+Dialogue: 0,0:13:24.20,0:13:27.32,Default,,0,0,0,,{\i1}To earn the trust of Caesar,{\i0}
+Dialogue: 0,0:13:27.70,0:13:30.37,Default,,0,0,0,,{\i1}I let him keep my heart{\i0}
+Dialogue: 0,0:13:31.31,0:13:35.81,Default,,0,0,0,,{\i1}and took his secretary \NMonet's heart in return.{\i0}
+Dialogue: 0,0:13:38.38,0:13:41.00,Default,,0,0,0,,Now it's a deal!
+Dialogue: 0,0:13:45.25,0:13:49.71,Default,,0,0,0,,{\i1}And then I cut your heart \Nout when you got to the lab.{\i0}
+Dialogue: 0,0:14:04.84,0:14:09.26,Default,,0,0,0,,{\i1}So I had two hearts in my possession.{\i0}
+Dialogue: 0,0:14:27.29,0:14:32.43,Default,,0,0,0,,The Navy G-5 Vice \NAdmiral Smoker's heart!
+Dialogue: 0,0:14:33.10,0:14:36.90,Default,,0,0,0,,What a nice gift, Law.
+Dialogue: 0,0:14:38.71,0:14:44.66,Default,,0,0,0,,I gave his secretary Monet's heart \Nback to him out of kindness.
+Dialogue: 0,0:14:59.06,0:15:00.76,Default,,0,0,0,,{\i1}Respond.{\i0}
+Dialogue: 0,0:15:02.66,0:15:03.65,Default,,0,0,0,,Monet.
+Dialogue: 0,0:15:08.90,0:15:13.46,Default,,0,0,0,,{\i1}As they say, if you are kind to people,{\i0}
+Dialogue: 0,0:15:14.21,0:15:17.14,Default,,0,0,0,,good things will happen to you.
+Dialogue: 0,0:16:13.23,0:16:16.79,Default,,0,0,0,,How did you like it?\NThis Missile Girl's...
+Dialogue: 0,0:16:18.44,0:16:20.51,Default,,0,0,0,,...flame of love?
+Dialogue: 0,0:16:22.51,0:16:25.36,Default,,0,0,0,,Hey, Baby 5!
+Dialogue: 0,0:16:25.81,0:16:30.72,Default,,0,0,0,,Do you need this weapon?\NEven though you're a weapon woman yourself.
+Dialogue: 0,0:16:30.72,0:16:33.00,Default,,0,0,0,,Thank you for picking it up, Buffalo!
+Dialogue: 0,0:16:33.42,0:16:36.56,Default,,0,0,0,,That's my good luck charm!
+Dialogue: 0,0:16:38.83,0:16:41.48,Default,,0,0,0,,An owner of this weapon is \Ndestined to become happy
+Dialogue: 0,0:16:41.83,0:16:44.83,Default,,0,0,0,,and if you buy this, \Nyou'd make me happy, too!
+Dialogue: 0,0:16:44.83,0:16:47.16,Default,,0,0,0,,What?! He...
+Dialogue: 0,0:16:48.24,0:16:51.09,Default,,0,0,0,,...needs me!
+Dialogue: 0,0:16:52.44,0:16:54.62,Default,,0,0,0,,I'm absolutely sure that he fooled you!
+Dialogue: 0,0:16:55.61,0:16:57.28,Default,,0,0,0,,Behind you-{\i1}dasuyan{\i0}!
+Dialogue: 0,0:17:02.45,0:17:05.89,Default,,0,0,0,,I don't know who you are but...
+Dialogue: 0,0:17:06.72,0:17:12.38,Default,,0,0,0,,{\i1}I'm an invincible Iron Pirate!{\i0}
+Dialogue: 0,0:17:12.38,0:17:17.20,Default,,0,0,0,,{\i1}I don't fight for the peace of the sea!{\i0}
+Dialogue: 0,0:17:17.20,0:17:19.68,Default,,0,0,0,,--Iron Pirate!\N--How persistent!
+Dialogue: 0,0:17:20.07,0:17:21.38,Default,,0,0,0,,Weapon-morphosis!
+Dialogue: 0,0:17:22.04,0:17:23.75,Default,,0,0,0,,Revolver Girl!
+Dialogue: 0,0:17:26.34,0:17:28.51,Default,,0,0,0,,Oh! It doesn't work!
+Dialogue: 0,0:17:33.45,0:17:35.27,Default,,0,0,0,,It just made me itchy!
+Dialogue: 0,0:17:35.45,0:17:37.25,Default,,0,0,0,,This guy's pretty tough!
+Dialogue: 0,0:17:37.25,0:17:39.24,Default,,0,0,0,,Baby 5!
+Dialogue: 0,0:17:39.24,0:17:40.79,Default,,0,0,0,,Catch it!
+Dialogue: 0,0:17:40.79,0:17:43.04,Default,,0,0,0,,Thanks, Buffalo!
+Dialogue: 0,0:17:43.05,0:17:46.44,Default,,0,0,0,,It's not over yet!
+Dialogue: 0,0:18:02.54,0:18:06.25,Default,,0,0,0,,This is no good!\NIt's collapsing faster!
+Dialogue: 0,0:18:09.15,0:18:10.33,Default,,0,0,0,,Look out!
+Dialogue: 0,0:18:14.42,0:18:15.77,Default,,0,0,0,,The passage is gonna collapse!
+Dialogue: 0,0:18:18.16,0:18:22.45,Default,,0,0,0,,We're in a tunnel through a mountain.\NIf it collapses, we'll be buried alive.
+Dialogue: 0,0:18:22.46,0:18:24.51,Default,,0,0,0,,Don't say it in a relaxed matter!
+Dialogue: 0,0:18:32.71,0:18:34.72,Default,,0,0,0,,Oh no! The wreckage blocked our way!
+Dialogue: 0,0:18:34.72,0:18:36.44,Default,,0,0,0,,Where are the brakes?!
+Dialogue: 0,0:18:41.92,0:18:43.23,Default,,0,0,0,,Keep going.
+Dialogue: 0,0:18:43.23,0:18:44.10,Default,,0,0,0,,What?!
+Dialogue: 0,0:19:16.05,0:19:17.47,Default,,0,0,0,,Cool!
+Dialogue: 0,0:19:17.69,0:19:20.14,Default,,0,0,0,,Can't believe it! He saved us!
+Dialogue: 0,0:19:20.35,0:19:23.37,Default,,0,0,0,,I don't want him to be my enemy!\NAlthough he already is!
+Dialogue: 0,0:19:31.37,0:19:33.48,Default,,0,0,0,,Don't get too comfortable yet.
+Dialogue: 0,0:19:49.68,0:19:51.53,Default,,0,0,0,,The deadly gas!
+Dialogue: 0,0:19:54.76,0:19:56.59,Default,,0,0,0,,You've got to be kidding!
+Dialogue: 0,0:20:00.03,0:20:02.25,Default,,0,0,0,,It's that thing again.
+Dialogue: 0,0:20:02.25,0:20:05.25,Default,,0,0,0,,Is it flowing in through \Ncracks of walls?
+Dialogue: 0,0:20:06.17,0:20:08.87,Default,,0,0,0,,It's gonna be more than \Njust being buried alive.
+Dialogue: 0,0:20:08.87,0:20:12.22,Default,,0,0,0,,Stop saying such horrible things\Nin a cool manner!
+Dialogue: 0,0:20:20.15,0:20:22.75,Default,,0,0,0,,There is going to be \Ngas around the exit.
+Dialogue: 0,0:20:23.88,0:20:26.85,Default,,0,0,0,,Can anybody here generate wind?
+Dialogue: 0,0:20:26.85,0:20:27.79,Default,,0,0,0,,What?
+Dialogue: 0,0:20:27.79,0:20:31.31,Default,,0,0,0,,It's not so easy to find a person\Nwith such a special skill!
+Dialogue: 0,0:20:32.26,0:20:34.50,Default,,0,0,0,,I can do that.
+Dialogue: 0,0:20:34.50,0:20:35.95,Default,,0,0,0,,How easy?!
+Dialogue: 0,0:20:46.37,0:20:47.82,Default,,0,0,0,,I see the exit!
+Dialogue: 0,0:20:49.88,0:20:52.00,Default,,0,0,0,,Alright, we're almost there!
+Dialogue: 0,0:20:52.51,0:20:54.35,Default,,0,0,0,,Go faster!
+Dialogue: 0,0:21:28.78,0:21:31.89,Default,,0,0,0,,Young Master!
+Dialogue: 0,0:21:32.89,0:21:34.66,Default,,0,0,0,,Young Master?
+Dialogue: 0,0:21:40.33,0:21:41.83,Default,,0,0,0,,Young Master?
+Dialogue: 0,0:21:42.55,0:21:44.63,Default,,0,0,0,,Young Master!
+Dialogue: 0,0:21:48.87,0:21:50.29,Default,,0,0,0,,I can't find him.
+Dialogue: 0,0:21:50.54,0:21:53.19,Default,,0,0,0,,Young Master!
+Dialogue: 0,0:21:56.71,0:21:58.60,Default,,0,0,0,,The Young Master is nowhere to be found.
+Dialogue: 0,0:21:59.38,0:22:01.60,Default,,0,0,0,,He must be in the room \Non the fourth floor.
+Dialogue: 0,0:22:03.05,0:22:05.84,Default,,0,0,0,,Uh-uh! He wasn't there.
+Dialogue: 0,0:22:06.09,0:22:07.96,Default,,0,0,0,,The window was open.
+Dialogue: 0,0:22:07.96,0:22:10.89,Default,,0,0,0,,Oh, okay.
+Dialogue: 0,0:22:11.96,0:22:13.74,Default,,0,0,0,,Then I don't know where he is.
+Dialogue: 0,0:22:20.30,0:22:23.09,Default,,0,0,0,,He went out by himself again.
+Dialogue: 0,0:22:26.34,0:22:30.49,Default,,0,0,0,,It's me. Tell me what's \Ngoing on over there.
+Dialogue: 0,0:22:30.49,0:22:35.30,Default,,0,0,0,,{\i1}W-We've actually been blocked by\Nsome kind of iron guard!{\i0}
+Dialogue: 0,0:22:37.58,0:22:39.97,Default,,0,0,0,,Is it still safe there?
+Dialogue: 0,0:22:40.22,0:22:41.42,Default,,0,0,0,,{\i1}Yes, it is!{\i0}
+Dialogue: 0,0:22:41.42,0:22:46.44,Default,,0,0,0,,Which means the island and those squirts\Nhaven't been wiped out.
+Dialogue: 0,0:22:51.47,0:22:53.30,Default,,0,0,0,,You two.
+Dialogue: 0,0:22:53.77,0:22:56.83,Default,,0,0,0,,Take care of that guard.
+Dialogue: 0,0:22:59.24,0:23:01.26,Default,,0,0,0,,I'm on my way!

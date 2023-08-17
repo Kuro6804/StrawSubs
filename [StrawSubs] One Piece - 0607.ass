@@ -1,0 +1,351 @@
+﻿[Script Info]
+ScaledBorderAndShadow: yes
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,22,0
+Style: OS,Gandhi Sans,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,8,1,1,15,0
+Style: DefaultLow,Gandhi Sans,26,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:34.31,0:02:37.70,Default,,0,0,0,,All the pirates who are after the One Piece...
+Dialogue: 0,0:02:37.69,0:02:42.68,Default,,0,0,0,,...head for the New World,\N the second half of the Grand Line.
+Dialogue: 0,0:02:45.02,0:02:48.23,Default,,0,0,0,,However, no one has ever fully explored it
+Dialogue: 0,0:02:48.22,0:02:51.42,Default,,0,0,0,,except for Gold Roger, King of the Pirates.
+Dialogue: 0,0:02:52.43,0:02:57.46,Default,,0,0,0,,The New World has ruined many \Npirates' dreams and ambitions.
+Dialogue: 0,0:02:59.41,0:03:01.23,Default,,0,0,0,,Now, Monkey D. Luffy,
+Dialogue: 0,0:03:01.23,0:03:04.00,Default,,0,0,0,,a boy whose body turned to rubber
+Dialogue: 0,0:03:04.00,0:03:05.37,Default,,0,0,0,,after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:05.36,0:03:07.37,Default,,0,0,0,,and his friends venture into that sea.
+Dialogue: 0,0:03:08.01,0:03:11.61,Default,,0,0,0,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:15.15,0:03:17.44,Default,,0,0,0,,After surviving a fierce battle,
+Dialogue: 0,0:03:17.44,0:03:20.68,Default,,0,0,0,,the Straw Hats finally entered the New World,
+Dialogue: 0,0:03:20.68,0:03:23.21,Default,,0,0,0,,the harshest sea ruled by the Four Emperors.
+Dialogue: 0,0:03:23.21,0:03:25.02,Default,,0,0,0,,They landed on Punk Hazard;
+Dialogue: 0,0:03:25.02,0:03:27.35,Default,,0,0,0,,an island with two parts,\N one burning, the other frozen
+Dialogue: 0,0:03:27.35,0:03:31.41,Default,,0,0,0,,and were held captive by\N Caesar Clown who rules the island
+Dialogue: 0,0:03:31.41,0:03:34.63,Default,,0,0,0,,and were exposed to Shinokuni, \Na weapon of mass destruction.
+Dialogue: 0,0:03:34.79,0:03:37.13,Default,,0,0,0,,But they were reunited with \Ntheir crew thanks to their ally -
+Dialogue: 0,0:03:37.13,0:03:40.54,Default,,0,0,0,,a Warlord - Trafalgar Law's tactful maneuvers
+Dialogue: 0,0:03:40.54,0:03:42.43,Default,,0,0,0,,and now they are heading for R Building - gate 66,
+Dialogue: 0,0:03:42.43,0:03:45.14,Default,,0,0,0,,the only door to the path of escape.
+Dialogue: 0,0:03:45.66,0:03:48.17,Default,,0,0,0,,Meanwhile, Vice Admiral Vergo, \Nthe base commander of the G-5,
+Dialogue: 0,0:03:48.17,0:03:51.08,Default,,0,0,0,,appeared in front of Tashigi\N and the others and...
+Dialogue: 0,0:03:51.07,0:03:53.76,Default,,0,0,0,,Captain Tashigi,\N you're gonna love this!
+Dialogue: 0,0:03:53.76,0:03:56.52,Default,,0,0,0,,Reinforcements have arrived!
+Dialogue: 0,0:03:56.72,0:03:59.06,Default,,0,0,0,,The Vice Admiral came to help!
+Dialogue: 0,0:04:07.87,0:04:08.47,Default,,0,0,0,,Vergo!
+Dialogue: 0,0:04:18.27,0:04:19.80,Default,,0,0,0,,Vice Admiral Smo-yan
+Dialogue: 0,0:04:19.80,0:04:21.28,Default,,0,0,0,,and Vice Admiral Vergo!
+Dialogue: 0,0:04:21.28,0:04:24.57,Default,,0,0,0,,We have both key figures\N of the G-5 here!
+Dialogue: 0,0:04:25.28,0:04:27.55,Default,,0,0,0,,We're invincible now!
+Dialogue: 0,0:04:27.94,0:04:28.52,Default,,0,0,0,,No...
+Dialogue: 0,0:04:28.82,0:04:31.75,Default,,0,0,0,,Yeah! Now we're safe!
+Dialogue: 0,0:04:32.56,0:04:33.19,Default,,0,0,0,,Run,
+Dialogue: 0,0:04:33.58,0:04:34.47,Default,,0,0,0,,everybody...
+Dialogue: 0,0:04:35.20,0:04:36.22,Default,,0,0,0,,Run!
+Dialogue: 0,0:04:49.97,0:04:51.69,Default,,0,0,0,,V-Vice Admiral Vergo,
+Dialogue: 0,0:04:51.69,0:04:53.57,Default,,0,0,0,,did they do something wrong?!
+Dialogue: 0,0:04:53.57,0:04:55.29,Default,,0,0,0,,Even if they needed to be punished,
+Dialogue: 0,0:04:55.29,0:04:57.91,Default,,0,0,0,,your Finger Pistol could kill them...
+Dialogue: 0,0:04:58.25,0:04:59.82,Default,,0,0,0,,Everybody, back away!
+Dialogue: 0,0:04:59.81,0:05:03.22,Default,,0,0,0,,He is not the man\N that you used to know!
+Dialogue: 0,0:05:04.21,0:05:06.92,Default,,0,0,0,,For a long time, he has been...
+Dialogue: 0,0:05:08.89,0:05:09.68,Default,,0,0,0,,Captain-chan!
+Dialogue: 0,0:05:19.25,0:05:21.51,Default,,0,0,0,,You're unforgivable,\N you impostor!
+Dialogue: 0,0:05:29.55,0:05:30.70,Default,,0,0,0,,Please stop!
+Dialogue: 0,0:05:32.57,0:05:33.67,Default,,0,0,0,,Help us,
+Dialogue: 0,0:05:34.09,0:05:35.61,Default,,0,0,0,,Smoker-san!
+Dialogue: 0,0:05:38.55,0:05:39.99,Default,,0,0,0,,A lady is...
+Dialogue: 0,0:05:39.99,0:05:40.39,Default,,0,0,0,,Who is it?!
+Dialogue: 0,0:05:40.94,0:05:43.12,Default,,0,0,0,,...in need!
+Dialogue: 0,0:05:50.97,0:05:52.40,Default,,0,0,0,,I heard the sound of...
+Dialogue: 0,0:05:53.62,0:05:55.30,Default,,0,0,0,,...a woman's tears falling.
+Dialogue: 0,0:06:00.90,0:06:02.25,Default,,0,0,0,,Ready?
+Dialogue: 0,0:06:02.25,0:06:03.78,Default,,0,0,0,,No!
+Dialogue: 0,0:06:03.78,0:06:05.00,Default,,0,0,0,,Wait a second!
+Dialogue: 0,0:06:05.00,0:06:06.11,Default,,0,0,0,,You...
+Dialogue: 0,0:06:06.11,0:06:10.11,Default,,0,0,0,,I've been running so fast that \Nthe friction has burned the floor!
+Dialogue: 0,0:06:12.05,0:06:13.97,Default,,0,0,0,,I'm catching my breath now.
+Dialogue: 0,0:06:15.89,0:06:18.48,Default,,0,0,0,,Hey, I didn't say "Okay"!
+Dialogue: 0,0:06:19.58,0:06:20.68,Default,,0,0,0,,Listen,
+Dialogue: 0,0:06:20.68,0:06:22.53,Default,,0,0,0,,Vergo is my enemy!
+Dialogue: 0,0:06:23.24,0:06:24.51,Default,,0,0,0,,I know!
+Dialogue: 0,0:06:24.51,0:06:26.53,Default,,0,0,0,,My enemy is Caesar!
+Dialogue: 0,0:06:26.53,0:06:28.61,Default,,0,0,0,,Keep your hands off of him!
+Dialogue: 0,0:06:33.99,0:06:36.05,Default,,0,0,0,,Oh, it's my enemy!
+Dialogue: 0,0:06:37.37,0:06:39.68,Default,,0,0,0,,I won't let you get away this time!
+Dialogue: 0,0:06:40.24,0:06:42.97,Default,,0,0,0,,Caesar!
+Dialogue: 0,0:06:49.96,0:06:53.85,Default,,0,0,0,,"A Fierce Battle Gets Heated!\N Luffy vs. Caesar!"
+Dialogue: 0,0:07:09.90,0:07:11.27,Default,,0,0,0,,White Chase-ya.
+Dialogue: 0,0:07:12.47,0:07:15.24,Default,,0,0,0,,You need to keep your\N hands off of Caesar.
+Dialogue: 0,0:07:15.67,0:07:17.91,Default,,0,0,0,,I'll be at a disadvantage\N once we take advantage
+Dialogue: 0,0:07:17.91,0:07:19.66,Default,,0,0,0,,of possessing each other's hearts.
+Dialogue: 0,0:07:20.44,0:07:23.22,Default,,0,0,0,,Until I get my heart back from Vergo,
+Dialogue: 0,0:07:23.22,0:07:25.12,Default,,0,0,0,,you can't do whatever you like.
+Dialogue: 0,0:07:25.91,0:07:27.87,Default,,0,0,0,,I want you to follow my orders
+Dialogue: 0,0:07:27.87,0:07:29.56,Default,,0,0,0,,while you're on the island.
+Dialogue: 0,0:07:30.59,0:07:31.61,Default,,0,0,0,,Understood?
+Dialogue: 0,0:07:34.63,0:07:36.31,Default,,0,0,0,,I took the shortest way...
+Dialogue: 0,0:07:38.05,0:07:40.12,Default,,0,0,0,,…as quickly as I could, I thought!
+Dialogue: 0,0:07:41.67,0:07:42.74,Default,,0,0,0,,Where is he?!
+Dialogue: 0,0:07:43.20,0:07:44.35,Default,,0,0,0,,Vergo!
+Dialogue: 0,0:07:49.51,0:07:51.79,Default,,0,0,0,,Damn! You're so annoying!
+Dialogue: 0,0:07:51.79,0:07:53.33,Default,,0,0,0,,I got ya!
+Dialogue: 0,0:07:56.37,0:07:57.50,Default,,0,0,0,,No, you didn't!
+Dialogue: 0,0:07:59.39,0:08:01.22,Default,,0,0,0,,Flammable Type!
+Dialogue: 0,0:08:07.17,0:08:08.12,Default,,0,0,0,,What?!
+Dialogue: 0,0:08:08.86,0:08:10.76,Default,,0,0,0,,Miok Gas!
+Dialogue: 0,0:08:17.25,0:08:18.28,Default,,0,0,0,,Straw Hat!
+Dialogue: 0,0:08:20.65,0:08:23.82,Default,,0,0,0,,Why are you attacking me?!
+Dialogue: 0,0:08:24.00,0:08:25.39,Default,,0,0,0,,I don't know yet!
+Dialogue: 0,0:08:25.39,0:08:27.37,Default,,0,0,0,,But I've been told something fun would begin
+Dialogue: 0,0:08:27.37,0:08:29.36,Default,,0,0,0,,if I kidnap you!
+Dialogue: 0,0:08:29.35,0:08:31.77,Default,,0,0,0,,You formed an alliance \Nwith Law, didn't you?
+Dialogue: 0,0:08:31.77,0:08:33.23,Default,,0,0,0,,Did he tell you to do that?
+Dialogue: 0,0:08:33.23,0:08:34.82,Default,,0,0,0,,You can't trust him!
+Dialogue: 0,0:08:34.82,0:08:36.55,Default,,0,0,0,,I'm sure he'll betray you!
+Dialogue: 0,0:08:36.55,0:08:37.50,Default,,0,0,0,,Don't do it!
+Dialogue: 0,0:08:37.49,0:08:39.27,Default,,0,0,0,,You can't tell me...
+Dialogue: 0,0:08:39.26,0:08:42.02,Default,,0,0,0,,...what to do!
+Dialogue: 0,0:08:42.01,0:08:44.93,Default,,0,0,0,,Do you still wanna get hurt,\N rubber bastard?!
+Dialogue: 0,0:08:45.40,0:08:46.88,Default,,0,0,0,,Karakuni!
+Dialogue: 0,0:08:51.15,0:08:53.11,Default,,0,0,0,,I can't breathe again!
+Dialogue: 0,0:08:53.10,0:08:56.89,Default,,0,0,0,,Yes! That's because\N I removed the oxygen!
+Dialogue: 0,0:08:59.95,0:09:04.61,Default,,0,0,0,,You can't get me with\N such a desperate attack!
+Dialogue: 0,0:09:17.74,0:09:19.42,Default,,0,0,0,,So this is the distance I need.
+Dialogue: 0,0:09:20.38,0:09:21.49,Default,,0,0,0,,That's right!
+Dialogue: 0,0:09:21.49,0:09:23.98,Default,,0,0,0,,It's only in a certain range\N that you can't breathe!
+Dialogue: 0,0:09:24.25,0:09:27.68,Default,,0,0,0,,But are you sure\N you can keep that distance?
+Dialogue: 0,0:09:28.53,0:09:30.82,Default,,0,0,0,,That's all I needed to know!
+Dialogue: 0,0:09:31.43,0:09:32.97,Default,,0,0,0,,Second Gear!
+Dialogue: 0,0:09:38.65,0:09:40.75,Default,,0,0,0,,Gum-Gum...
+Dialogue: 0,0:09:41.20,0:09:43.04,Default,,0,0,0,,I won't let you do it!
+Dialogue: 0,0:09:44.26,0:09:46.75,Default,,0,0,0,,...Jet Pistol!
+Dialogue: 0,0:09:47.88,0:09:49.58,Default,,0,0,0,,Th-That was fast!
+Dialogue: 0,0:09:53.95,0:09:55.84,Default,,0,0,0,,Ouch, you bastard!
+Dialogue: 0,0:09:56.27,0:09:57.35,Default,,0,0,0,,But...
+Dialogue: 0,0:09:57.35,0:09:59.38,Default,,0,0,0,,...if you come closer,\N you can't breathe!
+Dialogue: 0,0:10:00.21,0:10:01.77,Default,,0,0,0,,Again!
+Dialogue: 0,0:10:01.76,0:10:03.22,Default,,0,0,0,,Is it painful?!
+Dialogue: 0,0:10:03.21,0:10:05.65,Default,,0,0,0,,Look! Here is the oxygen!
+Dialogue: 0,0:10:08.58,0:10:10.20,Default,,0,0,0,,Blue Sword!
+Dialogue: 0,0:10:19.43,0:10:22.17,Default,,0,0,0,,I can manipulate gases.
+Dialogue: 0,0:10:22.17,0:10:24.27,Default,,0,0,0,,Even if you're immune to poison gas,
+Dialogue: 0,0:10:24.27,0:10:27.04,Default,,0,0,0,,there are still tons of ways to attack you!
+Dialogue: 0,0:10:29.29,0:10:31.08,Default,,0,0,0,,How annoying!
+Dialogue: 0,0:10:31.08,0:10:33.49,Default,,0,0,0,,That technique makes me\N unable to breathe.
+Dialogue: 0,0:10:35.78,0:10:36.57,Default,,0,0,0,,Again!
+Dialogue: 0,0:10:36.57,0:10:37.95,Default,,0,0,0,,Now, prepare to be burned and sliced!
+Dialogue: 0,0:10:40.75,0:10:42.76,Default,,0,0,0,,Gum-Gum...
+Dialogue: 0,0:10:43.52,0:10:45.50,Default,,0,0,0,,Gastanet!
+Dialogue: 0,0:10:50.07,0:10:51.63,Default,,0,0,0,,That was close!
+Dialogue: 0,0:10:52.19,0:10:53.11,Default,,0,0,0,,Again!
+Dialogue: 0,0:10:53.11,0:10:55.30,Default,,0,0,0,,Go to hell, Straw Hat!
+Dialogue: 0,0:10:59.01,0:11:00.30,Default,,0,0,0,,What happened?
+Dialogue: 0,0:11:00.47,0:11:04.98,OS,,0,0,0,,{\fad(580,550)}THE PASSAGE BETWEEN BUILDING A AND B
+Dialogue: 0,0:11:02.16,0:11:03.00,DefaultLow,,0,0,0,,Hurry up!
+Dialogue: 0,0:11:03.00,0:11:04.56,DefaultLow,,0,0,0,,The gate is closing!
+Dialogue: 0,0:11:04.56,0:11:06.02,DefaultLow,,0,0,0,,Run!
+Dialogue: 0,0:11:06.64,0:11:08.17,Default,,0,0,0,,You're a pirate.
+Dialogue: 0,0:11:08.17,0:11:10.16,Default,,0,0,0,,Why are you doing this?
+Dialogue: 0,0:11:10.15,0:11:13.34,Default,,0,0,0,,I have to teach an asshole like you
+Dialogue: 0,0:11:13.34,0:11:16.18,Default,,0,0,0,,who would hurt a lady,\N proper "table manners."
+Dialogue: 0,0:11:16.18,0:11:17.56,Default,,0,0,0,,That's my style.
+Dialogue: 0,0:11:17.91,0:11:21.19,Default,,0,0,0,,I'm too busy to be\N bothered with your crap.
+Dialogue: 0,0:11:33.43,0:11:35.58,Default,,0,0,0,,He's "Black Foot"\N of the Straw Hats!
+Dialogue: 0,0:11:35.58,0:11:38.28,Default,,0,0,0,,Why did he help us?
+Dialogue: 0,0:11:39.45,0:11:40.48,Default,,0,0,0,,"Black Foot."
+Dialogue: 0,0:11:50.13,0:11:51.23,Default,,0,0,0,,Flanchet...
+Dialogue: 0,0:11:52.77,0:11:53.96,Default,,0,0,0,,...Strike!
+Dialogue: 0,0:11:57.19,0:11:58.36,Default,,0,0,0,,He's strong!
+Dialogue: 0,0:12:04.75,0:12:09.26,OS,,0,0,0,,{\fad(500,500)}INSIDE OF B BUILDING THE \NBROWNBEARD EXPRESS AND ITS RIDERS
+Dialogue: 0,0:12:12.03,0:12:14.03,Default,,0,0,0,,Hey hey, that dragon\N is out of control!
+Dialogue: 0,0:12:14.03,0:12:15.05,Default,,0,0,0,,He's dangerous!
+Dialogue: 0,0:12:15.34,0:12:17.52,Default,,0,0,0,,He does look violent.
+Dialogue: 0,0:12:17.52,0:12:19.87,Default,,0,0,0,,Brownbeard-cchi, run faster!
+Dialogue: 0,0:12:19.87,0:12:21.16,Default,,0,0,0,,This is the fastest I can run!
+Dialogue: 0,0:12:21.16,0:12:23.09,Default,,0,0,0,,Run yourself if you don't like it!
+Dialogue: 0,0:12:26.82,0:12:27.84,Default,,0,0,0,,He's coming!
+Dialogue: 0,0:12:28.78,0:12:30.44,Default,,0,0,0,,The fire he breathes looks hot.
+Dialogue: 0,0:12:30.44,0:12:32.65,Default,,0,0,0,,Don't say it so coolly!
+Dialogue: 0,0:12:32.65,0:12:34.14,Default,,0,0,0,,Brook, do something!
+Dialogue: 0,0:12:34.14,0:12:35.05,Default,,0,0,0,,What?
+Dialogue: 0,0:12:35.05,0:12:37.03,Default,,0,0,0,,Yeah! We're counting on you!
+Dialogue: 0,0:12:37.03,0:12:37.87,Default,,0,0,0,,What?!
+Dialogue: 0,0:12:37.87,0:12:39.45,Default,,0,0,0,,Wh-Wh-Why me?!
+Dialogue: 0,0:12:39.45,0:12:41.58,Default,,0,0,0,,I'm scared of the dragon, too!
+Dialogue: 0,0:12:41.58,0:12:42.79,Default,,0,0,0,,Just do it now!
+Dialogue: 0,0:12:42.79,0:12:44.17,Default,,0,0,0,,You're the oldest!
+Dialogue: 0,0:12:44.17,0:12:46.76,Default,,0,0,0,,That's right! You should\N respect your elders!
+Dialogue: 0,0:12:48.91,0:12:49.88,Default,,0,0,0,,What?!
+Dialogue: 0,0:12:54.05,0:12:58.80,OS,,0,0,0,,{\fad(400,1)}D BUILDING - IN FRONT OF THE \N"SAD" MANUFACTURING ROOM
+Dialogue: 0,0:12:59.77,0:13:01.28,Default,,0,0,0,,Hey, we have a problem!
+Dialogue: 0,0:13:01.28,0:13:01.89,Default,,0,0,0,,What is it?
+Dialogue: 0,0:13:01.89,0:13:06.02,Default,,0,0,0,,The Navy soldiers and the \NStraw Hats entered B Building!
+Dialogue: 0,0:13:06.02,0:13:07.95,Default,,0,0,0,,Then they'll get to D Building soon?
+Dialogue: 0,0:13:07.95,0:13:09.53,Default,,0,0,0,,Don't worry!
+Dialogue: 0,0:13:09.53,0:13:12.86,Default,,0,0,0,,Nobody can get to D Building...
+Dialogue: 0,0:13:21.81,0:13:22.86,Default,,0,0,0,,Who is it?
+Dialogue: 0,0:13:29.87,0:13:31.40,Default,,0,0,0,,Y-You're...
+Dialogue: 0,0:13:33.76,0:13:35.84,Default,,0,0,0,,Trafalgar Law!
+Dialogue: 0,0:13:36.96,0:13:38.27,Default,,0,0,0,,What's going on?!
+Dialogue: 0,0:13:38.27,0:13:40.34,Default,,0,0,0,,Why is he here?!
+Dialogue: 0,0:13:45.75,0:13:47.49,Default,,0,0,0,,Who cares!
+Dialogue: 0,0:13:47.49,0:13:49.43,Default,,0,0,0,,He's a traitor anyway!
+Dialogue: 0,0:13:50.55,0:13:51.63,Default,,0,0,0,,Room.
+Dialogue: 0,0:13:53.56,0:13:53.99,Default,,0,0,0,,What?!
+Dialogue: 0,0:13:56.77,0:13:59.20,Default,,0,0,0,,What's this?!\N What happened?!
+Dialogue: 0,0:13:59.20,0:14:01.39,Default,,0,0,0,,What the hell?!\N What did you do?! Hey!
+Dialogue: 0,0:14:33.46,0:14:35.93,Default,,0,0,0,,You can't run, Straw Hat!
+Dialogue: 0,0:14:39.99,0:14:41.36,Default,,0,0,0,,I can't breathe!
+Dialogue: 0,0:14:41.36,0:14:43.62,Default,,0,0,0,,He's so persistent!
+Dialogue: 0,0:14:48.60,0:14:49.88,Default,,0,0,0,,Now I can breathe!
+Dialogue: 0,0:14:54.80,0:14:57.29,Default,,0,0,0,,I'll steal your breath!
+Dialogue: 0,0:15:00.84,0:15:02.35,Default,,0,0,0,,You can't breathe, can you?!
+Dialogue: 0,0:15:02.34,0:15:05.15,Default,,0,0,0,,You're slowing down, Straw Hat!
+Dialogue: 0,0:15:05.01,0:15:08.93,Default,,0,0,0,,There! There! There!\N There! There! There!
+Dialogue: 0,0:15:14.75,0:15:17.50,Default,,0,0,0,,There! There! There!\N There! There! There!
+Dialogue: 0,0:15:20.29,0:15:21.53,Default,,0,0,0,,There! There!
+Dialogue: 0,0:15:21.96,0:15:23.30,Default,,0,0,0,,Die already,
+Dialogue: 0,0:15:23.30,0:15:24.60,Default,,0,0,0,,Straw Hat!
+Dialogue: 0,0:15:25.39,0:15:27.04,Default,,0,0,0,,Hey you!
+Dialogue: 0,0:15:27.96,0:15:30.31,Default,,0,0,0,,Stay away from me!
+Dialogue: 0,0:15:41.01,0:15:42.66,Default,,0,0,0,,How annoying!
+Dialogue: 0,0:15:42.66,0:15:44.59,Default,,0,0,0,,You Haki user!
+Dialogue: 0,0:15:55.03,0:15:57.72,Default,,0,0,0,,I have to catch him soon.
+Dialogue: 0,0:15:59.45,0:16:01.21,Default,,0,0,0,,Before I get choked to death!
+Dialogue: 0,0:16:03.05,0:16:04.71,Default,,0,0,0,,Oh yeah, Straw Hat.
+Dialogue: 0,0:16:04.71,0:16:06.58,Default,,0,0,0,,You want to catch me, don't you?
+Dialogue: 0,0:16:06.75,0:16:07.89,Default,,0,0,0,,I'm afraid it's impossible!
+Dialogue: 0,0:16:07.89,0:16:11.18,Default,,0,0,0,,No matter how strong you are,
+Dialogue: 0,0:16:11.18,0:16:12.95,Default,,0,0,0,,once I remove the oxygen,
+Dialogue: 0,0:16:12.95,0:16:16.51,Default,,0,0,0,,you won't be able to breathe\N and will quickly die!
+Dialogue: 0,0:16:19.32,0:16:20.70,Default,,0,0,0,,So,
+Dialogue: 0,0:16:20.70,0:16:22.50,Default,,0,0,0,,catch me if you can!
+Dialogue: 0,0:16:32.70,0:16:35.36,Default,,0,0,0,,"Black Foot" of the Straw Hats
+Dialogue: 0,0:16:35.36,0:16:37.66,Default,,0,0,0,,is fighting against the Vergo impostor!
+Dialogue: 0,0:16:37.66,0:16:38.91,Default,,0,0,0,,We got to back him up!
+Dialogue: 0,0:16:39.26,0:16:40.64,Default,,0,0,0,,What are you guys doing?!
+Dialogue: 0,0:16:40.64,0:16:41.52,Default,,0,0,0,,You better run already!
+Dialogue: 0,0:16:42.16,0:16:45.26,Default,,0,0,0,,They're trying to block your way \Nand let the poison gas flow in again!
+Dialogue: 0,0:16:45.26,0:16:46.16,Default,,0,0,0,,What?!
+Dialogue: 0,0:16:50.40,0:16:51.68,Default,,0,0,0,,See? I told you!
+Dialogue: 0,0:16:54.55,0:16:56.84,Default,,0,0,0,,The deadly gas is flowing in!
+Dialogue: 0,0:16:56.84,0:16:57.81,Default,,0,0,0,,Run!
+Dialogue: 0,0:17:03.44,0:17:05.06,Default,,0,0,0,,I see. So...
+Dialogue: 0,0:17:05.87,0:17:10.09,Default,,0,0,0,,...he's made out of iron or something.
+Dialogue: 0,0:17:11.40,0:17:13.10,Default,,0,0,0,,Stay out of this.
+Dialogue: 0,0:17:14.69,0:17:16.35,Default,,0,0,0,,It's our problem.
+Dialogue: 0,0:17:16.77,0:17:20.62,Default,,0,0,0,,You're the type of guy that \Nour captain hates the most.
+Dialogue: 0,0:17:28.84,0:17:30.07,Default,,0,0,0,,He's...
+Dialogue: 0,0:17:36.73,0:17:38.11,Default,,0,0,0,,...quite strong!
+Dialogue: 0,0:17:39.73,0:17:42.34,Default,,0,0,0,,Hey, "Black Foot"!
+Dialogue: 0,0:17:42.67,0:17:44.25,Default,,0,0,0,,The gate is gonna close!
+Dialogue: 0,0:17:44.25,0:17:45.38,Default,,0,0,0,,Come to this side already!
+Dialogue: 0,0:17:46.11,0:17:49.25,Default,,0,0,0,,The poison gas is right behind you!
+Dialogue: 0,0:17:49.25,0:17:50.39,Default,,0,0,0,,Hurry up!
+Dialogue: 0,0:18:07.00,0:18:09.87,Default,,0,0,0,,Why don't you give up\N already, Straw Hat?!
+Dialogue: 0,0:18:11.31,0:18:14.16,Default,,0,0,0,,You have two options.
+Dialogue: 0,0:18:14.65,0:18:17.95,Default,,0,0,0,,Either you leave this room with \Nyour tail between your legs...
+Dialogue: 0,0:18:18.12,0:18:20.12,Default,,0,0,0,,...or face complete immolation.
+Dialogue: 0,0:18:23.53,0:18:29.89,Default,,0,0,0,,I want to show the brokers \NShinokuni's power in this experiment!
+Dialogue: 0,0:18:32.23,0:18:38.00,Default,,0,0,0,,Killing you by fire is less than ideal!
+Dialogue: 0,0:18:39.23,0:18:40.76,Default,,0,0,0,,Karakuni!
+Dialogue: 0,0:18:44.24,0:18:46.21,Default,,0,0,0,,I can't breathe again!
+Dialogue: 0,0:18:47.53,0:18:50.06,Default,,0,0,0,,Straw Hat, I'll let you go for now!
+Dialogue: 0,0:18:50.06,0:18:51.38,Default,,0,0,0,,So just...
+Dialogue: 0,0:18:56.69,0:18:59.56,Default,,0,0,0,,I will catch you!
+Dialogue: 0,0:19:00.22,0:19:02.17,Default,,0,0,0,,You want to die, don't you?
+Dialogue: 0,0:19:02.90,0:19:04.98,Default,,0,0,0,,If I can't breathe,
+Dialogue: 0,0:19:06.60,0:19:09.43,Default,,0,0,0,,I'll kick your ass in one breath!
+Dialogue: 0,0:19:09.43,0:19:10.65,Default,,0,0,0,,Huh?
+Dialogue: 0,0:19:10.65,0:19:12.14,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,0:19:12.31,0:19:14.14,Default,,0,0,0,,Armament Hardening!
+Dialogue: 0,0:19:16.56,0:19:17.66,Default,,0,0,0,,It's no use!
+Dialogue: 0,0:19:17.66,0:19:19.68,Default,,0,0,0,,I'll give you the death \Nyou've chosen for yourself!
+Dialogue: 0,0:19:21.30,0:19:23.24,Default,,0,0,0,,Go to hell, Straw Hat!
+Dialogue: 0,0:19:33.69,0:19:35.12,Default,,0,0,0,,Gum-Gum...
+Dialogue: 0,0:19:35.64,0:19:37.79,Default,,0,0,0,,...Jet Gatling!
+Dialogue: 0,0:19:42.45,0:19:43.33,Default,,0,0,0,,What's this?!
+Dialogue: 0,0:19:43.33,0:19:44.35,Default,,0,0,0,,A wall?!
+Dialogue: 0,0:19:44.35,0:19:45.61,Default,,0,0,0,,Kamakura.
+Dialogue: 0,0:19:46.58,0:19:47.70,Default,,0,0,0,,I'm impressed.
+Dialogue: 0,0:19:47.70,0:19:50.71,Default,,0,0,0,,Only you could break this wall!
+Dialogue: 0,0:19:56.58,0:19:58.27,Default,,0,0,0,,Are you a Devil Fruit eater?
+Dialogue: 0,0:20:00.14,0:20:02.22,Default,,0,0,0,,Dammit! You rubber bastard!
+Dialogue: 0,0:20:04.79,0:20:06.56,Default,,0,0,0,,Master, you must go.
+Dialogue: 0,0:20:06.56,0:20:08.31,Default,,0,0,0,,This fight is meaningless.
+Dialogue: 0,0:20:08.91,0:20:10.28,Default,,0,0,0,,You're right.
+Dialogue: 0,0:20:11.20,0:20:14.80,Default,,0,0,0,,We're in the middle of\N the important demonstration!
+Dialogue: 0,0:20:14.80,0:20:15.77,Default,,0,0,0,,What are you doing?!
+Dialogue: 0,0:20:15.77,0:20:16.71,Default,,0,0,0,,Are you gonna run?!
+Dialogue: 0,0:20:16.71,0:20:18.44,Default,,0,0,0,,Goodbye, Straw Hat!
+Dialogue: 0,0:20:18.44,0:20:20.12,Default,,0,0,0,,Be as wild as you want!
+Dialogue: 0,0:20:20.12,0:20:25.17,Default,,0,0,0,,I already have an idea of how to make \Nyou people test subjects without fail!
+Dialogue: 0,0:20:25.17,0:20:27.06,Default,,0,0,0,,Look forward to it!
+Dialogue: 0,0:20:29.30,0:20:29.87,Default,,0,0,0,,Wait!
+Dialogue: 0,0:20:30.96,0:20:32.87,Default,,0,0,0,,I won't let you go after him.
+Dialogue: 0,0:20:33.47,0:20:36.51,Default,,0,0,0,,If anything happens to the Master,
+Dialogue: 0,0:20:37.85,0:20:39.95,Default,,0,0,0,,Joker will kill me.
+Dialogue: 0,0:20:41.53,0:20:43.71,Default,,0,0,0,,That's the bird guy that\N I saw in the war, isn't it?!
+Dialogue: 0,0:20:43.71,0:20:45.63,Default,,0,0,0,,Who is he?!
+Dialogue: 0,0:21:04.83,0:21:06.94,Default,,0,0,0,,Hey, what's going on here?!
+Dialogue: 0,0:21:06.94,0:21:08.24,Default,,0,0,0,,Trafalgar?!
+Dialogue: 0,0:21:08.90,0:21:10.43,Default,,0,0,0,,This is bad!
+Dialogue: 0,0:21:10.43,0:21:12.21,Default,,0,0,0,,Do an emergency broadcast to all buildings!
+Dialogue: 0,0:21:12.21,0:21:12.93,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:21:12.93,0:21:13.89,Default,,0,0,0,,Okay!
+Dialogue: 0,0:21:17.05,0:21:19.42,Default,,0,0,0,,This is D Building! This is D Building!
+Dialogue: 0,0:21:19.42,0:21:20.63,Default,,0,0,0,,This is an emergency broadcast
+Dialogue: 0,0:21:20.63,0:21:22.27,Default,,0,0,0,,to all buildings of the Third Laboratory!
+Dialogue: 0,0:21:22.26,0:21:23.87,Default,,0,0,0,,What's this?!
+Dialogue: 0,0:21:23.87,0:21:25.34,Default,,0,0,0,,This is D Building!
+Dialogue: 0,0:21:25.34,0:21:27.04,Default,,0,0,0,,This is an emergency broadcast--
+Dialogue: 0,0:21:27.04,0:21:28.69,Default,,0,0,0,,to all buildings of the Third Laboratory!
+Dialogue: 0,0:21:28.69,0:21:31.11,Default,,0,0,0,,The member of the Seven Warlords -
+Dialogue: 0,0:21:31.11,0:21:32.34,Default,,0,0,0,,Trafalgar Law has...
+Dialogue: 0,0:21:32.88,0:21:35.64,Default,,0,0,0,,...just entered into the
+Dialogue: 0,0:21:35.64,0:21:38.16,Default,,0,0,0,,SAD manufacturing room!
+Dialogue: 0,0:21:41.33,0:21:42.72,Default,,0,0,0,,What?!
+Dialogue: 0,0:21:42.72,0:21:44.79,Default,,0,0,0,,Is that fool out of his mind?!
+Dialogue: 0,0:21:45.41,0:21:47.13,Default,,0,0,0,,Once he opens that box,
+Dialogue: 0,0:21:48.37,0:21:51.24,Default,,0,0,0,,there'll be irreversible \Nconsequences even he can't avoid!
+Dialogue: 0,0:21:55.61,0:21:56.33,Default,,0,0,0,,Is he...
+Dialogue: 0,0:21:56.62,0:21:58.23,Default,,0,0,0,,Now it all makes sense.
+Dialogue: 0,0:22:01.43,0:22:02.53,Default,,0,0,0,,Wh-What the...
+Dialogue: 0,0:22:04.83,0:22:06.25,Default,,0,0,0,,There's another problem!
+Dialogue: 0,0:22:09.73,0:22:12.88,Default,,0,0,0,,He wants to kidnap the \NMaster and wants SAD to be...
+Dialogue: 0,0:22:13.32,0:22:16.02,Default,,0,0,0,,Now I know what you guys are going for.
+Dialogue: 0,0:22:21.86,0:22:23.11,Default,,0,0,0,,Vergo!
+Dialogue: 0,0:22:28.36,0:22:29.68,Default,,0,0,0,,Law...
+Dialogue: 0,0:22:29.68,0:22:33.41,Default,,0,0,0,,He formed an alliance\N with Straw Hat for defense.
+Dialogue: 0,0:22:33.41,0:22:37.68,Default,,0,0,0,,He joined the Warlords\N to get to that room.
+Dialogue: 0,0:22:39.51,0:22:41.14,Default,,0,0,0,,That brat!
+Dialogue: 0,0:22:42.89,0:22:47.29,Default,,0,0,0,,He has a worst scenario in mind!
+Dialogue: 0,0:22:49.42,0:22:51.12,Default,,0,0,0,,Is he trying to...
+Dialogue: 0,0:22:53.11,0:22:55.19,Default,,0,0,0,,...ruin the New World?!
+Dialogue: 0,0:23:09.88,0:23:12.52,Default,,0,0,0,,Law breaks into the SAD manufacturing room.
+Dialogue: 0,0:23:12.52,0:23:16.30,Default,,0,0,0,,He finally commences his plan that will shake up the entire New World.
+Dialogue: 0,0:23:16.79,0:23:18.18,Default,,0,0,0,,But just then...
+Dialogue: 0,0:23:18.18,0:23:20.49,Default,,0,0,0,,...the vile member of the Seven Warlords...
+Dialogue: 0,0:23:20.49,0:23:22.91,Default,,0,0,0,,...who has been manipulating Punk Hazard from the shadows...
+Dialogue: 0,0:23:22.91,0:23:24.98,Default,,0,0,0,,...finally breaks his Silence!
+Dialogue: 0,0:23:25.21,0:23:26.81,Default,,0,0,0,,On the next episode of One Piece!
+Dialogue: 0,0:23:26.81,0:23:29.45,Default,,0,0,0,,"A Mastermind Underground!\N Doflamingo Makes His Move!"
+Dialogue: 0,0:23:29.45,0:23:31.05,Default,,0,0,0,,I'm gonna be King of the Pirates!!
