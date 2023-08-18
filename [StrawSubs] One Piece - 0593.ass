@@ -39,12 +39,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:34.37,0:02:37.67,Default,,0,0,0,,All the pirates who are after the One Piece...
 Dialogue: 0,0:02:37.67,0:02:42.63,Default,,0,0,0,,...head for the New World, the second half of the Grand Line.
 Dialogue: 0,0:02:45.02,0:02:48.28,Default,,0,0,0,,However, no one has ever fully explored it
-Dialogue: 0,0:02:48.28,0:02:51.42,Default,,0,0,0,,except for Gold Roger, King of the Pirates.
+Dialogue: 0,0:02:48.28,0:02:51.42,Default,,0,0,0,,except for Gold Roger, the Pirate King.
 Dialogue: 0,0:02:52.42,0:02:58.15,Default,,0,0,0,,The New World has ruined many pirates' dreams and ambitions.
 Dialogue: 0,0:02:59.47,0:03:01.22,Default,,0,0,0,,Now, Monkey D. Luffy,
 Dialogue: 0,0:03:01.22,0:03:05.65,Default,,0,0,0,,a boy whose body turned to rubber after he ate the Gum-Gum Fruit,
 Dialogue: 0,0:03:05.65,0:03:07.33,Default,,0,0,0,,and his friends venture into that sea.
-Dialogue: 0,0:03:08.03,0:03:11.47,Default,,0,0,0,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:08.03,0:03:11.47,Default,,0,0,0,,I'm gonna be the Pirate King!!
 Dialogue: 0,0:03:15.40,0:03:17.58,Default,,0,0,0,,After surviving a fierce battle,
 Dialogue: 0,0:03:17.58,0:03:20.96,Default,,0,0,0,,the Straw Hats finally entered the New World,
 Dialogue: 0,0:03:20.96,0:03:23.32,Default,,0,0,0,,-- the harshest sea ruled by the Four Emperors.
@@ -108,7 +108,7 @@ Dialogue: 0,0:06:33.03,0:06:35.95,Default,,0,0,0,,Really?! It was in this pocket
 Dialogue: 0,0:06:36.20,0:06:38.68,Default,,0,0,0,,Of course it was. It's Chopper's.
 Dialogue: 0,0:06:38.97,0:06:43.11,Default,,0,0,0,,Listen. You can become a monster for just three minutes.
 Dialogue: 0,0:06:43.11,0:06:44.82,Default,,0,0,0,,You can't fight after that.
-Dialogue: 0,0:06:45.32,0:06:48.55,Default,,0,0,0,,So if possible, transform into Kung Fu Boost like I did earlier and...
+Dialogue: 0,0:06:45.32,0:06:48.55,Default,,0,0,0,,So if possible, transform into Kung Fu Point like I did earlier and...
 Dialogue: 0,0:06:50.07,0:06:52.03,Default,,0,0,0,,What?!
 Dialogue: 0,0:06:53.28,0:06:54.50,Default,,0,0,0,,Buber!
 Dialogue: 0,0:06:54.50,0:06:56.47,Default,,0,0,0,,That's way too early!
@@ -193,12 +193,12 @@ Dialogue: 0,0:12:31.96,0:12:33.50,Default,,0,0,0,,Shall we, Scotch?
 Dialogue: 0,0:12:33.50,0:12:37.28,Default,,0,0,0,,Okay! He didn't notice there was a cliff. He is so careless!
 Dialogue: 0,0:12:38.89,0:12:41.04,Default,,0,0,0,,There are spikes at the bottom!
 Dialogue: 0,0:12:42.14,0:12:45.48,Default,,0,0,0,,--Die in vain. --Get skewered by the Ice Spikes!
-Dialogue: 0,0:12:48.31,0:12:49.85,Default,,0,0,0,,Armament Hardening!
+Dialogue: 0,0:12:48.31,0:12:49.85,Default,,0,0,0,,Armament; Hardening!
 Dialogue: 0,0:12:50.25,0:12:52.05,Default,,0,0,0,,Gum-Gum...
 Dialogue: 0,0:12:52.05,0:12:56.33,Default,,0,0,0,,...Gatling!
 Dialogue: 0,0:13:09.03,0:13:12.51,Default,,0,0,0,,I see. He's a little trickier than the others.
 Dialogue: 0,0:13:16.98,0:13:18.55,Default,,0,0,0,,Those two from before!
-Dialogue: 0,0:13:21.49,0:13:22.89,Default,,0,0,0,,Second Gear!
+Dialogue: 0,0:13:21.49,0:13:22.89,Default,,0,0,0,,Gear 2!
 Dialogue: 0,0:13:24.42,0:13:26.16,Default,,0,0,0,,Gum-Gum...
 Dialogue: 0,0:13:27.12,0:13:28.42,Default,,0,0,0,,...Jet...
 Dialogue: 0,0:13:28.42,0:13:30.29,Default,,0,0,0,,...Pistol!
@@ -253,7 +253,7 @@ Dialogue: 0,0:17:48.57,0:17:50.94,Default,,0,0,0,,and drop dead like your friend
 Dialogue: 0,0:17:59.29,0:18:01.13,Default,,0,0,0,,He did something useful!
 Dialogue: 0,0:18:13.43,0:18:16.31,Default,,0,0,0,,All right! That was great, Franky!
 Dialogue: 0,0:18:20.00,0:18:22.48,Default,,0,0,0,,Hey, enough already!
-Dialogue: 0,0:18:23.81,0:18:25.02,Default,,0,0,0,,Third Gear!
+Dialogue: 0,0:18:23.81,0:18:25.02,Default,,0,0,0,,Gear 3:
 Dialogue: 0,0:18:26.52,0:18:28.48,Default,,0,0,0,,Gum-Gum...
 Dialogue: 0,0:18:28.72,0:18:31.19,Default,,0,0,0,,...Elephant Gun!
 Dialogue: 0,0:18:35.72,0:18:38.40,Default,,0,0,0,,He used one of his most daring attack there?!
@@ -287,7 +287,7 @@ Dialogue: 0,0:21:46.14,0:21:46.93,Default,,0,0,0,,Luffy!
 Dialogue: 0,0:21:48.34,0:21:49.64,Default,,0,0,0,,Oh, Tra-guy!
 Dialogue: 0,0:21:49.95,0:21:52.39,Default,,0,0,0,,Did you save Nami?
 Dialogue: 0,0:21:53.93,0:21:55.74,Default,,0,0,0,,I've been thinking.
-Dialogue: 0,0:21:57.24,0:22:01.07,Default,,0,0,0,,And I came here to talk to you about something, Straw Hat-ya.
+Dialogue: 0,0:21:57.24,0:22:01.07,Default,,0,0,0,,And I came here to talk to you about something, Straw Hatter. {Straw Hat-ya}
 Dialogue: 0,0:22:03.61,0:22:06.96,Default,,0,0,0,,I think you arrived on this island by accident.
 Dialogue: 0,0:22:07.98,0:22:12.82,Default,,0,0,0,,But there is an important key lying somewhere on this island
 Dialogue: 0,0:22:12.82,0:22:15.24,Default,,0,0,0,,that can wreak havoc in the New World.
@@ -308,6 +308,6 @@ Dialogue: 0,0:23:14.73,0:23:17.59,Default,,0,0,0,,But Luffy's answer surprises n
 Dialogue: 0,0:23:17.59,0:23:19.58,Default,,0,0,0,,but Law, as well.
 Dialogue: 0,0:23:19.58,0:23:23.59,Default,,0,0,0,,Meanwhile, Caesar was also setting
 Dialogue: 0,0:23:23.59,0:23:25.38,Default,,0,0,0,,a terrible plan in motion.
-Dialogue: 0,0:23:25.38,0:23:26.80,Default,,0,0,0,,On the next episode of One Piece!
+Dialogue: 0,0:23:25.38,0:23:26.80,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:26.80,0:23:29.68,Default,,0,0,0,,"Formed! Luffy and Law's Pirate Alliance!"
-Dialogue: 0,0:23:29.68,0:23:31.92,Default,,0,0,0,,I'm gonna be King of the Pirates!
+Dialogue: 0,0:23:29.68,0:23:31.92,Default,,0,0,0,,I'm gonna be the Pirate King!!

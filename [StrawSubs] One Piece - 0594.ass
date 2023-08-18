@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 594 (BD 1920x1080 x264 29.970fps FLAC) [0AB
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 255
-Active Line: 266
-Video Position: 42151
+Scroll Position: 12
+Active Line: 18
+Video Position: 6565
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,12 +40,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:34.40,0:02:37.71,Default,,0,0,0,,All the pirates who are after the One Piece...
 Dialogue: 0,0:02:37.71,0:02:42.67,Default,,0,0,0,,...head for the New World, the second half of the Grand Line.
 Dialogue: 0,0:02:45.05,0:02:48.30,Default,,0,0,0,,However, no one has ever fully explored it
-Dialogue: 0,0:02:48.30,0:02:51.42,Default,,0,0,0,,except for Gold Roger, King of the Pirates.
+Dialogue: 0,0:02:48.30,0:02:51.42,Default,,0,0,0,,except for Gold Roger, the Pirate King.
 Dialogue: 0,0:02:52.43,0:02:58.19,Default,,0,0,0,,The New World has ruined many pirates' dreams and ambitions.
 Dialogue: 0,0:02:59.52,0:03:01.26,Default,,0,0,0,,Now, Monkey D. Luffy,
 Dialogue: 0,0:03:01.26,0:03:05.69,Default,,0,0,0,,a boy whose body turned to rubber after he ate the Gum-Gum Fruit,
 Dialogue: 0,0:03:05.69,0:03:07.37,Default,,0,0,0,,and his friends venture into that sea.
-Dialogue: 0,0:03:08.08,0:03:11.51,Default,,0,0,0,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:08.08,0:03:11.51,Default,,0,0,0,,I'm gonna be the Pirate King!!
 Dialogue: 0,0:03:15.25,0:03:16.83,Default,,0,0,0,,After landing on Punk Hazard;
 Dialogue: 0,0:03:16.83,0:03:19.45,Default,,0,0,0,,an island with two parts, one burning, the other frozen,
 Dialogue: 0,0:03:20.16,0:03:22.59,Default,,0,0,0,,the Straw Hats learned about the hideous experiments
@@ -55,14 +55,14 @@ Dialogue: 0,0:03:27.88,0:03:28.73,Default,,0,0,0,,What?
 Dialogue: 0,0:03:29.10,0:03:30.20,Default,,0,0,0,,An alliance?
 Dialogue: 0,0:03:30.49,0:03:32.25,Default,,0,0,0,,I have a plan...
 Dialogue: 0,0:03:33.20,0:03:35.66,Default,,0,0,0,,...to bring down one of the Four Emperors!
-Dialogue: 0,0:03:39.04,0:03:43.10,Default,,0,0,0,,"Formed! Luffy and Law's Pirate Alliance!"
+Dialogue: 0,0:03:39.04,0:03:43.10,"Sign",,0,0,0,,"Formed! Luffy and Law's Pirate Alliance!"
 Dialogue: 0,0:03:52.70,0:03:54.79,Default,,0,0,0,,An alliance?
 Dialogue: 0,0:03:55.41,0:04:00.25,Default,,0,0,0,,Are you saying that if we work together, we can take down an Emperor?
 Dialogue: 0,0:04:00.25,0:04:01.46,Default,,0,0,0,,How absurd!
 Dialogue: 0,0:04:01.88,0:04:07.43,Default,,0,0,0,,I don't know what he wants but don't listen to this jerk's fast-talk, Luffy!
 Dialogue: 0,0:04:12.73,0:04:15.50,Default,,0,0,0,,I'm not saying we can beat the Emperor straight away.
 Dialogue: 0,0:04:16.03,0:04:21.13,Default,,0,0,0,,All I'm saying is we'd get a chance if we advance the plan step by step.
-Dialogue: 0,0:04:22.12,0:04:24.54,Default,,0,0,0,,What do you say, Straw Hat-ya?
+Dialogue: 0,0:04:22.12,0:04:24.54,Default,,0,0,0,,What do you say, Straw Hatter? {Straw Hat-ya}
 Dialogue: 0,0:04:26.89,0:04:29.79,Default,,0,0,0,,Which of the Four Emperors are you talking about?
 Dialogue: 0,0:04:29.95,0:04:32.76,Default,,0,0,0,,Hey Luffy, why are you interested?!
 Dialogue: 0,0:04:33.14,0:04:35.43,Default,,0,0,0,,We can't trust this guy!
@@ -86,8 +86,8 @@ Dialogue: 0,0:05:58.09,0:06:00.43,Default,,0,0,0,,We wanna travel at our own pac
 Dialogue: 0,0:06:00.43,0:06:01.75,Default,,0,0,0,,She's right, Luffy!
 Dialogue: 0,0:06:01.75,0:06:05.62,Default,,0,0,0,,Besides, it's too early to even think about the Four Emperors!
 Dialogue: 0,0:06:05.62,0:06:07.22,Default,,0,0,0,,We can't fight them yet!
-Dialogue: 0,0:06:07.69,0:06:10.07,Default,,0,0,0,,Hey, treat this racoon.
-Dialogue: 0,0:06:10.07,0:06:12.67,Default,,0,0,0,,Forget about some racoon now!
+Dialogue: 0,0:06:07.69,0:06:10.07,Default,,0,0,0,,Hey, treat this raccoon dog.
+Dialogue: 0,0:06:10.07,0:06:12.67,Default,,0,0,0,,Forget about some raccoon dog now!
 Dialogue: 0,0:06:12.67,0:06:13.45,Default,,0,0,0,,Huh?
 Dialogue: 0,0:06:13.57,0:06:14.75,Default,,0,0,0,,What?!
 Dialogue: 0,0:06:15.19,0:06:16.86,Default,,0,0,0,,It's me!
@@ -215,7 +215,7 @@ Dialogue: 0,0:14:06.05,0:14:08.70,Default,,0,0,0,,I can't see. It's too dark.
 Dialogue: 0,0:14:23.78,0:14:25.04,Default,,0,0,0,,What happened?
 Dialogue: 0,0:15:10.84,0:15:12.65,Default,,0,0,0,,Are you mad?
 Dialogue: 0,0:15:19.93,0:15:22.47,Default,,0,0,0,,As you can tell from the assassins earlier,
-Dialogue: 0,0:15:23.17,0:15:28.14,Default,,0,0,0,,Caesar-ya wants to get rid of you guys and White Chase-ya's G-5
+Dialogue: 0,0:15:23.17,0:15:28.14,Default,,0,0,0,,Caesarer wants to get rid of you guys and Asher's G-5 {Caesar-ya, Ashen Hunter-ya}
 Dialogue: 0,0:15:28.74,0:15:30.79,Default,,0,0,0,,and take back those children.
 Dialogue: 0,0:15:32.24,0:15:36.33,Default,,0,0,0,,Until he gets what he wants, he won't stop attacking.
 Dialogue: 0,0:15:37.24,0:15:40.47,Default,,0,0,0,,He is a former Government scientist,
@@ -223,7 +223,7 @@ Dialogue: 0,0:15:40.47,0:15:42.46,Default,,0,0,0,,who became a criminal four yea
 Dialogue: 0,0:15:43.07,0:15:47.62,Default,,0,0,0,,If the fact somebody is here on this restricted island leaks out,
 Dialogue: 0,0:15:47.62,0:15:50.73,Default,,0,0,0,,he will lose this perfect hiding place.
 Dialogue: 0,0:15:51.19,0:15:53.84,Default,,0,0,0,,That's why he'll try to kill you all at any cost.
-Dialogue: 0,0:15:54.56,0:15:56.53,Default,,0,0,0,,A 300 million berry bounty.
+Dialogue: 0,0:15:54.56,0:15:56.53,Default,,0,0,0,,A 300-million-berry bounty.
 Dialogue: 0,0:15:57.17,0:16:00.47,Default,,0,0,0,,A Logia-type Gas-Gas Fruit eater who owns
 Dialogue: 0,0:16:00.47,0:16:02.19,Default,,0,0,0,,weapons of mass destruction.
 Dialogue: 0,0:16:02.64,0:16:05.11,Default,,0,0,0,,That's who Caesar Clown is.
@@ -302,6 +302,6 @@ Dialogue: 0,0:23:09.16,0:23:12.04,Default,,0,0,0,,The ultimate weapon that Caesa
 Dialogue: 0,0:23:12.44,0:23:15.77,Default,,0,0,0,,While its identity is slowly coming to light,
 Dialogue: 0,0:23:15.77,0:23:19.52,Default,,0,0,0,,the Straw Hats make their move to capture Caesar.
 Dialogue: 0,0:23:19.52,0:23:25.08,Default,,0,0,0,,However, Luffy's actions cause the situation to go in an unexpected direction.
-Dialogue: 0,0:23:25.08,0:23:26.42,Default,,0,0,0,,On the next episode of One Piece!
+Dialogue: 0,0:23:25.08,0:23:26.42,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:26.42,0:23:29.82,Default,,0,0,0,,"Capture M! The Pirate Alliance's Operation Launches!"
-Dialogue: 0,0:23:29.82,0:23:32.00,Default,,0,0,0,,I'm gonna be King of the Pirates!
+Dialogue: 0,0:23:29.82,0:23:32.00,Default,,0,0,0,,I'm gonna be the Pirate King!!

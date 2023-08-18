@@ -39,12 +39,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:34.36,0:02:37.71,Default,,0,0,0,,All the pirates who are after the One Piece...
 Dialogue: 0,0:02:37.71,0:02:42.68,Default,,0,0,0,,...head for the New World, the second half of the Grand Line.
 Dialogue: 0,0:02:45.02,0:02:48.32,Default,,0,0,0,,However, no one has ever fully explored it
-Dialogue: 0,0:02:48.32,0:02:51.42,Default,,0,0,0,,except for Gold Roger, King of the Pirates.
+Dialogue: 0,0:02:48.32,0:02:51.42,Default,,0,0,0,,except for Gold Roger, the Pirate King.
 Dialogue: 0,0:02:52.42,0:02:58.15,Default,,0,0,0,,The New World has ruined many pirates' dreams and ambitions.
 Dialogue: 0,0:02:59.47,0:03:01.28,Default,,0,0,0,,Now, Monkey D. Luffy,
 Dialogue: 0,0:03:01.28,0:03:05.63,Default,,0,0,0,,a boy whose body turned to rubber after he ate the Gum-Gum Fruit,
 Dialogue: 0,0:03:05.63,0:03:07.36,Default,,0,0,0,,and his friends venture into that sea.
-Dialogue: 0,0:03:08.03,0:03:11.49,Default,,0,0,0,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:08.03,0:03:11.49,Default,,0,0,0,,I'm gonna be the Pirate King!!
 Dialogue: 0,0:03:15.12,0:03:17.46,Default,,0,0,0,,After surviving a fierce battle,
 Dialogue: 0,0:03:17.46,0:03:20.35,Default,,0,0,0,,the Straw Hats finally entered the New World,
 Dialogue: 0,0:03:20.35,0:03:22.56,Default,,0,0,0,,the harshest sea ruled by the Four Emperors.
@@ -76,7 +76,7 @@ Dialogue: 0,0:05:01.60,0:05:03.48,Default,,0,0,0,,Master... Wow!
 Dialogue: 0,0:05:04.04,0:05:05.43,Default,,0,0,0,,What the hell?!
 Dialogue: 0,0:05:08.08,0:05:09.90,Default,,0,0,0,,I got puffed up!
 Dialogue: 0,0:05:09.90,0:05:10.88,Default,,0,0,0,,A fuzzball!
-Dialogue: 0,0:05:10.88,0:05:14.99,Default,,0,0,0,,That's Guard Boost! You can turn into six forms at will.
+Dialogue: 0,0:05:10.88,0:05:14.99,Default,,0,0,0,,That's Guard Point! You can turn into six forms at will.
 Dialogue: 0,0:05:14.99,0:05:17.47,Default,,0,0,0,,--What an unstable body! --Get used to it.
 Dialogue: 0,0:05:17.47,0:05:20.27,Default,,0,0,0,,You fools! Stop playing with my body!
 Dialogue: 0,0:05:24.23,0:05:27.23,Default,,0,0,0,,What?! The samurai left?!
@@ -139,7 +139,7 @@ Dialogue: 0,0:09:06.07,0:09:08.19,Default,,0,0,0,,I can't breathe...
 Dialogue: 0,0:09:16.53,0:09:19.78,Default,,0,0,0,,What's wrong? Synd, you're acting strange.
 Dialogue: 0,0:09:20.02,0:09:21.22,Default,,0,0,0,,No...
 Dialogue: 0,0:09:24.67,0:09:26.21,Default,,0,0,0,,This can't be!
-Dialogue: 0,0:09:26.76,0:09:28.69,Default,,0,0,0,,How is it going, Racoon-chan?
+Dialogue: 0,0:09:26.76,0:09:28.69,Default,,0,0,0,,How is it going, Raccoon Dog-chan?
 Dialogue: 0,0:09:28.78,0:09:30.65,Default,,0,0,0,,Well, we'll see soon.
 Dialogue: 0,0:09:34.65,0:09:37.30,Default,,0,0,0,,What?! This is...
 Dialogue: 0,0:09:39.44,0:09:41.07,Default,,0,0,0,,What's wrong, Synd?
@@ -326,7 +326,7 @@ Dialogue: 0,0:21:19.81,0:21:22.14,Default,,0,0,0,,The fight is over.
 Dialogue: 0,0:21:30.98,0:21:33.03,Default,,0,0,0,,Since they lost their warship,
 Dialogue: 0,0:21:33.03,0:21:37.53,Default,,0,0,0,,they will come to steal our ship here to make a report.
 Dialogue: 0,0:21:37.93,0:21:40.78,Default,,0,0,0,,Of course, that's already been taken care of.
-Dialogue: 0,0:21:43.76,0:21:46.03,Default,,0,0,0,,What about Straw Hat-ya's group?
+Dialogue: 0,0:21:43.76,0:21:46.03,Default,,0,0,0,,What about Straw Hatter's group? {Straw Hat-ya}
 Dialogue: 0,0:21:46.03,0:21:47.63,Default,,0,0,0,,Don't worry about them, either.
 Dialogue: 0,0:21:47.96,0:21:51.73,Default,,0,0,0,,We will get rid of them soon and take back those kids.
 Dialogue: 0,0:21:52.16,0:21:55.84,Default,,0,0,0,,I mean, I know those brats will have an
@@ -347,6 +347,6 @@ Dialogue: 0,0:23:12.37,0:23:17.04,Default,,0,0,0,,In their absence, Nami and Cho
 Dialogue: 0,0:23:17.04,0:23:19.38,Default,,0,0,0,,when suddenly, invisible assassins attack!
 Dialogue: 0,0:23:19.52,0:23:21.68,Default,,0,0,0,,By the time Luffy realizes what's going on,
 Dialogue: 0,0:23:21.68,0:23:24.98,Default,,0,0,0,,the two are facing a life-or-death situation.
-Dialogue: 0,0:23:24.98,0:23:26.52,Default,,0,0,0,,On the next episode of One Piece!
+Dialogue: 0,0:23:24.98,0:23:26.52,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:26.52,0:23:29.70,Default,,0,0,0,,"To Annihilate the Straw Hats! Legendary Assassins Descend!"
-Dialogue: 0,0:23:29.70,0:23:31.72,Default,,0,0,0,,I'm gonna be King of the Pirates!
+Dialogue: 0,0:23:29.70,0:23:31.72,Default,,0,0,0,,I'm gonna be the Pirate King!!
