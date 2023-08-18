@@ -140,8 +140,8 @@ Dialogue: 0,0:04:49.67,0:04:51.11,Default,,0,0,0,,This is nice!
 Dialogue: 0,0:04:51.11,0:04:52.88,Default,,0,0,0,,Yeah, it's great!
 Dialogue: 0,0:04:54.18,0:04:57.01,Default,,0,0,0,,This is our hideout!
 Dialogue: 0,0:04:57.55,0:04:59.58,Default,,0,0,0,,Here they are!
-Dialogue: 0,0:04:59.92,0:05:08.93,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7034,7079,\1a&HFF&)}Luffy Becomes an Apprentice!?
-Dialogue: 1,0:04:59.92,0:05:08.93,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Luffy Becomes an Apprentice!?
+Dialogue: 0,0:04:59.92,0:05:08.93,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7034,7079,\1a&HFF&)}Luffy Becomes an Apprentice?!
+Dialogue: 1,0:04:59.92,0:05:08.93,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Luffy Becomes an Apprentice?!
 Dialogue: 0,0:04:59.92,0:05:08.93,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7034,7079,\1a&HFF&)}The Man Who Fought the Pirate King!
 Dialogue: 1,0:04:59.92,0:05:08.93,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Man Who Fought the Pirate King!
 Dialogue: 0,0:05:10.53,0:05:13.93,Default,,0,0,0,,Seasons come and go and now it's winter.

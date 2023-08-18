@@ -119,8 +119,8 @@ Dialogue: 0,0:04:00.46,0:04:02.43,Default,,0,0,0,,Sanji-chan!
 Dialogue: 0,0:04:02.43,0:04:05.00,Default,,0,0,0,,We don't have time! Anyone?!
 Dialogue: 0,0:04:05.00,0:04:07.97,Default,,0,0,0,,Somebody please! I beg you!
 Dialogue: 0,0:04:07.97,0:04:10.87,Default,,0,0,0,,Donate blood to Sanji!
-Dialogue: 0,0:04:10.83,0:04:19.84,Title Card - Top,,0,0,0,,{\blur0.3\fad(1971,1971)\c&H000000&\1a&HFF&\t(1926,1971,\1a&H00&)\t(7039,7084,\1a&HFF&)}Fishman Island Will Be Annihilated!?
-Dialogue: 1,0:04:10.83,0:04:19.84,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1971,1971)\4a&HFF&}Fishman Island Will Be Annihilated!?
+Dialogue: 0,0:04:10.83,0:04:19.84,Title Card - Top,,0,0,0,,{\blur0.3\fad(1971,1971)\c&H000000&\1a&HFF&\t(1926,1971,\1a&H00&)\t(7039,7084,\1a&HFF&)}Fishman Island Will Be Annihilated?!
+Dialogue: 1,0:04:10.83,0:04:19.84,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1971,1971)\4a&HFF&}Fishman Island Will Be Annihilated?!
 Dialogue: 0,0:04:10.83,0:04:19.84,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1971,1971)\c&H000000&\1a&HFF&\t(1926,1971,\1a&H00&)\t(7039,7084,\1a&HFF&)}Sharley's Prophecy
 Dialogue: 1,0:04:10.83,0:04:19.84,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1971,1971)\4a&HFF&}Sharley's Prophecy
 Dialogue: 0,0:04:19.84,0:04:24.48,Default,,0,0,0,,Please! Spare him some blood! My friend is dying!

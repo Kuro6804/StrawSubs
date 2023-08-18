@@ -125,8 +125,8 @@ Dialogue: 0,0:03:41.41,0:03:45.11,Default,,0,0,0,,There is, however, an untold \
 Dialogue: 0,0:03:45.88,0:03:51.35,Default,,0,0,0,,...10 years ago in the East \NBlue - Luffy and Ace as boys.
 Dialogue: 0,0:03:52.32,0:03:55.42,Default,,0,0,0,,Luffy has been left with Dadan - \Nthe mountain bandit of Mt. Corvo
 Dialogue: 0,0:03:55.42,0:03:59.22,Default,,0,0,0,,and met 2 precocious kids named Ace and Sabo.
-Dialogue: 0,0:03:59.22,0:04:08.23,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Leaving the Dadan Family for Good!?
-Dialogue: 1,0:03:59.22,0:04:08.23,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Leaving the Dadan Family for Good!?
+Dialogue: 0,0:03:59.22,0:04:08.23,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Leaving the Dadan Family for Good?!
+Dialogue: 1,0:03:59.22,0:04:08.23,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Leaving the Dadan Family for Good?!
 Dialogue: 0,0:03:59.22,0:04:08.23,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Kids' Hideout Completed!
 Dialogue: 1,0:03:59.22,0:04:08.23,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Kids' Hideout Completed!
 Dialogue: 0,0:04:12.64,0:04:14.71,Default,,0,0,0,,How are you, Pochi?
@@ -354,9 +354,9 @@ Dialogue: 0,0:23:29.03,0:23:31.73,Default,,0,0,0,,that he once fought Gold Roger
 Dialogue: 0,0:23:31.73,0:23:34.23,Default,,0,0,0,,Luffy is thrilled to hear a story
 Dialogue: 0,0:23:34.23,0:23:37.37,Default,,0,0,0,,about the Pirate King that \Nhe's never heard before!
 Dialogue: 0,0:23:37.37,0:23:38.80,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:38.80,0:23:41.87,Default,,0,0,0,,"Luffy Becomes an Apprentice!?\NThe Man Who Fought the Pirate King!"
+Dialogue: 0,0:23:38.80,0:23:41.87,Default,,0,0,0,,"Luffy Becomes an Apprentice?!\NThe Man Who Fought the Pirate King!"
 Dialogue: 0,0:23:41.87,0:23:44.07,Default,,0,0,0,,I'm gonna be the Pirate King!
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,215,,{\blur0.3\c&H000000&}Luffy Becomes an Apprentice!?
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,215,,{\bord0\blur0.3\4a&HFF&}Luffy Becomes an Apprentice!?
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,215,,{\blur0.3\c&H000000&}Luffy Becomes an Apprentice?!
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,215,,{\bord0\blur0.3\4a&HFF&}Luffy Becomes an Apprentice?!
 Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,193,,{\blur0.3\c&H000000&}The Man Who Fought the Pirate King!
 Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,193,,{\bord0\blur0.3\4a&HFF&}The Man Who Fought the Pirate King!

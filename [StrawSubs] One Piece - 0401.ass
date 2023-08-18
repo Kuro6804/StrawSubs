@@ -128,8 +128,8 @@ Dialogue: 0,0:04:13.55,0:04:16.23,Default,,0,0,0,,Can you rule this mighty sea?!
 Dialogue: 0,0:04:17.89,0:04:20.30,Default,,0,0,0,,I'm not gonna rule anything!
 Dialogue: 0,0:04:20.30,0:04:23.15,Default,,0,0,0,,It's the freest person in this sea \Nwho's the Pirate King!
 Dialogue: 0,0:04:24.57,0:04:26.07,Default,,0,0,0,,I see...
-Dialogue: 0,0:04:26.12,0:04:35.05,Title Card - Top,,0,0,0,,{\blur0.8\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}No Escape!?
-Dialogue: 1,0:04:26.12,0:04:35.05,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1973,1973)\4a&HFF&}No Escape!?
+Dialogue: 0,0:04:26.12,0:04:35.05,Title Card - Top,,0,0,0,,{\blur0.8\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}No Escape?!
+Dialogue: 1,0:04:26.12,0:04:35.05,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1973,1973)\4a&HFF&}No Escape?!
 Dialogue: 0,0:04:26.12,0:04:35.05,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}Admiral Yellow Monkey's Light Speed Kick!!
 Dialogue: 1,0:04:26.12,0:04:35.05,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1973,1973)\4a&HFF&}Admiral Yellow Monkey's Light Speed Kick!!
 Dialogue: 0,0:04:39.68,0:04:41.59,Default,,0,0,0,,Take care!
