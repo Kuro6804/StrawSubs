@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 620 (BD 1920x1080 x264 29.970fps FLAC) [9FB
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.437500
-Scroll Position: 159
-Active Line: 174
-Video Position: 41341
+Scroll Position: 165
+Active Line: 181
+Video Position: 42370
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -73,7 +73,7 @@ Dialogue: 0,0:04:49.81,0:04:51.78,Default,,0,0,0,,I was gonna do that, anyway.
 Dialogue: 0,0:04:53.14,0:04:54.75,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:04:55.51,0:04:59.25,Default,,0,0,0,,I need you to perish along with everything else.
 Dialogue: 0,0:05:03.15,0:05:04.52,Default,,0,0,0,,Understood.
-Dialogue: 0,0:05:05.66,0:05:14.63,"Sign",,0,0,0,,"A Critical Situation! Punk Hazard Explodes!"
+Dialogue: 0,0:05:05.66,0:05:14.63,"Sign",,0,0,0,,"A Critical Situation!\NPunk Hazard Explodes!"
 Dialogue: 0,0:05:48.27,0:05:49.80,Default,,0,0,0,,It's fast!
 Dialogue: 0,0:05:55.97,0:05:59.41,Default,,0,0,0,,Hey, get off of him!
 Dialogue: 0,0:05:59.41,0:06:01.11,Default,,0,0,0,,I won't!
@@ -210,4 +210,10 @@ Dialogue: 0,0:22:41.54,0:22:46.58,Default,,0,0,0,,Which means the island and tho
 Dialogue: 0,0:22:51.62,0:22:53.42,Default,,0,0,0,,You two.
 Dialogue: 0,0:22:53.92,0:22:56.96,Default,,0,0,0,,Take care of that guard.
 Dialogue: 0,0:22:59.40,0:23:01.40,Default,,0,0,0,,I'm on my way!
-Comment: 0,0:23:05.03,0:23:35.06,Default,,0,0,0,,Missing Preview
+Dialogue: 0,0:23:10.19,0:23:12.39,Default,,0,0,0,,As the shadow of Doflamingo looms closer,
+Dialogue: 0,0:23:12.39,0:23:14.64,Default,,0,0,0,,the battle for Caesar begins to heat up.
+Dialogue: 0,0:23:15.52,0:23:20.15,Default,,0,0,0,,When Baby 5's sword pierces\NGeneral Franky's invincible armour,
+Dialogue: 0,0:23:20.15,0:23:24.82,Default,,0,0,0,,the General unleashes his ultimate\Nhidden weapon and strikes back.
+Dialogue: 0,0:23:24.82,0:23:26.30,Default,,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:23:26.30,0:23:29.73,Default,,0,0,0,,"Capture Caesar!\NGeneral Cannon Blasts!"
+Dialogue: 0,0:23:29.73,0:23:31.82,Default,,0,0,0,,I'm gonna be the Pirate King!!

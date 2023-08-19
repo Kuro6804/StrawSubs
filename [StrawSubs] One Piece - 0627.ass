@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 627 (BD 1920x1080 x264 29.970fps FLAC) [0C4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 41
-Active Line: 58
-Video Position: 11239
+Scroll Position: 238
+Active Line: 246
+Video Position: 42004
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,7 +64,7 @@ Dialogue: 0,0:03:59.72,0:04:00.89,Default,,0,0,0,,Dammit!
 Dialogue: 0,0:04:01.26,0:04:04.80,Default,,0,0,0,,I can control any living thing
 Dialogue: 0,0:04:04.80,0:04:09.23,Default,,0,0,0,,and bring out all of its power!
 Dialogue: 0,0:04:09.23,0:04:14.74,Default,,0,0,0,,You will see how deadly it is!
-Dialogue: 0,0:04:14.74,0:04:23.71,"Sign",,0,0,0,,"Luffy Dies at Sea?! The Pirate Alliance Comes Apart!"
+Dialogue: 0,0:04:14.74,0:04:23.71,"Sign",,0,0,0,,"Luffy Dies at Sea?!\NThe Pirate Alliance Comes Apart!"
 Dialogue: 0,0:04:24.52,0:04:26.28,Default,,0,0,0,,Damn! I can't take it off!
 Dialogue: 0,0:04:26.28,0:04:28.35,Default,,0,0,0,,Luffy, look up!
 Dialogue: 0,0:04:34.32,0:04:36.56,Default,,0,0,0,,I can't control myself!
@@ -280,4 +280,9 @@ Dialogue: 0,0:21:56.97,0:21:58.30,Default,,0,0,0,,Seal!
 Dialogue: 0,0:21:58.80,0:22:01.44,Default,,0,0,0,,I told you to use the lower half
 Dialogue: 0,0:22:01.44,0:22:05.31,Default,,0,0,0,,of your body and pull your arm back all the way!
 Dialogue: 0,0:22:10.01,0:22:14.48,Default,,0,0,0,,But you sure got stronger!
-Comment: 0,0:23:04.97,0:23:35.00,Default,,0,0,0,,Missing Preview
+Dialogue: 0,0:23:09.80,0:23:13.97,Default,,0,0,0,,The odds of survival seem nil\Nas Luffy and Law plunge into the ocean.
+Dialogue: 0,0:23:13.97,0:23:21.52,Default,,0,0,0,,{\q2}Meanwhile, Chopper and Kung Fu Dugong launch\Nan attack against Breed by themselves, only for it to fail.
+Dialogue: 0,0:23:21.52,0:23:24.42,Default,,0,0,0,,When all seems lost,\Nan unimaginable miracle takes place.
+Dialogue: 0,0:23:24.42,0:23:25.72,Default,,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:23:25.72,0:23:29.16,Default,,0,0,0,,"A Major Turnaround!\NLuffy's Angry Iron Fist Strikes!"
+Dialogue: 0,0:23:29.16,0:23:30.99,Default,,0,0,0,,I'm gonna be the Pirate King!!

@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 626 (BD 1920x1080 x264 29.970fps FLAC) [261
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 294
-Active Line: 305
-Video Position: 40909
+Scroll Position: 299
+Active Line: 310
+Video Position: 42164
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,7 +57,7 @@ Dialogue: 0,0:03:41.51,0:03:42.41,Default,,0,0,0,,Clank.
 Dialogue: 0,0:03:42.41,0:03:44.14,Default,,0,0,0,,Wait a minute! Law!
 Dialogue: 0,0:03:44.81,0:03:47.88,Default,,0,0,0,,Damn squirt!
 Dialogue: 0,0:03:53.38,0:03:55.45,Default,,0,0,0,,We found you!
-Dialogue: 0,0:03:59.02,0:04:08.03,"Sign",,0,0,0,,"Caesar Goes Missing! The Pirate Alliance Makes a Sortie!"
+Dialogue: 0,0:03:59.02,0:04:08.03,"Sign",,0,0,0,,"Caesar Goes Missing!\NThe Pirate Alliance Makes a Sortie!"
 Dialogue: 0,0:04:27.25,0:04:29.49,Default,,0,0,0,,Doflamingo! I know he's gonna make
 Dialogue: 0,0:04:29.49,0:04:31.62,Default,,0,0,0,,a raid in the darkness of the night!
 Dialogue: 0,0:04:31.62,0:04:34.26,Default,,0,0,0,,Just bring it on! I mean, don't!
@@ -342,4 +342,9 @@ Dialogue: 0,0:22:33.44,0:22:36.67,Default,,0,0,0,,Pet? So "Peto-Peto" means "pet
 Dialogue: 0,0:22:37.07,0:22:40.31,Default,,0,0,0,,I can control any living thing
 Dialogue: 0,0:22:40.74,0:22:44.98,Default,,0,0,0,,and bring out all of its power!
 Dialogue: 0,0:22:44.98,0:22:50.19,Default,,0,0,0,,You will see how deadly it is!
-Comment: 0,0:23:05.03,0:23:35.06,Default,,0,0,0,,Mising Preview
+Dialogue: 0,0:23:09.86,0:23:14.04,Default,,0,0,0,,Luffy and Law, trapped by Breed's Peto-Peto ability!
+Dialogue: 0,0:23:14.04,0:23:20.92,Default,,0,0,0,,As they try to strike back, they fall into Breed's\Nshrewd trap, and are forced to fight for their lives!
+Dialogue: 0,0:23:21.38,0:23:25.59,Default,,0,0,0,,Their intense struggle reaches its shocking climax!
+Dialogue: 0,0:23:25.59,0:23:26.87,Default,,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:23:26.87,0:23:29.69,Default,,0,0,0,,"Luffy Dies at Sea?!\NThe Pirate Alliance Comes Apart!"
+Dialogue: 0,0:23:29.69,0:23:31.75,Default,,0,0,0,,I'm gonna be the Pirate King!!

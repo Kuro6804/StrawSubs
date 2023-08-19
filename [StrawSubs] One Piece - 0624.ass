@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 624 (BD 1920x1080 x264 29.970fps FLAC) [7AA
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 263
-Active Line: 273
-Video Position: 40887
+Scroll Position: 270
+Active Line: 284
+Video Position: 42245
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,7 +68,7 @@ Dialogue: 0,0:04:28.72,0:04:30.99,Default,,0,0,0,,What do you want in exchange f
 Dialogue: 0,0:04:30.99,0:04:32.62,Default,,0,0,0,,Name your price.
 Dialogue: 0,0:04:33.52,0:04:36.49,Default,,0,0,0,,Resign from the Seven Warlords.
 Dialogue: 0,0:04:37.09,0:04:40.33,Default,,0,0,0,,Damn squirt!
-Dialogue: 0,0:04:44.50,0:04:53.51,"Sign",,0,0,0,,"The G-5 Wiped Out! Doflamingo's Sudden Attack!"
+Dialogue: 0,0:04:44.50,0:04:53.51,"Sign",,0,0,0,,"The G-5 Wiped Out!\NDoflamingo's Sudden Attack!"
 Dialogue: 0,0:04:58.98,0:05:01.52,Default,,0,0,0,,How were you doing, Sunny?
 Dialogue: 0,0:05:03.59,0:05:05.36,Default,,0,0,0,,I can't see the island anymore.
 Dialogue: 0,0:05:06.19,0:05:08.43,Default,,0,0,0,,The fire, the ice, and the deadly gas.
@@ -312,4 +312,11 @@ Dialogue: 0,0:22:44.25,0:22:46.25,Default,,0,0,0,,Could you step aside?
 Dialogue: 0,0:22:46.32,0:22:48.89,Default,,0,0,0,,What?!
 Dialogue: 0,0:22:56.06,0:22:58.63,Default,,0,0,0,,He is my...
 Dialogue: 0,0:22:59.63,0:23:01.13,Default,,0,0,0,,...friend.
-Comment: 0,0:23:05.03,0:23:35.06,Default,,0,0,0,,Missing Preview
+Dialogue: 0,0:23:10.00,0:23:13.85,Default,,0,0,0,,Kuzan, formerly known as Admiral Blue Pheasant,\Nappears to save Smoker.
+Dialogue: 0,0:23:14.38,0:23:16.11,Default,,0,0,0,,Formerly one of the Navy's strongest forces,
+Dialogue: 0,0:23:16.11,0:23:18.31,Default,,0,0,0,,he stands against the dark mastermind\Nof the Seven Warlords.
+Dialogue: 0,0:23:19.08,0:23:22.33,Default,,0,0,0,,As things heat up between these two powerful opponents,
+Dialogue: 0,0:23:22.33,0:23:25.96,Default,,0,0,0,,Blue Pheasant's words change everything.
+Dialogue: 0,0:23:25.96,0:23:27.22,Default,,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:23:27.22,0:23:29.56,Default,,0,0,0,,"Intense!\NBlue Pheasant vs. Doflamingo!"
+Dialogue: 0,0:23:29.56,0:23:31.82,Default,,0,0,0,,I'm gonna be the Pirate King!!

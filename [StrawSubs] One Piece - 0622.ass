@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 622 (BD 1920x1080 x264 29.970fps FLAC) [98B
 Video File: [SOFCJ-Raws] One Piece - 622 (BD 1920x1080 x264 29.970fps FLAC) [98BBA3DB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 314
-Active Line: 326
-Video Position: 41299
+Video Zoom Percent: 0.375000
+Scroll Position: 310
+Active Line: 332
+Video Position: 42246
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,7 +56,7 @@ Dialogue: 0,0:03:33.43,0:03:35.17,Default,,0,0,0,,were drawn into a climactic ba
 Dialogue: 0,0:03:35.47,0:03:37.50,Default,,0,0,0,,which ended with Caesar's defeat.
 Dialogue: 0,0:03:38.10,0:03:41.94,Default,,0,0,0,,Finally, they beat Doflamingo's subordinates
 Dialogue: 0,0:03:41.94,0:03:44.41,Default,,0,0,0,,Baby 5 and Buffalo.
-Dialogue: 0,0:03:45.18,0:03:54.15,"Sign",,0,0,0,,"A Touching Reunion! Momonosuke and Kin'emon!"
+Dialogue: 0,0:03:45.18,0:03:54.15,"Sign",,0,0,0,,"A Touching Reunion!\NMomonosuke and Kin'emon!"
 Dialogue: 0,0:04:02.63,0:04:04.26,Default,,0,0,0,,Listen, you damn pirates!
 Dialogue: 0,0:04:04.46,0:04:07.40,Default,,0,0,0,,The tanker is yours!
 Dialogue: 0,0:04:07.40,0:04:10.00,Default,,0,0,0,,And this is the line between good and evil!
@@ -363,4 +363,9 @@ Dialogue: 0,0:22:44.88,0:22:45.68,Default,,0,0,0,,What?!
 Dialogue: 0,0:22:51.22,0:22:54.32,Default,,0,0,0,,As long as Shanks is not the first one to fight, I have no problem.
 Dialogue: 0,0:22:56.39,0:22:57.29,Default,,0,0,0,,Because...
 Dialogue: 0,0:22:57.99,0:23:01.53,Default,,0,0,0,,...I plan to beat all of the Four Emperors!
-Comment: 0,0:23:04.97,0:23:35.00,Default,,0,0,0,,Missing Preview
+Dialogue: 0,0:23:09.95,0:23:12.05,Default,,0,0,0,,The time to depart has finally come.
+Dialogue: 0,0:23:12.05,0:23:19.08,Default,,0,0,0,,Luffy says goodbye to the children he saved\Nand to G-5 who fought beside him.
+Dialogue: 0,0:23:19.98,0:23:25.25,Default,,0,0,0,,But in the meantime,Doflamingo's\Ndemonic hands draw ever closer.
+Dialogue: 0,0:23:25.25,0:23:26.62,Default,,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:23:26.62,0:23:29.60,Default,,0,0,0,,"It's Time to Say Goodbye!\NLeaving Punk Hazard!"
+Dialogue: 0,0:23:29.60,0:23:31.73,Default,,0,0,0,,I'm gonna be the Pirate King!!

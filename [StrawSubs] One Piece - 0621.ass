@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 621 (BD 1920x1080 x264 29.970fps FLAC) [C23
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 210
-Active Line: 220
-Video Position: 40198
+Scroll Position: 218
+Active Line: 229
+Video Position: 42231
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,7 +71,7 @@ Dialogue: 0,0:04:53.78,0:04:58.65,Default,,0,0,0,,Which means the island and tho
 Dialogue: 0,0:05:02.85,0:05:04.42,Default,,0,0,0,,You two.
 Dialogue: 0,0:05:05.36,0:05:07.86,Default,,0,0,0,,Take care of that guard.
 Dialogue: 0,0:05:09.63,0:05:11.43,Default,,0,0,0,,I'm on my way!
-Dialogue: 0,0:05:11.43,0:05:20.40,"Sign",,0,0,0,,"Capture Caesar! General Cannon Blasts!"
+Dialogue: 0,0:05:11.43,0:05:20.40,"Sign",,0,0,0,,"Capture Caesar!\NGeneral Cannon Blasts!"
 Dialogue: 0,0:05:22.64,0:05:26.14,"Sign",,0,0,0,,THE SEACOAST OF PUNK HAZARD
 Dialogue: 0,0:05:49.07,0:05:52.44,Default,,0,0,0,,Now, with that much ordinance, he must be...
 Dialogue: 0,0:05:52.97,0:05:53.64,Default,,0,0,0,,What?!
@@ -259,4 +259,9 @@ Dialogue: 0,0:22:21.26,0:22:22.56,Default,,0,0,0,,Wait for me!
 Dialogue: 0,0:22:24.03,0:22:25.63,Default,,0,0,0,,Squirts!
 Dialogue: 0,0:22:54.59,0:22:56.99,Default,,0,0,0,,I overslept.
 Dialogue: 0,0:22:58.56,0:23:01.56,Default,,0,0,0,,Which way is Punk Hazard?
-Comment: 0,0:23:05.03,0:23:35.06,Default,,0,0,0,,Missing Preview
+Dialogue: 0,0:23:09.95,0:23:13.81,Default,,0,0,0,,After finally making it through\Nthe fierce battle and capturing Caesar,
+Dialogue: 0,0:23:13.81,0:23:19.02,Default,,0,0,0,,the Straw Hats and the other survivors\Nstart preparing to leave Punk Hazard.
+Dialogue: 0,0:23:19.02,0:23:24.85,Default,,0,0,0,,A shocking miracle then happens to Kin'emon,\Nwho had fallen victim to the Land of the Dead!
+Dialogue: 0,0:23:24.85,0:23:26.20,Default,,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:23:26.20,0:23:29.10,Default,,0,0,0,,"A Touching Reunion!\NMomonosuke and Kin'emon!"
+Dialogue: 0,0:23:29.10,0:23:31.06,Default,,0,0,0,,I'm gonna be the Pirate King!!

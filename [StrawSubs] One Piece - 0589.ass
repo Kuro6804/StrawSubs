@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 589 (BD 1920x1080 x264 29.970fps FLAC) [2EE
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.437500
-Scroll Position: 65
-Active Line: 75
-Video Position: 6420
+Scroll Position: 370
+Active Line: 385
+Video Position: 42246
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -419,7 +419,12 @@ Dialogue: 0,0:22:35.49,0:22:38.77,Default,,0,0,0,,I'm capable of killing more en
 Dialogue: 0,0:22:40.53,0:22:45.28,Default,,0,0,0,,I carefully document my victims until their final moment.
 Dialogue: 0,0:22:45.28,0:22:46.81,Default,,0,0,0,,You just wait!
 Dialogue: 0,0:22:46.81,0:22:52.12,Default,,0,0,0,,I'll make them realize who is the greatest scientist in the world!
-Comment: 0,0:23:08.95,0:23:31.63,Default,,0,0,0,,Missing Preview
+Dialogue: 0,0:23:08.60,0:23:12.28,Default,,0,0,0,,The children suddenly begin fainting\Nfrom terrible pain, one after the other.
+Dialogue: 0,0:23:12.71,0:23:18.71,Default,,0,0,0,,The Straw Hat crewmates are left stunned\Nwhen Chopper reveals the horrifying cause.
+Dialogue: 0,0:23:19.10,0:23:25.05,Default,,0,0,0,,Meanwhile, Team Zoro sets out to find the samurai, unaware of the colossal shadows looming nearby.
+Dialogue: 0,0:23:25.05,0:23:26.42,Default,,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:23:26.42,0:23:29.59,Default,,0,0,0,,"Chopper Enraged\NMaster's Inhumane Experiment"
+Dialogue: 0,0:23:29.59,0:23:31.77,Default,,0,0,0,,I'm gonna be the Pirate King!!
 Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Chopper Enraged
 Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Chopper Enraged
 Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Master's Inhumane Experiment

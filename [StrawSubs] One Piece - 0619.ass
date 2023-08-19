@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 619 (BD 1920x1080 x264 29.970fps FLAC) [075
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 210
-Active Line: 224
-Video Position: 40450
+Scroll Position: 222
+Active Line: 225
+Video Position: 41653
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -261,4 +261,9 @@ Dialogue: 0,0:21:12.46,0:21:15.39,Default,,0,0,0,,Thank you for all your work.
 Dialogue: 0,0:22:17.45,0:22:19.72,Default,,0,0,0,,Goodbye, Young Master.
 Dialogue: 0,0:22:22.16,0:22:26.50,Default,,0,0,0,,I know you will become...
 Dialogue: 0,0:22:29.67,0:22:31.70,Default,,0,0,0,,...the Pirate King.
-Comment: 0,0:23:04.97,0:23:35.00,Default,,0,0,0,,Missing Preview
+Dialogue: 0,0:23:09.82,0:23:15.81,Default,,0,0,0,,Monet sacrifices herself for Doflamingo's sake,\Nplunging Punk Hazard to the brink of annihilation.
+Dialogue: 0,0:23:16.70,0:23:19.45,Default,,0,0,0,,Luffy is enveloped in a bright flash of light.
+Dialogue: 0,0:23:19.45,0:23:25.35,Default,,0,0,0,,As the crew continues through the long tunnel,\Nthings come to a shocking conclusion!
+Dialogue: 0,0:23:25.35,0:23:26.70,Default,,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:23:26.70,0:23:29.70,Default,,0,0,0,,"A Critical Situation!\NPunk Hazard Explodes!"
+Dialogue: 0,0:23:29.70,0:23:31.73,Default,,0,0,0,,I'm gonna be the Pirate King!!

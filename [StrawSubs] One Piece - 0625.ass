@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 625 (BD 1920x1080 x264 29.970fps FLAC) [1CF
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 217
-Active Line: 232
-Video Position: 41320
+Scroll Position: 225
+Active Line: 239
+Video Position: 42246
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -69,7 +69,7 @@ Dialogue: 0,0:04:26.82,0:04:29.19,Default,,0,0,0,,Excuse me, young man.
 Dialogue: 0,0:04:33.62,0:04:35.66,Default,,0,0,0,,Could you step aside?
 Dialogue: 0,0:04:38.50,0:04:40.76,Default,,0,0,0,,He is my...
 Dialogue: 0,0:04:41.83,0:04:43.50,Default,,0,0,0,,...friend.
-Dialogue: 0,0:04:44.10,0:04:53.04,"Sign",,0,0,0,,"Intense! Blue Pheasant vs. Doflamingo!"
+Dialogue: 0,0:04:44.10,0:04:53.04,"Sign",,0,0,0,,"Intense!\NBlue Pheasant vs. Doflamingo!"
 Dialogue: 0,0:05:11.76,0:05:14.26,Default,,0,0,0,,Is that the former admiral - Blue Pheasant?!
 Dialogue: 0,0:05:14.63,0:05:17.77,Default,,0,0,0,,I thought he disappeared after Red Hound beat him!
 Dialogue: 0,0:06:02.71,0:06:04.48,Default,,0,0,0,,Young Master!
@@ -268,4 +268,10 @@ Dialogue: 0,0:22:42.91,0:22:46.58,Default,,0,0,0,,Ring, ring, ring... Ring, ring
 Dialogue: 0,0:22:47.28,0:22:48.65,Default,,0,0,0,,Ring, ring, ring...
 Dialogue: 0,0:22:49.42,0:22:50.92,Default,,0,0,0,,Ring, ring, ring... Clank.
 Dialogue: 0,0:22:55.63,0:22:58.73,Default,,0,0,0,,Oh really? You found them?
-Comment: 0,0:23:04.97,0:23:35.00,Default,,0,0,0,,Missing Preview
+Dialogue: 0,0:23:09.90,0:23:12.50,Default,,0,0,0,,As the Straw Hats head for Dressrosa,
+Dialogue: 0,0:23:12.50,0:23:15.88,Default,,0,0,0,,they are attacked by an unknown enemy\Nand Caesar is taken from them.
+Dialogue: 0,0:23:15.88,0:23:22.11,Default,,0,0,0,,But, as Luffy and Law go to get him back,\Nan unexpected foe causes trouble for them...
+Dialogue: 0,0:23:22.11,0:23:25.29,Default,,0,0,0,,and a surprising reunion awaits!
+Dialogue: 0,0:23:25.29,0:23:26.65,Default,,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:23:26.65,0:23:29.60,Default,,0,0,0,,"Caesar Goes Missing!\NThe Pirate Alliance Makes a Sortie!"
+Dialogue: 0,0:23:29.60,0:23:31.75,Default,,0,0,0,,I'm gonna be the Pirate King!!

@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 628 (BD 1920x1080 x264 29.970fps FLAC) [4D6
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 219
-Active Line: 236
-Video Position: 41432
+Scroll Position: 231
+Active Line: 237
+Video Position: 41663
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,7 +53,7 @@ Dialogue: 0,0:03:27.57,0:03:31.00,Default,,0,0,0,,and were reunited with a Kung 
 Dialogue: 0,0:03:31.00,0:03:32.81,Default,,0,0,0,,but like the Dugong and the other monsters,
 Dialogue: 0,0:03:32.81,0:03:36.88,Default,,0,0,0,,they've been taken control of by Breed's Peto-Peto Fruit power.
 Dialogue: 0,0:03:37.01,0:03:40.65,Default,,0,0,0,,Kill those two, Dugong!
-Dialogue: 0,0:03:47.51,0:03:56.49,"Sign",,0,0,0,,"A Major Turnaround! Luffy's Angry Iron Fist Strikes!"
+Dialogue: 0,0:03:47.51,0:03:56.49,"Sign",,0,0,0,,"A Major Turnaround!\NLuffy's Angry Iron Fist Strikes!"
 Dialogue: 0,0:04:16.38,0:04:20.89,Default,,0,0,0,,That was quite a punch, Kung Fu Dugong!
 Dialogue: 0,0:04:21.02,0:04:22.49,Default,,0,0,0,,How do you feel now?
 Dialogue: 0,0:04:22.49,0:04:26.94,Default,,0,0,0,,You sent some shitty humans to hell with your own hands.
@@ -273,4 +273,9 @@ Dialogue: 0,0:22:53.70,0:22:56.32,Default,,0,0,0,,Ring, ring, ring... Clank.
 Dialogue: 0,0:22:58.20,0:22:59.46,Default,,0,0,0,,It's me.
 Dialogue: 0,0:23:00.51,0:23:02.04,Default,,0,0,0,,I resigned...
 Dialogue: 0,0:23:02.44,0:23:04.11,Default,,0,0,0,,...from the Warlords.
-Comment: 0,0:23:05.03,0:23:35.06,Default,,0,0,0,,Missing Preview
+Dialogue: 0,0:23:10.14,0:23:14.61,Default,,0,0,0,,{\q2}News of Doflamingo's resignation from the Warlords\Nquickly spreads, taking the world by storm.
+Dialogue: 0,0:23:14.95,0:23:19.45,Default,,0,0,0,,Just when Law's plan seems to be progressing\Nwithout a hitch, Doflamingo strikes once again.
+Dialogue: 0,0:23:19.45,0:23:24.95,Default,,0,0,0,,This time with a plot that threatens to light\Nthe world aflame with more than just headlines.
+Dialogue: 0,0:23:24.95,0:23:25.99,Default,,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:23:26.42,0:23:29.13,Default,,0,0,0,,"Startling!\NThe Big News Shakes Up the New World!"
+Dialogue: 0,0:23:29.13,0:23:31.06,Default,,0,0,0,,I'm gonna be the Pirate King!!

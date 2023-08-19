@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 623 (BD 1920x1080 x264 29.970fps FLAC) [ED5
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 275
-Active Line: 285
-Video Position: 41364
+Scroll Position: 278
+Active Line: 292
+Video Position: 42228
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,7 +67,7 @@ Dialogue: 0,0:04:17.14,0:04:18.18,Default,,0,0,0,,So...
 Dialogue: 0,0:04:18.88,0:04:20.21,Default,,0,0,0,,...you gotta hurry!
 Dialogue: 0,0:04:20.54,0:04:22.85,Default,,0,0,0,,It's a banquet!
 Dialogue: 0,0:04:26.98,0:04:32.32,Default,,0,0,0,,Thus, they started the victory banquet.
-Dialogue: 0,0:04:33.49,0:04:42.53,"Sign",,0,0,0,,"It's Time to Say Goodbye! Leaving Punk Hazard!"
+Dialogue: 0,0:04:33.49,0:04:42.53,"Sign",,0,0,0,,"It's Time to Say Goodbye!\NLeaving Punk Hazard!"
 Dialogue: 0,0:04:43.03,0:04:45.47,Default,,0,0,0,,Super!
 Dialogue: 0,0:04:52.38,0:04:53.38,Default,,0,0,0,,Law.
 Dialogue: 0,0:04:55.05,0:04:57.81,Default,,0,0,0,,I know you don't really think that
@@ -321,4 +321,10 @@ Dialogue: 0,0:22:34.27,0:22:35.07,Default,,0,0,0,,Clank.
 Dialogue: 0,0:22:35.07,0:22:36.54,Default,,0,0,0,,Wait a minute! Law!
 Dialogue: 0,0:22:48.65,0:22:49.99,Default,,0,0,0,,Young Master!
 Dialogue: 0,0:23:00.16,0:23:03.33,Default,,0,0,0,,Damn squirt!
-Comment: 0,0:23:05.03,0:23:35.06,Default,,0,0,0,,Missing Preview
+Dialogue: 0,0:23:09.85,0:23:14.18,Default,,0,0,0,,{\q2}As they head for the next island,\NLaw reveals his plan to defeat one of the Emperors...
+Dialogue: 0,0:23:14.18,0:23:16.75,Default,,0,0,0,,and it shocks the crew.
+Dialogue: 0,0:23:16.75,0:23:20.60,Default,,0,0,0,,Meanwhile on Punk Hazard,\NDoflamingo descends from the sky...
+Dialogue: 0,0:23:20.60,0:23:24.05,Default,,0,0,0,,then brings the Navy unit G-5\Nto the brink of death!
+Dialogue: 0,0:23:24.05,0:23:25.60,Default,,0,0,0,,Next time, on One Piece:
+Dialogue: 0,0:23:25.60,0:23:29.00,Default,,0,0,0,,"The G-5 Wiped Out!\NDoflamingo's Sudden Attack!"
+Dialogue: 0,0:23:29.00,0:23:31.06,Default,,0,0,0,,I'm gonna be the Pirate King!!

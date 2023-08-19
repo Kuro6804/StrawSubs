@@ -24,9 +24,9 @@ Video File: [Panda-Raws] One Piece - 0568 (WEB 1080p AMZN JP 29.970fps EAC3) [6D
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.437500
-Scroll Position: 64
-Active Line: 73
-Video Position: 6668
+Scroll Position: 320
+Active Line: 329
+Video Position: 42023
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -365,7 +365,10 @@ Dialogue: 0,0:22:43.31,0:22:44.51,Default,,0,0,0,,Mother!
 Dialogue: 0,0:22:58.86,0:23:00.00,Default,,0,0,0,,Hey, Jinbe.
 Dialogue: 0,0:23:12.34,0:23:13.41,Default,,0,0,0,,Join...
 Dialogue: 0,0:23:14.38,0:23:16.01,Default,,0,0,0,,...my crew!
-Comment: 0,0:23:16.98,0:23:38.50,Default,,0,0,0,,Missing Preview
+Dialogue: 0,0:23:20.22,0:23:22.15,Default,,0,0,0,,Peace has returned to Ryugu Palace.
+Dialogue: 0,0:23:22.15,0:23:26.89,Default,,0,0,0,,A grand feast begins, where the songstresses sing,\Nand the Mermaids dance.
+Dialogue: 0,0:23:26.89,0:23:31.23,Default,,0,0,0,,{\q2}The Straw Hats enjoy the feast to their hearts' content,\Nalong with the rest of Fishman Island.
+Dialogue: 0,0:23:31.76,0:23:38.50,Default,,0,0,0,,But Robin closes in on a secret that's been\Nkept hidden on Fishman Island for centuries!
 Dialogue: 0,0:23:38.50,0:23:39.90,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:39.90,0:23:43.01,Default,,0,0,0,,"The Secret Uncovered\NThe Truth of the Ancient Weapon"
 Dialogue: 0,0:23:43.01,0:23:45.22,Default,,0,0,0,,I'm gonna be the Pirate King!!
