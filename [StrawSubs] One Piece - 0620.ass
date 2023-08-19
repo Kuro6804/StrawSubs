@@ -23,9 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 620 (BD 1920x1080 x264 29.970fps FLAC) [9FB
 Video File: [SOFCJ-Raws] One Piece - 620 (BD 1920x1080 x264 29.970fps FLAC) [9FB47316].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 12
-Active Line: 31
-Video Position: 8425
+Video Zoom Percent: 0.437500
+Scroll Position: 159
+Active Line: 174
+Video Position: 41341
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,170 +44,170 @@ Dialogue: 0,0:02:59.46,0:03:02.43,Default,,0,0,0,,Now, Monkey D. Luffy, a boy wh
 Dialogue: 0,0:03:02.43,0:03:05.50,Default,,0,0,0,,turned to rubber after he ate the Gum-Gum Fruit,
 Dialogue: 0,0:03:05.50,0:03:07.30,Default,,0,0,0,,and his friends venture into that sea.
 Dialogue: 0,0:03:08.07,0:03:11.96,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:03:15.23,0:03:17.96,Default,,0,0,0,,The Straw Hats finally entered the New World,
-Dialogue: 0,0:03:17.96,0:03:20.96,Default,,0,0,0,,the harshest sea ruled by the Four Emperors
-Dialogue: 0,0:03:20.96,0:03:22.91,Default,,0,0,0,,and landed on Punk Hazard;
-Dialogue: 0,0:03:22.91,0:03:25.05,Default,,0,0,0,,an island with two parts, one burning, the other frozen.
-Dialogue: 0,0:03:25.84,0:03:29.21,Default,,0,0,0,,They learned about the ruler of the island and the puppeteer
-Dialogue: 0,0:03:29.21,0:03:31.45,Default,,0,0,0,,of Land of the Dead - Caesar Clown's motive
-Dialogue: 0,0:03:31.45,0:03:35.54,Default,,0,0,0,,and along with their pirate ally - the Warlord - Trafalgar Law,
-Dialogue: 0,0:03:35.54,0:03:37.49,Default,,0,0,0,,they are caught in a climactic battle.
-Dialogue: 0,0:03:38.03,0:03:42.35,Default,,0,0,0,,And they finally defeated Caesar.
-Dialogue: 0,0:03:51.51,0:03:55.19,Default,,0,0,0,,Smoker! The least I can do is...
-Dialogue: 0,0:03:55.48,0:03:57.98,Default,,0,0,0,,...take you along to hell with me!
-Dialogue: 0,0:04:00.86,0:04:04.51,Default,,0,0,0,,Monet. I can't believe you're alive.
-Dialogue: 0,0:04:05.55,0:04:07.55,Default,,0,0,0,,Vergo's been beaten.
-Dialogue: 0,0:04:08.42,0:04:11.29,Default,,0,0,0,,It's all because of my misjudgment.
-Dialogue: 0,0:04:11.29,0:04:14.21,Default,,0,0,0,,I feel bad for you all.
-Dialogue: 0,0:04:15.29,0:04:19.38,Default,,0,0,0,,But I want to make sure to wipe out all those squirts now.
-Dialogue: 0,0:04:20.26,0:04:23.62,Default,,0,0,0,,At the Third Laboratory, there is another weapon that was
-Dialogue: 0,0:04:23.62,0:04:27.89,Default,,0,0,0,,responsible for destroying the First and Second Laboratory
-Dialogue: 0,0:04:27.89,0:04:30.46,Default,,0,0,0,,and the rest of the island four years ago.
-Dialogue: 0,0:04:30.46,0:04:33.34,Default,,0,0,0,,With just the push of a button,
-Dialogue: 0,0:04:33.34,0:04:36.26,Default,,0,0,0,,there will be only one survivor on the whole island.
-Dialogue: 0,0:04:37.22,0:04:40.15,Default,,0,0,0,,No one else can take that highly toxic gas.
-Dialogue: 0,0:04:41.11,0:04:43.76,Default,,0,0,0,,And that's Caesar!
-Dialogue: 0,0:04:44.11,0:04:45.61,Default,,0,0,0,,The button is at...
-Dialogue: 0,0:04:45.61,0:04:48.19,Default,,0,0,0,,You don't have to say it, Joker.
-Dialogue: 0,0:04:49.71,0:04:51.68,Default,,0,0,0,,I was gonna do that, anyway.
-Dialogue: 0,0:04:53.05,0:04:54.61,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:04:55.38,0:04:59.13,Default,,0,0,0,,I need you to perish along with everything else.
-Dialogue: 0,0:05:03.05,0:05:04.39,Default,,0,0,0,,Understood.
-Dialogue: 0,0:05:07.76,0:05:12.19,"Sign",,0,0,0,,"A Critical Situation! Punk Hazard Explodes!"
-Dialogue: 0,0:05:48.11,0:05:49.66,Default,,0,0,0,,It's fast!
-Dialogue: 0,0:05:55.97,0:05:59.35,Default,,0,0,0,,Hey, get off of him!
-Dialogue: 0,0:05:59.35,0:06:01.02,Default,,0,0,0,,I won't!
-Dialogue: 0,0:06:02.32,0:06:05.51,Default,,0,0,0,,Hey, you're heavy! Get off!
-Dialogue: 0,0:06:05.73,0:06:07.90,Default,,0,0,0,,Why is there a dragon here?!
-Dialogue: 0,0:06:07.90,0:06:10.20,Default,,0,0,0,,Oh, I met him at a garbage dump.
-Dialogue: 0,0:06:10.20,0:06:11.15,Default,,0,0,0,,You brought him with you?
-Dialogue: 0,0:06:13.97,0:06:15.62,Default,,0,0,0,,It's no mistake!
-Dialogue: 0,0:06:23.11,0:06:24.81,Default,,0,0,0,,Father!
-Dialogue: 0,0:06:24.81,0:06:27.66,Default,,0,0,0,,What's wrong with him?
-Dialogue: 0,0:06:28.20,0:06:30.58,Default,,0,0,0,,Father!
-Dialogue: 0,0:06:30.58,0:06:33.40,Default,,0,0,0,,The eel is gonna attack me!
-Dialogue: 0,0:06:36.99,0:06:38.76,Default,,0,0,0,,Hey, Momo!
-Dialogue: 0,0:06:40.89,0:06:44.93,Default,,0,0,0,,Who is this dragon? He said "Father."
-Dialogue: 0,0:06:44.93,0:06:46.78,Default,,0,0,0,,Find out later.
-Dialogue: 0,0:06:49.40,0:06:54.32,Default,,0,0,0,,I don't see any light. The exit must be farther away.
-Dialogue: 0,0:06:55.61,0:06:58.80,Default,,0,0,0,,How far did Caesar fly?!
-Dialogue: 0,0:07:25.90,0:07:28.36,Default,,0,0,0,,This is it for you!
-Dialogue: 0,0:07:28.64,0:07:30.96,Default,,0,0,0,,Smoker!
-Dialogue: 0,0:08:01.24,0:08:03.83,Default,,0,0,0,,The Straw Hats.
-Dialogue: 0,0:08:07.65,0:08:09.59,Default,,0,0,0,,Trafalgar Law.
-Dialogue: 0,0:08:13.49,0:08:14.84,Default,,0,0,0,,G-5.
-Dialogue: 0,0:08:20.33,0:08:22.15,Default,,0,0,0,,Poor children.
-Dialogue: 0,0:08:28.24,0:08:29.94,Default,,0,0,0,,You all...
-Dialogue: 0,0:08:30.60,0:08:32.67,Default,,0,0,0,,...have to...
-Dialogue: 0,0:08:33.27,0:08:34.42,Default,,0,0,0,,...die with me.
-Dialogue: 0,0:08:39.71,0:08:42.00,Default,,0,0,0,,Goodbye, Young Master.
-Dialogue: 0,0:08:44.72,0:08:46.78,Default,,0,0,0,,I know you will become...
-Dialogue: 0,0:08:48.72,0:08:53.38,Default,,0,0,0,,...the Pirate King.
-Dialogue: 0,0:10:07.57,0:10:11.49,Default,,0,0,0,,Why is the Transponder Snail still receiving the signal?
-Dialogue: 0,0:10:39.17,0:10:40.67,Default,,0,0,0,,Are you okay?
-Dialogue: 0,0:10:40.67,0:10:42.07,Default,,0,0,0,,Uh-huh!
-Dialogue: 0,0:10:43.74,0:10:45.79,Default,,0,0,0,,Seems like there was an explosion!
-Dialogue: 0,0:10:46.34,0:10:48.06,Default,,0,0,0,,I think it was in D Building.
-Dialogue: 0,0:10:48.68,0:10:51.91,Default,,0,0,0,,The SAD Manufacturing Room where I was before.
-Dialogue: 0,0:11:02.12,0:11:03.31,Default,,0,0,0,,Monet.
-Dialogue: 0,0:11:19.84,0:11:23.04,Default,,0,0,0,,Goodbye, Smoker!
-Dialogue: 0,0:11:42.30,0:11:44.83,Default,,0,0,0,,What happened, Monet?
-Dialogue: 0,0:11:50.40,0:11:53.42,Default,,0,0,0,,Young Master...
-Dialogue: 0,0:12:15.86,0:12:17.60,Default,,0,0,0,,Hey, Law.
-Dialogue: 0,0:12:25.21,0:12:29.88,Default,,0,0,0,,If we can get out of here, we'll go separate ways.
-Dialogue: 0,0:12:29.88,0:12:32.73,Default,,0,0,0,,But there is something I want to ask you.
-Dialogue: 0,0:12:33.81,0:12:34.73,Default,,0,0,0,,What?
-Dialogue: 0,0:12:49.36,0:12:51.55,Default,,0,0,0,,This is yours.
-Dialogue: 0,0:13:01.38,0:13:05.26,Default,,0,0,0,,I thought Caesar had my heart.
-Dialogue: 0,0:13:06.08,0:13:08.63,Default,,0,0,0,,How did it end up in your hands?
-Dialogue: 0,0:13:10.35,0:13:12.77,Default,,0,0,0,,He just got the wrong idea.
-Dialogue: 0,0:13:14.39,0:13:17.59,Default,,0,0,0,,Let me keep your heart!
-Dialogue: 0,0:13:17.59,0:13:19.61,Default,,0,0,0,,And that's a deal!
-Dialogue: 0,0:13:24.20,0:13:27.32,Default,,0,0,0,,To earn the trust of Caesar,
-Dialogue: 0,0:13:27.70,0:13:30.37,Default,,0,0,0,,I let him keep my heart
-Dialogue: 0,0:13:31.31,0:13:35.81,Default,,0,0,0,,and took his secretary Monet's heart in return.
-Dialogue: 0,0:13:38.38,0:13:41.00,Default,,0,0,0,,Now it's a deal!
-Dialogue: 0,0:13:45.25,0:13:49.71,Default,,0,0,0,,And then I cut your heart out when you got to the lab.
-Dialogue: 0,0:14:04.84,0:14:09.26,Default,,0,0,0,,So I had two hearts in my possession.
-Dialogue: 0,0:14:27.29,0:14:32.43,Default,,0,0,0,,The Navy G-5 Vice Admiral Smoker's heart!
-Dialogue: 0,0:14:33.10,0:14:36.90,Default,,0,0,0,,What a nice gift, Law.
-Dialogue: 0,0:14:38.71,0:14:44.66,Default,,0,0,0,,I gave his secretary Monet's heart back to him out of kindness.
-Dialogue: 0,0:14:59.06,0:15:00.76,Default,,0,0,0,,Respond.
-Dialogue: 0,0:15:02.66,0:15:03.65,Default,,0,0,0,,Monet.
-Dialogue: 0,0:15:08.90,0:15:13.46,Default,,0,0,0,,As they say, if you are kind to people,
-Dialogue: 0,0:15:14.21,0:15:17.14,Default,,0,0,0,,good things will happen to you.
-Dialogue: 0,0:16:13.23,0:16:16.79,Default,,0,0,0,,How did you like it? This Missile Girl's...
-Dialogue: 0,0:16:18.44,0:16:20.51,Default,,0,0,0,,...flame of love?
-Dialogue: 0,0:16:22.51,0:16:25.36,Default,,0,0,0,,Hey, Baby 5!
-Dialogue: 0,0:16:25.81,0:16:30.72,Default,,0,0,0,,Do you need this weapon? Even though you're a weapon woman yourself.
-Dialogue: 0,0:16:30.72,0:16:33.00,Default,,0,0,0,,Thank you for picking it up, Buffalo!
-Dialogue: 0,0:16:33.42,0:16:36.56,Default,,0,0,0,,That's my good luck charm!
-Dialogue: 0,0:16:38.83,0:16:41.48,Default,,0,0,0,,An owner of this weapon is destined to become happy
-Dialogue: 0,0:16:41.83,0:16:44.83,Default,,0,0,0,,and if you buy this, you'd make me happy, too!
-Dialogue: 0,0:16:44.83,0:16:47.16,Default,,0,0,0,,What?! He...
-Dialogue: 0,0:16:48.24,0:16:51.09,Default,,0,0,0,,...needs me!
-Dialogue: 0,0:16:52.44,0:16:54.62,Default,,0,0,0,,I'm absolutely sure that he fooled you!
-Dialogue: 0,0:16:55.61,0:16:57.28,Default,,0,0,0,,Behind you-dasuyan!
-Dialogue: 0,0:17:02.45,0:17:05.89,Default,,0,0,0,,I don't know who you are but...
-Dialogue: 0,0:17:06.72,0:17:12.38,Default,,0,0,0,,I'm an invincible Iron Pirate!
-Dialogue: 0,0:17:12.38,0:17:17.20,Default,,0,0,0,,I don't fight for the peace of the sea!
-Dialogue: 0,0:17:17.20,0:17:19.68,Default,,0,0,0,,--Iron Pirate! --How persistent!
-Dialogue: 0,0:17:20.07,0:17:21.38,Default,,0,0,0,,Weapon-morphosis!
-Dialogue: 0,0:17:22.04,0:17:23.75,Default,,0,0,0,,Revolver Girl!
-Dialogue: 0,0:17:26.34,0:17:28.51,Default,,0,0,0,,Oh! It doesn't work!
-Dialogue: 0,0:17:33.45,0:17:35.27,Default,,0,0,0,,It just made me itchy!
-Dialogue: 0,0:17:35.45,0:17:37.25,Default,,0,0,0,,This guy's pretty tough!
-Dialogue: 0,0:17:37.25,0:17:39.24,Default,,0,0,0,,Baby 5!
-Dialogue: 0,0:17:39.24,0:17:40.79,Default,,0,0,0,,Catch it!
-Dialogue: 0,0:17:40.79,0:17:43.05,Default,,0,0,0,,Thanks, Buffalo!
-Dialogue: 0,0:17:43.05,0:17:46.44,Default,,0,0,0,,It's not over yet!
-Dialogue: 0,0:18:02.54,0:18:06.25,Default,,0,0,0,,This is no good! It's collapsing faster!
-Dialogue: 0,0:18:09.15,0:18:10.33,Default,,0,0,0,,Look out!
-Dialogue: 0,0:18:14.42,0:18:15.77,Default,,0,0,0,,The passage is gonna collapse!
-Dialogue: 0,0:18:18.16,0:18:22.46,Default,,0,0,0,,We're in a tunnel through a mountain. If it collapses, we'll be buried alive.
-Dialogue: 0,0:18:22.46,0:18:24.51,Default,,0,0,0,,Don't say it in a relaxed matter!
-Dialogue: 0,0:18:32.71,0:18:34.72,Default,,0,0,0,,Oh no! The wreckage blocked our way!
-Dialogue: 0,0:18:34.72,0:18:36.44,Default,,0,0,0,,Where are the brakes?!
-Dialogue: 0,0:18:41.92,0:18:43.23,Default,,0,0,0,,Keep going.
-Dialogue: 0,0:18:43.23,0:18:44.10,Default,,0,0,0,,What?!
-Dialogue: 0,0:19:16.05,0:19:17.47,Default,,0,0,0,,Cool!
-Dialogue: 0,0:19:17.69,0:19:20.14,Default,,0,0,0,,Can't believe it! He saved us!
-Dialogue: 0,0:19:20.35,0:19:23.37,Default,,0,0,0,,I don't want him to be my enemy! Although he already is!
-Dialogue: 0,0:19:31.37,0:19:33.48,Default,,0,0,0,,Don't get too comfortable yet.
-Dialogue: 0,0:19:49.68,0:19:51.53,Default,,0,0,0,,The deadly gas!
-Dialogue: 0,0:19:54.76,0:19:56.59,Default,,0,0,0,,You've got to be kidding!
-Dialogue: 0,0:20:00.03,0:20:02.25,Default,,0,0,0,,It's that thing again.
-Dialogue: 0,0:20:02.25,0:20:05.25,Default,,0,0,0,,Is it flowing in through cracks of walls?
-Dialogue: 0,0:20:06.17,0:20:08.87,Default,,0,0,0,,It's gonna be more than just being buried alive.
-Dialogue: 0,0:20:08.87,0:20:12.22,Default,,0,0,0,,Stop saying such horrible things in a cool manner!
-Dialogue: 0,0:20:20.15,0:20:22.75,Default,,0,0,0,,There is going to be gas around the exit.
-Dialogue: 0,0:20:23.88,0:20:26.85,Default,,0,0,0,,Can anybody here generate wind?
-Dialogue: 0,0:20:26.85,0:20:27.79,Default,,0,0,0,,What?
-Dialogue: 0,0:20:27.79,0:20:31.31,Default,,0,0,0,,It's not so easy to find a person with such a special skill!
-Dialogue: 0,0:20:32.26,0:20:34.50,Default,,0,0,0,,I can do that.
-Dialogue: 0,0:20:34.50,0:20:35.95,Default,,0,0,0,,How easy?!
-Dialogue: 0,0:20:46.37,0:20:47.82,Default,,0,0,0,,I see the exit!
-Dialogue: 0,0:20:49.88,0:20:52.00,Default,,0,0,0,,Alright, we're almost there!
-Dialogue: 0,0:20:52.51,0:20:54.35,Default,,0,0,0,,Go faster!
-Dialogue: 0,0:21:28.78,0:21:31.89,Default,,0,0,0,,Young Master!
-Dialogue: 0,0:21:32.89,0:21:34.66,Default,,0,0,0,,Young Master?
-Dialogue: 0,0:21:40.33,0:21:41.83,Default,,0,0,0,,Young Master?
-Dialogue: 0,0:21:42.55,0:21:44.63,Default,,0,0,0,,Young Master!
-Dialogue: 0,0:21:48.87,0:21:50.29,Default,,0,0,0,,I can't find him.
-Dialogue: 0,0:21:50.54,0:21:53.19,Default,,0,0,0,,Young Master!
-Dialogue: 0,0:21:56.71,0:21:58.60,Default,,0,0,0,,The Young Master is nowhere to be found.
-Dialogue: 0,0:21:59.38,0:22:01.60,Default,,0,0,0,,He must be in the room on the fourth floor.
-Dialogue: 0,0:22:03.05,0:22:05.84,Default,,0,0,0,,Uh-uh! He wasn't there.
-Dialogue: 0,0:22:06.09,0:22:07.96,Default,,0,0,0,,The window was open.
-Dialogue: 0,0:22:07.96,0:22:10.89,Default,,0,0,0,,Oh, okay.
-Dialogue: 0,0:22:11.96,0:22:13.74,Default,,0,0,0,,Then I don't know where he is.
-Dialogue: 0,0:22:20.30,0:22:23.09,Default,,0,0,0,,He went out by himself again.
-Dialogue: 0,0:22:26.34,0:22:30.49,Default,,0,0,0,,It's me. Tell me what's going on over there.
-Dialogue: 0,0:22:30.49,0:22:35.30,Default,,0,0,0,,W-We've actually been blocked by some kind of iron guard!
-Dialogue: 0,0:22:37.58,0:22:39.97,Default,,0,0,0,,Is it still safe there?
-Dialogue: 0,0:22:40.22,0:22:41.42,Default,,0,0,0,,Yes, it is!
-Dialogue: 0,0:22:41.42,0:22:46.44,Default,,0,0,0,,Which means the island and those squirts haven't been wiped out.
-Dialogue: 0,0:22:51.47,0:22:53.30,Default,,0,0,0,,You two.
-Dialogue: 0,0:22:53.77,0:22:56.83,Default,,0,0,0,,Take care of that guard.
-Dialogue: 0,0:22:59.24,0:23:01.26,Default,,0,0,0,,I'm on my way!
+Dialogue: 0,0:03:15.31,0:03:18.05,Default,,0,0,0,,The Straw Hats finally entered the New World,
+Dialogue: 0,0:03:18.05,0:03:21.05,Default,,0,0,0,,the harshest sea ruled by the Four Emperors
+Dialogue: 0,0:03:21.05,0:03:22.99,Default,,0,0,0,,and landed on Punk Hazard;
+Dialogue: 0,0:03:22.99,0:03:25.12,Default,,0,0,0,,an island with two parts, one burning, the other frozen.
+Dialogue: 0,0:03:25.92,0:03:29.29,Default,,0,0,0,,They learned about the ruler of the island and the puppeteer
+Dialogue: 0,0:03:29.29,0:03:31.53,Default,,0,0,0,,of Land of the Dead - Caesar Clown's motive
+Dialogue: 0,0:03:31.53,0:03:35.53,Default,,0,0,0,,and along with their pirate ally - the Warlord - Trafalgar Law,
+Dialogue: 0,0:03:35.53,0:03:37.57,Default,,0,0,0,,they are caught in a climactic battle.
+Dialogue: 0,0:03:38.14,0:03:42.44,Default,,0,0,0,,And they finally defeated Caesar.
+Dialogue: 0,0:03:51.62,0:03:55.29,Default,,0,0,0,,Smoker! The least I can do is...
+Dialogue: 0,0:03:55.55,0:03:58.06,Default,,0,0,0,,...take you along to hell with me!
+Dialogue: 0,0:04:00.96,0:04:04.60,Default,,0,0,0,,Monet. I can't believe you're alive.
+Dialogue: 0,0:04:05.66,0:04:07.66,Default,,0,0,0,,Vergo's been beaten.
+Dialogue: 0,0:04:08.53,0:04:11.40,Default,,0,0,0,,It's all because of my misjudgment.
+Dialogue: 0,0:04:11.40,0:04:14.30,Default,,0,0,0,,I feel bad for you all.
+Dialogue: 0,0:04:15.41,0:04:19.48,Default,,0,0,0,,But I want to make sure to wipe out all those squirts now.
+Dialogue: 0,0:04:20.38,0:04:23.71,Default,,0,0,0,,At the Third Laboratory, there is another weapon that was
+Dialogue: 0,0:04:23.71,0:04:28.02,Default,,0,0,0,,responsible for destroying the First and Second Laboratory
+Dialogue: 0,0:04:28.02,0:04:30.59,Default,,0,0,0,,and the rest of the island four years ago.
+Dialogue: 0,0:04:30.59,0:04:33.46,Default,,0,0,0,,With just the push of a button,
+Dialogue: 0,0:04:33.46,0:04:36.39,Default,,0,0,0,,there will be only one survivor on the whole island.
+Dialogue: 0,0:04:37.33,0:04:40.26,Default,,0,0,0,,No one else can take that highly toxic gas.
+Dialogue: 0,0:04:41.23,0:04:43.87,Default,,0,0,0,,And that's Caesar!
+Dialogue: 0,0:04:44.23,0:04:45.70,Default,,0,0,0,,The button is at...
+Dialogue: 0,0:04:45.70,0:04:48.31,Default,,0,0,0,,You don't have to say it, Joker.
+Dialogue: 0,0:04:49.81,0:04:51.78,Default,,0,0,0,,I was gonna do that, anyway.
+Dialogue: 0,0:04:53.14,0:04:54.75,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:04:55.51,0:04:59.25,Default,,0,0,0,,I need you to perish along with everything else.
+Dialogue: 0,0:05:03.15,0:05:04.52,Default,,0,0,0,,Understood.
+Dialogue: 0,0:05:05.66,0:05:14.63,"Sign",,0,0,0,,"A Critical Situation! Punk Hazard Explodes!"
+Dialogue: 0,0:05:48.27,0:05:49.80,Default,,0,0,0,,It's fast!
+Dialogue: 0,0:05:55.97,0:05:59.41,Default,,0,0,0,,Hey, get off of him!
+Dialogue: 0,0:05:59.41,0:06:01.11,Default,,0,0,0,,I won't!
+Dialogue: 0,0:06:02.41,0:06:05.65,Default,,0,0,0,,Hey, you're heavy! Get off!
+Dialogue: 0,0:06:05.88,0:06:08.05,Default,,0,0,0,,Why is there a dragon here?!
+Dialogue: 0,0:06:08.05,0:06:10.35,Default,,0,0,0,,Oh, I met him at a garbage dump.
+Dialogue: 0,0:06:10.35,0:06:11.29,Default,,0,0,0,,You brought him with you?
+Dialogue: 0,0:06:14.12,0:06:15.76,Default,,0,0,0,,It's no mistake!
+Dialogue: 0,0:06:23.23,0:06:24.94,Default,,0,0,0,,Father!
+Dialogue: 0,0:06:24.94,0:06:27.80,Default,,0,0,0,,What's wrong with him?
+Dialogue: 0,0:06:28.34,0:06:30.74,Default,,0,0,0,,Father!
+Dialogue: 0,0:06:30.74,0:06:33.54,Default,,0,0,0,,The eel is gonna attack me!
+Dialogue: 0,0:06:37.15,0:06:38.88,Default,,0,0,0,,Hey, Momo!
+Dialogue: 0,0:06:41.02,0:06:45.09,Default,,0,0,0,,Who is this dragon? He said "Father."
+Dialogue: 0,0:06:45.09,0:06:46.92,Default,,0,0,0,,Find out later.
+Dialogue: 0,0:06:49.56,0:06:54.46,Default,,0,0,0,,I don't see any light. The exit must be farther away.
+Dialogue: 0,0:06:55.77,0:06:58.94,Default,,0,0,0,,How far did Caesar fly?!
+Dialogue: 0,0:07:26.06,0:07:28.50,Default,,0,0,0,,This is it for you!
+Dialogue: 0,0:07:28.77,0:07:31.10,Default,,0,0,0,,Smoker!
+Dialogue: 0,0:08:01.37,0:08:03.97,Default,,0,0,0,,The Straw Hats.
+Dialogue: 0,0:08:07.80,0:08:09.74,Default,,0,0,0,,Trafalgar Law.
+Dialogue: 0,0:08:13.64,0:08:14.98,Default,,0,0,0,,G-5.
+Dialogue: 0,0:08:20.48,0:08:22.29,Default,,0,0,0,,Poor children.
+Dialogue: 0,0:08:28.39,0:08:30.09,Default,,0,0,0,,You all...
+Dialogue: 0,0:08:30.76,0:08:32.83,Default,,0,0,0,,...have to...
+Dialogue: 0,0:08:33.40,0:08:34.56,Default,,0,0,0,,...die with me.
+Dialogue: 0,0:08:39.84,0:08:42.14,Default,,0,0,0,,Goodbye, Young Master.
+Dialogue: 0,0:08:44.88,0:08:46.91,Default,,0,0,0,,I know you will become...
+Dialogue: 0,0:08:48.85,0:08:53.52,Default,,0,0,0,,...the Pirate King.
+Dialogue: 0,0:10:07.72,0:10:11.63,Default,,0,0,0,,Why is the Transponder Snail still receiving the signal?
+Dialogue: 0,0:10:39.32,0:10:40.82,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:10:40.82,0:10:42.23,Default,,0,0,0,,Uh-huh!
+Dialogue: 0,0:10:43.89,0:10:45.93,Default,,0,0,0,,Seems like there was an explosion!
+Dialogue: 0,0:10:46.46,0:10:48.20,Default,,0,0,0,,I think it was in D Building.
+Dialogue: 0,0:10:48.83,0:10:52.04,Default,,0,0,0,,The SAD Manufacturing Room where I was before.
+Dialogue: 0,0:11:02.25,0:11:03.45,Default,,0,0,0,,Monet.
+Dialogue: 0,0:11:20.00,0:11:23.20,Default,,0,0,0,,Goodbye, Smoker!
+Dialogue: 0,0:11:42.45,0:11:44.99,Default,,0,0,0,,What happened, Monet?
+Dialogue: 0,0:11:50.56,0:11:53.56,Default,,0,0,0,,Young Master...
+Dialogue: 0,0:12:15.99,0:12:17.75,Default,,0,0,0,,Hey, Law.
+Dialogue: 0,0:12:25.36,0:12:30.03,Default,,0,0,0,,If we can get out of here, we'll go separate ways.
+Dialogue: 0,0:12:30.03,0:12:32.87,Default,,0,0,0,,But there is something I want to ask you.
+Dialogue: 0,0:12:33.97,0:12:34.87,Default,,0,0,0,,What?
+Dialogue: 0,0:12:49.49,0:12:51.69,Default,,0,0,0,,This is yours.
+Dialogue: 0,0:13:01.53,0:13:05.40,Default,,0,0,0,,I thought Caesar had my heart.
+Dialogue: 0,0:13:06.20,0:13:08.77,Default,,0,0,0,,How did it end up in your hands?
+Dialogue: 0,0:13:10.47,0:13:12.91,Default,,0,0,0,,He just got the wrong idea.
+Dialogue: 0,0:13:14.54,0:13:17.75,Default,,0,0,0,,Let me keep your heart!
+Dialogue: 0,0:13:17.75,0:13:19.75,Default,,0,0,0,,And that's a deal!
+Dialogue: 0,0:13:24.35,0:13:27.46,Default,,0,0,0,,To earn the trust of Caesar,
+Dialogue: 0,0:13:27.82,0:13:30.49,Default,,0,0,0,,I let him keep my heart
+Dialogue: 0,0:13:31.46,0:13:35.97,Default,,0,0,0,,and took his secretary Monet's heart in return.
+Dialogue: 0,0:13:38.54,0:13:41.14,Default,,0,0,0,,Now it's a deal!
+Dialogue: 0,0:13:45.38,0:13:49.85,Default,,0,0,0,,And then I cut your heart out when you got to the lab.
+Dialogue: 0,0:14:04.99,0:14:09.40,Default,,0,0,0,,So I had two hearts in my possession.
+Dialogue: 0,0:14:27.45,0:14:32.59,Default,,0,0,0,,The Navy G-5 Vice Admiral Smoker's heart!
+Dialogue: 0,0:14:33.26,0:14:37.06,Default,,0,0,0,,What a nice gift, Law.
+Dialogue: 0,0:14:38.86,0:14:44.80,Default,,0,0,0,,I gave his secretary Monet's heart back to him out of kindness.
+Dialogue: 0,0:14:59.22,0:15:00.88,Default,,0,0,0,,Respond.
+Dialogue: 0,0:15:02.79,0:15:03.79,Default,,0,0,0,,Monet.
+Dialogue: 0,0:15:09.03,0:15:13.60,Default,,0,0,0,,As they say, if you are kind to people,
+Dialogue: 0,0:15:14.36,0:15:17.27,Default,,0,0,0,,good things will happen to you.
+Dialogue: 0,0:16:13.36,0:16:16.93,Default,,0,0,0,,How did you like it? This Missile Girl's...
+Dialogue: 0,0:16:18.60,0:16:20.66,Default,,0,0,0,,...flame of love?
+Dialogue: 0,0:16:22.67,0:16:25.50,Default,,0,0,0,,Hey, Baby 5!
+Dialogue: 0,0:16:25.94,0:16:30.87,Default,,0,0,0,,Do you need this weapon? Even though you're a weapon woman yourself.
+Dialogue: 0,0:16:30.87,0:16:33.14,Default,,0,0,0,,Thank you for picking it up, Buffalo!
+Dialogue: 0,0:16:33.54,0:16:36.71,Default,,0,0,0,,That's my good luck charm!
+Dialogue: 0,0:16:38.98,0:16:41.62,Default,,0,0,0,,An owner of this weapon is destined to become happy
+Dialogue: 0,0:16:41.99,0:16:44.95,Default,,0,0,0,,and if you buy this, you'd make me happy, too!
+Dialogue: 0,0:16:44.95,0:16:47.29,Default,,0,0,0,,What?! He...
+Dialogue: 0,0:16:48.39,0:16:51.23,Default,,0,0,0,,...needs me!
+Dialogue: 0,0:16:52.60,0:16:54.76,Default,,0,0,0,,I'm absolutely sure that he fooled you!
+Dialogue: 0,0:16:55.77,0:16:57.43,Default,,0,0,0,,Behind you-dasuyan!
+Dialogue: 0,0:17:02.61,0:17:06.04,Default,,0,0,0,,I don't know who you are but...
+Dialogue: 0,0:17:06.84,0:17:12.52,Default,,0,0,0,,I'm an invincible Iron Pirate!
+Dialogue: 0,0:17:12.52,0:17:17.35,Default,,0,0,0,,I don't fight for the peace of the sea!
+Dialogue: 0,0:17:17.35,0:17:19.82,Default,,0,0,0,,--Iron Pirate! --How persistent!
+Dialogue: 0,0:17:20.22,0:17:21.59,Default,,0,0,0,,Weapon-morphosis!
+Dialogue: 0,0:17:22.19,0:17:23.89,Default,,0,0,0,,Revolver Girl!
+Dialogue: 0,0:17:26.46,0:17:28.67,Default,,0,0,0,,Oh! It doesn't work!
+Dialogue: 0,0:17:33.60,0:17:35.41,Default,,0,0,0,,It just made me itchy!
+Dialogue: 0,0:17:35.61,0:17:37.37,Default,,0,0,0,,This guy's pretty tough!
+Dialogue: 0,0:17:37.37,0:17:39.38,Default,,0,0,0,,Baby 5!
+Dialogue: 0,0:17:39.38,0:17:40.94,Default,,0,0,0,,Catch it!
+Dialogue: 0,0:17:40.94,0:17:43.18,Default,,0,0,0,,Thanks, Buffalo!
+Dialogue: 0,0:17:43.18,0:17:46.58,Default,,0,0,0,,It's not over yet!
+Dialogue: 0,0:18:02.67,0:18:06.40,Default,,0,0,0,,This is no good! It's collapsing faster!
+Dialogue: 0,0:18:09.31,0:18:10.47,Default,,0,0,0,,Look out!
+Dialogue: 0,0:18:14.54,0:18:15.91,Default,,0,0,0,,The passage is gonna collapse!
+Dialogue: 0,0:18:18.31,0:18:22.59,Default,,0,0,0,,We're in a tunnel through a mountain. If it collapses, we'll be buried alive.
+Dialogue: 0,0:18:22.59,0:18:24.65,Default,,0,0,0,,Don't say it in a relaxed matter!
+Dialogue: 0,0:18:32.86,0:18:34.86,Default,,0,0,0,,Oh no! The wreckage blocked our way!
+Dialogue: 0,0:18:34.86,0:18:36.57,Default,,0,0,0,,Where are the brakes?!
+Dialogue: 0,0:18:42.07,0:18:43.37,Default,,0,0,0,,Keep going.
+Dialogue: 0,0:18:43.37,0:18:44.24,Default,,0,0,0,,What?!
+Dialogue: 0,0:19:16.21,0:19:17.61,Default,,0,0,0,,Cool!
+Dialogue: 0,0:19:17.84,0:19:20.28,Default,,0,0,0,,Can't believe it! He saved us!
+Dialogue: 0,0:19:20.48,0:19:23.51,Default,,0,0,0,,I don't want him to be my enemy! Although he already is!
+Dialogue: 0,0:19:31.52,0:19:33.62,Default,,0,0,0,,Don't get too comfortable yet.
+Dialogue: 0,0:19:49.81,0:19:51.67,Default,,0,0,0,,The deadly gas!
+Dialogue: 0,0:19:54.91,0:19:56.71,Default,,0,0,0,,You've got to be kidding!
+Dialogue: 0,0:20:00.18,0:20:02.39,Default,,0,0,0,,It's that thing again.
+Dialogue: 0,0:20:02.39,0:20:05.39,Default,,0,0,0,,Is it flowing in through cracks of walls?
+Dialogue: 0,0:20:06.32,0:20:09.03,Default,,0,0,0,,It's gonna be more than just being buried alive.
+Dialogue: 0,0:20:09.03,0:20:12.36,Default,,0,0,0,,Stop saying such horrible things in a cool manner!
+Dialogue: 0,0:20:20.30,0:20:22.91,Default,,0,0,0,,There is going to be gas around the exit.
+Dialogue: 0,0:20:24.01,0:20:26.98,Default,,0,0,0,,Can anybody here generate wind?
+Dialogue: 0,0:20:26.98,0:20:27.94,Default,,0,0,0,,What?
+Dialogue: 0,0:20:27.94,0:20:31.45,Default,,0,0,0,,It's not so easy to find a person with such a special skill!
+Dialogue: 0,0:20:32.42,0:20:34.65,Default,,0,0,0,,I can do that.
+Dialogue: 0,0:20:34.65,0:20:36.09,Default,,0,0,0,,How easy?!
+Dialogue: 0,0:20:46.50,0:20:47.96,Default,,0,0,0,,I see the exit!
+Dialogue: 0,0:20:50.03,0:20:52.14,Default,,0,0,0,,Alright, we're almost there!
+Dialogue: 0,0:20:52.64,0:20:54.50,Default,,0,0,0,,Go faster!
+Dialogue: 0,0:21:28.91,0:21:32.04,Default,,0,0,0,,Young Master!
+Dialogue: 0,0:21:33.04,0:21:34.81,Default,,0,0,0,,Young Master?
+Dialogue: 0,0:21:40.48,0:21:41.98,Default,,0,0,0,,Young Master?
+Dialogue: 0,0:21:42.69,0:21:44.75,Default,,0,0,0,,Young Master!
+Dialogue: 0,0:21:49.03,0:21:50.43,Default,,0,0,0,,I can't find him.
+Dialogue: 0,0:21:50.69,0:21:53.33,Default,,0,0,0,,Young Master!
+Dialogue: 0,0:21:56.83,0:21:58.73,Default,,0,0,0,,The Young Master is nowhere to be found.
+Dialogue: 0,0:21:59.54,0:22:01.74,Default,,0,0,0,,He must be in the room on the fourth floor.
+Dialogue: 0,0:22:03.17,0:22:05.98,Default,,0,0,0,,Uh-uh! He wasn't there.
+Dialogue: 0,0:22:06.24,0:22:08.11,Default,,0,0,0,,The window was open.
+Dialogue: 0,0:22:08.11,0:22:11.01,Default,,0,0,0,,Oh, okay.
+Dialogue: 0,0:22:12.11,0:22:13.88,Default,,0,0,0,,Then I don't know where he is.
+Dialogue: 0,0:22:20.42,0:22:23.23,Default,,0,0,0,,He went out by himself again.
+Dialogue: 0,0:22:26.50,0:22:30.63,Default,,0,0,0,,It's me. Tell me what's going on over there.
+Dialogue: 0,0:22:30.63,0:22:35.44,Default,,0,0,0,,W-We've actually been blocked by some kind of iron guard!
+Dialogue: 0,0:22:37.71,0:22:40.11,Default,,0,0,0,,Is it still safe there?
+Dialogue: 0,0:22:40.34,0:22:41.54,Default,,0,0,0,,Yes, it is!
+Dialogue: 0,0:22:41.54,0:22:46.58,Default,,0,0,0,,Which means the island and those squirts haven't been wiped out.
+Dialogue: 0,0:22:51.62,0:22:53.42,Default,,0,0,0,,You two.
+Dialogue: 0,0:22:53.92,0:22:56.96,Default,,0,0,0,,Take care of that guard.
+Dialogue: 0,0:22:59.40,0:23:01.40,Default,,0,0,0,,I'm on my way!
 Comment: 0,0:23:05.03,0:23:35.06,Default,,0,0,0,,Missing Preview

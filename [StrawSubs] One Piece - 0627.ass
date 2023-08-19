@@ -23,9 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 627 (BD 1920x1080 x264 29.970fps FLAC) [0C4
 Video File: [SOFCJ-Raws] One Piece - 627 (BD 1920x1080 x264 29.970fps FLAC) [0C4365E5].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 231
-Active Line: 244
-Video Position: 42407
+Video Zoom Percent: 0.500000
+Scroll Position: 41
+Active Line: 58
+Video Position: 11239
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,239 +45,239 @@ Dialogue: 0,0:02:59.28,0:03:02.39,Default,,0,0,0,,Now, Monkey D. Luffy, a boy wh
 Dialogue: 0,0:03:02.39,0:03:05.67,Default,,0,0,0,,to rubber after he ate the Gum-Gum Fruit,
 Dialogue: 0,0:03:05.67,0:03:07.30,Default,,0,0,0,,and his friends venture into that sea.
 Dialogue: 0,0:03:08.13,0:03:11.44,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:03:15.62,0:03:20.24,Default,,0,0,0,,After leaving Punk Hazard, the Straw Hats headed to Dressrosa.
-Dialogue: 0,0:03:20.32,0:03:22.45,Default,,0,0,0,,But a mysterious man, Breed, who leads a pack
-Dialogue: 0,0:03:22.45,0:03:24.05,Default,,0,0,0,,of sea monsters made a raid on them
-Dialogue: 0,0:03:24.05,0:03:26.11,Default,,0,0,0,,and kidnapped Caesar.
-Dialogue: 0,0:03:26.79,0:03:29.88,Default,,0,0,0,,To take back Caesar, Luffy, Law,
-Dialogue: 0,0:03:29.88,0:03:31.99,Default,,0,0,0,,and Chopper snuck into the enemy's ship.
-Dialogue: 0,0:03:32.68,0:03:35.65,Default,,0,0,0,,There, they happily reunited with a Kung Fu Dugong
-Dialogue: 0,0:03:35.65,0:03:39.14,Default,,0,0,0,,who had become Luffy's disciple in Alabasta.
-Dialogue: 0,0:03:39.96,0:03:42.29,Default,,0,0,0,,Pull your arm back all the way - like this!
-Dialogue: 0,0:03:42.69,0:03:44.65,Default,,0,0,0,,And use the lower half of your body!
-Dialogue: 0,0:03:46.53,0:03:49.31,Default,,0,0,0,,However, Breed's Peto-Peto Fruit power controlled
-Dialogue: 0,0:03:49.31,0:03:50.87,Default,,0,0,0,,the Dugong and the others.
-Dialogue: 0,0:03:51.51,0:03:54.69,Default,,0,0,0,,Breed gained control of Chopper, Luffy,
-Dialogue: 0,0:03:54.69,0:03:56.56,Default,,0,0,0,,and even Law with his mysterious power.
-Dialogue: 0,0:03:56.86,0:03:59.40,Default,,0,0,0,,Pet-peto!
-Dialogue: 0,0:03:59.62,0:04:00.80,Default,,0,0,0,,Dammit!
-Dialogue: 0,0:04:01.18,0:04:04.69,Default,,0,0,0,,I can control any living thing
-Dialogue: 0,0:04:04.69,0:04:09.16,Default,,0,0,0,,and bring out all of its power!
-Dialogue: 0,0:04:09.16,0:04:14.65,Default,,0,0,0,,You will see how deadly it is!
-Dialogue: 0,0:04:16.87,0:04:21.09,"Sign",,0,0,0,,"Luffy Dies at Sea?! The Pirate Alliance Comes Apart!"
-Dialogue: 0,0:04:24.40,0:04:26.18,Default,,0,0,0,,Damn! I can't take it off!
-Dialogue: 0,0:04:26.18,0:04:28.18,Default,,0,0,0,,Luffy, look up!
-Dialogue: 0,0:04:34.22,0:04:36.46,Default,,0,0,0,,I can't control myself!
-Dialogue: 0,0:04:36.46,0:04:37.36,Default,,0,0,0,,Damn!
-Dialogue: 0,0:04:39.91,0:04:42.23,Default,,0,0,0,,Watch out!
-Dialogue: 0,0:04:42.82,0:04:43.92,Default,,0,0,0,,Wait!
-Dialogue: 0,0:04:46.17,0:04:48.33,Default,,0,0,0,,Chopper stopped!
-Dialogue: 0,0:04:49.76,0:04:52.26,Default,,0,0,0,,You're just the bait.
-Dialogue: 0,0:04:52.88,0:04:55.88,Default,,0,0,0,,My main target was you two from the beginning.
-Dialogue: 0,0:04:56.21,0:04:57.59,Default,,0,0,0,,What did you say?!
-Dialogue: 0,0:04:57.59,0:04:58.47,Default,,0,0,0,,Wait!
-Dialogue: 0,0:04:59.73,0:05:02.13,Default,,0,0,0,,Oh? I can't move!
-Dialogue: 0,0:05:02.13,0:05:02.76,Default,,0,0,0,,Roo...
-Dialogue: 0,0:05:02.76,0:05:03.85,Default,,0,0,0,,Wait!
-Dialogue: 0,0:05:05.78,0:05:09.00,Default,,0,0,0,,You guys are going to be eating out of my hand forever.
-Dialogue: 0,0:05:09.00,0:05:11.62,Default,,0,0,0,,As long as I hold you two as my slaves,
-Dialogue: 0,0:05:11.93,0:05:13.62,Default,,0,0,0,,there's nothing to be afraid of!
-Dialogue: 0,0:05:16.04,0:05:18.39,Default,,0,0,0,,Straw Hat! Trafalgar!
-Dialogue: 0,0:05:18.90,0:05:20.59,Default,,0,0,0,,Sit!
-Dialogue: 0,0:05:25.15,0:05:26.32,Default,,0,0,0,,Dammit!
-Dialogue: 0,0:05:26.65,0:05:27.73,Default,,0,0,0,,Shake hands!
-Dialogue: 0,0:05:27.79,0:05:29.18,Default,,0,0,0,,Son of a bitch!
-Dialogue: 0,0:05:32.98,0:05:36.64,Default,,0,0,0,,See what I'm capable of?! This is the power of the Peto-Peto Fruit!
-Dialogue: 0,0:05:36.92,0:05:39.84,Default,,0,0,0,,Whether you're a Warlord or a rascal pirate
-Dialogue: 0,0:05:39.84,0:05:43.94,Default,,0,0,0,,with a 400 million bounty, you're powerless before me!
-Dialogue: 0,0:05:45.31,0:05:47.96,Default,,0,0,0,,If you were an animal, you could've become my pet.
-Dialogue: 0,0:05:47.96,0:05:52.17,Default,,0,0,0,,But stinking humans like you will become my slaves!
-Dialogue: 0,0:06:06.65,0:06:09.08,Default,,0,0,0,,How cute!
-Dialogue: 0,0:06:09.08,0:06:12.20,Default,,0,0,0,,I didn't realize because you had a strange outfit on before!
-Dialogue: 0,0:06:12.20,0:06:15.62,Default,,0,0,0,,Your blue nose is so cute, Raccoon-kun!
-Dialogue: 0,0:06:15.62,0:06:18.83,Default,,0,0,0,,I've never had a pet like you before!
-Dialogue: 0,0:06:19.08,0:06:21.95,Default,,0,0,0,,I'll dress you up right away!
-Dialogue: 0,0:06:20.83,0:06:22.25,Alt,,0,0,0,,Don't!
-Dialogue: 0,0:06:22.25,0:06:24.30,Default,,0,0,0,,Oh, good boy, good boy, good boy!
-Dialogue: 0,0:06:24.30,0:06:26.29,Default,,0,0,0,,Hey, get your hands off of Chopper!
-Dialogue: 0,0:06:26.80,0:06:29.69,Default,,0,0,0,,Shut up! You two are gonna get locked up!
-Dialogue: 0,0:06:29.69,0:06:32.38,Default,,0,0,0,,Put Sea Prism Stone handcuffs on them!
-Dialogue: 0,0:06:38.47,0:06:40.31,Default,,0,0,0,,It won't be long.
-Dialogue: 0,0:06:40.31,0:06:44.29,Default,,0,0,0,,It won't be long before my dream kingdom becomes reality.
-Dialogue: 0,0:06:51.03,0:06:53.58,Default,,0,0,0,,Hey, Peto-guy! Let us out!
-Dialogue: 0,0:06:53.58,0:06:56.26,Default,,0,0,0,,Give us back Chopper! Dammit!
-Dialogue: 0,0:06:56.62,0:06:58.65,Default,,0,0,0,,You...
-Dialogue: 0,0:06:59.87,0:07:00.80,Default,,0,0,0,,I'm losing my strength...
-Dialogue: 0,0:07:01.32,0:07:02.91,Default,,0,0,0,,I guess the cage is...
-Dialogue: 0,0:07:02.91,0:07:04.95,Default,,0,0,0,,...Made of Sea Prism Stone.
-Dialogue: 0,0:07:06.18,0:07:08.72,Default,,0,0,0,,You guys are so pathetic.
-Dialogue: 0,0:07:11.35,0:07:12.38,Default,,0,0,0,,Caesar!
-Dialogue: 0,0:07:12.38,0:07:13.68,Default,,0,0,0,,Hey, let us out!
-Dialogue: 0,0:07:13.88,0:07:17.48,Default,,0,0,0,,Shut up! Why does everybody give me orders?!
-Dialogue: 0,0:07:17.88,0:07:20.78,Default,,0,0,0,,Did he take control over you?
-Dialogue: 0,0:07:21.05,0:07:24.02,Default,,0,0,0,,Yes, he did. A collar and a leash!
-Dialogue: 0,0:07:24.24,0:07:26.61,Default,,0,0,0,,I feel like a pet!
-Dialogue: 0,0:07:26.61,0:07:28.32,Default,,0,0,0,,But I'm a great scientist!
-Dialogue: 0,0:07:28.74,0:07:30.83,Default,,0,0,0,,He said he's a Peto-Peto Fruit eater.
-Dialogue: 0,0:07:32.20,0:07:34.70,Default,,0,0,0,,And with that power,
-Dialogue: 0,0:07:34.70,0:07:38.66,Default,,0,0,0,,he can make people obey whatever order he gives.
-Dialogue: 0,0:07:40.05,0:07:43.41,Default,,0,0,0,,Caesar, is he one of Doflamingo's associates?
-Dialogue: 0,0:07:44.61,0:07:45.84,Default,,0,0,0,,Are you stupid?
-Dialogue: 0,0:07:45.84,0:07:49.12,Default,,0,0,0,,If he were, why would I be held captive still?
-Dialogue: 0,0:07:49.12,0:07:50.51,Default,,0,0,0,,As far as I know,
-Dialogue: 0,0:07:51.31,0:07:54.48,Default,,0,0,0,,Doflamingo doesn't have any subordinates like him.
-Dialogue: 0,0:07:55.70,0:07:58.95,Default,,0,0,0,,That guy told me he wants to create a dream kingdom or something.
-Dialogue: 0,0:07:58.95,0:08:00.27,Default,,0,0,0,,What kingdom?
-Dialogue: 0,0:08:00.27,0:08:02.97,Default,,0,0,0,,How do I know?! Dammit!
-Dialogue: 0,0:08:02.97,0:08:05.42,Default,,0,0,0,,It's so humiliating...
-Dialogue: 0,0:08:05.42,0:08:09.83,Default,,0,0,0,,...for me to take that whip fool's orders! Screw him!
-Dialogue: 0,0:08:10.15,0:08:11.65,Default,,0,0,0,,Caesar!
-Dialogue: 0,0:08:12.04,0:08:12.97,Default,,0,0,0,,Lie down!
-Dialogue: 0,0:08:14.72,0:08:16.33,Default,,0,0,0,,Hey, Caesar!
-Dialogue: 0,0:08:16.33,0:08:19.13,Default,,0,0,0,,I said "Lie down"! Can't you hear me?!
-Dialogue: 0,0:08:21.21,0:08:23.81,Default,,0,0,0,,Dammit! That asshole! I can't take it!
-Dialogue: 0,0:08:25.70,0:08:29.30,Default,,0,0,0,,You guys can't get away from me!
-Dialogue: 0,0:08:32.65,0:08:33.92,Default,,0,0,0,,Now,
-Dialogue: 0,0:08:35.59,0:08:37.01,Default,,0,0,0,,it's all ready!
-Dialogue: 0,0:08:37.35,0:08:40.16,Default,,0,0,0,,What should I make them to do for me?
-Dialogue: 0,0:08:41.50,0:08:42.34,Default,,0,0,0,,Peto-guy!
-Dialogue: 0,0:08:43.18,0:08:44.53,Default,,0,0,0,,Give us back Chopper...
-Dialogue: 0,0:08:44.99,0:08:47.87,Default,,0,0,0,,You shitty humans never learn.
-Dialogue: 0,0:08:48.35,0:08:51.77,Default,,0,0,0,,Don't worry. Chappy's here.
-Dialogue: 0,0:08:52.26,0:08:53.44,Default,,0,0,0,,Chappy?
-Dialogue: 0,0:09:00.82,0:09:02.65,Default,,0,0,0,,Chappy!
-Dialogue: 0,0:09:03.74,0:09:05.36,Default,,0,0,0,,I'm not Chappy!
-Dialogue: 0,0:09:05.58,0:09:06.57,Default,,0,0,0,,Chopper!
-Dialogue: 0,0:09:06.80,0:09:08.02,Default,,0,0,0,,Chappy!
-Dialogue: 0,0:09:08.29,0:09:10.06,Default,,0,0,0,,I'm Chopper!
-Dialogue: 0,0:09:13.53,0:09:15.36,Default,,0,0,0,,Chopper, what are you wearing?!
-Dialogue: 0,0:09:15.36,0:09:17.72,Default,,0,0,0,,Hey, Luffy! Stop laughing!
-Dialogue: 0,0:09:17.72,0:09:21.44,Default,,0,0,0,,Oh... I'm exhausted because of the Rumble Ball...
-Dialogue: 0,0:09:21.57,0:09:24.89,Default,,0,0,0,,Are you shy because you're dressed up?!
-Dialogue: 0,0:09:24.89,0:09:26.00,Default,,0,0,0,,No...
-Dialogue: 0,0:09:26.00,0:09:28.96,Default,,0,0,0,,Oh, somebody's in a bad mood!
-Dialogue: 0,0:09:29.45,0:09:31.68,Default,,0,0,0,,Stop!
-Dialogue: 0,0:09:31.99,0:09:33.35,Default,,0,0,0,,Luffy!
-Dialogue: 0,0:09:40.29,0:09:42.93,Default,,0,0,0,,Don't push your luck.
-Dialogue: 0,0:09:43.24,0:09:46.71,Default,,0,0,0,,You must be happy when I pet you.
-Dialogue: 0,0:09:47.13,0:09:49.57,Default,,0,0,0,,Submit to my demands!
-Dialogue: 0,0:09:50.97,0:09:52.36,Default,,0,0,0,,Are you okay, Chopper?!
-Dialogue: 0,0:09:52.36,0:09:53.20,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:09:53.20,0:09:54.77,Default,,0,0,0,,Chappy, get on your knees!
-Dialogue: 0,0:09:56.38,0:09:57.50,Default,,0,0,0,,Lower to the ground!
-Dialogue: 0,0:09:57.99,0:10:01.54,Default,,0,0,0,,Now, it's time for discipline!
-Dialogue: 0,0:10:06.63,0:10:07.72,Default,,0,0,0,,Hey, stop!
-Dialogue: 0,0:10:09.85,0:10:11.41,Default,,0,0,0,,I said "Stop"!
-Dialogue: 0,0:10:11.41,0:10:13.63,Default,,0,0,0,,What are you doing to my friend?!
-Dialogue: 0,0:10:15.70,0:10:16.58,Default,,0,0,0,,"Friend"...
-Dialogue: 0,0:10:16.58,0:10:17.48,Default,,0,0,0,,"Friend"?
-Dialogue: 0,0:10:17.71,0:10:18.45,Default,,0,0,0,,"Friend"!
-Dialogue: 0,0:10:18.45,0:10:19.23,Default,,0,0,0,,"Friend"!
-Dialogue: 0,0:10:19.23,0:10:20.40,Default,,0,0,0,,"Friend"!
-Dialogue: 0,0:10:20.77,0:10:22.57,Default,,0,0,0,,"Friend"!!
-Dialogue: 0,0:10:26.05,0:10:27.84,Default,,0,0,0,,Cut the "friend" crap!
-Dialogue: 0,0:10:29.90,0:10:32.67,Default,,0,0,0,,I don't believe in friendship!
-Dialogue: 0,0:10:33.21,0:10:35.65,Default,,0,0,0,,It's not worth a damn!
-Dialogue: 0,0:10:35.92,0:10:38.33,Default,,0,0,0,,Listen! All I need is...
-Dialogue: 0,0:10:38.33,0:10:43.09,Default,,0,0,0,,...loyal followers - tools - who just work for me!
-Dialogue: 0,0:10:43.63,0:10:47.46,Default,,0,0,0,,I have no need for insubordinates!
-Dialogue: 0,0:10:47.77,0:10:51.63,Default,,0,0,0,,Everyone should just do as I say without complaining!
-Dialogue: 0,0:10:52.10,0:10:55.27,Default,,0,0,0,,Worthless humans always stand against me!
-Dialogue: 0,0:10:55.27,0:10:57.89,Default,,0,0,0,,That's why I have no need for their friendship!
-Dialogue: 0,0:10:57.89,0:10:59.10,Default,,0,0,0,,I don't need them!
-Dialogue: 0,0:10:59.32,0:11:02.82,Default,,0,0,0,,But animals... pets are different!
-Dialogue: 0,0:11:02.82,0:11:06.71,Default,,0,0,0,,They just follow my orders quietly and submissively!
-Dialogue: 0,0:11:06.96,0:11:12.52,Default,,0,0,0,,Animals! Pets! They're the best!
-Dialogue: 0,0:11:17.38,0:11:19.98,Default,,0,0,0,,That's why I need you.
-Dialogue: 0,0:11:20.39,0:11:22.13,Default,,0,0,0,,Caesar.
-Dialogue: 0,0:11:26.35,0:11:27.70,Default,,0,0,0,,To make...
-Dialogue: 0,0:11:28.62,0:11:30.57,Default,,0,0,0,,...this!
-Dialogue: 0,0:11:31.56,0:11:35.17,Default,,0,0,0,,Is that... SMILE?! Where did you get it?!
-Dialogue: 0,0:11:35.50,0:11:38.64,Default,,0,0,0,,I have a connection with the underground.
-Dialogue: 0,0:11:38.64,0:11:43.49,Default,,0,0,0,,I'm gonna use this Zoan type, man-made Devil Fruit...
-Dialogue: 0,0:11:43.49,0:11:47.76,Default,,0,0,0,,...to turn humans to animals forcibly!
-Dialogue: 0,0:11:48.12,0:11:53.91,Default,,0,0,0,,Then there will be no more detectable, pathetic humans in the world!
-Dialogue: 0,0:11:53.91,0:11:57.67,Default,,0,0,0,,You bastard! What are you really up to?!
-Dialogue: 0,0:11:58.71,0:12:00.53,Default,,0,0,0,,A kingdom.
-Dialogue: 0,0:12:00.75,0:12:06.14,Default,,0,0,0,,I will create an animal-only kingdom - without a single stinking human!
-Dialogue: 0,0:12:06.79,0:12:11.91,Default,,0,0,0,,And I will conquer all the animals using my Peto-Peto power!
-Dialogue: 0,0:12:12.67,0:12:16.26,Default,,0,0,0,,I will turn them to loyal pets!
-Dialogue: 0,0:12:16.26,0:12:19.48,Default,,0,0,0,,That's my dream kingdom!
-Dialogue: 0,0:12:24.09,0:12:25.60,Default,,0,0,0,,Suit yourself!
-Dialogue: 0,0:12:26.96,0:12:29.16,Default,,0,0,0,,But you can't make me follow anybody!
-Dialogue: 0,0:12:31.60,0:12:33.15,Default,,0,0,0,,What are you talking about?!
-Dialogue: 0,0:12:33.15,0:12:36.00,Default,,0,0,0,,Didn't you see what I'm capable of with the Peto-Peto power?!
-Dialogue: 0,0:12:36.42,0:12:38.67,Default,,0,0,0,,It means nothing to me!
-Dialogue: 0,0:12:39.10,0:12:41.84,Default,,0,0,0,,You silly human!
-Dialogue: 0,0:12:44.47,0:12:50.68,Default,,0,0,0,,Worthless humans like you should just shut your mouths and follow my orders!
-Dialogue: 0,0:12:51.11,0:12:52.96,Default,,0,0,0,,Stop resisting!
-Dialogue: 0,0:12:53.51,0:12:55.32,Default,,0,0,0,,I'm a pirate!
-Dialogue: 0,0:12:56.06,0:12:58.07,Default,,0,0,0,,I'm not gonna follow anybody's order!
-Dialogue: 0,0:12:58.99,0:13:01.89,Default,,0,0,0,,Pirates should be free!
-Dialogue: 0,0:13:05.86,0:13:08.84,Default,,0,0,0,,"Pirates"? "Free"?
-Dialogue: 0,0:13:09.48,0:13:13.90,Default,,0,0,0,,I hate humans like you the most!
-Dialogue: 0,0:13:16.09,0:13:17.49,Default,,0,0,0,,Alright.
-Dialogue: 0,0:13:17.98,0:13:20.83,Default,,0,0,0,,I was gonna spare your life and enslave you.
-Dialogue: 0,0:13:20.83,0:13:24.15,Default,,0,0,0,,But all you damn humans deserve death after all!
-Dialogue: 0,0:13:34.93,0:13:36.30,Default,,0,0,0,,What is this place?
-Dialogue: 0,0:13:45.25,0:13:46.76,Default,,0,0,0,,Where are we?!
-Dialogue: 0,0:13:48.59,0:13:50.19,Default,,0,0,0,,It's showtime!
-Dialogue: 0,0:13:51.24,0:13:54.32,Default,,0,0,0,,I'll show you the terror of my Peto-Peto power!
-Dialogue: 0,0:13:55.31,0:13:58.40,Default,,0,0,0,,Alright, Trafalgar, here is my order to you!
-Dialogue: 0,0:13:59.43,0:14:02.42,Default,,0,0,0,,Kill Straw Hat!
-Dialogue: 0,0:14:05.67,0:14:06.46,Default,,0,0,0,,Tra-guy!
-Dialogue: 0,0:14:06.46,0:14:10.09,Default,,0,0,0,,Straw Hat, I want you to kill Trafalgar!
-Dialogue: 0,0:14:16.27,0:14:17.50,Default,,0,0,0,,Dammit!
-Dialogue: 0,0:14:17.81,0:14:18.54,Default,,0,0,0,,No!
-Dialogue: 0,0:14:19.21,0:14:21.30,Default,,0,0,0,,This is outrageous!
-Dialogue: 0,0:14:21.30,0:14:25.14,Default,,0,0,0,,Go ahead and kill each other! You can't use your Devil Fruit power though!
-Dialogue: 0,0:14:25.14,0:14:29.71,Default,,0,0,0,,Punch each other to death like idiots - just as you pathetic humans are!
-Dialogue: 0,0:14:31.87,0:14:36.22,Default,,0,0,0,,Now, the bloody show begins!
-Dialogue: 0,0:15:05.15,0:15:06.83,Default,,0,0,0,,Luffy! Law!
-Dialogue: 0,0:15:08.34,0:15:09.72,Default,,0,0,0,,I can't believe this!
-Dialogue: 0,0:15:24.14,0:15:26.61,Default,,0,0,0,,Tra-guy, it's no good!
-Dialogue: 0,0:15:26.98,0:15:29.44,Default,,0,0,0,,I can't control my body!
-Dialogue: 0,0:15:57.38,0:15:58.79,Default,,0,0,0,,Dammit!
-Dialogue: 0,0:16:04.22,0:16:06.71,Default,,0,0,0,,Yes! This is the greatest show ever!
-Dialogue: 0,0:16:18.89,0:16:21.72,Default,,0,0,0,,Damn! I can't stop myself!
-Dialogue: 0,0:16:28.12,0:16:31.05,Default,,0,0,0,,I don't wanna fight you like this!
-Dialogue: 0,0:16:31.05,0:16:32.80,Default,,0,0,0,,Dammit!
-Dialogue: 0,0:16:52.96,0:16:54.45,Default,,0,0,0,,Get away from me!
-Dialogue: 0,0:16:54.45,0:16:56.73,Default,,0,0,0,,Destroy each other! You foul humans!
-Dialogue: 0,0:17:03.70,0:17:04.74,Default,,0,0,0,,The leash!
-Dialogue: 0,0:17:09.54,0:17:11.69,Default,,0,0,0,,Keep fighting!
-Dialogue: 0,0:17:13.19,0:17:15.96,Default,,0,0,0,,Tiptoe, stealthy steps... Goodbye!
-Dialogue: 0,0:17:15.96,0:17:17.83,Default,,0,0,0,,What a fool.
-Dialogue: 0,0:17:17.83,0:17:21.54,Default,,0,0,0,,He still doesn't understand that nobody can get away from me.
-Dialogue: 0,0:17:22.10,0:17:24.64,Default,,0,0,0,,Well, I'll let him go for now.
-Dialogue: 0,0:17:26.71,0:17:29.26,Default,,0,0,0,,I'm enjoying this bloody show!
-Dialogue: 0,0:18:04.28,0:18:05.76,Default,,0,0,0,,Seal, watch out!
-Dialogue: 0,0:18:07.14,0:18:09.57,Default,,0,0,0,,Hey you, stay out of it!
-Dialogue: 0,0:18:10.33,0:18:12.41,Default,,0,0,0,,Do you wanna get whipped?!
-Dialogue: 0,0:18:19.99,0:18:22.55,Default,,0,0,0,,What?! Stop barking!
-Dialogue: 0,0:18:33.38,0:18:35.34,Default,,0,0,0,,You fool!
-Dialogue: 0,0:18:35.34,0:18:38.03,Default,,0,0,0,,Don't tell me you're speaking against me!
-Dialogue: 0,0:18:42.30,0:18:44.77,Default,,0,0,0,,Damn you!
-Dialogue: 0,0:18:48.23,0:18:50.69,Default,,0,0,0,,Damn! Damn! Damn!
-Dialogue: 0,0:18:52.83,0:18:55.26,Default,,0,0,0,,You idiot!
-Dialogue: 0,0:19:08.78,0:19:10.23,Default,,0,0,0,,Stop!
-Dialogue: 0,0:19:15.03,0:19:16.28,Default,,0,0,0,,Dugong!
-Dialogue: 0,0:19:25.56,0:19:29.50,Default,,0,0,0,,Do you want to help them so bad?
-Dialogue: 0,0:19:34.84,0:19:38.69,Default,,0,0,0,,Alright, if you insist, I'll stop them.
-Dialogue: 0,0:19:39.74,0:19:42.36,Default,,0,0,0,,Straw Hat, Trafalgar, wait!
-Dialogue: 0,0:19:47.04,0:19:48.32,Default,,0,0,0,,My body stopped.
-Dialogue: 0,0:19:59.74,0:20:01.34,Default,,0,0,0,,Instead,
-Dialogue: 0,0:20:03.54,0:20:05.38,Default,,0,0,0,,you do it.
-Dialogue: 0,0:20:11.37,0:20:15.33,Default,,0,0,0,,Since you like them so much, it'll be far more interesting
-Dialogue: 0,0:20:15.33,0:20:19.10,Default,,0,0,0,,to see you beating them up!
-Dialogue: 0,0:20:19.39,0:20:22.57,Default,,0,0,0,,Kill those two, Dugong!
-Dialogue: 0,0:20:24.61,0:20:26.31,Default,,0,0,0,,Now, go!
-Dialogue: 0,0:20:28.23,0:20:29.67,Default,,0,0,0,,That guy's terrible!
-Dialogue: 0,0:20:53.14,0:20:56.53,Default,,0,0,0,,Seal, I'll be alright!
-Dialogue: 0,0:21:43.39,0:21:47.92,Default,,0,0,0,,Do you realize what happens if you disobey me?!
-Dialogue: 0,0:21:48.22,0:21:51.05,Default,,0,0,0,,Now, throw them into the sea!
-Dialogue: 0,0:21:56.84,0:21:58.16,Default,,0,0,0,,Seal!
-Dialogue: 0,0:21:58.65,0:22:01.30,Default,,0,0,0,,I told you to use the lower half
-Dialogue: 0,0:22:01.30,0:22:05.17,Default,,0,0,0,,of your body and pull your arm back all the way!
-Dialogue: 0,0:22:09.89,0:22:14.34,Default,,0,0,0,,But you sure got stronger!
+Dialogue: 0,0:03:15.65,0:03:20.32,Default,,0,0,0,,After leaving Punk Hazard, the Straw Hats headed to Dressrosa.
+Dialogue: 0,0:03:20.32,0:03:22.52,Default,,0,0,0,,But a mysterious man, Breed, who leads a pack
+Dialogue: 0,0:03:22.52,0:03:24.15,Default,,0,0,0,,of sea monsters made a raid on them
+Dialogue: 0,0:03:24.15,0:03:26.19,Default,,0,0,0,,and kidnapped Caesar.
+Dialogue: 0,0:03:26.89,0:03:29.96,Default,,0,0,0,,To take back Caesar, Luffy, Law,
+Dialogue: 0,0:03:29.96,0:03:32.06,Default,,0,0,0,,and Chopper snuck into the enemy's ship.
+Dialogue: 0,0:03:32.66,0:03:35.73,Default,,0,0,0,,There, they happily reunited with a Kung Fu Dugong
+Dialogue: 0,0:03:35.73,0:03:39.20,Default,,0,0,0,,who had become Luffy's disciple in Alabasta.
+Dialogue: 0,0:03:40.04,0:03:42.37,Default,,0,0,0,,Pull your arm back all the way - like this!
+Dialogue: 0,0:03:42.77,0:03:44.74,Default,,0,0,0,,And use the lower half of your body!
+Dialogue: 0,0:03:46.61,0:03:49.41,Default,,0,0,0,,However, Breed's Peto-Peto Fruit power controlled
+Dialogue: 0,0:03:49.41,0:03:50.95,Default,,0,0,0,,the Dugong and the others.
+Dialogue: 0,0:03:51.62,0:03:54.79,Default,,0,0,0,,Breed gained control of Chopper, Luffy,
+Dialogue: 0,0:03:54.79,0:03:56.65,Default,,0,0,0,,and even Law with his mysterious power.
+Dialogue: 0,0:03:56.95,0:03:59.49,Default,,0,0,0,,Pet-peto!
+Dialogue: 0,0:03:59.72,0:04:00.89,Default,,0,0,0,,Dammit!
+Dialogue: 0,0:04:01.26,0:04:04.80,Default,,0,0,0,,I can control any living thing
+Dialogue: 0,0:04:04.80,0:04:09.23,Default,,0,0,0,,and bring out all of its power!
+Dialogue: 0,0:04:09.23,0:04:14.74,Default,,0,0,0,,You will see how deadly it is!
+Dialogue: 0,0:04:14.74,0:04:23.71,"Sign",,0,0,0,,"Luffy Dies at Sea?! The Pirate Alliance Comes Apart!"
+Dialogue: 0,0:04:24.52,0:04:26.28,Default,,0,0,0,,Damn! I can't take it off!
+Dialogue: 0,0:04:26.28,0:04:28.35,Default,,0,0,0,,Luffy, look up!
+Dialogue: 0,0:04:34.32,0:04:36.56,Default,,0,0,0,,I can't control myself!
+Dialogue: 0,0:04:36.56,0:04:37.46,Default,,0,0,0,,Damn!
+Dialogue: 0,0:04:40.00,0:04:42.33,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:04:42.93,0:04:44.03,Default,,0,0,0,,Wait!
+Dialogue: 0,0:04:46.27,0:04:48.44,Default,,0,0,0,,Chopper stopped!
+Dialogue: 0,0:04:49.87,0:04:52.34,Default,,0,0,0,,You're just the bait.
+Dialogue: 0,0:04:52.98,0:04:55.98,Default,,0,0,0,,My main target was you two from the beginning.
+Dialogue: 0,0:04:56.31,0:04:57.68,Default,,0,0,0,,What did you say?!
+Dialogue: 0,0:04:57.68,0:04:58.58,Default,,0,0,0,,Wait!
+Dialogue: 0,0:04:59.82,0:05:02.25,Default,,0,0,0,,Oh? I can't move!
+Dialogue: 0,0:05:02.25,0:05:02.85,Default,,0,0,0,,Roo—
+Dialogue: 0,0:05:02.85,0:05:03.95,Default,,0,0,0,,Wait!
+Dialogue: 0,0:05:05.89,0:05:09.09,Default,,0,0,0,,You guys are going to be eating out of my hand forever.
+Dialogue: 0,0:05:09.09,0:05:11.73,Default,,0,0,0,,As long as I hold you two as my slaves,
+Dialogue: 0,0:05:12.03,0:05:13.73,Default,,0,0,0,,there's nothing to be afraid of!
+Dialogue: 0,0:05:16.13,0:05:18.50,Default,,0,0,0,,Straw Hat! Trafalgar!
+Dialogue: 0,0:05:19.00,0:05:20.70,Default,,0,0,0,,Sit!
+Dialogue: 0,0:05:25.28,0:05:26.44,Default,,0,0,0,,Dammit!
+Dialogue: 0,0:05:26.78,0:05:27.84,Default,,0,0,0,,Shake hands!
+Dialogue: 0,0:05:27.91,0:05:29.28,Default,,0,0,0,,Son of a bitch!
+Dialogue: 0,0:05:33.08,0:05:36.75,Default,,0,0,0,,See what I'm capable of?! This is the power of the Peto-Peto Fruit!
+Dialogue: 0,0:05:37.02,0:05:39.96,Default,,0,0,0,,Whether you're a Warlord or a rascal pirate
+Dialogue: 0,0:05:39.96,0:05:44.06,Default,,0,0,0,,with a 400 million bounty, you're powerless before me!
+Dialogue: 0,0:05:45.43,0:05:48.10,Default,,0,0,0,,If you were an animal, you could've become my pet.
+Dialogue: 0,0:05:48.10,0:05:52.30,Default,,0,0,0,,But stinking humans like you will become my slaves!
+Dialogue: 0,0:06:06.78,0:06:09.19,Default,,0,0,0,,How cute!
+Dialogue: 0,0:06:09.19,0:06:12.32,Default,,0,0,0,,I didn't realize because you had a strange outfit on before!
+Dialogue: 0,0:06:12.32,0:06:15.73,Default,,0,0,0,,Your blue nose is so cute, Raccoon Dog-kun!
+Dialogue: 0,0:06:15.73,0:06:18.96,Default,,0,0,0,,I've never had a pet like you before!
+Dialogue: 0,0:06:19.20,0:06:22.07,Default,,0,0,0,,I'll dress you up right away!
+Dialogue: 0,0:06:20.96,0:06:22.37,Alt,,0,0,0,,Don't!
+Dialogue: 0,0:06:22.37,0:06:24.43,Default,,0,0,0,,Oh, good boy, good boy, good boy!
+Dialogue: 0,0:06:24.43,0:06:26.40,Default,,0,0,0,,Hey, get your hands off of Chopper!
+Dialogue: 0,0:06:26.94,0:06:29.81,Default,,0,0,0,,Shut up! You two are gonna get locked up!
+Dialogue: 0,0:06:29.81,0:06:32.51,Default,,0,0,0,,Put Sea Prism Stone handcuffs on them!
+Dialogue: 0,0:06:38.62,0:06:40.45,Default,,0,0,0,,It won't be long.
+Dialogue: 0,0:06:40.45,0:06:44.42,Default,,0,0,0,,It won't be long before my dream kingdom becomes reality.
+Dialogue: 0,0:06:51.16,0:06:53.70,Default,,0,0,0,,Hey, Peto-guy! Let us out!
+Dialogue: 0,0:06:53.70,0:06:56.40,Default,,0,0,0,,Give us back Chopper! Dammit!
+Dialogue: 0,0:06:56.77,0:06:58.80,Default,,0,0,0,,You...
+Dialogue: 0,0:07:00.00,0:07:00.94,Default,,0,0,0,,I'm losing my strength...
+Dialogue: 0,0:07:01.47,0:07:03.04,Default,,0,0,0,,I guess the cage is...
+Dialogue: 0,0:07:03.04,0:07:05.08,Default,,0,0,0,,...Made of Sea Prism Stone.
+Dialogue: 0,0:07:06.31,0:07:08.85,Default,,0,0,0,,You guys are so pathetic.
+Dialogue: 0,0:07:11.48,0:07:12.52,Default,,0,0,0,,Caesar!
+Dialogue: 0,0:07:12.52,0:07:13.82,Default,,0,0,0,,Hey, let us out!
+Dialogue: 0,0:07:14.02,0:07:17.62,Default,,0,0,0,,Shut up! Why does everybody give me orders?!
+Dialogue: 0,0:07:18.02,0:07:20.92,Default,,0,0,0,,Did he take control over you?
+Dialogue: 0,0:07:21.19,0:07:24.16,Default,,0,0,0,,Yes, he did. A collar and a leash!
+Dialogue: 0,0:07:24.39,0:07:26.76,Default,,0,0,0,,I feel like a pet!
+Dialogue: 0,0:07:26.76,0:07:28.47,Default,,0,0,0,,But I'm a great scientist!
+Dialogue: 0,0:07:28.87,0:07:30.97,Default,,0,0,0,,He said he's a Peto-Peto Fruit eater.
+Dialogue: 0,0:07:32.34,0:07:34.84,Default,,0,0,0,,And with that power,
+Dialogue: 0,0:07:34.84,0:07:38.81,Default,,0,0,0,,he can make people obey whatever order he gives.
+Dialogue: 0,0:07:40.18,0:07:43.55,Default,,0,0,0,,Caesar, is he one of Doflamingo's associates?
+Dialogue: 0,0:07:44.75,0:07:45.98,Default,,0,0,0,,Are you stupid?
+Dialogue: 0,0:07:45.98,0:07:49.25,Default,,0,0,0,,If he were, why would I be held captive still?
+Dialogue: 0,0:07:49.25,0:07:50.65,Default,,0,0,0,,As far as I know,
+Dialogue: 0,0:07:51.46,0:07:54.62,Default,,0,0,0,,Doflamingo doesn't have any subordinates like him.
+Dialogue: 0,0:07:55.83,0:07:59.10,Default,,0,0,0,,That guy told me he wants to create a dream kingdom or something.
+Dialogue: 0,0:07:59.10,0:08:00.40,Default,,0,0,0,,What kingdom?
+Dialogue: 0,0:08:00.40,0:08:03.10,Default,,0,0,0,,How do I know?! Dammit!
+Dialogue: 0,0:08:03.10,0:08:05.57,Default,,0,0,0,,It's so humiliating...
+Dialogue: 0,0:08:05.57,0:08:09.97,Default,,0,0,0,,...for me to take that whip fool's orders! Screw him!
+Dialogue: 0,0:08:10.31,0:08:11.81,Default,,0,0,0,,Caesar!
+Dialogue: 0,0:08:12.18,0:08:13.11,Default,,0,0,0,,Lie down!
+Dialogue: 0,0:08:14.85,0:08:16.48,Default,,0,0,0,,Hey, Caesar!
+Dialogue: 0,0:08:16.48,0:08:19.28,Default,,0,0,0,,I said "Lie down"! Can't you hear me?!
+Dialogue: 0,0:08:21.35,0:08:23.95,Default,,0,0,0,,Dammit! That asshole! I can't take it!
+Dialogue: 0,0:08:25.82,0:08:29.43,Default,,0,0,0,,You guys can't get away from me!
+Dialogue: 0,0:08:32.80,0:08:34.06,Default,,0,0,0,,Now,
+Dialogue: 0,0:08:35.73,0:08:37.13,Default,,0,0,0,,it's all ready!
+Dialogue: 0,0:08:37.50,0:08:40.30,Default,,0,0,0,,What should I make them to do for me?
+Dialogue: 0,0:08:41.64,0:08:42.47,Default,,0,0,0,,Peto-guy!
+Dialogue: 0,0:08:43.31,0:08:44.67,Default,,0,0,0,,Give us back Chopper...
+Dialogue: 0,0:08:45.14,0:08:48.01,Default,,0,0,0,,You shitty humans never learn.
+Dialogue: 0,0:08:48.48,0:08:51.92,Default,,0,0,0,,Don't worry. Chappy's here.
+Dialogue: 0,0:08:52.38,0:08:53.58,Default,,0,0,0,,Chappy?
+Dialogue: 0,0:09:00.96,0:09:02.79,Default,,0,0,0,,Chappy!
+Dialogue: 0,0:09:03.89,0:09:05.50,Default,,0,0,0,,I'm not Chappy!
+Dialogue: 0,0:09:05.73,0:09:06.70,Default,,0,0,0,,Chopper!
+Dialogue: 0,0:09:06.93,0:09:08.17,Default,,0,0,0,,Chappy!
+Dialogue: 0,0:09:08.43,0:09:10.20,Default,,0,0,0,,I'm Chopper!
+Dialogue: 0,0:09:13.67,0:09:15.51,Default,,0,0,0,,Chopper, what are you wearing?!
+Dialogue: 0,0:09:15.51,0:09:17.87,Default,,0,0,0,,Hey, Luffy! Stop laughing!
+Dialogue: 0,0:09:17.87,0:09:21.58,Default,,0,0,0,,Oh... I'm exhausted because of the Rumble Ball...
+Dialogue: 0,0:09:21.71,0:09:25.02,Default,,0,0,0,,Are you shy because you're dressed up?!
+Dialogue: 0,0:09:25.02,0:09:26.15,Default,,0,0,0,,No...
+Dialogue: 0,0:09:26.15,0:09:29.09,Default,,0,0,0,,Oh, somebody's in a bad mood!
+Dialogue: 0,0:09:29.59,0:09:31.82,Default,,0,0,0,,Stop!
+Dialogue: 0,0:09:32.12,0:09:33.49,Default,,0,0,0,,Luffy!
+Dialogue: 0,0:09:40.40,0:09:43.03,Default,,0,0,0,,Don't push your luck.
+Dialogue: 0,0:09:43.33,0:09:46.80,Default,,0,0,0,,You must be happy when I pet you.
+Dialogue: 0,0:09:47.20,0:09:49.71,Default,,0,0,0,,Submit to my demands!
+Dialogue: 0,0:09:51.11,0:09:52.51,Default,,0,0,0,,Are you okay, Chopper?!
+Dialogue: 0,0:09:52.51,0:09:53.34,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:09:53.34,0:09:54.91,Default,,0,0,0,,Chappy, get on your knees!
+Dialogue: 0,0:09:56.51,0:09:57.65,Default,,0,0,0,,Lower to the ground!
+Dialogue: 0,0:09:58.15,0:10:01.69,Default,,0,0,0,,Now, it's time for discipline!
+Dialogue: 0,0:10:06.79,0:10:07.86,Default,,0,0,0,,Hey, stop!
+Dialogue: 0,0:10:09.99,0:10:11.56,Default,,0,0,0,,I said "Stop"!
+Dialogue: 0,0:10:11.56,0:10:13.76,Default,,0,0,0,,What are you doing to my friend?!
+Dialogue: 0,0:10:15.83,0:10:16.73,Default,,0,0,0,,"Friend"...
+Dialogue: 0,0:10:16.73,0:10:17.63,Default,,0,0,0,,"Friend"?
+Dialogue: 0,0:10:17.83,0:10:18.60,Default,,0,0,0,,"Friend"!
+Dialogue: 0,0:10:18.60,0:10:19.37,Default,,0,0,0,,"Friend"!
+Dialogue: 0,0:10:19.37,0:10:20.54,Default,,0,0,0,,"Friend"!
+Dialogue: 0,0:10:20.90,0:10:22.74,Default,,0,0,0,,"Friend"!!
+Dialogue: 0,0:10:26.18,0:10:27.98,Default,,0,0,0,,Cut the "friend" crap!
+Dialogue: 0,0:10:30.05,0:10:32.82,Default,,0,0,0,,I don't believe in friendship!
+Dialogue: 0,0:10:33.35,0:10:35.79,Default,,0,0,0,,It's not worth a damn!
+Dialogue: 0,0:10:36.05,0:10:38.49,Default,,0,0,0,,Listen! All I need is...
+Dialogue: 0,0:10:38.49,0:10:43.23,Default,,0,0,0,,...loyal followers - tools - who just work for me!
+Dialogue: 0,0:10:43.79,0:10:47.60,Default,,0,0,0,,I have no need for insubordinates!
+Dialogue: 0,0:10:47.93,0:10:51.77,Default,,0,0,0,,Everyone should just do as I say without complaining!
+Dialogue: 0,0:10:52.24,0:10:55.41,Default,,0,0,0,,Worthless humans always stand against me!
+Dialogue: 0,0:10:55.41,0:10:58.04,Default,,0,0,0,,That's why I have no need for their friendship!
+Dialogue: 0,0:10:58.04,0:10:59.24,Default,,0,0,0,,I don't need them!
+Dialogue: 0,0:10:59.48,0:11:02.98,Default,,0,0,0,,But animals... pets are different!
+Dialogue: 0,0:11:02.98,0:11:06.85,Default,,0,0,0,,They just follow my orders quietly and submissively!
+Dialogue: 0,0:11:07.08,0:11:12.66,Default,,0,0,0,,Animals! Pets! They're the best!
+Dialogue: 0,0:11:17.53,0:11:20.13,Default,,0,0,0,,That's why I need you.
+Dialogue: 0,0:11:20.53,0:11:22.27,Default,,0,0,0,,Caesar.
+Dialogue: 0,0:11:26.50,0:11:27.84,Default,,0,0,0,,To make...
+Dialogue: 0,0:11:28.77,0:11:30.71,Default,,0,0,0,,...this!
+Dialogue: 0,0:11:31.71,0:11:35.31,Default,,0,0,0,,Is that... SMILE?! Where did you get it?!
+Dialogue: 0,0:11:35.65,0:11:38.78,Default,,0,0,0,,I have a connection with the underground.
+Dialogue: 0,0:11:38.78,0:11:43.62,Default,,0,0,0,,I'm gonna use this Zoan type, man-made Devil Fruit...
+Dialogue: 0,0:11:43.62,0:11:47.89,Default,,0,0,0,,...to turn humans to animals forcibly!
+Dialogue: 0,0:11:48.26,0:11:54.00,Default,,0,0,0,,Then there will be no more detectable, pathetic humans in the world!
+Dialogue: 0,0:11:54.06,0:11:57.80,Default,,0,0,0,,You bastard! What are you really up to?!
+Dialogue: 0,0:11:58.84,0:12:00.67,Default,,0,0,0,,A kingdom.
+Dialogue: 0,0:12:00.90,0:12:06.28,Default,,0,0,0,,I will create an animal-only kingdom - without a single stinking human!
+Dialogue: 0,0:12:06.94,0:12:12.05,Default,,0,0,0,,And I will conquer all the animals using my Peto-Peto power!
+Dialogue: 0,0:12:12.82,0:12:16.39,Default,,0,0,0,,I will turn them to loyal pets!
+Dialogue: 0,0:12:16.39,0:12:19.62,Default,,0,0,0,,That's my dream kingdom!
+Dialogue: 0,0:12:24.23,0:12:25.73,Default,,0,0,0,,Suit yourself!
+Dialogue: 0,0:12:27.10,0:12:29.30,Default,,0,0,0,,But you can't make me follow anybody!
+Dialogue: 0,0:12:31.74,0:12:33.30,Default,,0,0,0,,What are you talking about?!
+Dialogue: 0,0:12:33.30,0:12:36.14,Default,,0,0,0,,Didn't you see what I'm capable of with the Peto-Peto power?!
+Dialogue: 0,0:12:36.57,0:12:38.81,Default,,0,0,0,,It means nothing to me!
+Dialogue: 0,0:12:39.24,0:12:41.98,Default,,0,0,0,,You silly human!
+Dialogue: 0,0:12:44.61,0:12:50.82,Default,,0,0,0,,Worthless humans like you should just shut your mouths and follow my orders!
+Dialogue: 0,0:12:51.25,0:12:53.09,Default,,0,0,0,,Stop resisting!
+Dialogue: 0,0:12:53.66,0:12:55.46,Default,,0,0,0,,I'm a pirate!
+Dialogue: 0,0:12:56.19,0:12:58.19,Default,,0,0,0,,I'm not gonna follow anybody's order!
+Dialogue: 0,0:12:59.13,0:13:02.03,Default,,0,0,0,,Pirates should be free!
+Dialogue: 0,0:13:06.00,0:13:08.97,Default,,0,0,0,,"Pirates"? "Free"?
+Dialogue: 0,0:13:09.61,0:13:14.04,Default,,0,0,0,,I hate humans like you the most!
+Dialogue: 0,0:13:16.21,0:13:17.61,Default,,0,0,0,,Alright.
+Dialogue: 0,0:13:18.11,0:13:20.98,Default,,0,0,0,,I was gonna spare your life and enslave you.
+Dialogue: 0,0:13:20.98,0:13:24.29,Default,,0,0,0,,But all you damn humans deserve death after all!
+Dialogue: 0,0:13:35.07,0:13:36.43,Default,,0,0,0,,What is this place?
+Dialogue: 0,0:13:45.38,0:13:46.91,Default,,0,0,0,,Where are we?!
+Dialogue: 0,0:13:48.75,0:13:50.31,Default,,0,0,0,,It's showtime!
+Dialogue: 0,0:13:51.38,0:13:54.45,Default,,0,0,0,,I'll show you the terror of my Peto-Peto power!
+Dialogue: 0,0:13:55.45,0:13:58.56,Default,,0,0,0,,Alright, Trafalgar, here is my order to you!
+Dialogue: 0,0:13:59.56,0:14:02.56,Default,,0,0,0,,Kill Straw Hat!
+Dialogue: 0,0:14:05.83,0:14:06.60,Default,,0,0,0,,Tra-guy!
+Dialogue: 0,0:14:06.60,0:14:10.23,Default,,0,0,0,,Straw Hat, I want you to kill Trafalgar!
+Dialogue: 0,0:14:16.41,0:14:17.64,Default,,0,0,0,,Dammit!
+Dialogue: 0,0:14:17.94,0:14:18.68,Default,,0,0,0,,No!
+Dialogue: 0,0:14:19.34,0:14:21.44,Default,,0,0,0,,This is outrageous!
+Dialogue: 0,0:14:21.44,0:14:25.28,Default,,0,0,0,,Go ahead and kill each other! You can't use your Devil Fruit power though!
+Dialogue: 0,0:14:25.28,0:14:29.85,Default,,0,0,0,,Punch each other to death like idiots - just as you pathetic humans are!
+Dialogue: 0,0:14:32.02,0:14:36.36,Default,,0,0,0,,Now, the bloody show begins!
+Dialogue: 0,0:15:05.29,0:15:06.96,Default,,0,0,0,,Luffy! Law!
+Dialogue: 0,0:15:08.49,0:15:09.86,Default,,0,0,0,,I can't believe this!
+Dialogue: 0,0:15:24.27,0:15:26.74,Default,,0,0,0,,Tra-guy, it's no good!
+Dialogue: 0,0:15:27.11,0:15:29.58,Default,,0,0,0,,I can't control my body!
+Dialogue: 0,0:15:57.51,0:15:58.94,Default,,0,0,0,,Dammit!
+Dialogue: 0,0:16:04.35,0:16:06.85,Default,,0,0,0,,Yes! This is the greatest show ever!
+Dialogue: 0,0:16:19.03,0:16:21.87,Default,,0,0,0,,Damn! I can't stop myself!
+Dialogue: 0,0:16:28.27,0:16:31.17,Default,,0,0,0,,I don't wanna fight you like this!
+Dialogue: 0,0:16:31.17,0:16:32.94,Default,,0,0,0,,Dammit!
+Dialogue: 0,0:16:53.10,0:16:54.60,Default,,0,0,0,,Get away from me!
+Dialogue: 0,0:16:54.60,0:16:56.87,Default,,0,0,0,,Destroy each other! You foul humans!
+Dialogue: 0,0:17:03.84,0:17:04.87,Default,,0,0,0,,The leash!
+Dialogue: 0,0:17:09.68,0:17:11.81,Default,,0,0,0,,Keep fighting!
+Dialogue: 0,0:17:13.32,0:17:16.09,Default,,0,0,0,,Tiptoe, stealthy steps... Goodbye!
+Dialogue: 0,0:17:16.09,0:17:17.95,Default,,0,0,0,,What a fool.
+Dialogue: 0,0:17:17.95,0:17:21.69,Default,,0,0,0,,He still doesn't understand that nobody can get away from me.
+Dialogue: 0,0:17:22.23,0:17:24.79,Default,,0,0,0,,Well, I'll let him go for now.
+Dialogue: 0,0:17:26.86,0:17:29.40,Default,,0,0,0,,I'm enjoying this bloody show!
+Dialogue: 0,0:18:04.43,0:18:05.90,Default,,0,0,0,,Seal, watch out!
+Dialogue: 0,0:18:07.27,0:18:09.71,Default,,0,0,0,,Hey you, stay out of it!
+Dialogue: 0,0:18:10.47,0:18:12.54,Default,,0,0,0,,Do you wanna get whipped?!
+Dialogue: 0,0:18:20.12,0:18:22.69,Default,,0,0,0,,What?! Stop barking!
+Dialogue: 0,0:18:33.53,0:18:35.47,Default,,0,0,0,,You fool!
+Dialogue: 0,0:18:35.47,0:18:38.17,Default,,0,0,0,,Don't tell me you're speaking against me!
+Dialogue: 0,0:18:42.44,0:18:44.91,Default,,0,0,0,,Damn you!
+Dialogue: 0,0:18:48.38,0:18:50.81,Default,,0,0,0,,Damn! Damn! Damn!
+Dialogue: 0,0:18:52.98,0:18:55.39,Default,,0,0,0,,You idiot!
+Dialogue: 0,0:19:08.93,0:19:10.37,Default,,0,0,0,,Stop!
+Dialogue: 0,0:19:15.17,0:19:16.41,Default,,0,0,0,,Dugong!
+Dialogue: 0,0:19:25.72,0:19:29.65,Default,,0,0,0,,Do you want to help them so bad?
+Dialogue: 0,0:19:34.99,0:19:38.83,Default,,0,0,0,,Alright, if you insist, I'll stop them.
+Dialogue: 0,0:19:39.86,0:19:42.50,Default,,0,0,0,,Straw Hat, Trafalgar, wait!
+Dialogue: 0,0:19:47.17,0:19:48.47,Default,,0,0,0,,My body stopped.
+Dialogue: 0,0:19:59.88,0:20:01.48,Default,,0,0,0,,Instead,
+Dialogue: 0,0:20:03.69,0:20:05.52,Default,,0,0,0,,you do it.
+Dialogue: 0,0:20:11.49,0:20:15.47,Default,,0,0,0,,Since you like them so much, it'll be far more interesting
+Dialogue: 0,0:20:15.47,0:20:19.24,Default,,0,0,0,,to see you beating them up!
+Dialogue: 0,0:20:19.54,0:20:22.71,Default,,0,0,0,,Kill those two, Dugong!
+Dialogue: 0,0:20:24.74,0:20:26.44,Default,,0,0,0,,Now, go!
+Dialogue: 0,0:20:28.38,0:20:29.81,Default,,0,0,0,,That guy's terrible!
+Dialogue: 0,0:20:53.27,0:20:56.67,Default,,0,0,0,,Seal, I'll be alright!
+Dialogue: 0,0:21:43.52,0:21:48.06,Default,,0,0,0,,Do you realize what happens if you disobey me?!
+Dialogue: 0,0:21:48.36,0:21:51.19,Default,,0,0,0,,Now, throw them into the sea!
+Dialogue: 0,0:21:56.97,0:21:58.30,Default,,0,0,0,,Seal!
+Dialogue: 0,0:21:58.80,0:22:01.44,Default,,0,0,0,,I told you to use the lower half
+Dialogue: 0,0:22:01.44,0:22:05.31,Default,,0,0,0,,of your body and pull your arm back all the way!
+Dialogue: 0,0:22:10.01,0:22:14.48,Default,,0,0,0,,But you sure got stronger!
 Comment: 0,0:23:04.97,0:23:35.00,Default,,0,0,0,,Missing Preview
