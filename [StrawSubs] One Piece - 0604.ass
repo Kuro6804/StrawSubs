@@ -24,24 +24,95 @@ Video File: [SOFCJ-Raws] One Piece - 604 (BD 1920x1080 x264 29.970fps FLAC) [C4A
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 206
-Active Line: 214
-Video Position: 42134
+Scroll Position: 59
+Active Line: 76
+Video Position: 5637
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
+Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:34.39,0:02:37.71,Default,,0,0,0,,All the pirates who are after the One Piece...
-Dialogue: 0,0:02:37.71,0:02:42.67,Default,,0,0,0,,...head for the New World, the second half of the Grand Line.
-Dialogue: 0,0:02:44.94,0:02:52.33,Default,,0,0,0,,However, no one has ever fully explored it except for Gold Roger, the Pirate King.
-Dialogue: 0,0:02:52.33,0:02:58.13,Default,,0,0,0,,The New World has ruined many pirates' dreams and ambitions.
-Dialogue: 0,0:02:59.48,0:03:05.37,Default,,0,0,0,,Now, Monkey D. Luffy, a boy whose body turned to rubber after he ate the Gum-Gum Fruit,
-Dialogue: 0,0:03:05.37,0:03:07.37,Default,,0,0,0,,and his friends venture into that sea.
-Dialogue: 0,0:03:08.05,0:03:11.91,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:00:00.22,0:00:05.09,Opening,,0,0,0,,{\blur0.4\c&H000000&}Now raise your hands up! Sing your dreams out loud
+Dialogue: 1,0:00:00.22,0:00:05.09,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Now raise your hands up! Sing your dreams out loud
+Dialogue: 0,0:00:05.16,0:00:08.76,Opening,,0,0,0,,{\blur0.4\c&H000000&}Stand up every time! Raise our unyielding flag
+Dialogue: 1,0:00:05.16,0:00:08.76,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Stand up every time! Raise our unyielding flag
+Dialogue: 0,0:00:08.83,0:00:12.30,Opening,,0,0,0,,{\blur0.4\c&H000000&}So many obstacles are already behind us!
+Dialogue: 1,0:00:08.83,0:00:12.30,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}So many obstacles are already behind us!
+Dialogue: 0,0:00:12.36,0:00:17.70,Opening,,0,0,0,,{\blur0.4\c&H000000&}Now let's keep moving forward! Hands up!!
+Dialogue: 1,0:00:12.36,0:00:17.70,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Now let's keep moving forward! Hands up!!
+Dialogue: 0,0:00:23.34,0:00:30.68,Opening,,0,0,0,,{\blur0.4\c&H000000&}"Just a little further and I'll have the answer"
+Dialogue: 1,0:00:23.34,0:00:30.68,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}"Just a little further and I'll have the answer"
+Dialogue: 0,0:00:30.75,0:00:38.39,Opening,,0,0,0,,{\blur0.4\c&H000000&}That's what I believe as I sail into this new world
+Dialogue: 1,0:00:30.75,0:00:38.39,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}That's what I believe as I sail into this new world
+Dialogue: 0,0:00:38.42,0:00:45.90,Opening,,0,0,0,,{\blur0.4\c&H000000&}That's right, the pieces of our dreams are joined together as one
+Dialogue: 1,0:00:38.42,0:00:45.90,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}That's right, the pieces of our dreams are joined together as one
+Dialogue: 0,0:00:45.93,0:00:53.97,Opening,,0,0,0,,{\blur0.4\c&H000000&}Linked by unshakable bonds, let's head for a bright future!
+Dialogue: 1,0:00:45.93,0:00:53.97,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Linked by unshakable bonds, let's head for a bright future!
+Dialogue: 0,0:00:54.04,0:00:58.58,Opening,,0,0,0,,{\blur0.4\c&H000000&}Now raise your hands up! Sing your dreams out loud
+Dialogue: 1,0:00:54.04,0:00:58.58,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Now raise your hands up! Sing your dreams out loud
+Dialogue: 0,0:00:58.64,0:01:02.41,Opening,,0,0,0,,{\blur0.4\c&H000000&}Stand up every time! Raise our unyielding flag
+Dialogue: 1,0:00:58.64,0:01:02.41,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Stand up every time! Raise our unyielding flag
+Dialogue: 0,0:01:02.45,0:01:05.78,Opening,,0,0,0,,{\blur0.4\c&H000000&}So many obstacles are already behind us!
+Dialogue: 1,0:01:02.45,0:01:05.78,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}So many obstacles are already behind us!
+Dialogue: 0,0:01:05.85,0:01:09.82,Opening,,0,0,0,,{\blur0.4\c&H000000&}Now let's keep moving forward!
+Dialogue: 1,0:01:05.85,0:01:09.82,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Now let's keep moving forward!
+Dialogue: 0,0:01:09.89,0:01:11.32,Opening,,0,0,0,,{\blur0.4\c&H000000&}Keep looking up!
+Dialogue: 1,0:01:09.89,0:01:11.32,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Keep looking up!
+Dialogue: 0,0:01:11.36,0:01:13.52,Opening,,0,0,0,,{\blur0.4\c&H000000&}Puff your chest out in pride!
+Dialogue: 1,0:01:11.36,0:01:13.52,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Puff your chest out in pride!
+Dialogue: 0,0:01:13.56,0:01:14.96,Opening,,0,0,0,,{\blur0.4\c&H000000&}Step up every time!
+Dialogue: 1,0:01:13.56,0:01:14.96,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Step up every time!
+Dialogue: 0,0:01:14.99,0:01:16.86,Opening,,0,0,0,,{\blur0.4\c&H000000&}Fly over the waves!
+Dialogue: 1,0:01:14.99,0:01:16.86,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Fly over the waves!
+Dialogue: 0,0:01:16.89,0:01:20.43,Opening,,0,0,0,,{\blur0.4\c&H000000&}Linking our wishes together into one,
+Dialogue: 1,0:01:16.89,0:01:20.43,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Linking our wishes together into one,
+Dialogue: 0,0:01:20.46,0:01:24.67,Opening,,0,0,0,,{\blur0.4\c&H000000&}let's head for the future!
+Dialogue: 1,0:01:20.46,0:01:24.67,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}let's head for the future!
+Dialogue: 0,0:01:24.94,0:01:31.08,Opening,,0,0,0,,{\blur0.4\c&H000000&}We drift forward, riding the waves
+Dialogue: 1,0:01:24.94,0:01:31.08,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}We drift forward, riding the waves
+Dialogue: 0,0:01:31.11,0:01:35.31,Opening,,0,0,0,,{\blur0.4\c&H000000&}Meeting, saying farewell, then meeting someone new again
+Dialogue: 1,0:01:31.11,0:01:35.31,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Meeting, saying farewell, then meeting someone new again
+Dialogue: 0,0:01:35.35,0:01:39.55,Opening,,0,0,0,,{\blur0.4\c&H000000&}All under this flag...
+Dialogue: 1,0:01:35.35,0:01:39.55,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}All under this flag...
+Dialogue: 0,0:01:41.29,0:01:44.69,Opening,,0,0,0,,{\blur0.4\c&H000000&}I carry pain I don't want to forget in my heart
+Dialogue: 1,0:01:41.29,0:01:44.69,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}I carry pain I don't want to forget in my heart
+Dialogue: 0,0:01:44.76,0:01:48.23,Opening,,0,0,0,,{\blur0.4\c&H000000&}I carved it in there on that fateful day
+Dialogue: 1,0:01:44.76,0:01:48.23,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}I carved it in there on that fateful day
+Dialogue: 0,0:01:48.29,0:01:54.77,Opening,,0,0,0,,{\blur0.4\c&H000000&}I grab on tightly to the freedom nobody can take from me!
+Dialogue: 1,0:01:48.29,0:01:54.77,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}I grab on tightly to the freedom nobody can take from me!
+Dialogue: 0,0:01:54.80,0:01:59.70,Opening,,0,0,0,,{\blur0.4\c&H000000&}Now raise your hands up! Sing your dreams out loud
+Dialogue: 1,0:01:54.80,0:01:59.70,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Now raise your hands up! Sing your dreams out loud
+Dialogue: 0,0:01:59.74,0:02:03.41,Opening,,0,0,0,,{\blur0.4\c&H000000&}Stand up every time! Raise our unyielding flag
+Dialogue: 1,0:01:59.74,0:02:03.41,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Stand up every time! Raise our unyielding flag
+Dialogue: 0,0:02:03.44,0:02:06.68,Opening,,0,0,0,,{\blur0.4\c&H000000&}So many obstacles are already behind us!
+Dialogue: 1,0:02:03.44,0:02:06.68,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}So many obstacles are already behind us!
+Dialogue: 0,0:02:06.71,0:02:10.85,Opening,,0,0,0,,{\blur0.4\c&H000000&}Now let's keep moving forward!
+Dialogue: 1,0:02:06.71,0:02:10.85,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Now let's keep moving forward!
+Dialogue: 0,0:02:10.88,0:02:12.22,Opening,,0,0,0,,{\blur0.4\c&H000000&}Keep looking up!
+Dialogue: 1,0:02:10.88,0:02:12.22,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Keep looking up!
+Dialogue: 0,0:02:12.25,0:02:14.52,Opening,,0,0,0,,{\blur0.4\c&H000000&}Puff your chest out in pride!
+Dialogue: 1,0:02:12.25,0:02:14.52,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Puff your chest out in pride!
+Dialogue: 0,0:02:14.55,0:02:15.92,Opening,,0,0,0,,{\blur0.4\c&H000000&}Step up every time!
+Dialogue: 1,0:02:14.55,0:02:15.92,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Step up every time!
+Dialogue: 0,0:02:15.95,0:02:17.76,Opening,,0,0,0,,{\blur0.4\c&H000000&}Fly over the waves!
+Dialogue: 1,0:02:15.95,0:02:17.76,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Fly over the waves!
+Dialogue: 0,0:02:17.79,0:02:21.46,Opening,,0,0,0,,{\blur0.4\c&H000000&}Linking our wishes together into one,
+Dialogue: 1,0:02:17.79,0:02:21.46,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Linking our wishes together into one,
+Dialogue: 0,0:02:21.53,0:02:25.00,Opening,,0,0,0,,{\blur0.4\c&H000000&}let's head for the future!
+Dialogue: 1,0:02:21.53,0:02:25.00,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}let's head for the future!
+Dialogue: 0,0:02:25.06,0:02:30.00,Opening,,0,0,0,,{\blur0.4\c&H000000&}Hands up!!
+Dialogue: 1,0:02:25.06,0:02:30.00,Opening,,0,0,0,,{\bord0\blur0.4\4a&HFF&}Hands up!!
+Dialogue: 0,0:02:34.36,0:02:40.10,Default,,0,0,0,,All the pirates vying for the One Piece\Nhead for the second half of the Grand Line.
+Dialogue: 0,0:02:40.10,0:02:42.68,Default,,0,0,0,,People call it the "New World."
+Dialogue: 0,0:02:45.03,0:02:51.42,Default,,0,0,0,,However, the only one to ever conquer\Nthese waters was the Pirate King, Gold Roger.
+Dialogue: 0,0:02:52.42,0:02:57.73,Default,,0,0,0,,The New World has ruined\Nmany pirates' dreams and ambitions.
+Dialogue: 0,0:02:59.48,0:03:04.08,Default,,0,0,0,,Now, the boy whose body turned to rubber\Nafter eating the Gum-Gum Fruit,
+Dialogue: 0,0:03:04.08,0:03:07.37,Default,,0,0,0,,Monkey D. Luffy and his crew\Nventure into that very sea.
+Dialogue: 0,0:03:08.08,0:03:11.50,Default,,0,0,0,,I'm gonna be the Pirate King!!
 Dialogue: 0,0:03:14.92,0:03:17.38,Default,,0,0,0,,After surviving a fierce battle,
 Dialogue: 0,0:03:17.38,0:03:20.23,Default,,0,0,0,,the Straw Hats finally entered the New World,
 Dialogue: 0,0:03:20.23,0:03:22.39,Default,,0,0,0,,the harshest sea ruled by the Four Emperors.
