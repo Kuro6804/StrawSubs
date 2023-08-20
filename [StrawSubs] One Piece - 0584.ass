@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 584 (BD 1920x1080 x264 29.970fps FLAC) [C0F
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.437500
-Scroll Position: 69
-Active Line: 76
-Video Position: 6372
+Scroll Position: 54
+Active Line: 68
+Video Position: 5637
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -101,13 +101,13 @@ Dialogue: 0,0:02:18.79,0:02:24.83,Opening,English,0,0,0,,{\blur0.3\c&H000000&}On
 Dialogue: 1,0:02:18.79,0:02:24.83,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}One, two, {\bord0}Sunshine{\bord}, four... We Go!
 Dialogue: 0,0:02:27.23,0:02:30.00,Opening,English,0,0,0,,{\blur0.3\c&H000000&}We Go!
 Dialogue: 1,0:02:27.23,0:02:30.00,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}We Go!
-Dialogue: 0,0:02:34.37,0:02:40.14,Default,Narrator,0,0,0,,All the pirates vying for the One Piece\Nhead for the second half of the Grand Line.
-Dialogue: 0,0:02:40.14,0:02:42.68,Default,Narrator,0,0,0,,People call it the "New World."
-Dialogue: 0,0:02:45.08,0:02:51.42,Default,Narrator,0,0,0,,However, the only one to ever conquer\Nthese waters was the Pirate King, Gold Roger.
-Dialogue: 0,0:02:52.62,0:02:57.73,Default,Narrator,0,0,0,,The New World has ruined\Nmany pirates' dreams and ambitions.
-Dialogue: 0,0:02:59.50,0:03:04.10,Default,Narrator,0,0,0,,Now, the boy whose body turned to rubber\Nafter eating the Gum-Gum Fruit,
-Dialogue: 0,0:03:04.10,0:03:07.37,Default,Narrator,0,0,0,,Monkey D. Luffy and his crew\Nventure into that very sea.
-Dialogue: 0,0:03:08.07,0:03:11.51,Default,Luffy,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:02:34.36,0:02:40.10,Default,Narrator,0,0,0,,All the pirates vying for the One Piece\Nhead for the second half of the Grand Line.
+Dialogue: 0,0:02:40.10,0:02:42.68,Default,Narrator,0,0,0,,People call it the "New World."
+Dialogue: 0,0:02:45.03,0:02:51.42,Default,Narrator,0,0,0,,However, the only one to ever conquer\Nthese waters was the Pirate King, Gold Roger.
+Dialogue: 0,0:02:52.42,0:02:57.73,Default,Narrator,0,0,0,,The New World has ruined\Nmany pirates' dreams and ambitions.
+Dialogue: 0,0:02:59.48,0:03:04.08,Default,Narrator,0,0,0,,Now, the boy whose body turned to rubber\Nafter eating the Gum-Gum Fruit,
+Dialogue: 0,0:03:04.08,0:03:07.37,Default,Narrator,0,0,0,,Monkey D. Luffy and his crew\Nventure into that very sea.
+Dialogue: 0,0:03:08.08,0:03:11.50,Default,Luffy,0,0,0,,I'm gonna be the Pirate King!!
 Dialogue: 0,0:03:14.67,0:03:18.18,Default,,0,0,0,,After surviving a fierce battle,
 Dialogue: 0,0:03:18.18,0:03:20.65,Default,,0,0,0,,the Straw Hats reach the New World at long last—
 Dialogue: 0,0:03:20.65,0:03:23.28,Default,,0,0,0,,the harshest sea, ruled by the Four Emperors.
