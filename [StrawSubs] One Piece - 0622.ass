@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 622 (BD 1920x1080 x264 29.970fps FLAC) [98B
 Video File: [SOFCJ-Raws] One Piece - 622 (BD 1920x1080 x264 29.970fps FLAC) [98BBA3DB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 59
-Active Line: 76
-Video Position: 5637
+Video Zoom Percent: 0.625000
+Scroll Position: 400
+Active Line: 404
+Video Position: 42288
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,6 +34,8 @@ Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,1
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -119,13 +121,16 @@ Dialogue: 0,0:03:17.41,0:03:20.55,Default,,0,0,0,,the harshest sea ruled by the 
 Dialogue: 0,0:03:20.55,0:03:22.19,Default,,0,0,0,,and landed on Punk Hazard;
 Dialogue: 0,0:03:22.19,0:03:24.19,Default,,0,0,0,,an island with two parts, one burning, the other frozen.
 Dialogue: 0,0:03:24.59,0:03:27.86,Default,,0,0,0,,They learned about the ruler of the island and the puppeteer
-Dialogue: 0,0:03:27.86,0:03:29.69,Default,,0,0,0,,of Land of the Dead - Caesar Clown's motive
+Dialogue: 0,0:03:27.86,0:03:29.69,Default,,0,0,0,,of Netherworld - Caesar Clown's motive
 Dialogue: 0,0:03:30.03,0:03:33.43,Default,,0,0,0,,and along with their pirate ally - the Warlord - Trafalgar Law,
 Dialogue: 0,0:03:33.43,0:03:35.17,Default,,0,0,0,,were drawn into a climactic battle
 Dialogue: 0,0:03:35.47,0:03:37.50,Default,,0,0,0,,which ended with Caesar's defeat.
 Dialogue: 0,0:03:38.10,0:03:41.94,Default,,0,0,0,,Finally, they beat Doflamingo's subordinates
 Dialogue: 0,0:03:41.94,0:03:44.41,Default,,0,0,0,,Baby 5 and Buffalo.
-Dialogue: 0,0:03:45.18,0:03:54.15,"Sign",,0,0,0,,"A Touching Reunion!\NMomonosuke and Kin'emon!"
+Dialogue: 0,0:03:45.18,0:03:54.15,Title Card - Top,,0,0,0,,{\blur0.3\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}A Touching Reunion!
+Dialogue: 1,0:03:45.18,0:03:54.15,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1973,1973)\4a&HFF&}A Touching Reunion!
+Dialogue: 0,0:03:45.18,0:03:54.15,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}Momonosuke and Kin'emon
+Dialogue: 1,0:03:45.18,0:03:54.15,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1973,1973)\4a&HFF&}Momonosuke and Kin'emon
 Dialogue: 0,0:04:02.63,0:04:04.26,Default,,0,0,0,,Listen, you damn pirates!
 Dialogue: 0,0:04:04.46,0:04:07.40,Default,,0,0,0,,The tanker is yours!
 Dialogue: 0,0:04:07.40,0:04:10.00,Default,,0,0,0,,And this is the line between good and evil!
@@ -434,7 +439,11 @@ Dialogue: 0,0:22:56.39,0:22:57.29,Default,,0,0,0,,Because...
 Dialogue: 0,0:22:57.99,0:23:01.53,Default,,0,0,0,,...I plan to beat all of the Four Emperors!
 Dialogue: 0,0:23:09.95,0:23:12.05,Default,,0,0,0,,The time to depart has finally come.
 Dialogue: 0,0:23:12.05,0:23:19.08,Default,,0,0,0,,Luffy says goodbye to the children he saved\Nand to G-5 who fought beside him.
-Dialogue: 0,0:23:19.98,0:23:25.25,Default,,0,0,0,,But in the meantime,Doflamingo's\Ndemonic hands draw ever closer.
+Dialogue: 0,0:23:19.98,0:23:25.25,Default,,0,0,0,,But in the meantime, Doflamingo's\Ndemonic hands draw ever closer.
 Dialogue: 0,0:23:25.25,0:23:26.62,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:26.62,0:23:29.60,Default,,0,0,0,,"It's Time to Say Goodbye!\NLeaving Punk Hazard!"
+Dialogue: 0,0:23:26.62,0:23:29.60,Default,,0,0,0,,"Time to Say Goodbye\NParting With Punk Hazard!"
 Dialogue: 0,0:23:29.60,0:23:31.73,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Time to Say Goodbye
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Time to Say Goodbye
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Parting With Punk Hazard!
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Parting With Punk Hazard!

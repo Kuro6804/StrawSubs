@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 605 (BD 1920x1080 x264 29.970fps FLAC) [8FA
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 63
-Active Line: 76
-Video Position: 5637
+Scroll Position: 318
+Active Line: 331
+Video Position: 42407
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,6 +34,8 @@ Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,1
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -120,7 +122,7 @@ Dialogue: 0,0:03:23.42,0:03:25.25,Default,,0,0,0,,They landed on Punk Hazard;
 Dialogue: 0,0:03:25.25,0:03:27.49,Default,,0,0,0,,an island with two parts, one burning, the other frozen
 Dialogue: 0,0:03:28.11,0:03:30.59,Default,,0,0,0,,and were held captive, confined in a cage,
 Dialogue: 0,0:03:30.59,0:03:34.10,Default,,0,0,0,,by Caesar Clown who rules the island
-Dialogue: 0,0:03:34.10,0:03:37.60,Default,,0,0,0,,and were exposed to Land of the Dead, a weapon of mass destruction.
+Dialogue: 0,0:03:34.10,0:03:37.60,Default,,0,0,0,,and were exposed to Netherworld, a weapon of mass destruction.
 Dialogue: 0,0:03:37.60,0:03:40.07,Default,,0,0,0,,But they broke out of the cage thanks to their ally ---
 Dialogue: 0,0:03:40.07,0:03:43.21,Default,,0,0,0,,a Warlord - Trafalgar Law's tactful maneuvers
 Dialogue: 0,0:03:43.21,0:03:45.47,Default,,0,0,0,,and were reunited with their crew.
@@ -143,7 +145,10 @@ Dialogue: 0,0:04:41.25,0:04:45.05,Default,,0,0,0,,With Luffy in the lead, they s
 Dialogue: 0,0:04:45.05,0:04:48.28,Default,,0,0,0,,to rescue the children and kidnap Caesar!
 Dialogue: 0,0:04:50.03,0:04:52.07,Default,,0,0,0,,Gum-Gum...
 Dialogue: 0,0:05:02.07,0:05:03.36,Default,,0,0,0,,...UFO!
-Dialogue: 0,0:05:23.21,0:05:28.20,"Sign",,0,0,0,,"Tashigi's Tears! G-5's Desperate Breakthrough Plan!"
+Dialogue: 0,0:05:21.47,0:05:30.48,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Tashigi's Tears
+Dialogue: 1,0:05:21.47,0:05:30.48,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Tashigi's Tears
+Dialogue: 0,0:05:21.47,0:05:30.48,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}G-5's Desperate Breakthrough Plan
+Dialogue: 1,0:05:21.47,0:05:30.48,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}G-5's Desperate Breakthrough Plan
 Dialogue: 0,0:05:50.34,0:05:51.90,Default,,0,0,0,,Why?!
 Dialogue: 0,0:05:57.46,0:05:59.84,Default,,0,0,0,,Why are they inside of the building?!
 Dialogue: 0,0:06:03.68,0:06:05.46,Default,,0,0,0,,The brokers are watching this!
@@ -176,7 +181,7 @@ Dialogue: 0,0:08:38.12,0:08:40.47,Default,,0,0,0,,I won't let them do that!
 Dialogue: 0,0:08:40.47,0:08:44.41,Default,,0,0,0,,Block off the passage between Building A and B!
 Dialogue: 0,0:08:45.19,0:08:48.71,Default,,0,0,0,,Close the gate there and isolate Building A!
 Dialogue: 0,0:08:53.56,0:08:56.95,Default,,0,0,0,,And then, destroy Building A
-Dialogue: 0,0:08:57.73,0:08:59.73,Default,,0,0,0,,and let Land of the Dead flow in!
+Dialogue: 0,0:08:57.73,0:08:59.73,Default,,0,0,0,,and let Netherworld flow in!
 Dialogue: 0,0:08:59.73,0:09:03.93,Default,,0,0,0,,What?! But if you do such a thing, it will also kill our guards...
 Dialogue: 0,0:09:03.93,0:09:06.03,Default,,0,0,0,,Just do it!
 Dialogue: 0,0:09:06.03,0:09:08.63,Default,,0,0,0,,Don't forget to place a Surveillance Transponder Snail!
@@ -363,5 +368,9 @@ Dialogue: 0,0:23:15.67,0:23:18.81,Default,,0,0,0,,When Tashigi is in tears as sh
 Dialogue: 0,0:23:18.81,0:23:21.08,Default,,0,0,0,,take down her comrades one after another,
 Dialogue: 0,0:23:21.08,0:23:24.21,Default,,0,0,0,,a certain man from the Straw Hats appears!
 Dialogue: 0,0:23:24.67,0:23:26.21,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:26.21,0:23:29.06,Default,,0,0,0,,"The Treacherous Vice Admiral! Demon Bamboo Vergo!"
+Dialogue: 0,0:23:26.21,0:23:29.06,Default,,0,0,0,,"The Treasonous Vice Admiral!\N'Demon Bamboo' Vergo"
 Dialogue: 0,0:23:29.06,0:23:31.17,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}The Treasonous Vice Admiral!
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Treasonous Vice Admiral!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}"Demon Bamboo" Vergo
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}"Demon Bamboo" Vergo

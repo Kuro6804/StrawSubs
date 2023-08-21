@@ -23,16 +23,18 @@ Audio File: [SOFCJ-Raws] One Piece - 621 (BD 1920x1080 x264 29.970fps FLAC) [C23
 Video File: [SOFCJ-Raws] One Piece - 621 (BD 1920x1080 x264 29.970fps FLAC) [C2328CA6].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 59
-Active Line: 76
-Video Position: 5637
+Video Zoom Percent: 0.625000
+Scroll Position: 294
+Active Line: 301
+Video Position: 42409
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -118,7 +120,7 @@ Dialogue: 0,0:03:18.32,0:03:21.35,Default,,0,0,0,,the harshest sea ruled by the 
 Dialogue: 0,0:03:21.35,0:03:22.99,Default,,0,0,0,,and landed on Punk Hazard;
 Dialogue: 0,0:03:22.99,0:03:25.16,Default,,0,0,0,,an island with two parts, one burning, the other frozen.
 Dialogue: 0,0:03:25.49,0:03:28.53,Default,,0,0,0,,They learned about the ruler of the island and the puppet master
-Dialogue: 0,0:03:28.53,0:03:30.33,Default,,0,0,0,,of Land of the Dead - Caesar Clown's motive
+Dialogue: 0,0:03:28.53,0:03:30.33,Default,,0,0,0,,of Netherworld - Caesar Clown's motive
 Dialogue: 0,0:03:30.73,0:03:33.00,Default,,0,0,0,,and along with their pirate ally - the Warlord -
 Dialogue: 0,0:03:33.00,0:03:35.80,Default,,0,0,0,,Trafalgar Law, were drawn into a climactic battle
 Dialogue: 0,0:03:36.50,0:03:38.47,Default,,0,0,0,,which ended with Caesar's defeat.
@@ -140,7 +142,10 @@ Dialogue: 0,0:04:53.78,0:04:58.65,Default,,0,0,0,,Which means the island and tho
 Dialogue: 0,0:05:02.85,0:05:04.42,Default,,0,0,0,,You two.
 Dialogue: 0,0:05:05.36,0:05:07.86,Default,,0,0,0,,Take care of that guard.
 Dialogue: 0,0:05:09.63,0:05:11.43,Default,,0,0,0,,I'm on my way!
-Dialogue: 0,0:05:11.43,0:05:20.40,"Sign",,0,0,0,,"Capture Caesar!\NGeneral Cannon Blasts!"
+Dialogue: 0,0:05:11.43,0:05:20.40,Title Card - Top,,0,0,0,,{\blur0.3\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}Capturing Caesar
+Dialogue: 1,0:05:11.43,0:05:20.40,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1973,1973)\4a&HFF&}Capturing Caesar
+Dialogue: 0,0:05:11.43,0:05:20.40,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}The General Cannon Attacks
+Dialogue: 1,0:05:11.43,0:05:20.40,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1973,1973)\4a&HFF&}The General Cannon Attacks
 Dialogue: 0,0:05:22.64,0:05:26.14,"Sign",,0,0,0,,THE SEACOAST OF PUNK HAZARD
 Dialogue: 0,0:05:49.07,0:05:52.44,Default,,0,0,0,,Now, with that much ordinance, he must be...
 Dialogue: 0,0:05:52.97,0:05:53.64,Default,,0,0,0,,What?!
@@ -310,11 +315,11 @@ Dialogue: 0,0:20:18.50,0:20:19.60,Default,,0,0,0,,Go!
 Dialogue: 0,0:20:22.44,0:20:26.08,Default,,0,0,0,,H-Hey, Buffalo! You got to protect me.
 Dialogue: 0,0:20:26.08,0:20:27.71,Default,,0,0,0,,I can't move myself!
 Dialogue: 0,0:20:27.98,0:20:31.08,Default,,0,0,0,,O-Of course! Don't underestimate me.
-Dialogue: 0,0:20:31.08,0:20:33.92,Default,,0,0,0,,I'm a member of Don Quixote's family!
+Dialogue: 0,0:20:31.08,0:20:33.92,Default,,0,0,0,,I'm a member of Donquixote's family!
 Dialogue: 0,0:20:34.32,0:20:36.22,Default,,0,0,0,,I'll complete a mission at any cost!
 Dialogue: 0,0:20:45.16,0:20:47.26,Default,,0,0,0,,Idiot! What a good-for-nothing!
 Dialogue: 0,0:20:47.80,0:20:51.73,Default,,0,0,0,,You can't hit me, fool! I'm a gas man!
-Dialogue: 0,0:20:53.47,0:20:57.81,Default,,0,0,0,,I-I must make it to Dressrosa with or without them!
+Dialogue: 0,0:20:53.47,0:20:57.81,Default,,0,0,0,,I-I must make it to Dress Rosa with or without them!
 Dialogue: 0,0:20:58.71,0:21:01.11,Default,,0,0,0,,You can't run! The last ammo is...
 Dialogue: 0,0:21:02.01,0:21:03.91,Default,,0,0,0,,Wh-What is this?!
 Dialogue: 0,0:21:05.05,0:21:06.75,Default,,0,0,0,,Sea Prism Stone handcuffs!
@@ -330,7 +335,11 @@ Dialogue: 0,0:22:54.59,0:22:56.99,Default,,0,0,0,,I overslept.
 Dialogue: 0,0:22:58.56,0:23:01.56,Default,,0,0,0,,Which way is Punk Hazard?
 Dialogue: 0,0:23:09.95,0:23:13.81,Default,,0,0,0,,After finally making it through\Nthe fierce battle and capturing Caesar,
 Dialogue: 0,0:23:13.81,0:23:19.02,Default,,0,0,0,,the Straw Hats and the other survivors\Nstart preparing to leave Punk Hazard.
-Dialogue: 0,0:23:19.02,0:23:24.85,Default,,0,0,0,,A shocking miracle then happens to Kin'emon,\Nwho had fallen victim to the Land of the Dead!
+Dialogue: 0,0:23:19.02,0:23:24.85,Default,,0,0,0,,A shocking miracle then happens to Kin'emon,\Nwho had fallen victim to Netherworld!
 Dialogue: 0,0:23:24.85,0:23:26.20,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:26.20,0:23:29.10,Default,,0,0,0,,"A Touching Reunion!\NMomonosuke and Kin'emon!"
+Dialogue: 0,0:23:26.20,0:23:29.10,Default,,0,0,0,,"A Touching Reunion!\NMomonosuke and Kin'emon"
 Dialogue: 0,0:23:29.10,0:23:31.06,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:31.06,0:23:35.06,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}A Touching Reunion!
+Dialogue: 1,0:23:31.06,0:23:35.06,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}A Touching Reunion!
+Dialogue: 0,0:23:31.06,0:23:35.06,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Momonosuke and Kin'emon
+Dialogue: 1,0:23:31.06,0:23:35.06,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Momonosuke and Kin'emon

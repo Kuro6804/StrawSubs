@@ -23,16 +23,18 @@ Audio File: [SOFCJ-Raws] One Piece - 606 (BD 1920x1080 x264 29.970fps FLAC) [74C
 Video File: [SOFCJ-Raws] One Piece - 606 (BD 1920x1080 x264 29.970fps FLAC) [74C58F99].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 60
-Active Line: 76
-Video Position: 5637
+Video Zoom Percent: 0.625000
+Scroll Position: 432
+Active Line: 439
+Video Position: 42288
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -119,11 +121,11 @@ Dialogue: 0,0:03:20.42,0:03:22.83,Default,,0,0,0,,the harshest sea ruled by the 
 Dialogue: 0,0:03:23.65,0:03:25.21,Default,,0,0,0,,They landed on Punk Hazard;
 Dialogue: 0,0:03:25.21,0:03:27.80,Default,,0,0,0,,an island with two parts, one burning, the other frozen
 Dialogue: 0,0:03:27.80,0:03:30.64,Default,,0,0,0,,and were held captive, by Caesar Clown who rules the island
-Dialogue: 0,0:03:30.64,0:03:34.18,Default,,0,0,0,,and were exposed to Land of the Dead, a weapon of mass destruction.
+Dialogue: 0,0:03:30.64,0:03:34.18,Default,,0,0,0,,and were exposed to Netherworld, a weapon of mass destruction.
 Dialogue: 0,0:03:34.18,0:03:35.73,Default,,0,0,0,,But they broke out thanks to their ally
 Dialogue: 0,0:03:35.73,0:03:39.01,Default,,0,0,0,,a Warlord - Trafalgar Law's tactful maneuvers
 Dialogue: 0,0:03:39.01,0:03:41.42,Default,,0,0,0,,and now they are heading for R Building - gate 66.
-Dialogue: 0,0:03:42.18,0:03:46.70,Default,,0,0,0,,However, Caesar has let Land of the Dead flow into the laboratory.
+Dialogue: 0,0:03:42.18,0:03:46.70,Default,,0,0,0,,However, Caesar has let Netherworld flow into the laboratory.
 Dialogue: 0,0:03:48.69,0:03:50.10,Default,,0,0,0,,You've got to be kidding!
 Dialogue: 0,0:03:53.02,0:03:54.86,Default,,0,0,0,,Run! Run!
 Dialogue: 0,0:03:56.46,0:03:57.52,Default,,0,0,0,,What're you doing?!
@@ -143,7 +145,10 @@ Dialogue: 0,0:04:25.27,0:04:26.97,Default,,0,0,0,,No means no!
 Dialogue: 0,0:04:26.97,0:04:28.20,Default,,0,0,0,,Captain Tashigi!
 Dialogue: 0,0:04:29.29,0:04:31.57,Default,,0,0,0,,Well done, guys!
 Dialogue: 0,0:04:31.57,0:04:36.61,Default,,0,0,0,,We certainly got our beloved Captain-chan in our hands!
-Dialogue: 0,0:04:48.85,0:04:52.22,"Sign",,0,0,0,,"The Treacherous Vice Admiral! Demon Bamboo Vergo!"
+Dialogue: 0,0:04:45.57,0:04:54.55,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Treasonous Vice Admiral!
+Dialogue: 1,0:04:45.57,0:04:54.55,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Treasonous Vice Admiral!
+Dialogue: 0,0:04:45.57,0:04:54.55,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}"Demon Bamboo" Vergo
+Dialogue: 1,0:04:45.57,0:04:54.55,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}"Demon Bamboo" Vergo
 Dialogue: 0,0:04:58.02,0:05:02.09,"Sign",,0,0,0,,THE PASSAGE BETWEEN BUILDING A AND B
 Dialogue: 0,0:05:02.86,0:05:05.18,Default,,0,0,0,,I can't believe he broke the wall of the lab
 Dialogue: 0,0:05:05.18,0:05:06.74,Default,,0,0,0,,and let the gas in.
@@ -411,7 +416,7 @@ Dialogue: 0,0:20:13.87,0:20:15.92,Default,,0,0,0,,Follow me!
 Dialogue: 0,0:20:19.10,0:20:23.11,"Sign",,0,0,0,,CAESAR'S LABORATORY
 Dialogue: 0,0:20:23.44,0:20:26.39,Default,,0,0,0,,What the hell is Vergo doing?!
 Dialogue: 0,0:20:26.78,0:20:30.07,Default,,0,0,0,,The G-5 are my test subjects!
-Dialogue: 0,0:20:30.07,0:20:33.28,Default,,0,0,0,,It'll be a total waste if I don't kill them with Land of the Dead!
+Dialogue: 0,0:20:30.07,0:20:33.28,Default,,0,0,0,,It'll be a total waste if I don't kill them with Netherworld!
 Dialogue: 0,0:20:33.28,0:20:34.19,Default,,0,0,0,,That fool!
 Dialogue: 0,0:20:34.94,0:20:36.45,Default,,0,0,0,,I have no choice.
 Dialogue: 0,0:20:36.45,0:20:39.77,Default,,0,0,0,,Block off the passage ahead of them
@@ -470,5 +475,9 @@ Dialogue: 0,0:23:17.26,0:23:19.53,Default,,0,0,0,,...Luffy launches a mighty off
 Dialogue: 0,0:23:20.13,0:23:20.99,Default,,0,0,0,,The battle...
 Dialogue: 0,0:23:21.19,0:23:23.20,Default,,0,0,0,,...grows more intense than ever!
 Dialogue: 0,0:23:24.09,0:23:25.67,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:25.67,0:23:29.04,Default,,0,0,0,,"A Fierce Battle Gets Heated! Luffy vs. Caesar!"
+Dialogue: 0,0:23:25.67,0:23:29.04,Default,,0,0,0,,"A White-Hot Battle\NLuffy vs. Caesar"
 Dialogue: 0,0:23:29.04,0:23:31.33,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}A White-Hot Battle
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}A White-Hot Battle
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Luffy vs. Caesar
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Luffy vs. Caesar

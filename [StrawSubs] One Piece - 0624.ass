@@ -24,15 +24,17 @@ Video File: [SOFCJ-Raws] One Piece - 624 (BD 1920x1080 x264 29.970fps FLAC) [7AA
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 59
-Active Line: 76
-Video Position: 5637
+Scroll Position: 348
+Active Line: 356
+Video Position: 42290
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -118,7 +120,7 @@ Dialogue: 0,0:03:18.18,0:03:21.89,Default,,0,0,0,,the harshest sea ruled by the 
 Dialogue: 0,0:03:21.89,0:03:23.55,Default,,0,0,0,,and landed on Punk Hazard;
 Dialogue: 0,0:03:23.55,0:03:25.66,Default,,0,0,0,,an island with two parts, one burning, the other frozen.
 Dialogue: 0,0:03:26.26,0:03:29.16,Default,,0,0,0,,They learned about the ruler of the island and the
-Dialogue: 0,0:03:29.16,0:03:30.96,Default,,0,0,0,,puppet master of Land of the Dead - Caesar Clown's motive
+Dialogue: 0,0:03:29.16,0:03:30.96,Default,,0,0,0,,puppet master of Netherworld - Caesar Clown's motive
 Dialogue: 0,0:03:31.33,0:03:34.16,Default,,0,0,0,,and along with their pirate ally - the Warlord - Law,
 Dialogue: 0,0:03:34.16,0:03:35.63,Default,,0,0,0,,were drawn into a climactic battle
 Dialogue: 0,0:03:36.53,0:03:41.21,Default,,0,0,0,,which ended with Caesar's defeat and capture.
@@ -137,7 +139,10 @@ Dialogue: 0,0:04:28.72,0:04:30.99,Default,,0,0,0,,What do you want in exchange f
 Dialogue: 0,0:04:30.99,0:04:32.62,Default,,0,0,0,,Name your price.
 Dialogue: 0,0:04:33.52,0:04:36.49,Default,,0,0,0,,Resign from the Seven Warlords.
 Dialogue: 0,0:04:37.09,0:04:40.33,Default,,0,0,0,,Damn squirt!
-Dialogue: 0,0:04:44.50,0:04:53.51,"Sign",,0,0,0,,"The G-5 Wiped Out!\NDoflamingo's Sudden Attack!"
+Dialogue: 0,0:04:44.50,0:04:53.51,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}G-5 Wiped Out!
+Dialogue: 1,0:04:44.50,0:04:53.51,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}G-5 Wiped Out!
+Dialogue: 0,0:04:44.50,0:04:53.51,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Doflamingo's Sudden Attack!
+Dialogue: 1,0:04:44.50,0:04:53.51,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Doflamingo's Sudden Attack!
 Dialogue: 0,0:04:58.98,0:05:01.52,Default,,0,0,0,,How were you doing, Sunny?
 Dialogue: 0,0:05:03.59,0:05:05.36,Default,,0,0,0,,I can't see the island anymore.
 Dialogue: 0,0:05:06.19,0:05:08.43,Default,,0,0,0,,The fire, the ice, and the deadly gas.
@@ -193,7 +198,7 @@ Dialogue: 0,0:07:59.63,0:08:01.43,Default,,0,0,0,,Are you gonna charge us?!
 Dialogue: 0,0:08:01.90,0:08:04.37,Default,,0,0,0,,Nami, where are we going next?
 Dialogue: 0,0:08:05.10,0:08:06.40,Default,,0,0,0,,Hold on.
 Dialogue: 0,0:08:06.40,0:08:08.84,Default,,0,0,0,,The next destination is already set.
-Dialogue: 0,0:08:15.28,0:08:16.81,Default,,0,0,0,,It's Dressrosa.
+Dialogue: 0,0:08:15.28,0:08:16.81,Default,,0,0,0,,It's Dress Rosa.
 Dialogue: 0,0:08:18.68,0:08:21.28,Default,,0,0,0,,The gas didn't work at all?!
 Dialogue: 0,0:08:21.49,0:08:25.46,Default,,0,0,0,,This protective suit is made by Vegapunk and in fact...
 Dialogue: 0,0:08:25.46,0:08:28.43,Default,,0,0,0,,...it's way beyond Caesar's ability.
@@ -290,9 +295,9 @@ Dialogue: 0,0:17:06.04,0:17:08.54,Default,,0,0,0,,Do you guys wanna die first?
 Dialogue: 0,0:17:13.12,0:17:14.62,Default,,0,0,0,,Stay away!
 Dialogue: 0,0:17:26.90,0:17:28.60,Default,,0,0,0,,Smo-yan!
 Dialogue: 0,0:17:38.14,0:17:41.61,Default,,0,0,0,,Vice Admiral Smo!!
-Dialogue: 0,0:17:49.39,0:17:50.65,Default,,0,0,0,,Dressrosa?!
+Dialogue: 0,0:17:49.39,0:17:50.65,Default,,0,0,0,,Dress Rosa?!
 Dialogue: 0,0:17:50.92,0:17:54.36,Default,,0,0,0,,Yes, there is something we have to do there.
-Dialogue: 0,0:17:54.56,0:17:56.26,Default,,0,0,0,,D-Dressrosa?!
+Dialogue: 0,0:17:54.56,0:17:56.26,Default,,0,0,0,,D-Dress Rosa?!
 Dialogue: 0,0:17:56.76,0:17:58.43,Default,,0,0,0,,What? Do you know the place?
 Dialogue: 0,0:17:58.66,0:18:04.33,Default,,0,0,0,,Th-That's exactly where we... I mean, I want to go!
 Dialogue: 0,0:18:04.33,0:18:05.57,Default,,0,0,0,,You need to go there, too?!
@@ -310,7 +315,7 @@ Dialogue: 0,0:18:34.23,0:18:36.30,Default,,0,0,0,,It's a sea slope. It's not unc
 Dialogue: 0,0:18:36.30,0:18:37.30,Default,,0,0,0,,It is uncommon!
 Dialogue: 0,0:18:37.30,0:18:39.77,Default,,0,0,0,,We don't have to go against the current.
 Dialogue: 0,0:18:40.24,0:18:41.84,Default,,0,0,0,,The needle in the middle
-Dialogue: 0,0:18:41.84,0:18:44.94,Default,,0,0,0,,on your Log Pose must be pointing toward Dressrosa.
+Dialogue: 0,0:18:41.84,0:18:44.94,Default,,0,0,0,,on your Log Pose must be pointing toward Dress Rosa.
 Dialogue: 0,0:18:45.34,0:18:48.75,Default,,0,0,0,,But don't try to go straight. Take a detour.
 Dialogue: 0,0:18:49.01,0:18:49.98,Default,,0,0,0,,Why?
 Dialogue: 0,0:18:50.35,0:18:52.78,Default,,0,0,0,,Because it'll work out better for us.
@@ -381,11 +386,15 @@ Dialogue: 0,0:22:44.25,0:22:46.25,Default,,0,0,0,,Could you step aside?
 Dialogue: 0,0:22:46.32,0:22:48.89,Default,,0,0,0,,What?!
 Dialogue: 0,0:22:56.06,0:22:58.63,Default,,0,0,0,,He is my...
 Dialogue: 0,0:22:59.63,0:23:01.13,Default,,0,0,0,,...friend.
-Dialogue: 0,0:23:10.00,0:23:13.85,Default,,0,0,0,,Kuzan, formerly known as Admiral Blue Pheasant,\Nappears to save Smoker.
+Dialogue: 0,0:23:10.00,0:23:13.85,Default,,0,0,0,,Kuzan, formerly known as Admiral Blue Pheasant,\Nsuddenly appears to save Smoker.
 Dialogue: 0,0:23:14.38,0:23:16.11,Default,,0,0,0,,Formerly one of the Navy's strongest forces,
 Dialogue: 0,0:23:16.11,0:23:18.31,Default,,0,0,0,,he stands against the dark mastermind\Nof the Seven Warlords.
 Dialogue: 0,0:23:19.08,0:23:22.33,Default,,0,0,0,,As things heat up between these two powerful opponents,
 Dialogue: 0,0:23:22.33,0:23:25.96,Default,,0,0,0,,Blue Pheasant's words change everything.
 Dialogue: 0,0:23:25.96,0:23:27.22,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:27.22,0:23:29.56,Default,,0,0,0,,"Intense!\NBlue Pheasant vs. Doflamingo!"
+Dialogue: 0,0:23:27.22,0:23:29.56,Default,,0,0,0,,"Intense!\NBlue Pheasant vs. Doflamingo"
 Dialogue: 0,0:23:29.56,0:23:31.82,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:31.06,0:23:35.06,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Intense!
+Dialogue: 1,0:23:31.06,0:23:35.06,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Intense!
+Dialogue: 0,0:23:31.06,0:23:35.06,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Blue Pheasant vs. Doflamingo
+Dialogue: 1,0:23:31.06,0:23:35.06,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Blue Pheasant vs. Doflamingo

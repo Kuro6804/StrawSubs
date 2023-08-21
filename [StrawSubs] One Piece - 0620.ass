@@ -23,16 +23,17 @@ Audio File: [SOFCJ-Raws] One Piece - 620 (BD 1920x1080 x264 29.970fps FLAC) [9FB
 Video File: [SOFCJ-Raws] One Piece - 620 (BD 1920x1080 x264 29.970fps FLAC) [9FB47316].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 55
-Active Line: 76
-Video Position: 5637
+Video Zoom Percent: 0.562500
+Scroll Position: 244
+Active Line: 253
+Video Position: 42409
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -118,7 +119,7 @@ Dialogue: 0,0:03:18.05,0:03:21.05,Default,,0,0,0,,the harshest sea ruled by the 
 Dialogue: 0,0:03:21.05,0:03:22.99,Default,,0,0,0,,and landed on Punk Hazard;
 Dialogue: 0,0:03:22.99,0:03:25.12,Default,,0,0,0,,an island with two parts, one burning, the other frozen.
 Dialogue: 0,0:03:25.92,0:03:29.29,Default,,0,0,0,,They learned about the ruler of the island and the puppeteer
-Dialogue: 0,0:03:29.29,0:03:31.53,Default,,0,0,0,,of Land of the Dead - Caesar Clown's motive
+Dialogue: 0,0:03:29.29,0:03:31.53,Default,,0,0,0,,of Netherworld - Caesar Clown's motive
 Dialogue: 0,0:03:31.53,0:03:35.53,Default,,0,0,0,,and along with their pirate ally - the Warlord - Trafalgar Law,
 Dialogue: 0,0:03:35.53,0:03:37.57,Default,,0,0,0,,they are caught in a climactic battle.
 Dialogue: 0,0:03:38.14,0:03:42.44,Default,,0,0,0,,And they finally defeated Caesar.
@@ -142,7 +143,10 @@ Dialogue: 0,0:04:49.81,0:04:51.78,Default,,0,0,0,,I was gonna do that, anyway.
 Dialogue: 0,0:04:53.14,0:04:54.75,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:04:55.51,0:04:59.25,Default,,0,0,0,,I need you to perish along with everything else.
 Dialogue: 0,0:05:03.15,0:05:04.52,Default,,0,0,0,,Understood.
-Dialogue: 0,0:05:05.66,0:05:14.63,"Sign",,0,0,0,,"A Critical Situation!\NPunk Hazard Explodes!"
+Dialogue: 0,0:05:05.66,0:05:14.63,Title Card - Top,,0,0,0,,{\blur0.3\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}Hopeless Crisis!
+Dialogue: 1,0:05:05.66,0:05:14.63,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1973,1973)\4a&HFF&}Hopeless Crisis!
+Dialogue: 0,0:05:05.66,0:05:14.63,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}A Massive Explosion on Punk Hazard
+Dialogue: 1,0:05:05.66,0:05:14.63,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1973,1973)\4a&HFF&}A Massive Explosion on Punk Hazard
 Dialogue: 0,0:05:48.27,0:05:49.80,Default,,0,0,0,,It's fast!
 Dialogue: 0,0:05:55.97,0:05:59.41,Default,,0,0,0,,Hey, get off of him!
 Dialogue: 0,0:05:59.41,0:06:01.11,Default,,0,0,0,,I won't!
@@ -281,8 +285,12 @@ Dialogue: 0,0:22:53.92,0:22:56.96,Default,,0,0,0,,Take care of that guard.
 Dialogue: 0,0:22:59.40,0:23:01.40,Default,,0,0,0,,I'm on my way!
 Dialogue: 0,0:23:10.19,0:23:12.39,Default,,0,0,0,,As the shadow of Doflamingo looms closer,
 Dialogue: 0,0:23:12.39,0:23:14.64,Default,,0,0,0,,the battle for Caesar begins to heat up.
-Dialogue: 0,0:23:15.52,0:23:20.15,Default,,0,0,0,,When Baby 5's sword pierces\NGeneral Franky's invincible armour,
+Dialogue: 0,0:23:15.52,0:23:20.15,Default,,0,0,0,,When Baby 5's blade pierces\NGeneral Franky's invincible armor,
 Dialogue: 0,0:23:20.15,0:23:24.82,Default,,0,0,0,,the General unleashes his ultimate\Nhidden weapon and strikes back.
 Dialogue: 0,0:23:24.82,0:23:26.30,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:26.30,0:23:29.73,Default,,0,0,0,,"Capture Caesar!\NGeneral Cannon Blasts!"
+Dialogue: 0,0:23:26.30,0:23:29.73,Default,,0,0,0,,"Capturing Caesar\NThe General Cannon Attacks"
 Dialogue: 0,0:23:29.73,0:23:31.82,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:31.06,0:23:35.06,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Capturing Caesar
+Dialogue: 1,0:23:31.06,0:23:35.06,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Capturing Caesar
+Dialogue: 0,0:23:31.06,0:23:35.06,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}The General Cannon Attacks
+Dialogue: 1,0:23:31.06,0:23:35.06,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The General Cannon Attacks

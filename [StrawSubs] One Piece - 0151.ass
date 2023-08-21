@@ -10742,7 +10742,7 @@ Dialogue: 10,0:12:02.83,0:12:06.46,Default,,0,0,0,,Damn you, Crocodile. \NYou've
 Dialogue: 10,0:12:07.21,0:12:12.25,Default,,0,0,0,,We can no longer let this man \Nwho beat you remain unchecked...
 Dialogue: 10,0:12:12.96,0:12:15.46,Default,,0,0,0,,Monkey D. Luffy...
 Dialogue: 10,0:12:19.01,0:12:21.47,Default,,0,0,0,,Navy HQ to Mary Geoise.
-Dialogue: 10,0:12:21.47,0:12:25.18,Default,,0,0,0,,Don Quixote Doflamingo-sama \Nand Bartholomew Kuma-sama
+Dialogue: 10,0:12:21.47,0:12:25.18,Default,,0,0,0,,Donquixote Doflamingo-sama \Nand Bartholomew Kuma-sama
 Dialogue: 10,0:12:25.18,0:12:28.23,Default,,0,0,0,,of the Seven Warlords of the Sea have arrived.
 Dialogue: 10,0:12:39.86,0:12:43.16,Default,,0,0,0,,Hey! Stop! What are you doing?!
 Dialogue: 10,0:12:43.46,0:12:45.62,Default,,0,0,0,,No! My hands are moving on their own!
@@ -10906,8 +10906,8 @@ Dialogue: 0,0:11:25.79,0:11:40.10,Sign,,0,0,0,,{\fnHolly\b0\bord0\fscy110\fsp0\b
 Dialogue: 0,0:11:25.79,0:11:40.10,Sign,,0,0,0,,{\fnHolly\b0\bord0\fscy110\fsp0\blur0.7\pos(352,300)}{\fs40\fsp-1.5}World Government Supreme Authorities \N{\fs42\b1\fsp0}'The Five Elder Stars'
 Dialogue: 0,0:12:28.85,0:12:32.19,Sign,,0,0,0,,{\fnHolly\fs40\b1\bord0\fscy110\fsp0\blur5\pos(352,195)\c&H000000&}Warlord of the Sea
 Dialogue: 0,0:12:28.85,0:12:32.19,Sign,,0,0,0,,{\fnHolly\fs40\b1\bord0\fscy110\fsp0\blur0.7\pos(352,195)}Warlord of the Sea
-Dialogue: 0,0:12:28.85,0:12:32.19,Sign,,0,0,0,,{\fnHolly\fs40\b1\bord0\fscy110\fsp0\blur5\pos(352,230)\c&H000000&}Don Quixote Doflamingo
-Dialogue: 0,0:12:28.85,0:12:32.19,Sign,,0,0,0,,{\fnHolly\fs40\b1\bord0\fscy110\fsp0\blur0.7\pos(352,230)}Don Quixote Doflamingo
+Dialogue: 0,0:12:28.85,0:12:32.19,Sign,,0,0,0,,{\fnHolly\fs40\b1\bord0\fscy110\fsp0\blur5\pos(352,230)\c&H000000&}Donquixote Doflamingo
+Dialogue: 0,0:12:28.85,0:12:32.19,Sign,,0,0,0,,{\fnHolly\fs40\b1\bord0\fscy110\fsp0\blur0.7\pos(352,230)}Donquixote Doflamingo
 Dialogue: 0,0:12:28.85,0:12:32.19,Sign,,0,0,0,,{\fnHolly\fs38\b0\bord0\fscy110\fsp0\blur5\pos(352,265)\c&H000000&}Former Bounty: {\fnBook Antiqua\b1\fscy95}340 {\fnHolly\b0\fscy110}Million Berries
 Dialogue: 0,0:12:28.85,0:12:32.19,Sign,,0,0,0,,{\fnHolly\fs38\b0\bord0\fscy110\fsp0\blur0.7\pos(352,265)}Former Bounty: {\fnBook Antiqua\b1\fscy95}340 {\fnHolly\b0\fscy110}Million Berries
 Dialogue: 0,0:12:32.82,0:12:36.15,Sign,,0,0,0,,{\fnHolly\fs40\b1\bord0\fscy110\fsp0\blur5\pos(352,195)\c&H000000&}Warlord of the Sea

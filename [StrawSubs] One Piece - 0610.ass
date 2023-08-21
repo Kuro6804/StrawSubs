@@ -23,16 +23,18 @@ Audio File: [SOFCJ-Raws] One Piece - 610 (BD 1920x1080 x264 29.970fps FLAC) [43E
 Video File: [SOFCJ-Raws] One Piece - 610 (BD 1920x1080 x264 29.970fps FLAC) [43EFC941].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 60
-Active Line: 76
-Video Position: 5637
+Video Zoom Percent: 0.625000
+Scroll Position: 377
+Active Line: 382
+Video Position: 42288
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -120,7 +122,7 @@ Dialogue: 0,0:03:23.35,0:03:24.51,Default,,0,0,0,,They landed on Punk Hazard;
 Dialogue: 0,0:03:24.51,0:03:26.52,Default,,0,0,0,,an island with two parts, one burning, the other frozen.
 Dialogue: 0,0:03:27.37,0:03:29.65,Default,,0,0,0,,After learning about the ruler of the island -
 Dialogue: 0,0:03:29.65,0:03:32.30,Default,,0,0,0,,Caesar clown, aka the Master's motive,
-Dialogue: 0,0:03:32.62,0:03:35.77,Default,,0,0,0,,and all while trying to escape Land of the Dead, the weapon of mass destruction,
+Dialogue: 0,0:03:32.62,0:03:35.77,Default,,0,0,0,,and all while trying to escape Netherworld, the weapon of mass destruction,
 Dialogue: 0,0:03:35.77,0:03:37.53,Default,,0,0,0,,along with their pirate ally -
 Dialogue: 0,0:03:37.53,0:03:40.27,Default,,0,0,0,,the Warlord - Trafalgar Law,
 Dialogue: 0,0:03:40.27,0:03:43.44,Default,,0,0,0,,they are on the move to kidnap Caesar,
@@ -141,7 +143,10 @@ Dialogue: 0,0:04:28.34,0:04:29.22,Default,,0,0,0,,It's Vergo-san to you!
 Dialogue: 0,0:04:43.75,0:04:45.67,Default,,0,0,0,,I'm in the middle of something.
 Dialogue: 0,0:04:46.29,0:04:48.45,Default,,0,0,0,,Does it have to be now?
 Dialogue: 0,0:04:49.85,0:04:51.27,Default,,0,0,0,,Vice Admiral Smoker.
-Dialogue: 0,0:04:56.18,0:04:59.99,"Sign",,0,0,0,,"Fists Collide! A Battle of the Two Vice Admirals!"
+Dialogue: 0,0:04:53.91,0:05:02.92,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Fists Collide!
+Dialogue: 1,0:04:53.91,0:05:02.92,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Fists Collide!
+Dialogue: 0,0:04:53.91,0:05:02.92,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Battle of Two Vice Admirals
+Dialogue: 1,0:04:53.91,0:05:02.92,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Battle of Two Vice Admirals
 Dialogue: 0,0:05:07.29,0:05:11.96,"Sign",,0,0,0,,B BUILDING 3RD FLOOR - BISCUITS ROOM
 Dialogue: 0,0:05:16.14,0:05:20.51,Default,,0,0,0,,Mocha, those sweet candies are for everybody, aren't they?
 Dialogue: 0,0:05:20.51,0:05:22.24,Default,,0,0,0,,Stop fighting.
@@ -247,7 +252,7 @@ Dialogue: 0,0:11:25.25,0:11:26.47,Default,,0,0,0,,You're gonna die if you're too
 Dialogue: 0,0:11:29.29,0:11:30.94,Default,,0,0,0,,Everybody! This way!
 Dialogue: 0,0:11:31.47,0:11:35.88,"Sign",,0,0,0,,R BUILDING 2ND FLOOR - THE SECRET ROOM
 Dialogue: 0,0:11:39.16,0:11:41.92,Default,,0,0,0,,They're so dumb!
-Dialogue: 0,0:11:41.92,0:11:44.87,Default,,0,0,0,,They let Land of the Dead in themselves!
+Dialogue: 0,0:11:41.92,0:11:44.87,Default,,0,0,0,,They let Netherworld in themselves!
 Dialogue: 0,0:11:44.87,0:11:46.05,Default,,0,0,0,,But...
 Dialogue: 0,0:11:46.66,0:11:48.82,Default,,0,0,0,,...letting them die there won't help
 Dialogue: 0,0:11:48.82,0:11:50.99,Default,,0,0,0,,bring my experiment show to completion!
@@ -298,7 +303,7 @@ Dialogue: 0,0:15:11.16,0:15:14.67,Default,,0,0,0,,The Straw Hats, the G-5, or th
 Dialogue: 0,0:15:14.67,0:15:16.32,Default,,0,0,0,,Doesn't matter if they're our enemies or not,
 Dialogue: 0,0:15:16.32,0:15:20.19,Default,,0,0,0,,the only place those survivors can get to is going to be the room below.
 Dialogue: 0,0:15:20.68,0:15:24.67,Default,,0,0,0,,There are some air vents on the first floor of R Building.
-Dialogue: 0,0:15:24.67,0:15:28.15,Default,,0,0,0,,So we can let the air from outside - that is to say, Land of the Dead - flow in.
+Dialogue: 0,0:15:24.67,0:15:28.15,Default,,0,0,0,,So we can let the air from outside - that is to say, Netherworld - flow in.
 Dialogue: 0,0:15:28.15,0:15:30.42,Default,,0,0,0,,And then there is no turning back.
 Dialogue: 0,0:15:30.67,0:15:33.69,Default,,0,0,0,,Who can survive that?!
 Dialogue: 0,0:15:33.69,0:15:36.37,Default,,0,0,0,,When we close all the gates,
@@ -408,10 +413,14 @@ Dialogue: 0,0:22:48.50,0:22:49.51,Default,,0,0,0,,Wh...
 Dialogue: 0,0:22:51.01,0:22:51.65,Default,,0,0,0,,Wh...
 Dialogue: 0,0:22:57.09,0:22:58.77,Default,,0,0,0,,Who...
 Dialogue: 0,0:22:58.77,0:23:01.23,Default,,0,0,0,,...are you?!
-Dialogue: 0,0:23:10.04,0:23:13.24,Default,,0,0,0,,Deep within the depths of Building C, which is said to be inescapable,
+Dialogue: 0,0:23:10.04,0:23:13.24,Default,,0,0,0,,Deep within the depths of Building C,\Nwhich is said to be inescapable,
 Dialogue: 0,0:23:13.24,0:23:17.52,Default,,0,0,0,,Luffy finds himself in a desperate situation and is then greeted by a small dragon.
 Dialogue: 0,0:23:17.96,0:23:22.07,Default,,0,0,0,,The dragon calls himself a warrior and has overcome a strange fate.
 Dialogue: 0,0:23:22.07,0:23:25.38,Default,,0,0,0,,Because of their chance meeting, Luffy decides to take action.
 Dialogue: 0,0:23:25.38,0:23:26.73,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:26.73,0:23:29.50,Default,,0,0,0,,"A Small Dragon! Momonosuke Appears!"
+Dialogue: 0,0:23:26.73,0:23:29.50,Default,,0,0,0,,"A Small Dragon!\NMomonosuke Appears"
 Dialogue: 0,0:23:29.50,0:23:31.56,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,215,,{\blur0.3\c&H000000&}A Small Dragon!
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,215,,{\bord0\blur0.3\4a&HFF&}A Small Dragon!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Momonosuke Appears
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Momonosuke Appears

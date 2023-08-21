@@ -24,15 +24,16 @@ Video File: [SOFCJ-Raws] One Piece - 625 (BD 1920x1080 x264 29.970fps FLAC) [1CF
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 59
-Active Line: 76
-Video Position: 5637
+Scroll Position: 298
+Active Line: 312
+Video Position: 42288
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -138,7 +139,10 @@ Dialogue: 0,0:04:26.82,0:04:29.19,Default,,0,0,0,,Excuse me, young man.
 Dialogue: 0,0:04:33.62,0:04:35.66,Default,,0,0,0,,Could you step aside?
 Dialogue: 0,0:04:38.50,0:04:40.76,Default,,0,0,0,,He is my...
 Dialogue: 0,0:04:41.83,0:04:43.50,Default,,0,0,0,,...friend.
-Dialogue: 0,0:04:44.10,0:04:53.04,"Sign",,0,0,0,,"Intense!\NBlue Pheasant vs. Doflamingo!"
+Dialogue: 0,0:04:44.10,0:04:53.04,Title Card - Top,,0,0,0,,{\blur0.3\fad(1967,1967)\c&H000000&\1a&HFF&\t(1922,1967,\1a&H00&)\t(6973,7018,\1a&HFF&)}Intense!
+Dialogue: 1,0:04:44.10,0:04:53.04,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1967,1967)\4a&HFF&}Intense!
+Dialogue: 0,0:04:44.10,0:04:53.04,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1967,1967)\c&H000000&\1a&HFF&\t(1922,1967,\1a&H00&)\t(6973,7018,\1a&HFF&)}Blue Pheasant vs. Doflamingo
+Dialogue: 1,0:04:44.10,0:04:53.04,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1967,1967)\4a&HFF&}Blue Pheasant vs. Doflamingo
 Dialogue: 0,0:05:11.76,0:05:14.26,Default,,0,0,0,,Is that the former admiral - Blue Pheasant?!
 Dialogue: 0,0:05:14.63,0:05:17.77,Default,,0,0,0,,I thought he disappeared after Red Hound beat him!
 Dialogue: 0,0:06:02.71,0:06:04.48,Default,,0,0,0,,Young Master!
@@ -173,7 +177,7 @@ Dialogue: 0,0:10:07.76,0:10:09.89,Default,,0,0,0,,If you're done with the treatm
 Dialogue: 0,0:10:28.61,0:10:31.95,Default,,0,0,0,,I'm still me, Smoker.
 Dialogue: 0,0:10:35.19,0:10:36.59,Default,,0,0,0,,Then I have no qualms.
 Dialogue: 0,0:10:39.32,0:10:43.06,Default,,0,0,0,,Anyway, you guys should keep an eye on Doflamingo.
-Dialogue: 0,0:10:44.03,0:10:47.96,Default,,0,0,0,,He's a Warlord and the king of Dressrosa.
+Dialogue: 0,0:10:44.03,0:10:47.96,Default,,0,0,0,,He's a Warlord and the king of Dress Rosa.
 Dialogue: 0,0:10:48.53,0:10:51.07,Default,,0,0,0,,He's an unusual pirate in many ways,
 Dialogue: 0,0:10:51.07,0:10:53.27,Default,,0,0,0,,but not like the Snake Princess of the Kuja.
 Dialogue: 0,0:10:53.87,0:10:56.97,Default,,0,0,0,,Tell Sakazuki and get the admirals into action.
@@ -232,13 +236,13 @@ Dialogue: 0,0:14:05.96,0:14:09.30,Default,,0,0,0,,Shut up, you bastards! Can you
 Dialogue: 0,0:14:10.47,0:14:13.10,Default,,0,0,0,,Don't ever call us "fools"!
 Dialogue: 0,0:14:14.50,0:14:16.47,Default,,0,0,0,,Joker is finished.
 Dialogue: 0,0:14:16.84,0:14:19.28,Default,,0,0,0,,We're gonna go onto the next move.
-Dialogue: 0,0:14:19.84,0:14:23.38,Default,,0,0,0,,There is a factory manufacturing SMILEs somewhere on Dressrosa.
+Dialogue: 0,0:14:19.84,0:14:23.38,Default,,0,0,0,,There is a factory manufacturing SMILEs somewhere on Dress Rosa.
 Dialogue: 0,0:14:25.22,0:14:27.95,Default,,0,0,0,,We should just find it and destroy it?
 Dialogue: 0,0:14:27.95,0:14:29.29,Default,,0,0,0,,That's right.
 Dialogue: 0,0:14:29.29,0:14:32.46,Default,,0,0,0,,Then, Kaido's forces won't strengthen.
 Dialogue: 0,0:14:33.02,0:14:36.09,Default,,0,0,0,,However, he's a professional businessman.
 Dialogue: 0,0:14:36.66,0:14:39.20,Default,,0,0,0,,I'm sure he'll retaliate.
-Dialogue: 0,0:14:39.20,0:14:40.76,Default,,0,0,0,,Dressrosa, huh?
+Dialogue: 0,0:14:39.20,0:14:40.76,Default,,0,0,0,,Dress Rosa, huh?
 Dialogue: 0,0:14:41.03,0:14:43.33,Default,,0,0,0,,Is that where you wanna go, Kin?
 Dialogue: 0,0:14:43.73,0:14:44.90,Default,,0,0,0,,Indeed!
 Dialogue: 0,0:14:47.24,0:14:51.21,Default,,0,0,0,,They're keeping one of my comrades prisoner.
@@ -337,10 +341,14 @@ Dialogue: 0,0:22:42.91,0:22:46.58,Default,,0,0,0,,Ring, ring, ring... Ring, ring
 Dialogue: 0,0:22:47.28,0:22:48.65,Default,,0,0,0,,Ring, ring, ring...
 Dialogue: 0,0:22:49.42,0:22:50.92,Default,,0,0,0,,Ring, ring, ring... Clank.
 Dialogue: 0,0:22:55.63,0:22:58.73,Default,,0,0,0,,Oh really? You found them?
-Dialogue: 0,0:23:09.90,0:23:12.50,Default,,0,0,0,,As the Straw Hats head for Dressrosa,
+Dialogue: 0,0:23:09.90,0:23:12.50,Default,,0,0,0,,As the Straw Hats head for Dress Rosa,
 Dialogue: 0,0:23:12.50,0:23:15.88,Default,,0,0,0,,they are attacked by an unknown enemy\Nand Caesar is taken from them.
 Dialogue: 0,0:23:15.88,0:23:22.11,Default,,0,0,0,,But, as Luffy and Law go to get him back,\Nan unexpected foe causes trouble for them...
 Dialogue: 0,0:23:22.11,0:23:25.29,Default,,0,0,0,,and a surprising reunion awaits!
 Dialogue: 0,0:23:25.29,0:23:26.65,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:26.65,0:23:29.60,Default,,0,0,0,,"Caesar Goes Missing!\NThe Pirate Alliance Makes a Sortie!"
+Dialogue: 0,0:23:26.65,0:23:29.60,Default,,0,0,0,,"Caesar, Disappeared!\NThe Pirate Alliance Moves Out"
 Dialogue: 0,0:23:29.60,0:23:31.75,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Caesar, Disappeared!
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Caesar, Disappeared!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}The Pirate Alliance Moves Out
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The Pirate Alliance Moves Out

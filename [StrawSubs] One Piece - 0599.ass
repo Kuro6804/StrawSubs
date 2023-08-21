@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 599 (BD 1920x1080 x264 29.970fps FLAC) [81C
 Video File: [SOFCJ-Raws] One Piece - 599 (BD 1920x1080 x264 29.970fps FLAC) [81C65598].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 60
-Active Line: 74
-Video Position: 5069
+Video Zoom Percent: 0.625000
+Scroll Position: 361
+Active Line: 371
+Video Position: 42407
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,6 +35,8 @@ Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,
 Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,4,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
+Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -124,9 +126,12 @@ Dialogue: 0,0:03:24.31,0:03:26.93,Default,,0,0,0,,Tie these five up!
 Dialogue: 0,0:03:27.44,0:03:30.23,Default,,0,0,0,,Use Sea Prism Stone chains for the Devil Fruit users!
 Dialogue: 0,0:03:30.91,0:03:33.08,Default,,0,0,0,,When did you come here?
 Dialogue: 0,0:03:34.15,0:03:35.50,Default,,0,0,0,,Vergo!
-Dialogue: 0,0:03:36.38,0:03:41.52,Default,,0,0,0,,Just arrived. Luckily, I was at Dressrosa.
+Dialogue: 0,0:03:36.38,0:03:41.52,Default,,0,0,0,,Just arrived. Luckily, I was at Dress Rosa.
 Dialogue: 0,0:03:41.52,0:03:45.33,Default,,0,0,0,,I got a ride in an SAD tanker that was about to leave.
-Dialogue: 0,0:03:49.40,0:03:53.88,"Sign",,0,0,0,,"Shocking! The True Identity of the Mystery Man Vergo!"
+Dialogue: 0,0:03:46.81,0:03:55.79,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Shocking!
+Dialogue: 1,0:03:46.81,0:03:55.79,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Shocking!
+Dialogue: 0,0:03:46.81,0:03:55.79,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Mystery Man's True Identity—Vergo!
+Dialogue: 1,0:03:46.81,0:03:55.79,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Mystery Man's True Identity—Vergo!
 Dialogue: 0,0:03:56.69,0:04:00.19,"Sign",,0,0,0,,THE ICE LANDS--THE LABORATORY
 Dialogue: 0,0:04:13.76,0:04:15.15,Default,,0,0,0,,You have no mercy.
 Dialogue: 0,0:04:15.15,0:04:18.14,Default,,0,0,0,,If I had mercy, it wouldn't make good punishment.
@@ -398,11 +403,15 @@ Dialogue: 0,0:22:26.86,0:22:31.59,Default,,0,0,0,,His true identity? He's a man 
 Dialogue: 0,0:22:31.59,0:22:33.00,Default,,0,0,0,,What do you mean?
 Dialogue: 0,0:22:33.46,0:22:36.27,Default,,0,0,0,,One of the seven most notorious pirates.
 Dialogue: 0,0:22:37.63,0:22:41.71,Default,,0,0,0,,He is a member of the Seven Warlords authorized by the World Government.
-Dialogue: 0,0:22:50.57,0:22:53.27,Default,,0,0,0,,He is Don Quixote Doflamingo.
+Dialogue: 0,0:22:50.57,0:22:53.27,Default,,0,0,0,,He is Donquixote Doflamingo.
 Dialogue: 0,0:23:10.15,0:23:14.98,Default,,0,0,0,,The revelation of the name, Doflamingo, one of the Seven Warlords, causes quite the stir.
 Dialogue: 0,0:23:15.49,0:23:19.21,Default,,0,0,0,,With the children in tow, Nami and the others are already at a disadvantage,
 Dialogue: 0,0:23:19.21,0:23:21.47,Default,,0,0,0,,and are put in an even bigger life-or-death situation
 Dialogue: 0,0:23:21.47,0:23:25.01,Default,,0,0,0,,due to the Gas-Gas Fruit's fearsome power.
 Dialogue: 0,0:23:25.01,0:23:26.38,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:26.38,0:23:29.68,Default,,0,0,0,,"Save the Children! The Master's Evil Hands Close in!"
+Dialogue: 0,0:23:26.38,0:23:29.68,Default,,0,0,0,,"Protect the Children!\NMaster's Demonic Hand Approaches"
 Dialogue: 0,0:23:29.68,0:23:31.78,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}Protect the Children!
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Protect the Children!
+Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Master's Demonic Hand Approaches
+Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Master's Demonic Hand Approaches
