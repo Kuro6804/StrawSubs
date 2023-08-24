@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 619 (BD 1920x1080 x264 29.970fps FLAC) [075
 Video File: [SOFCJ-Raws] One Piece - 619 (BD 1920x1080 x264 29.970fps FLAC) [0753B82F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 295
-Active Line: 302
-Video Position: 42407
+Video Zoom Percent: 0.500000
+Scroll Position: 262
+Active Line: 272
+Video Position: 33759
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -143,7 +143,7 @@ Dialogue: 0,0:05:53.10,0:05:53.94,Default,,0,0,0,,Buffalo!
 Dialogue: 0,0:05:56.47,0:05:58.74,Default,,0,0,0,,Alright! I don't know what it is but...
 Dialogue: 0,0:06:06.28,0:06:09.15,Default,,0,0,0,,...if it wants a fight, that's what it'll get!
 Dialogue: 0,0:06:30.04,0:06:33.98,Default,,0,0,0,,I don't know what it was but I destroyed it!
-Dialogue: 0,0:06:41.62,0:06:45.09,"Sign",,0,0,0,,THE THIRD LABORATORY- R BUILDING
+Dialogue: 0,0:06:41.62,0:06:45.09,"Sign",,0,0,0,,Third Research Institute, Building R
 Dialogue: 0,0:06:45.32,0:06:47.56,Default,,0,0,0,,Everybody, hurry up! Get on the truck!
 Dialogue: 0,0:06:49.46,0:06:52.13,Default,,0,0,0,,--Get on the front car, too! --Watch your step!
 Dialogue: 0,0:06:52.33,0:06:55.03,Default,,0,0,0,,--Kids, come on! --Hurry up!
@@ -244,13 +244,13 @@ Dialogue: 0,0:14:19.71,0:14:22.15,Default,,0,0,0,,What're you talking about?! Th
 Dialogue: 0,0:14:22.78,0:14:24.85,Default,,0,0,0,,Some of my crew are not here yet!
 Dialogue: 0,0:14:26.02,0:14:27.65,Default,,0,0,0,,Mocha is not here, either!
 Dialogue: 0,0:14:30.12,0:14:32.49,Default,,0,0,0,,Some of our soldiers are not here, either!
-Dialogue: 0,0:14:53.51,0:14:57.55,"Sign",,0,0,0,,THE PATH BETWEEN BUILDING B AND R
+Dialogue: 0,0:14:53.51,0:14:57.55,"Sign",,0,0,0,,Path Between Building B and R
 Dialogue: 0,0:14:55.98,0:14:57.55,DefaultLow,,0,0,0,,Hurry up, Chopper! Brook!
 Dialogue: 0,0:14:57.55,0:14:59.62,Default,,0,0,0,,Okay, I'll hurry, Usopp!
 Dialogue: 0,0:14:59.62,0:15:01.52,Default,,0,0,0,,We are the ones who are running!
 Dialogue: 0,0:15:01.52,0:15:03.72,Default,,0,0,0,,Outrun the gas somehow!
 Dialogue: 0,0:15:03.72,0:15:06.66,DefaultLow,,0,0,0,,Hurry up! 50 meters to go!
-Dialogue: 0,0:15:03.89,0:15:08.89,"Sign",,0,0,0,,R BUILDING 2ND FLOOR - THE SECRET ROOM
+Dialogue: 0,0:15:03.89,0:15:08.89,"Sign",,0,0,0,,Building R, 2nd Floor; Secret Room
 Dialogue: 0,0:15:06.66,0:15:09.49,DefaultLow,,0,0,0,,The gate is closing! Slide in!
 Dialogue: 0,0:15:09.49,0:15:11.49,DefaultLow,,0,0,0,,This building is gonna collapse soon!
 Dialogue: 0,0:15:11.83,0:15:13.70,Default,,0,0,0,,I better go, too!
@@ -310,10 +310,8 @@ Dialogue: 0,0:18:22.92,0:18:25.05,Default,,0,0,0,,It's all because of my misjudg
 Dialogue: 0,0:18:25.89,0:18:28.76,Default,,0,0,0,,I feel bad for you all.
 Dialogue: 0,0:18:31.49,0:18:35.80,Default,,0,0,0,,But I want to make sure to wipe out all those squirts now.
 Dialogue: 0,0:18:38.97,0:18:41.20,Default,,0,0,0,,Yee-haw!
-Dialogue: 0,0:18:43.11,0:18:45.31,Default,,0,0,0,,At the Third Laboratory,
-Dialogue: 0,0:18:45.31,0:18:48.38,Default,,0,0,0,,there is another weapon that was responsible for
-Dialogue: 0,0:18:48.38,0:18:50.78,Default,,0,0,0,,destroying the First and Second Laboratory
-Dialogue: 0,0:18:50.78,0:18:53.58,Default,,0,0,0,,and the rest of the island four years ago.
+Dialogue: 0,0:18:43.11,0:18:46.40,Default,,0,0,0,,At the Third Research Institute,\Nthere is another weapon that was responsible
+Dialogue: 0,0:18:46.40,0:18:52.73,Default,,0,0,0,,{\q2}for destroying the First and Second Research Institutes,\Nas well as the rest of the island, four years ago.
 Dialogue: 0,0:18:53.58,0:18:56.55,Default,,0,0,0,,With just the push of a button,
 Dialogue: 0,0:18:56.55,0:19:00.16,Default,,0,0,0,,there will be only one survivor on the whole island.
 Dialogue: 0,0:19:00.16,0:19:03.09,Default,,0,0,0,,No one else can take that highly toxic gas.

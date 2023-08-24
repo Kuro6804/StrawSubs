@@ -147,7 +147,7 @@ Dialogue: 0,0:04:53.91,0:05:02.92,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,19
 Dialogue: 1,0:04:53.91,0:05:02.92,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Fists Collide!
 Dialogue: 0,0:04:53.91,0:05:02.92,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Battle of Two Vice Admirals
 Dialogue: 1,0:04:53.91,0:05:02.92,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Battle of Two Vice Admirals
-Dialogue: 0,0:05:07.29,0:05:11.96,"Sign",,0,0,0,,B BUILDING 3RD FLOOR - BISCUITS ROOM
+Dialogue: 0,0:05:07.29,0:05:11.96,"Sign",,0,0,0,,BUILDING B 3RD FLOOR - BISCUITS ROOM
 Dialogue: 0,0:05:16.14,0:05:20.51,Default,,0,0,0,,Mocha, those sweet candies are for everybody, aren't they?
 Dialogue: 0,0:05:20.51,0:05:22.24,Default,,0,0,0,,Stop fighting.
 Dialogue: 0,0:05:22.24,0:05:25.18,Default,,0,0,0,,Share and eat them together as usual.
@@ -173,7 +173,7 @@ Dialogue: 0,0:06:28.34,0:06:30.67,Default,,0,0,0,,You can count on me to find th
 Dialogue: 0,0:06:30.67,0:06:32.54,Default,,0,0,0,,I'll come with you!
 Dialogue: 0,0:06:32.54,0:06:34.08,Default,,0,0,0,,I have to find Momonosuke!
 Dialogue: 0,0:06:34.08,0:06:36.02,Default,,0,0,0,,All right! Let's go!
-Dialogue: 0,0:06:46.62,0:06:50.96,"Sign",,0,0,0,,D BUILDING - THE "SAD" MANUFACTURING ROOM
+Dialogue: 0,0:06:46.62,0:06:50.96,"Sign",,0,0,0,,BUILDING D - THE S.A.D. MANUFACTURING ROOM
 Dialogue: 0,0:07:10.22,0:07:10.98,Default,,0,0,0,,What are those?
 Dialogue: 0,0:07:11.84,0:07:13.68,Default,,0,0,0,,This room's really disturbing.
 Dialogue: 0,0:07:14.79,0:07:17.75,Default,,0,0,0,,That's none of your business.
@@ -206,7 +206,7 @@ Dialogue: 0,0:09:23.71,0:09:25.46,Default,,0,0,0,,once we're out of the base,
 Dialogue: 0,0:09:25.46,0:09:28.45,Default,,0,0,0,,an unit commander is responsible for the troops' life.
 Dialogue: 0,0:09:29.38,0:09:30.99,Default,,0,0,0,,Don't lay a hand
 Dialogue: 0,0:09:31.33,0:09:33.85,Default,,0,0,0,,on my men!
-Dialogue: 0,0:09:35.16,0:09:38.83,"Sign",,0,0,0,,B BUILDING - THE G-5 AND SANJI
+Dialogue: 0,0:09:35.16,0:09:38.83,"Sign",,0,0,0,,BUILDING B - THE G-5 AND SANJI
 Dialogue: 0,0:09:44.14,0:09:45.90,Default,,0,0,0,,What's going on here?
 Dialogue: 0,0:09:45.90,0:09:47.44,Default,,0,0,0,,Ouch! Ow! Ow!
 Dialogue: 0,0:09:47.44,0:09:49.04,Default,,0,0,0,,There is no place to step!
@@ -240,7 +240,7 @@ Dialogue: 0,0:10:46.56,0:10:48.92,Default,,0,0,0,,The deadly gas from earlier!
 Dialogue: 0,0:10:48.92,0:10:50.78,Default,,0,0,0,,What?!
 Dialogue: 0,0:10:50.78,0:10:52.97,Default,,0,0,0,,Run if you don't wanna die!
 Dialogue: 0,0:10:57.38,0:10:59.32,Default,,0,0,0,,No!
-Dialogue: 0,0:11:04.03,0:11:05.71,Default,,0,0,0,,This B Building is very big
+Dialogue: 0,0:11:04.03,0:11:05.71,Default,,0,0,0,,This Building B is very big
 Dialogue: 0,0:11:05.71,0:11:07.75,Default,,0,0,0,,but it'll be filled up with the gas in no time!
 Dialogue: 0,0:11:12.74,0:11:14.49,Default,,0,0,0,,Stand up already!
 Dialogue: 0,0:11:16.23,0:11:18.40,Default,,0,0,0,,Tashigi-chan, you have to lead them!
@@ -250,7 +250,7 @@ Dialogue: 0,0:11:23.02,0:11:23.92,Default,,0,0,0,,Black Leg!
 Dialogue: 0,0:11:23.92,0:11:25.25,Default,,0,0,0,,Come on, guys!
 Dialogue: 0,0:11:25.25,0:11:26.47,Default,,0,0,0,,You're gonna die if you're too slow!
 Dialogue: 0,0:11:29.29,0:11:30.94,Default,,0,0,0,,Everybody! This way!
-Dialogue: 0,0:11:31.47,0:11:35.88,"Sign",,0,0,0,,R BUILDING 2ND FLOOR - THE SECRET ROOM
+Dialogue: 0,0:11:31.47,0:11:35.88,"Sign",,0,0,0,,BUILDING R 2ND FLOOR - THE SECRET ROOM
 Dialogue: 0,0:11:39.16,0:11:41.92,Default,,0,0,0,,They're so dumb!
 Dialogue: 0,0:11:41.92,0:11:44.87,Default,,0,0,0,,They let Netherworld in themselves!
 Dialogue: 0,0:11:44.87,0:11:46.05,Default,,0,0,0,,But...
@@ -259,11 +259,11 @@ Dialogue: 0,0:11:48.82,0:11:50.99,Default,,0,0,0,,bring my experiment show to co
 Dialogue: 0,0:11:51.53,0:11:55.29,Default,,0,0,0,,Hey, close the gates to Building C and D!
 Dialogue: 0,0:11:55.29,0:11:57.06,Default,,0,0,0,,Yes, sir. What about the one to R?
 Dialogue: 0,0:11:57.06,0:11:58.63,Default,,0,0,0,,Keep that one open.
-Dialogue: 0,0:11:59.14,0:12:03.90,Default,,0,0,0,,I want to lure them into the first floor of R Building.
-Dialogue: 0,0:12:04.23,0:12:08.33,Default,,0,0,0,,They're trying to get to R Building - gate 66 anyway.
+Dialogue: 0,0:11:59.14,0:12:03.90,Default,,0,0,0,,I want to lure them into the first floor of Building R.
+Dialogue: 0,0:12:04.23,0:12:08.33,Default,,0,0,0,,They're trying to get to Building R - Gate 66 anyway.
 Dialogue: 0,0:12:09.03,0:12:11.59,Default,,0,0,0,,I don't want them to take an unnecessary side trip
 Dialogue: 0,0:12:11.59,0:12:13.97,Default,,0,0,0,,so let's just guide them!
-Dialogue: 0,0:12:17.92,0:12:21.59,"Sign",,0,0,0,,C BUILDING - A GARBAGE DUMP
+Dialogue: 0,0:12:17.92,0:12:21.59,"Sign",,0,0,0,,BUILDING C - A GARBAGE DUMP
 Dialogue: 0,0:12:28.98,0:12:31.01,Default,,0,0,0,,That was awful.
 Dialogue: 0,0:12:35.87,0:12:37.20,Default,,0,0,0,,Where am I?
 Dialogue: 0,0:12:42.33,0:12:43.32,Default,,0,0,0,,It's broken.
@@ -276,7 +276,7 @@ Dialogue: 0,0:13:07.05,0:13:07.87,Default,,0,0,0,,Damn!
 Dialogue: 0,0:13:08.22,0:13:09.76,Default,,0,0,0,,It's all garbage!
 Dialogue: 0,0:13:20.90,0:13:23.18,Default,,0,0,0,,Be careful, you insolent fellow!
 Dialogue: 0,0:13:51.29,0:13:54.58,Default,,0,0,0,,I really don't like this room!
-Dialogue: 0,0:13:55.18,0:13:58.80,Default,,0,0,0,,The "secret room" on the second floor of R Building.
+Dialogue: 0,0:13:55.18,0:13:58.80,Default,,0,0,0,,The "secret room" on the second floor of Building R.
 Dialogue: 0,0:13:58.80,0:14:02.12,Default,,0,0,0,,I didn't wanna come to this shitty room.
 Dialogue: 0,0:14:02.38,0:14:04.90,Default,,0,0,0,,But I can't let the Straw Hats do whatever they like.
 Dialogue: 0,0:14:05.57,0:14:08.47,Default,,0,0,0,,They pushed it a little too far.
@@ -298,11 +298,11 @@ Dialogue: 0,0:14:54.17,0:14:57.42,Default,,0,0,0,,All right. Let me explain abou
 Dialogue: 0,0:14:58.25,0:15:01.96,Default,,0,0,0,,When we close the gates to C and D as I said before,
 Dialogue: 0,0:15:01.96,0:15:03.81,Default,,0,0,0,,the only open paths left
 Dialogue: 0,0:15:03.81,0:15:05.55,Default,,0,0,0,,are the ones connected
-Dialogue: 0,0:15:05.55,0:15:07.43,Default,,0,0,0,,to the first floor of R Building which is below this room.
+Dialogue: 0,0:15:05.55,0:15:07.43,Default,,0,0,0,,to the first floor of Building R which is below this room.
 Dialogue: 0,0:15:11.16,0:15:14.67,Default,,0,0,0,,The Straw Hats, the G-5, or the children.
 Dialogue: 0,0:15:14.67,0:15:16.32,Default,,0,0,0,,Doesn't matter if they're our enemies or not,
 Dialogue: 0,0:15:16.32,0:15:20.19,Default,,0,0,0,,the only place those survivors can get to is going to be the room below.
-Dialogue: 0,0:15:20.68,0:15:24.67,Default,,0,0,0,,There are some air vents on the first floor of R Building.
+Dialogue: 0,0:15:20.68,0:15:24.67,Default,,0,0,0,,There are some air vents on the first floor of Building R.
 Dialogue: 0,0:15:24.67,0:15:28.15,Default,,0,0,0,,So we can let the air from outside - that is to say, Netherworld - flow in.
 Dialogue: 0,0:15:28.15,0:15:30.42,Default,,0,0,0,,And then there is no turning back.
 Dialogue: 0,0:15:30.67,0:15:33.69,Default,,0,0,0,,Who can survive that?!
@@ -405,7 +405,7 @@ Dialogue: 0,0:21:59.81,0:22:02.37,Default,,0,0,0,,they're all dumb as a brick!
 Dialogue: 0,0:22:02.37,0:22:04.91,Default,,0,0,0,,Now, let's do it!
 Dialogue: 0,0:22:07.83,0:22:10.78,Default,,0,0,0,,The gate between C and B is closed!
 Dialogue: 0,0:22:11.61,0:22:14.58,Default,,0,0,0,,The gate between D and B is closed!
-Dialogue: 0,0:22:15.10,0:22:19.99,Default,,0,0,0,,No one can enter Building C and D from B Building now!
+Dialogue: 0,0:22:15.10,0:22:19.99,Default,,0,0,0,,No one can enter Building C and D from Building B now!
 Dialogue: 0,0:22:20.80,0:22:22.89,Default,,0,0,0,,Run like hell!
 Dialogue: 0,0:22:43.47,0:22:45.39,Default,,0,0,0,,Did you just say something?
 Dialogue: 0,0:22:46.40,0:22:48.25,Default,,0,0,0,,Who the hell are you?!

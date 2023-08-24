@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 606 (BD 1920x1080 x264 29.970fps FLAC) [74C
 Video File: [SOFCJ-Raws] One Piece - 606 (BD 1920x1080 x264 29.970fps FLAC) [74C58F99].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 432
-Active Line: 439
-Video Position: 42288
+Video Zoom Percent: 0.500000
+Scroll Position: 356
+Active Line: 373
+Video Position: 36537
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -124,8 +124,8 @@ Dialogue: 0,0:03:27.80,0:03:30.64,Default,,0,0,0,,and were held captive, by Caes
 Dialogue: 0,0:03:30.64,0:03:34.18,Default,,0,0,0,,and were exposed to Netherworld, a weapon of mass destruction.
 Dialogue: 0,0:03:34.18,0:03:35.73,Default,,0,0,0,,But they broke out thanks to their ally
 Dialogue: 0,0:03:35.73,0:03:39.01,Default,,0,0,0,,a Warlord - Trafalgar Law's tactful maneuvers
-Dialogue: 0,0:03:39.01,0:03:41.42,Default,,0,0,0,,and now they are heading for R Building - gate 66.
-Dialogue: 0,0:03:42.18,0:03:46.70,Default,,0,0,0,,However, Caesar has let Netherworld flow into the laboratory.
+Dialogue: 0,0:03:39.01,0:03:41.42,Default,,0,0,0,,and now they are heading for Building R - Gate 66.
+Dialogue: 0,0:03:42.18,0:03:46.70,Default,,0,0,0,,However, Caesar has let Netherworld\Nflow into the {research }institute.
 Dialogue: 0,0:03:48.69,0:03:50.10,Default,,0,0,0,,You've got to be kidding!
 Dialogue: 0,0:03:53.02,0:03:54.86,Default,,0,0,0,,Run! Run!
 Dialogue: 0,0:03:56.46,0:03:57.52,Default,,0,0,0,,What're you doing?!
@@ -150,16 +150,14 @@ Dialogue: 1,0:04:45.57,0:04:54.55,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1
 Dialogue: 0,0:04:45.57,0:04:54.55,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}"Demon Bamboo" Vergo
 Dialogue: 1,0:04:45.57,0:04:54.55,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}"Demon Bamboo" Vergo
 Dialogue: 0,0:04:58.02,0:05:02.09,"Sign",,0,0,0,,THE PASSAGE BETWEEN BUILDING A AND B
-Dialogue: 0,0:05:02.86,0:05:05.18,Default,,0,0,0,,I can't believe he broke the wall of the lab
+Dialogue: 0,0:05:02.86,0:05:05.18,Default,,0,0,0,,I can't believe he broke the wall of the {Research }institute
 Dialogue: 0,0:05:05.18,0:05:06.74,Default,,0,0,0,,and let the gas in.
 Dialogue: 0,0:05:07.06,0:05:10.24,Default,,0,0,0,,That Caesar guy does such bizarre things.
 Dialogue: 0,0:05:10.51,0:05:12.69,Default,,0,0,0,,We got away for now
 Dialogue: 0,0:05:12.69,0:05:14.32,Default,,0,0,0,,but it's not safe yet.
 Dialogue: 0,0:05:14.54,0:05:15.58,Default,,0,0,0,,You're right.
-Dialogue: 0,0:05:15.58,0:05:17.77,Default,,0,0,0,,We have to find the children
-Dialogue: 0,0:05:17.77,0:05:20.12,Default,,0,0,0,,and head to R Building--gate 66 in hurry!
-Dialogue: 0,0:05:20.37,0:05:23.11,Default,,0,0,0,,And then from this annoying lab,
-Dialogue: 0,0:05:24.30,0:05:25.56,Default,,0,0,0,,we can escape.
+Dialogue: 0,0:05:15.58,0:05:20.12,Default,,0,0,0,,We have to find the children quickly and head for Building R, Gate 66!
+Dialogue: 0,0:05:20.37,0:05:25.56,Default,,0,0,0,,Then we gotta escape from this disgusting place{research institute}.
 Dialogue: 0,0:05:27.45,0:05:29.36,Default,,0,0,0,,Hey, go faster!
 Dialogue: 0,0:05:29.58,0:05:30.90,Default,,0,0,0,,You people!
 Dialogue: 0,0:05:31.34,0:05:33.67,Default,,0,0,0,,When did all of you get on?!
@@ -226,7 +224,7 @@ Dialogue: 0,0:08:45.98,0:08:47.49,Default,,0,0,0,,He dodged them!
 Dialogue: 0,0:08:52.68,0:08:54.54,Default,,0,0,0,,H-He's chewing on steel!
 Dialogue: 0,0:08:56.44,0:08:58.45,Default,,0,0,0,,If you get bitten by such strong jaws...
 Dialogue: 0,0:08:58.45,0:08:59.33,Default,,0,0,0,,Everybody!
-Dialogue: 0,0:08:59.33,0:09:00.61,Default,,0,0,0,,Run to B Building!
+Dialogue: 0,0:08:59.33,0:09:00.61,Default,,0,0,0,,Run to Building B!
 Dialogue: 0,0:09:07.04,0:09:09.97,Default,,0,0,0,,He flies, breathes fire, and chews up steel!
 Dialogue: 0,0:09:09.97,0:09:11.89,Default,,0,0,0,,What a creature!
 Dialogue: 0,0:09:22.27,0:09:23.31,Default,,0,0,0,,What happened?
@@ -322,7 +320,7 @@ Dialogue: 0,0:15:25.43,0:15:27.00,Default,,0,0,0,,O-One of the Straw Hats?
 Dialogue: 0,0:15:27.00,0:15:28.33,Default,,0,0,0,,Why is a pirate helping us?
 Dialogue: 0,0:15:39.51,0:15:40.87,Default,,0,0,0,,I heard the sound of...
 Dialogue: 0,0:15:42.41,0:15:43.90,Default,,0,0,0,,...a woman's tears falling.
-Dialogue: 0,0:15:50.70,0:15:54.20,"Sign",,0,0,0,,INSIDE OF B BUILDING
+Dialogue: 0,0:15:50.70,0:15:54.20,"Sign",,0,0,0,,INSIDE OF BUILDING B
 Dialogue: 0,0:15:57.66,0:16:00.55,Default,,0,0,0,,Sanji has taken off somewhere making a serious face!
 Dialogue: 0,0:16:00.55,0:16:04.32,Default,,0,0,0,,I felt a mysterious presence back there.
 Dialogue: 0,0:16:04.32,0:16:05.43,Default,,0,0,0,,Forget about him.
@@ -340,7 +338,7 @@ Dialogue: 0,0:16:33.43,0:16:37.89,Default,,0,0,0,,Plus, he's one of the smaller 
 Dialogue: 0,0:16:37.89,0:16:40.57,Default,,0,0,0,,They're faster and much more resilient!
 Dialogue: 0,0:16:43.27,0:16:45.01,Default,,0,0,0,,Let's just run for now!
 Dialogue: 0,0:16:47.75,0:16:49.26,Default,,0,0,0,,Run faster!
-Dialogue: 0,0:16:58.54,0:17:02.01,"Sign",,0,0,0,,A STAIRCASE IN THE MIDDLE OF B BUILDING
+Dialogue: 0,0:16:58.54,0:17:02.01,"Sign",,0,0,0,,A STAIRCASE IN THE MIDDLE OF BUILDING B
 Dialogue: 0,0:17:06.22,0:17:07.50,Default,,0,0,0,,Damn!
 Dialogue: 0,0:17:07.50,0:17:08.79,Default,,0,0,0,,I don't wanna fall behind!
 Dialogue: 0,0:17:10.52,0:17:11.81,Default,,0,0,0,,Straw Hat,
@@ -352,7 +350,7 @@ Dialogue: 0,0:17:19.48,0:17:22.08,Default,,0,0,0,,Is he with Caesar?
 Dialogue: 0,0:17:22.08,0:17:23.45,Default,,0,0,0,,I think so.
 Dialogue: 0,0:17:23.45,0:17:24.50,Default,,0,0,0,,Don't get in my way!
 Dialogue: 0,0:17:24.94,0:17:27.78,Default,,0,0,0,,Wait, you bastard!
-Dialogue: 0,0:17:33.64,0:17:36.81,"Sign",,0,0,0,,B BUILDING - THE GAS BALLOON LANDING PAD
+Dialogue: 0,0:17:33.64,0:17:36.81,"Sign",,0,0,0,,BUILDING B - THE GAS BALLOON LANDING PAD
 Dialogue: 0,0:17:37.10,0:17:38.38,Default,,0,0,0,,Help!
 Dialogue: 0,0:17:39.68,0:17:41.35,Default,,0,0,0,,I'm scared!
 Dialogue: 0,0:17:41.35,0:17:43.63,Default,,0,0,0,,Get me out of here!
@@ -413,7 +411,7 @@ Dialogue: 0,0:20:02.84,0:20:04.21,Default,,0,0,0,,This is bad!
 Dialogue: 0,0:20:06.46,0:20:10.87,Default,,0,0,0,,Hey, could you take me to the Biscuits Room?!
 Dialogue: 0,0:20:10.87,0:20:13.87,Default,,0,0,0,,Okay! I know a shortcut to the Biscuits Room!
 Dialogue: 0,0:20:13.87,0:20:15.92,Default,,0,0,0,,Follow me!
-Dialogue: 0,0:20:19.10,0:20:23.11,"Sign",,0,0,0,,CAESAR'S LABORATORY
+Dialogue: 0,0:20:19.10,0:20:23.11,"Sign",,0,0,0,,Caesar's Laboratory {Laboratory Room}
 Dialogue: 0,0:20:23.44,0:20:26.39,Default,,0,0,0,,What the hell is Vergo doing?!
 Dialogue: 0,0:20:26.78,0:20:30.07,Default,,0,0,0,,The G-5 are my test subjects!
 Dialogue: 0,0:20:30.07,0:20:33.28,Default,,0,0,0,,It'll be a total waste if I don't kill them with Netherworld!
@@ -424,7 +422,7 @@ Dialogue: 0,0:20:39.77,0:20:42.54,Default,,0,0,0,,and let the gas flow in from t
 Dialogue: 0,0:20:43.79,0:20:46.98,Default,,0,0,0,,But Vergo is still there.
 Dialogue: 0,0:20:46.98,0:20:50.01,Default,,0,0,0,,I don't care if that idiot lives or dies!
 Dialogue: 0,0:20:50.01,0:20:51.51,Default,,0,0,0,,Just do it!
-Dialogue: 0,0:20:51.60,0:20:55.07,"Sign",,0,0,0,,B BUILDING 3RD FLOOR - NEAR THE BISCUITS ROOM
+Dialogue: 0,0:20:51.60,0:20:55.07,"Sign",,0,0,0,,BUILDING B 3RD FLOOR - NEAR THE BISCUITS ROOM
 Dialogue: 0,0:21:01.60,0:21:04.24,Default,,0,0,0,,The Biscuits Room is down this way!
 Dialogue: 0,0:21:04.24,0:21:05.36,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:21:06.09,0:21:08.20,Default,,0,0,0,,The Biscuits Room is this way!

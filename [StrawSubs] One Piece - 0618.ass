@@ -24,14 +24,14 @@ Video File: [SOFCJ-Raws] One Piece - 618 (BD 1920x1080 x264 29.970fps FLAC) [DA2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 338
-Active Line: 348
-Video Position: 42288
+Scroll Position: 239
+Active Line: 245
+Video Position: 25695
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
+Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.001,0,1,4.5,0,2,45,45,6,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
@@ -123,7 +123,7 @@ Dialogue: 0,0:03:23.39,0:03:25.19,Default,,0,0,0,,They landed on Punk Hazard;
 Dialogue: 0,0:03:25.19,0:03:27.85,Default,,0,0,0,,an island with two parts, one burning, the other frozen
 Dialogue: 0,0:03:27.85,0:03:33.03,Default,,0,0,0,,and learned about the ruler of the island - Caesar Clown's motive.
 Dialogue: 0,0:03:33.03,0:03:36.42,Default,,0,0,0,,All while trying to escape Netherworld,
-Dialogue: 0,0:03:36.42,0:03:40.42,Default,,0,0,0,,they are heading to R Building with the children that they rescued.
+Dialogue: 0,0:03:36.42,0:03:40.42,Default,,0,0,0,,they are heading to Building R with the children that they rescued.
 Dialogue: 0,0:03:41.07,0:03:45.43,Default,,0,0,0,,Finally, a climactic battle rages on-- between Luffy and Caesar!
 Dialogue: 0,0:03:46.44,0:03:49.25,"Sign",,0,0,0,,LAND OF DEATH
 Dialogue: 0,0:03:55.26,0:03:59.47,Default,,0,0,0,,This is my scientific power!
@@ -155,7 +155,7 @@ Dialogue: 0,0:06:17.11,0:06:19.15,Default,,0,0,0,,I think they formed an allianc
 Dialogue: 0,0:06:19.15,0:06:20.76,Default,,0,0,0,,Let the world know.
 Dialogue: 0,0:06:21.08,0:06:23.55,Default,,0,0,0,,This is not just a problem in the underground anymore.
 Dialogue: 0,0:06:26.91,0:06:29.67,Default,,0,0,0,,Watch out! This place is gonna collapse!
-Dialogue: 0,0:06:30.54,0:06:34.04,"Sign",,0,0,0,,B BUILDING 2ND FLOOR
+Dialogue: 0,0:06:30.54,0:06:34.04,"Sign",,0,0,0,,BUILDING B 2ND FLOOR
 Dialogue: 0,0:06:34.23,0:06:36.51,Default,,0,0,0,,Hurry up! Hurry up! Hurry up!
 Dialogue: 0,0:06:38.19,0:06:39.74,Default,,0,0,0,,Mocha! You can make it!
 Dialogue: 0,0:06:44.24,0:06:46.40,Default,,0,0,0,,Mocha! You're gonna be alright!
@@ -166,17 +166,17 @@ Dialogue: 0,0:06:57.06,0:07:00.30,Default,,0,0,0,,We gotta join the rest of our 
 Dialogue: 0,0:07:00.75,0:07:02.52,Default,,0,0,0,,Chopper, can you hear me?
 Dialogue: 0,0:07:03.28,0:07:04.99,Default,,0,0,0,,Is that Usopp?!
 Dialogue: 0,0:07:05.10,0:07:08.27,Default,,0,0,0,,Keep going straight and go down the stairs.
-Dialogue: 0,0:07:08.27,0:07:11.08,Default,,0,0,0,,That's the fastest way to R Building!
-Dialogue: 0,0:07:11.15,0:07:14.12,"Sign",,0,0,0,,R BUILDING 2ND FLOOR - THE SECRET ROOM
-Dialogue: 0,0:07:11.08,0:07:13.03,DefaultLow,,0,0,0,,I'm gonna shut the door to R building
-Dialogue: 0,0:07:13.03,0:07:14.12,DefaultLow,,0,0,0,,before the gas flows in!
-Dialogue: 0,0:07:14.12,0:07:15.58,Default,,0,0,0,,So hurry up!
+Dialogue: 0,0:07:08.27,0:07:11.08,Default,,0,0,0,,That's the fastest way to Building R!
+Dialogue: 0,0:07:11.15,0:07:14.12,"Sign",,0,0,0,,Building R, 2nd Floor; Secret Room
+Dialogue: 0,0:07:11.08,0:07:13.03,DefaultLow2,,0,0,0,,I'm gonna shut the door to Building R
+Dialogue: 0,0:07:13.03,0:07:14.12,DefaultLow2,,0,0,0,,before the gas flows in!
+Dialogue: 0,0:07:14.12,0:07:15.58,DefaultLow2,,0,0,0,,So hurry up!
 Dialogue: 0,0:07:16.21,0:07:18.59,Default,,0,0,0,,A-Alright, thanks!
 Dialogue: 0,0:07:19.15,0:07:20.45,Default,,0,0,0,,Everybody, hurry up!
 Dialogue: 0,0:07:20.45,0:07:21.71,Default,,0,0,0,,Okay!
 Dialogue: 0,0:07:24.85,0:07:26.51,Default,,0,0,0,,Hurry up, Chopper!
 Dialogue: 0,0:07:27.31,0:07:29.52,Default,,0,0,0,,Everybody, you're almost there! Keep running!
-Dialogue: 0,0:07:32.24,0:07:34.82,Default,,0,0,0,,Nami, you're almost at R Building!
+Dialogue: 0,0:07:32.24,0:07:34.82,Default,,0,0,0,,Nami, you're almost at Building R!
 Dialogue: 0,0:07:42.90,0:07:45.33,Default,,0,0,0,,Why is this happening to us?
 Dialogue: 0,0:07:46.34,0:07:48.46,Default,,0,0,0,,You guys are just a bunch of guinea pigs!
 Dialogue: 0,0:07:48.46,0:07:52.01,Default,,0,0,0,,No one would care if hundreds of you die or not!
@@ -217,11 +217,11 @@ Dialogue: 0,0:09:47.38,0:09:49.62,Default,,0,0,0,,What should I do?! What should
 Dialogue: 0,0:09:49.62,0:09:51.71,Default,,0,0,0,,What should I do?! What should I do?!
 Dialogue: 0,0:09:51.71,0:09:53.22,Default,,0,0,0,,Chopper! Brook!
 Dialogue: 0,0:09:53.84,0:09:56.04,Default,,0,0,0,,What are you doing?! Don't stop!
-Dialogue: 0,0:09:56.04,0:09:59.17,Default,,0,0,0,,Just go down the stairs right there and get into R Building!
+Dialogue: 0,0:09:56.04,0:09:59.17,Default,,0,0,0,,Just go down the stairs right there and get into Building R!
 Dialogue: 0,0:09:59.45,0:10:02.13,Default,,0,0,0,,The gas is really closing in!
-Dialogue: 0,0:10:08.23,0:10:11.38,Default,,0,0,0,,We're almost at R Building! You can make it!
+Dialogue: 0,0:10:08.23,0:10:11.38,Default,,0,0,0,,We're almost at Building R! You can make it!
 Dialogue: 0,0:10:13.94,0:10:15.78,Default,,0,0,0,,We're almost there! Keep running!
-Dialogue: 0,0:10:23.57,0:10:26.71,"Sign",,0,0,0,,R BUILDING 1ST FLOOR
+Dialogue: 0,0:10:23.57,0:10:26.71,"Sign",,0,0,0,,BUILDING R 1ST FLOOR
 Dialogue: 0,0:10:27.05,0:10:28.36,Default,,0,0,0,,Luffy!
 Dialogue: 0,0:10:29.12,0:10:30.26,Default,,0,0,0,,Oh, Nami!
 Dialogue: 0,0:10:30.47,0:10:32.67,Default,,0,0,0,,Great! You're here already!
@@ -239,7 +239,7 @@ Dialogue: 0,0:10:58.37,0:11:00.06,Default,,0,0,0,,So don't worry!
 Dialogue: 0,0:11:05.41,0:11:08.30,Default,,0,0,0,,Hurry up! Get to where Nami-san and the others are!
 Dialogue: 0,0:11:08.30,0:11:10.09,Default,,0,0,0,,--This way! --Hurry up!
 Dialogue: 0,0:11:10.09,0:11:10.71,Default,,0,0,0,,This way!
-Dialogue: 0,0:11:10.92,0:11:12.71,Default,,0,0,0,,I see R Building!
+Dialogue: 0,0:11:10.92,0:11:12.71,Default,,0,0,0,,I see Building R!
 Dialogue: 0,0:11:13.51,0:11:15.24,Default,,0,0,0,,Chopper and the others are not there yet?
 Dialogue: 0,0:11:16.08,0:11:18.77,Default,,0,0,0,,He was giving the girl first aid.
 Dialogue: 0,0:11:18.77,0:11:19.78,Default,,0,0,0,,Can he make it?
@@ -248,11 +248,11 @@ Dialogue: 0,0:11:29.24,0:11:30.86,Default,,0,0,0,,I made it!
 Dialogue: 0,0:11:30.86,0:11:33.46,Default,,0,0,0,,Are you guys okay?! Good to see you!
 Dialogue: 0,0:11:37.48,0:11:38.79,Default,,0,0,0,,He's not here.
 Dialogue: 0,0:11:40.57,0:11:42.07,Default,,0,0,0,,Smoker-san...
-Dialogue: 0,0:11:42.22,0:11:45.79,"Sign",,0,0,0,,THE PATH BETWEEN BUILDING R AND D
+Dialogue: 0,0:11:42.22,0:11:45.79,"Sign",,0,0,0,,Path Between Building R and D
 Dialogue: 0,0:11:46.12,0:11:48.84,Default,,0,0,0,,Do we really need this?
-Dialogue: 0,0:11:49.04,0:11:53.18,Default,,0,0,0,,Yes, this is the truck that they use to transport containers of SAD.
+Dialogue: 0,0:11:49.04,0:11:53.18,Default,,0,0,0,,Yes, this is the truck that they use to transport containers of S.A.D.
 Dialogue: 0,0:11:53.43,0:11:55.94,Default,,0,0,0,,I'm gonna let everybody ride it.
-Dialogue: 0,0:11:57.82,0:12:00.82,Default,,0,0,0,,This laboratory will collapse soon.
+Dialogue: 0,0:11:57.82,0:12:00.82,Default,,0,0,0,,This research institute will collapse soon.
 Dialogue: 0,0:12:01.55,0:12:05.02,Default,,0,0,0,,We have to escape as soon as possible.
 Dialogue: 0,0:12:09.73,0:12:10.86,Default,,0,0,0,,Straw Hatter! {Straw Hat-ya}
 Dialogue: 0,0:12:11.71,0:12:15.10,Default,,0,0,0,,Tra-guy! Smokey! I didn't expect you to come from that way!
@@ -279,13 +279,12 @@ Dialogue: 0,0:13:19.10,0:13:20.13,Default,,0,0,0,,Let's get him!
 Dialogue: 0,0:13:20.28,0:13:22.00,Default,,0,0,0,,What?!
 Dialogue: 0,0:13:27.12,0:13:30.42,Default,,0,0,0,,The Straw Hats have foiled the plans
 Dialogue: 0,0:13:30.42,0:13:34.86,Default,,0,0,0,,of Master Caesar Clown, scientist and ruler of Punk Hazard.
-Dialogue: 0,0:13:41.10,0:13:45.44,Default,,0,0,0,,However, A Building has filled up with Netherworld, the deadly gas.
-Dialogue: 0,0:13:46.45,0:13:50.16,Default,,0,0,0,,And now, B Building is almost filled as well.
-Dialogue: 0,0:14:02.23,0:14:06.04,Default,,0,0,0,,On top of that, Caesar's laboratory has started collapsing.
+Dialogue: 0,0:13:41.10,0:13:45.44,Default,,0,0,0,,However, Building A has filled up with Netherworld, the deadly gas.
+Dialogue: 0,0:13:46.45,0:13:50.16,Default,,0,0,0,,And now, Building B is almost filled as well.
+Dialogue: 0,0:14:02.23,0:14:06.04,Default,,0,0,0,,On top of that, Caesar's research institute\Nhas started collapsing.
 Dialogue: 0,0:14:06.21,0:14:08.78,Default,,0,0,0,,Hurry up! Brook! Chopper!
 Dialogue: 0,0:14:09.56,0:14:11.42,Default,,0,0,0,,Run! Run!
-Dialogue: 0,0:14:11.74,0:14:14.90,Default,,0,0,0,,The only exit to escape from the laboratory as well
-Dialogue: 0,0:14:14.90,0:14:18.26,Default,,0,0,0,,as the island is the "R-66" door in R Building.
+Dialogue: 0,0:14:11.74,0:14:18.26,Default,,0,0,0,,The only exit to escape from the {research }institute\Nas well as the island is the "R-66" door in Building R.
 Dialogue: 0,0:14:18.55,0:14:21.43,Default,,0,0,0,,Hang on, Brownbeard-cchi, for a little bit more.
 Dialogue: 0,0:14:21.96,0:14:24.19,Default,,0,0,0,,Chopper will take care of you soon!
 Dialogue: 0,0:14:26.19,0:14:28.08,Default,,0,0,0,,Hey, Luffy.
@@ -294,9 +293,9 @@ Dialogue: 0,0:14:32.38,0:14:33.56,Default,,0,0,0,,Of course.
 Dialogue: 0,0:14:35.41,0:14:38.24,Default,,0,0,0,,I'm sure they will get here!
 Dialogue: 0,0:14:55.75,0:15:00.49,Default,,0,0,0,,Meanwhile, before the showdown between Luffy and Caesar...
 Dialogue: 0,0:15:05.69,0:15:08.79,Default,,0,0,0,,In the sky near Punk Hazard...
-Dialogue: 0,0:15:12.45,0:15:15.53,DefaultLow,,0,0,0,,The end of this mission is the end of love.
-Dialogue: 0,0:15:12.83,0:15:18.84,"Sign",,0,0,0,,DONQUIXOTE PIRATES - A SERVANT / AN ASSASSIN BABY 5
-Dialogue: 0,0:15:15.52,0:15:18.84,DefaultLow,,0,0,0,,I'll finish him off when I get back!
+Dialogue: 0,0:15:12.45,0:15:15.53,DefaultLow2,,0,0,0,,The end of this mission is the end of love.
+Dialogue: 0,0:15:12.83,0:15:18.84,"Sign",,0,0,0,,Donquixote Pirates, Servant/Assassin Baby 5
+Dialogue: 0,0:15:15.52,0:15:18.84,DefaultLow2,,0,0,0,,I'll finish him off when I get back!
 Dialogue: 0,0:15:18.84,0:15:20.77,Default,,0,0,0,,Joker! What an asshole!
 Dialogue: 0,0:15:20.92,0:15:27.15,Default,,0,0,0,,He killed my sweet fiancé by destroying the whole town!
 Dialogue: 0,0:15:27.15,0:15:28.52,Default,,0,0,0,,I won't forgive him!
@@ -304,11 +303,11 @@ Dialogue: 0,0:15:28.72,0:15:31.26,Default,,0,0,0,,And this is the eighth time!
 Dialogue: 0,0:15:31.26,0:15:34.77,Default,,0,0,0,,He killed eight men that I loved and made a commitment to,
 Dialogue: 0,0:15:34.77,0:15:37.00,Default,,0,0,0,,and destroyed eight towns!
 Dialogue: 0,0:15:37.27,0:15:40.66,Default,,0,0,0,,Why does he want to screw up my happiness?!
-Dialogue: 0,0:15:41.71,0:15:44.03,DefaultLow,,0,0,0,,Because the Young Master loves you-dasuyan!
+Dialogue: 0,0:15:41.71,0:15:44.03,DefaultLow2,,0,0,0,,Because the Young Master loves you-dasuyan!
 Dialogue: 0,0:15:42.96,0:15:51.63,"Sign",,0,0,0,,DONQUIXOTE PIRATES - A COMBATANT BUFFALO
-Dialogue: 0,0:15:44.03,0:15:47.20,DefaultLow,,0,0,0,,He loves you like his own sister
-Dialogue: 0,0:15:47.20,0:15:49.71,DefaultLow,,0,0,0,,so he doesn't begrudge destroying a town
-Dialogue: 0,0:15:49.71,0:15:51.63,DefaultLow,,0,0,0,,or two-dasuyan!
+Dialogue: 0,0:15:44.03,0:15:47.20,DefaultLow2,,0,0,0,,He loves you like his own sister
+Dialogue: 0,0:15:47.20,0:15:49.71,DefaultLow2,,0,0,0,,so he doesn't begrudge destroying a town
+Dialogue: 0,0:15:49.71,0:15:51.63,DefaultLow2,,0,0,0,,or two-dasuyan!
 Dialogue: 0,0:15:52.73,0:15:56.23,Default,,0,0,0,,You have to learn to say "No"!
 Dialogue: 0,0:15:57.01,0:16:02.36,Default,,0,0,0,,What was wrong with him?! He needed me!
 Dialogue: 0,0:16:05.06,0:16:06.54,Default,,0,0,0,,I fell in love with you at first sight!
@@ -353,9 +352,9 @@ Dialogue: 0,0:19:36.98,0:19:40.11,Default,,0,0,0,,No! Something hit it-dasuyan!
 Dialogue: 0,0:19:47.57,0:19:49.36,Default,,0,0,0,,It's a human! There!
 Dialogue: 0,0:19:52.66,0:19:55.49,Default,,0,0,0,,What?! Caesar Clown?!
 Dialogue: 0,0:19:55.81,0:19:57.40,Default,,0,0,0,,No way!
-Dialogue: 0,0:20:00.25,0:20:04.09,"Sign",,0,0,0,,DRESS ROSA
-Dialogue: 0,0:20:01.26,0:20:05.07,DefaultLow,,0,0,0,,Ring, ring, ring... Ring, ring, ring...
-Dialogue: 0,0:20:05.38,0:20:06.96,DefaultLow,,0,0,0,,Ring, ring... Clank!
+Dialogue: 0,0:20:00.25,0:20:04.09,"Sign",,0,0,0,,Dress Rosa
+Dialogue: 0,0:20:01.26,0:20:05.07,DefaultLow2,,0,0,0,,Ring, ring, ring... Ring, ring, ring...
+Dialogue: 0,0:20:05.38,0:20:06.96,DefaultLow2,,0,0,0,,Ring, ring... Clank!
 Dialogue: 0,0:20:07.37,0:20:11.11,Default,,0,0,0,,Joker! This is Buffalo from Punk Hazard!
 Dialogue: 0,0:20:11.11,0:20:12.53,Default,,0,0,0,,What's up?
 Dialogue: 0,0:20:12.53,0:20:17.08,Default,,0,0,0,,Joker! We just arrived at Punk Hazard-dasuyan!
@@ -370,7 +369,7 @@ Dialogue: 0,0:20:52.88,0:20:54.80,Default,,0,0,0,,Roger! Joker!
 Dialogue: 0,0:20:55.11,0:20:55.96,Default,,0,0,0,,Clank!
 Dialogue: 0,0:21:07.33,0:21:08.78,Default,,0,0,0,,Fools.
 Dialogue: 0,0:21:09.31,0:21:14.07,Default,,0,0,0,,Hey, squirts! Luck is on my side!
-Dialogue: 0,0:21:14.94,0:21:20.81,Default,,0,0,0,,As long as I have Caesar in my custody, he can create SAD for me!
+Dialogue: 0,0:21:14.94,0:21:20.81,Default,,0,0,0,,As long as I have Caesar in my custody, he can create S.A.D. for me!
 Dialogue: 0,0:21:43.27,0:21:46.90,Default,,0,0,0,,Hey, you all! We got to go! Get on the truck!
 Dialogue: 0,0:22:03.93,0:22:06.42,Default,,0,0,0,,I wonder what happened to him-dasuyan.
 Dialogue: 0,0:22:11.19,0:22:15.04,Default,,0,0,0,,Huh?! Do you see someone on the deck of the tanker?!

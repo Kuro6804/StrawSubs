@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 604 (BD 1920x1080 x264 29.970fps FLAC) [C4A
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 281
-Active Line: 289
-Video Position: 42409
+Scroll Position: 157
+Active Line: 164
+Video Position: 23570
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -200,10 +200,9 @@ Dialogue: 0,0:12:45.24,0:12:49.45,Default,,0,0,0,,I'm so glad that it was my bod
 Dialogue: 0,0:12:49.45,0:12:52.07,Default,,0,0,0,,You're so noble!
 Dialogue: 0,0:12:53.95,0:12:56.52,Default,,0,0,0,,Everybody here, listen!
 Dialogue: 0,0:13:00.81,0:13:02.04,Default,,0,0,0,,Law!
-Dialogue: 0,0:13:02.85,0:13:06.45,Default,,0,0,0,,Now, outside of this laboratory is filled with the poison gas
-Dialogue: 0,0:13:06.45,0:13:07.88,Default,,0,0,0,,but there is one passage that
-Dialogue: 0,0:13:07.88,0:13:10.90,Default,,0,0,0,,could lead you directly to the sea bypassing the air outside!
-Dialogue: 0,0:13:14.37,0:13:18.64,Default,,0,0,0,,This laboratory consists of multiple buildings.
+Dialogue: 0,0:13:02.85,0:13:06.45,Default,,0,0,0,,Right now, the outside of\Nthe {research }institute is filled with poison gas,
+Dialogue: 0,0:13:06.45,0:13:10.90,Default,,0,0,0,,but there is one passage that could lead you\Ndirectly to the sea, bypassing the air outside!
+Dialogue: 0,0:13:14.37,0:13:18.64,Default,,0,0,0,,This research institute consists of multiple buildings.
 Dialogue: 0,0:13:19.59,0:13:21.78,Default,,0,0,0,,We're in Building A now.
 Dialogue: 0,0:13:22.74,0:13:25.18,Default,,0,0,0,,If you go through the gate at the back of this building
 Dialogue: 0,0:13:25.18,0:13:28.56,Default,,0,0,0,,and pass through Building B, the central part,
@@ -216,7 +215,7 @@ Dialogue: 0,0:13:47.23,0:13:49.19,Default,,0,0,0,,I can't guarantee your safety.
 Dialogue: 0,0:13:49.19,0:13:51.38,Default,,0,0,0,,What?!
 Dialogue: 0,0:13:51.63,0:13:53.29,Default,,0,0,0,,Hey, what do you mean by that?!
 Dialogue: 0,0:13:53.29,0:13:55.94,Default,,0,0,0,,--Hey! --Screw you!
-Dialogue: 0,0:13:56.75,0:13:58.98,Default,,0,0,0,,Is something gonna happen to the lab?
+Dialogue: 0,0:13:56.75,0:13:58.98,Default,,0,0,0,,Is something gonna happen to the {research }institute?
 Dialogue: 0,0:13:59.95,0:14:02.16,Default,,0,0,0,,Depends on how things go.
 Dialogue: 0,0:14:02.16,0:14:04.19,Default,,0,0,0,,I just have to do what I have to do now.
 Dialogue: 0,0:14:05.07,0:14:07.01,Default,,0,0,0,,Hmm, I see.
@@ -224,7 +223,7 @@ Dialogue: 0,0:14:08.03,0:14:10.22,Default,,0,0,0,,Robin, could you do me a favor
 Dialogue: 0,0:14:10.78,0:14:11.74,Default,,0,0,0,,What is it?
 Dialogue: 0,0:14:13.08,0:14:14.49,Default,,0,0,0,,G-5!
 Dialogue: 0,0:14:15.94,0:14:16.91,Default,,0,0,0,,Smo-yan!
-Dialogue: 0,0:14:17.59,0:14:22.02,Default,,0,0,0,,There are children who were kidnapped two years ago in this laboratory!
+Dialogue: 0,0:14:17.59,0:14:22.02,Default,,0,0,0,,There are children in this research institute who were kidnapped two years ago!
 Dialogue: 0,0:14:22.57,0:14:27.31,Default,,0,0,0,,Retrieve them and head for the "R-66" door!
 Dialogue: 0,0:14:27.78,0:14:31.65,Default,,0,0,0,,If he is right, you'll find a harbor there.
 Dialogue: 0,0:14:31.65,0:14:34.80,Default,,0,0,0,,Steal a ship and let's escape from Punk Hazard!
@@ -319,7 +318,7 @@ Dialogue: 0,0:22:34.14,0:22:37.84,Default,,0,0,0,,In any case, it's not good to 
 Dialogue: 0,0:22:38.69,0:22:43.14,Default,,0,0,0,,I have to kill him myself depending on what his purpose is.
 Dialogue: 0,0:22:47.92,0:22:49.74,Default,,0,0,0,,Outta my way!
 Dialogue: 0,0:22:59.95,0:23:01.21,Default,,0,0,0,,Let's go!
-Dialogue: 0,0:23:10.06,0:23:11.91,Default,,0,0,0,,Inside the sealed-off lab...
+Dialogue: 0,0:23:10.06,0:23:11.91,Default,,0,0,0,,Inside the sealed-off {research }institute...
 Dialogue: 0,0:23:11.91,0:23:15.54,Default,,0,0,0,,...Luffy and the others frantically run from the encroaching Netherworld.
 Dialogue: 0,0:23:16.27,0:23:20.62,Default,,0,0,0,,Facing instant death if unable to make it through the gate in their path...
 Dialogue: 0,0:23:20.82,0:23:24.02,Default,,0,0,0,,...G-5 displays the Navy's pride!

@@ -23,15 +23,16 @@ Audio File: [SOFCJ-Raws] One Piece - 585 (BD 1920x1080 x264 29.970fps FLAC) [D49
 Video File: [SOFCJ-Raws] One Piece - 585 (BD 1920x1080 x264 29.970fps FLAC) [D497B9CE].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 50
-Active Line: 68
-Video Position: 5637
+Video Zoom Percent: 0.562500
+Scroll Position: 296
+Active Line: 302
+Video Position: 31685
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
+Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,4,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,10,10,15,1
 Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
@@ -112,8 +113,8 @@ Dialogue: 0,0:03:15.43,0:03:18.01,Default,,0,0,0,,After surviving a fierce battl
 Dialogue: 0,0:03:18.01,0:03:20.98,Default,,0,0,0,,the Straw Hats reach the New World at long last—
 Dialogue: 0,0:03:20.98,0:03:23.25,Default,,0,0,0,,the harshest sea, ruled by the Four Emperors.
 Dialogue: 0,0:03:23.98,0:03:27.88,Default,,0,0,0,,After receiving an emergency signal,\Nthey landed on Punk Hazard,
-Dialogue: 0,0:03:28.23,0:03:33.03,Default,,0,0,0,,a strange island divided into two parts—\Nthe Burning Lands and the Ice Lands.
-Dialogue: 0,0:03:34.04,0:03:39.57,Default,,0,0,0,,Team Luffy headed to the Ice Lands\Nto rescue the captured Nami and her group.
+Dialogue: 0,0:03:28.23,0:03:33.03,Default,,0,0,0,,a strange island divided into two parts—\Nthe Burning Lands and the Frozen Lands.
+Dialogue: 0,0:03:34.04,0:03:39.57,Default,,0,0,0,,Team Luffy headed to the Frozen Lands\Nto rescue the captured Nami and her group.
 Dialogue: 0,0:03:40.12,0:03:47.27,Default,,0,0,0,,But they're unaware that some\Nformer acquaintances are also on the island.
 Dialogue: 0,0:03:48.31,0:03:51.65,Default,,0,0,0,,What brought you here - to my vacation home?
 Dialogue: 0,0:03:52.50,0:03:54.03,Default,,0,0,0,,Asher! {Ashen Hunter-ya}
@@ -124,9 +125,9 @@ Dialogue: 1,0:03:54.35,0:04:03.33,Title Card - Bottom,,0,0,236,,{\bord0\blur0.3\
 Dialogue: 0,0:04:39.03,0:04:43.65,Default,,0,0,0,,Trafalgar! I know you're a Warlord but we need you to ask you to step aside.
 Dialogue: 0,0:04:43.65,0:04:44.97,Default,,0,0,0,,Move out of the way!
 Dialogue: 0,0:04:47.21,0:04:51.07,Default,,0,0,0,,We know somebody else is here on the island!
-Dialogue: 0,0:04:54.11,0:04:58.75,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Nami\NInside of Dr. Vegapunk's former laboratory
-Dialogue: 1,0:04:54.11,0:04:58.75,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Nami\NInside of Dr. Vegapunk's former laboratory
-Dialogue: 0,0:04:54.52,0:04:58.15,DefaultLow,,0,0,0,,Dad! Mom!
+Dialogue: 0,0:04:54.11,0:04:58.75,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Nami\N{Inside of }Dr. Vegapunk's Former Research Institute
+Dialogue: 1,0:04:54.11,0:04:58.75,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Nami\N{Inside of }Dr. Vegapunk's Former Research Institute
+Dialogue: 0,0:04:54.52,0:04:58.15,DefaultLow2,,0,0,0,,Dad! Mom!
 Dialogue: 0,0:05:03.91,0:05:08.16,Default,,0,0,0,,Hey, you said "We are not sick anymore" earlier, didn't you?
 Dialogue: 0,0:05:08.83,0:05:09.29,Default,,0,0,0,,Uh-huh.
 Dialogue: 0,0:05:10.26,0:05:11.92,Default,,0,0,0,,What kind of sickness did you have?
@@ -208,8 +209,8 @@ Dialogue: 0,0:09:21.59,0:09:23.48,Default,,0,0,0,,N-N...
 Dialogue: 0,0:09:24.31,0:09:25.82,Default,,0,0,0,,No!!
 Dialogue: 0,0:09:25.82,0:09:29.45,Default,,0,0,0,,No, Sis, wait! Don't leave us!
 Dialogue: 0,0:09:30.23,0:09:32.27,DefaultLow,,0,0,0,,Okay, I think I'm done.
-Dialogue: 0,0:09:31.59,0:09:35.53,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Sanji\NInside the laboratory, Biscuits Room
-Dialogue: 1,0:09:31.59,0:09:35.53,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Sanji\NInside the laboratory, Biscuits Room
+Dialogue: 0,0:09:31.59,0:09:35.53,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Sanji\N{Inside the }Research Institute, Biscuits Room
+Dialogue: 1,0:09:31.59,0:09:35.53,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Sanji\N{Inside the }Research Institute, Biscuits Room
 Dialogue: 0,0:09:32.95,0:09:33.76,DefaultLow,,0,0,0,,Hey!
 Dialogue: 0,0:09:33.76,0:09:35.53,DefaultLow,,0,0,0,,You've blocked their way. That's more than enough.
 Dialogue: 0,0:09:36.45,0:09:40.12,Default,,0,0,0,,Let's go! I just felt Nami-san's inner scream!
@@ -292,8 +293,8 @@ Dialogue: 0,0:14:17.23,0:14:19.09,Default,,0,0,0,,That was close.
 Dialogue: 0,0:14:19.09,0:14:21.11,Default,,0,0,0,,Why aren't you rowing?
 Dialogue: 0,0:14:32.56,0:14:36.13,Default,,0,0,0,,Devil Fruit users can't fight in the water!
 Dialogue: 0,0:14:36.13,0:14:38.89,Default,,0,0,0,,Sink to your death, Devil Fruit users!
-Dialogue: 0,0:14:39.40,0:14:44.10,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Brook\NA snow-capped mountain near the laboratory
-Dialogue: 1,0:14:39.40,0:14:44.10,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Brook\NA snow-capped mountain near the laboratory
+Dialogue: 0,0:14:39.40,0:14:44.10,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Brook\NA snowy mountain near the {research }institute
+Dialogue: 1,0:14:39.40,0:14:44.10,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Brook\NA snowy mountain near the {research }institute
 Dialogue: 0,0:14:45.90,0:14:48.80,Default,,0,0,0,,Gross! So gross!
 Dialogue: 0,0:14:50.00,0:14:52.33,Default,,0,0,0,,What's wrong with that ghost?!
 Dialogue: 0,0:14:52.33,0:14:53.81,Default,,0,0,0,,Suddenly attacking me!
@@ -305,8 +306,8 @@ Dialogue: 0,0:15:14.16,0:15:17.33,Default,,0,0,0,,You are so persistent!
 Dialogue: 0,0:15:18.45,0:15:21.58,Default,,0,0,0,,I have no choice! I'll fight you!
 Dialogue: 0,0:15:31.12,0:15:33.87,Default,,0,0,0,,I'll forget I saw it.
 Dialogue: 0,0:15:33.87,0:15:37.16,Default,,0,0,0,,Oh, I don't have eyes anyway.
-Dialogue: 0,0:15:37.25,0:15:40.86,Sign,,0,0,268,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Laboratory main entrance
-Dialogue: 1,0:15:37.25,0:15:40.86,Sign,,0,0,268,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Laboratory main entrance
+Dialogue: 0,0:15:37.25,0:15:40.86,Sign,,0,0,268,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Research Institute, Main Entrance
+Dialogue: 1,0:15:37.25,0:15:40.86,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Research Institute, Main Entrance
 Dialogue: 0,0:15:43.52,0:15:48.49,Default,,0,0,0,,Hello? My name is Monkey D. Luffy! I'm gonna become the Pirate King!
 Dialogue: 0,0:15:48.49,0:15:50.23,Default,,0,0,0,,You picked up too fast and said too much!
 Dialogue: 0,0:15:51.36,0:15:52.76,Default,,0,0,0,,Help me!
@@ -341,8 +342,8 @@ Dialogue: 0,0:17:23.09,0:17:27.75,Default,,0,0,0,,I know you Navy people are goo
 Dialogue: 0,0:17:28.72,0:17:32.56,Default,,0,0,0,,I'm afraid it wasn't a trap that we set.
 Dialogue: 0,0:17:32.90,0:17:34.52,Default,,0,0,0,,Oh yeah?
 Dialogue: 0,0:17:34.52,0:17:36.81,Default,,0,0,0,,But I don't know anything so there's nothing more to talk about.
-Dialogue: 0,0:17:37.20,0:17:39.17,Default,,0,0,0,,Cut that crap.
-Dialogue: 0,0:17:39.57,0:17:41.34,Default,,0,0,0,,Let us see inside the laboratory.
+Dialogue: 0,0:17:37.20,0:17:39.17,Default,,0,0,0,,Cut the crap.
+Dialogue: 0,0:17:39.57,0:17:41.34,Default,,0,0,0,,Let us look inside the {research }institute.
 Dialogue: 0,0:17:41.64,0:17:44.66,Default,,0,0,0,,It's my vacation home now. I refuse!
 Dialogue: 0,0:17:45.17,0:17:49.07,Default,,0,0,0,,What's wrong with me - a pirate staying on an island you people abandoned?
 Dialogue: 0,0:17:49.70,0:17:51.57,Default,,0,0,0,,I'm the only one here!
@@ -426,7 +427,7 @@ Dialogue: 0,0:23:08.48,0:23:11.07,Default,,0,0,0,,Law's power, capable of liftin
 Dialogue: 0,0:23:11.07,0:23:13.23,Default,,0,0,0,,...overwhelms the Navy's G-5.
 Dialogue: 0,0:23:13.23,0:23:16.31,Default,,0,0,0,,Team Sanji/Nami also ends up...
 Dialogue: 0,0:23:16.31,0:23:19.37,Default,,0,0,0,,...in an unprecedented situation because of Law.
-Dialogue: 0,0:23:19.37,0:23:22.57,Default,,0,0,0,,Meanwhile, Team Luffy comes upon a lake in the frozen lands...
+Dialogue: 0,0:23:19.37,0:23:22.57,Default,,0,0,0,,Meanwhile, Team Luffy comes upon a lake in the Frozen Lands...
 Dialogue: 0,0:23:22.57,0:23:25.11,Default,,0,0,0,,...and encounters a crisis of its own!
 Dialogue: 0,0:23:25.11,0:23:26.48,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:26.48,0:23:29.69,Default,,0,0,0,,"In a Real Pinch\NLuffy Sinks into the Icy Lake"

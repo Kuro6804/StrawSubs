@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 581 (BD 1920x1080 x264 29.970fps FLAC) [44C
 Video File: [SOFCJ-Raws] One Piece - 581 (BD 1920x1080 x264 29.970fps FLAC) [44CA8EBB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.187500
-Scroll Position: 63
-Active Line: 70
-Video Position: 5572
+Video Zoom Percent: 0.562500
+Scroll Position: 81
+Active Line: 87
+Video Position: 7452
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -125,10 +125,10 @@ Dialogue: 0,0:03:58.09,0:04:07.10,Title Card - Top,,0,0,0,,{\blur0.8\fad(1982,19
 Dialogue: 1,0:03:58.09,0:04:07.10,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1982,1982)\4a&HFF&}The Straw Hats Astonished!
 Dialogue: 0,0:03:58.09,0:04:07.10,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Enter the Puzzling Samurai's Head!
 Dialogue: 1,0:03:58.09,0:04:07.10,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1982,1982)\4a&HFF&}Enter the Puzzling Samurai's Head!
-Dialogue: 0,0:04:08.63,0:04:11.17,Sign,,0,0,268,,{\blur0.8\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Punk Hazard
-Dialogue: 1,0:04:08.63,0:04:11.17,Sign,,0,0,268,,{\bord0\blur0.8\fad(520,0)\4a&HFF&}Punk Hazard
-Dialogue: 0,0:04:12.30,0:04:15.01,Sign,,0,0,268,,{\blur0.8\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}The Burning Lands
-Dialogue: 1,0:04:12.30,0:04:15.01,Sign,,0,0,268,,{\bord0\blur0.8\fad(520,0)\4a&HFF&}The Burning Lands
+Dialogue: 0,0:04:08.63,0:04:11.17,Sign,,0,0,266,,{\blur0.8\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Punk Hazard
+Dialogue: 1,0:04:08.63,0:04:11.17,Sign,,0,0,266,,{\bord0\blur0.8\fad(520,0)\4a&HFF&}Punk Hazard
+Dialogue: 0,0:04:12.30,0:04:15.01,Sign,,0,0,266,,{\blur0.8\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Burning Lands
+Dialogue: 1,0:04:12.30,0:04:15.01,Sign,,0,0,266,,{\bord0\blur0.8\fad(520,0)\4a&HFF&}Burning Lands
 Dialogue: 0,0:04:16.04,0:04:19.16,Default,,0,0,0,,Now, what should we do about him?
 Dialogue: 0,0:04:20.97,0:04:22.82,Default,,0,0,0,,Let's pull him out!
 Dialogue: 0,0:04:23.81,0:04:25.21,Default,,0,0,0,,Hey, who are you?!
@@ -419,7 +419,7 @@ Dialogue: 0,0:22:47.87,0:22:50.11,Default,,0,0,0,,Please be careful!
 Dialogue: 0,0:22:50.11,0:22:51.32,Default,,0,0,0,,Roger.
 Dialogue: 0,0:22:51.32,0:22:52.32,Default,,0,0,0,,Clank.
 Dialogue: 0,0:23:09.44,0:23:11.61,Default,,0,0,0,,Luffy and the crew face a new crisis
-Dialogue: 0,0:23:11.61,0:23:13.24,Default,,0,0,0,,while they cross the burning lands.
+Dialogue: 0,0:23:11.61,0:23:13.24,Default,,0,0,0,,while they cross the Burning Lands.
 Dialogue: 0,0:23:13.24,0:23:15.91,Default,,0,0,0,,After Sanji and the others hear what the bodiless samurai has to say,
 Dialogue: 0,0:23:15.91,0:23:18.11,Default,,0,0,0,,they escape together from their cell.
 Dialogue: 0,0:23:18.74,0:23:20.89,Default,,0,0,0,,While being pursued, they wander into a room,

@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 607 (BD 1920x1080 x264 29.970fps FLAC) [BC4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 392
-Active Line: 396
-Video Position: 42409
+Scroll Position: 356
+Active Line: 359
+Video Position: 38459
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -125,7 +125,7 @@ Dialogue: 0,0:03:27.35,0:03:31.41,Default,,0,0,0,,and were held captive by Caesa
 Dialogue: 0,0:03:31.41,0:03:34.63,Default,,0,0,0,,and were exposed to Netherworld, a weapon of mass destruction.
 Dialogue: 0,0:03:34.79,0:03:37.13,Default,,0,0,0,,But they were reunited with their crew thanks to their ally -
 Dialogue: 0,0:03:37.13,0:03:40.54,Default,,0,0,0,,a Warlord - Trafalgar Law's tactful maneuvers
-Dialogue: 0,0:03:40.54,0:03:42.43,Default,,0,0,0,,and now they are heading for R Building - gate 66,
+Dialogue: 0,0:03:40.54,0:03:42.43,Default,,0,0,0,,and now they are heading for Building R - Gate 66,
 Dialogue: 0,0:03:42.43,0:03:45.14,Default,,0,0,0,,the only door to the path of escape.
 Dialogue: 0,0:03:45.66,0:03:48.17,Default,,0,0,0,,Meanwhile, Vice Admiral Vergo, the base commander of the G-5,
 Dialogue: 0,0:03:48.17,0:03:51.08,Default,,0,0,0,,appeared in front of Tashigi and the others and...
@@ -260,7 +260,7 @@ Dialogue: 0,0:11:39.45,0:11:40.48,Default,,0,0,0,,"Black Leg."
 Dialogue: 0,0:11:50.13,0:11:51.23,Default,,0,0,0,,Flanchet...
 Dialogue: 0,0:11:52.77,0:11:53.96,Default,,0,0,0,,...Strike!
 Dialogue: 0,0:11:57.19,0:11:58.36,Default,,0,0,0,,He's strong!
-Dialogue: 0,0:12:04.74,0:12:09.25,"Sign",,0,0,0,,INSIDE OF B BUILDING THE BROWNBEARD EXPRESS AND ITS RIDERS
+Dialogue: 0,0:12:04.74,0:12:09.25,"Sign",,0,0,0,,INSIDE OF BUILDING B THE BROWNBEARD EXPRESS AND ITS RIDERS
 Dialogue: 0,0:12:12.03,0:12:14.03,Default,,0,0,0,,Hey hey, that dragon is out of control!
 Dialogue: 0,0:12:14.03,0:12:15.05,Default,,0,0,0,,He's dangerous!
 Dialogue: 0,0:12:15.34,0:12:17.52,Default,,0,0,0,,He does look violent.
@@ -280,13 +280,13 @@ Dialogue: 0,0:12:41.58,0:12:42.79,Default,,0,0,0,,Just do it now!
 Dialogue: 0,0:12:42.79,0:12:44.17,Default,,0,0,0,,You're the oldest!
 Dialogue: 0,0:12:44.17,0:12:46.76,Default,,0,0,0,,That's right! You should respect your elders!
 Dialogue: 0,0:12:48.91,0:12:49.88,Default,,0,0,0,,What?!
-Dialogue: 0,0:12:54.06,0:12:58.80,"Sign",,0,0,0,,D BUILDING - IN FRONT OF THE "SAD" MANUFACTURING ROOM
+Dialogue: 0,0:12:54.06,0:12:58.80,"Sign",,0,0,0,,BUILDING D - IN FRONT OF THE S.A.D. MANUFACTURING ROOM
 Dialogue: 0,0:12:59.77,0:13:01.28,Default,,0,0,0,,Hey, we have a problem!
 Dialogue: 0,0:13:01.28,0:13:01.89,Default,,0,0,0,,What is it?
-Dialogue: 0,0:13:01.89,0:13:06.02,Default,,0,0,0,,The Navy soldiers and the Straw Hats entered B Building!
-Dialogue: 0,0:13:06.02,0:13:07.95,Default,,0,0,0,,Then they'll get to D Building soon?
+Dialogue: 0,0:13:01.89,0:13:06.02,Default,,0,0,0,,The Navy soldiers and the Straw Hats entered Building B!
+Dialogue: 0,0:13:06.02,0:13:07.95,Default,,0,0,0,,Then they'll get to Building D soon?
 Dialogue: 0,0:13:07.95,0:13:09.53,Default,,0,0,0,,Don't worry!
-Dialogue: 0,0:13:09.53,0:13:12.86,Default,,0,0,0,,Nobody can get to D Building...
+Dialogue: 0,0:13:09.53,0:13:12.86,Default,,0,0,0,,Nobody can get to Building D...
 Dialogue: 0,0:13:21.81,0:13:22.86,Default,,0,0,0,,Who is it?
 Dialogue: 0,0:13:29.87,0:13:31.40,Default,,0,0,0,,Y-You're...
 Dialogue: 0,0:13:33.76,0:13:35.84,Default,,0,0,0,,Trafalgar Law!
@@ -397,17 +397,17 @@ Dialogue: 0,0:21:08.90,0:21:10.43,Default,,0,0,0,,This is bad!
 Dialogue: 0,0:21:10.43,0:21:12.21,Default,,0,0,0,,Do an emergency broadcast to all buildings!
 Dialogue: 0,0:21:12.21,0:21:12.93,Default,,0,0,0,,Hurry!
 Dialogue: 0,0:21:12.93,0:21:13.89,Default,,0,0,0,,Okay!
-Dialogue: 0,0:21:17.05,0:21:19.42,Default,,0,0,0,,This is D Building! This is D Building!
+Dialogue: 0,0:21:17.05,0:21:19.42,Default,,0,0,0,,This is Building D! This is Building D!
 Dialogue: 0,0:21:19.42,0:21:20.63,Default,,0,0,0,,This is an emergency broadcast
-Dialogue: 0,0:21:20.63,0:21:22.27,Default,,0,0,0,,to all buildings of the Third Laboratory!
+Dialogue: 0,0:21:20.63,0:21:22.27,Default,,0,0,0,,to all buildings of the Third Research Institute!
 Dialogue: 0,0:21:22.27,0:21:23.87,Default,,0,0,0,,What's this?!
-Dialogue: 0,0:21:23.87,0:21:25.34,Default,,0,0,0,,This is D Building!
+Dialogue: 0,0:21:23.87,0:21:25.34,Default,,0,0,0,,This is Building D!
 Dialogue: 0,0:21:25.34,0:21:27.04,Default,,0,0,0,,This is an emergency broadcast--
-Dialogue: 0,0:21:27.04,0:21:28.69,Default,,0,0,0,,to all buildings of the Third Laboratory!
+Dialogue: 0,0:21:27.04,0:21:28.69,Default,,0,0,0,,to all buildings of the Third Research Institute!
 Dialogue: 0,0:21:28.69,0:21:31.11,Default,,0,0,0,,The member of the Seven Warlords -
 Dialogue: 0,0:21:31.11,0:21:32.34,Default,,0,0,0,,Trafalgar Law has...
-Dialogue: 0,0:21:32.88,0:21:35.64,Default,,0,0,0,,...just entered into the
-Dialogue: 0,0:21:35.64,0:21:38.16,Default,,0,0,0,,SAD manufacturing room!
+Dialogue: 0,0:21:32.88,0:21:35.64,Default,,0,0,0,,...just entered the
+Dialogue: 0,0:21:35.64,0:21:38.16,Default,,0,0,0,,S.A.D. Manufacturing Room!
 Dialogue: 0,0:21:41.33,0:21:42.72,Default,,0,0,0,,What?!
 Dialogue: 0,0:21:42.72,0:21:44.79,Default,,0,0,0,,Is that fool out of his mind?!
 Dialogue: 0,0:21:45.41,0:21:47.13,Default,,0,0,0,,Once he opens that box,
@@ -416,7 +416,7 @@ Dialogue: 0,0:21:55.61,0:21:56.33,Default,,0,0,0,,Is he...
 Dialogue: 0,0:21:56.62,0:21:58.23,Default,,0,0,0,,Now it all makes sense.
 Dialogue: 0,0:22:01.43,0:22:02.53,Default,,0,0,0,,Wh-What the...
 Dialogue: 0,0:22:04.83,0:22:06.25,Default,,0,0,0,,There's another problem!
-Dialogue: 0,0:22:09.73,0:22:12.88,Default,,0,0,0,,He wants to kidnap the Master and wants SAD to be...
+Dialogue: 0,0:22:09.73,0:22:12.88,Default,,0,0,0,,He wants to kidnap Master and wants S.A.D. to be...
 Dialogue: 0,0:22:13.32,0:22:16.02,Default,,0,0,0,,Now I know what you guys are going for.
 Dialogue: 0,0:22:21.86,0:22:23.11,Default,,0,0,0,,Vergo!
 Dialogue: 0,0:22:28.36,0:22:29.68,Default,,0,0,0,,Law...
@@ -426,7 +426,7 @@ Dialogue: 0,0:22:39.51,0:22:41.14,Default,,0,0,0,,That brat!
 Dialogue: 0,0:22:42.89,0:22:47.29,Default,,0,0,0,,He has a worst scenario in mind!
 Dialogue: 0,0:22:49.42,0:22:51.12,Default,,0,0,0,,Is he trying to...
 Dialogue: 0,0:22:53.11,0:22:55.19,Default,,0,0,0,,...ruin the New World?!
-Dialogue: 0,0:23:09.88,0:23:12.52,Default,,0,0,0,,Law breaks into the SAD manufacturing room.
+Dialogue: 0,0:23:09.88,0:23:12.52,Default,,0,0,0,,Law breaks into the S.A.D. Manufacturing Room.
 Dialogue: 0,0:23:12.52,0:23:16.30,Default,,0,0,0,,He finally commences his plan that will shake up the entire New World.
 Dialogue: 0,0:23:16.79,0:23:18.18,Default,,0,0,0,,But just then...
 Dialogue: 0,0:23:18.18,0:23:20.49,Default,,0,0,0,,...the vile member of the Seven Warlords...

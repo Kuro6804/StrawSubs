@@ -24,14 +24,14 @@ Video File: [SOFCJ-Raws] One Piece - 601 (BD 1920x1080 x264 29.970fps FLAC) [D87
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 340
-Active Line: 350
-Video Position: 42290
+Scroll Position: 150
+Active Line: 167
+Video Position: 16618
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
+Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,45,45,6,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
@@ -137,7 +137,7 @@ Dialogue: 0,0:04:18.68,0:04:27.68,Title Card - Top,,0,0,0,,{\blur0.3\fad(1980,19
 Dialogue: 1,0:04:18.68,0:04:27.68,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1980,1980)\4a&HFF&}A Shock to the New World
 Dialogue: 0,0:04:18.68,0:04:27.68,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1980,1980)\c&H000000&\1a&HFF&\t(1935,1980,\1a&H00&)\t(7020,7065,\1a&HFF&)}Caesar's Horrendous Experiment
 Dialogue: 1,0:04:18.68,0:04:27.68,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1980,1980)\4a&HFF&}Caesar's Horrendous Experiment
-Dialogue: 0,0:04:32.99,0:04:36.49,"Sign",,0,0,0,,IN FRONT OF CAESAR'S LABORATORY
+Dialogue: 0,0:04:32.99,0:04:36.49,"Sign",,0,0,0,,Caesar's Research Institute, Out-Front
 Dialogue: 0,0:04:39.51,0:04:40.10,Default,,0,0,0,,Open up!
 Dialogue: 0,0:04:41.56,0:04:43.81,Default,,0,0,0,,Dammit! It's as solid as rock!
 Dialogue: 0,0:04:43.81,0:04:46.32,Default,,0,0,0,,Hey! Open the shutter!
@@ -177,7 +177,7 @@ Dialogue: 0,0:07:07.07,0:07:08.66,Default,,0,0,0,,What's wrong?
 Dialogue: 0,0:07:11.14,0:07:13.78,Default,,0,0,0,,Why don't you go back to the room like everyone else
 Dialogue: 0,0:07:14.30,0:07:17.89,Default,,0,0,0,,and have that sweet candy?
 Dialogue: 0,0:07:20.81,0:07:22.29,Default,,0,0,0,,Huh? What?!
-Dialogue: 0,0:07:28.69,0:07:32.77,Default,,0,0,0,,Don't go! Do you wanna go back to the lab?!
+Dialogue: 0,0:07:28.69,0:07:32.77,Default,,0,0,0,,Don't go! Do you wanna go back to the {research }institute?!
 Dialogue: 0,0:07:32.90,0:07:35.03,Default,,0,0,0,,Get out of my way!
 Dialogue: 0,0:07:36.30,0:07:37.24,Default,,0,0,0,,Usopp!
 Dialogue: 0,0:07:37.34,0:07:39.91,Default,,0,0,0,,Master, give me the candy!
@@ -206,7 +206,7 @@ Dialogue: 0,0:08:54.42,0:08:56.53,Default,,0,0,0,,Hey, get away from the door!
 Dialogue: 0,0:08:56.53,0:08:58.92,Default,,0,0,0,,Damn! What a pain in the butt!
 Dialogue: 0,0:08:58.92,0:09:01.73,Default,,0,0,0,,Help me! Sis!
 Dialogue: 0,0:09:03.84,0:09:07.14,Default,,0,0,0,,Sis!!
-Dialogue: 0,0:09:13.77,0:09:17.27,"Sign",,0,0,0,,THE REMAINS OF THE FIRST AND SECOND LABORATORY
+Dialogue: 0,0:09:13.77,0:09:17.27,"Sign",,0,0,0,,Ruins of the First and Second Research Institutes
 Dialogue: 0,0:09:25.97,0:09:26.89,Default,,0,0,0,,Ow, ow, ow...
 Dialogue: 0,0:09:27.89,0:09:29.01,Default,,0,0,0,,I'm alive!
 Dialogue: 0,0:09:29.96,0:09:32.92,Default,,0,0,0,,There are a whole bunch of cuts and bruises on Sanji-kun's body
@@ -295,12 +295,12 @@ Dialogue: 0,0:15:35.55,0:15:38.63,Default,,0,0,0,,What is that? Where is it? Tha
 Dialogue: 0,0:15:38.63,0:15:41.29,Default,,0,0,0,,...a candy! It's a huge candy!
 Dialogue: 0,0:15:41.74,0:15:44.43,Default,,0,0,0,,When did they place that Video Transponder Snail?
 Dialogue: 0,0:15:50.67,0:16:07.52,"Sign",,0,0,0,,VARIOUS PLACES IN THE NEW WORLD UNDERWORLD BROKERS
-Dialogue: 0,0:15:51.41,0:15:54.83,DefaultLow,,0,0,0,,Thank you for waiting, brokers.
-Dialogue: 0,0:15:54.83,0:15:58.92,DefaultLow,,0,0,0,,It's going to start soon. The Smilies...
-Dialogue: 0,0:15:58.92,0:16:00.18,DefaultLow,,0,0,0,,...that made their way
-Dialogue: 0,0:16:00.18,0:16:02.24,DefaultLow,,0,0,0,,from the Burning Lands separately...
-Dialogue: 0,0:16:02.24,0:16:05.00,DefaultLow,,0,0,0,,...will all arrive at this
-Dialogue: 0,0:16:05.00,0:16:07.52,DefaultLow,,0,0,0,,central part of the Ice Lands very soon.
+Dialogue: 0,0:15:51.41,0:15:54.83,DefaultLow2,,0,0,0,,Thank you for waiting, brokers.
+Dialogue: 0,0:15:54.83,0:15:58.92,DefaultLow2,,0,0,0,,It's going to start soon. The Smilies...
+Dialogue: 0,0:15:58.92,0:16:00.18,DefaultLow2,,0,0,0,,...that made their way
+Dialogue: 0,0:16:00.18,0:16:02.24,DefaultLow2,,0,0,0,,from the Burning Lands separately...
+Dialogue: 0,0:16:02.24,0:16:05.00,DefaultLow2,,0,0,0,,...will all arrive at this
+Dialogue: 0,0:16:05.00,0:16:07.52,DefaultLow2,,0,0,0,,central part of the Frozen Lands very soon.
 Dialogue: 0,0:16:07.66,0:16:10.82,Default,,0,0,0,,When they merge into one another
 Dialogue: 0,0:16:10.82,0:16:15.37,Default,,0,0,0,,and become one big "Smiley" again,
 Dialogue: 0,0:16:16.39,0:16:18.51,Default,,0,0,0,,the experiment will begin.
@@ -319,7 +319,7 @@ Dialogue: 0,0:17:48.54,0:17:52.16,Default,,0,0,0,,It will add a new effect to th
 Dialogue: 0,0:17:52.16,0:17:55.86,Default,,0,0,0,,and the weapon of mass destruction will reach completion.
 Dialogue: 0,0:17:56.87,0:18:00.36,Default,,0,0,0,,The new weapon that will make its debut today is called...
 Dialogue: 0,0:18:01.47,0:18:03.13,Default,,0,0,0,,..."Netherworld"!
-Dialogue: 0,0:18:03.60,0:18:07.60,"Sign",,0,0,0,,THE ICE LANDS - THE CENTRAL PART
+Dialogue: 0,0:18:03.60,0:18:07.60,"Sign",,0,0,0,,FROZEN LANDS - THE CENTRAL PART
 Dialogue: 0,0:18:11.73,0:18:13.82,Default,,0,0,0,,They're coming!
 Dialogue: 0,0:18:14.61,0:18:16.81,Default,,0,0,0,,Can we even outrun such monsters?!
 Dialogue: 0,0:18:20.20,0:18:21.74,Default,,0,0,0,,Oh, it's coming!
@@ -350,7 +350,7 @@ Dialogue: 0,0:19:41.92,0:19:44.87,Default,,0,0,0,,This is terrible!
 Dialogue: 0,0:19:46.53,0:19:47.81,Default,,0,0,0,,That's a bit overdramatic.
 Dialogue: 0,0:19:48.01,0:19:50.74,Default,,0,0,0,,You all, just run!
 Dialogue: 0,0:19:50.74,0:19:52.94,Default,,0,0,0,,The protective suit won't help!
-Dialogue: 0,0:19:53.45,0:19:57.66,Default,,0,0,0,,Take it off and run to the lab now!
+Dialogue: 0,0:19:53.45,0:19:57.66,Default,,0,0,0,,Take it off and run to the {research }institute now!
 Dialogue: 0,0:19:57.66,0:19:59.63,Default,,0,0,0,,What? O-Okay!
 Dialogue: 0,0:19:59.63,0:20:01.24,Default,,0,0,0,,Take the suit off?!
 Dialogue: 0,0:20:01.24,0:20:02.95,Default,,0,0,0,,The Master is always right!

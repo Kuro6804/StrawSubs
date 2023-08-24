@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 587 (BD 1920x1080 x264 29.970fps FLAC) [B68
 Video File: [SOFCJ-Raws] One Piece - 587 (BD 1920x1080 x264 29.970fps FLAC) [B687D38A].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 55
-Active Line: 68
-Video Position: 5637
+Video Zoom Percent: 0.562500
+Scroll Position: 211
+Active Line: 219
+Video Position: 26978
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,7 +112,7 @@ Dialogue: 0,0:03:14.68,0:03:18.57,Default,,0,0,0,,After surviving a fierce battl
 Dialogue: 0,0:03:18.57,0:03:21.33,Default,,0,0,0,,the Straw Hats reach the New World at long last—
 Dialogue: 0,0:03:21.33,0:03:24.21,Default,,0,0,0,,the harshest sea, ruled by the Four Emperors.
 Dialogue: 0,0:03:24.55,0:03:28.58,Default,,0,0,0,,After receiving an emergency signal,\Nthey landed on Punk Hazard,
-Dialogue: 0,0:03:28.58,0:03:33.40,Default,,0,0,0,,a strange island divided into two parts—\Nthe Burning Lands and the Ice Lands.
+Dialogue: 0,0:03:28.58,0:03:33.40,Default,,0,0,0,,a strange island divided into two parts—\Nthe Burning Lands and the Frozen Lands.
 Dialogue: 0,0:03:34.21,0:03:36.52,Default,,0,0,0,,I can't let them escape!
 Dialogue: 0,0:03:36.52,0:03:37.55,Default,,0,0,0,,Room!
 Dialogue: 0,0:03:41.37,0:03:44.15,Default,,0,0,0,,What is this?! It's like a thin film...
@@ -144,8 +144,8 @@ Dialogue: 0,0:05:31.45,0:05:40.46,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,19
 Dialogue: 1,0:05:31.45,0:05:40.46,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}A Clash!
 Dialogue: 0,0:05:31.45,0:05:40.46,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Law vs. Vice Admiral Smoker
 Dialogue: 1,0:05:31.45,0:05:40.46,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Law vs. Vice Admiral Smoker
-Dialogue: 0,0:05:41.02,0:05:43.36,Sign,,0,0,268,,{\blur0.3\fad(360,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(315,360,\1a&H00&)}The laboratory, in front of the main entrance
-Dialogue: 1,0:05:41.02,0:05:43.36,Sign,,0,0,268,,{\blur0.3\fad(360,0)\fs60\bord0\4a&HFF&}The laboratory, in front of the main entrance
+Dialogue: 0,0:05:41.02,0:05:43.36,Sign,,0,0,268,,{\blur0.3\fad(360,0)\c&H000000&\1a&HFF&\t(315,360,\1a&H00&)}Research Institute, {in front of the }Main Entrance
+Dialogue: 1,0:05:41.02,0:05:43.36,Sign,,0,0,268,,{\bord0\blur0.3\fad(360,0)\4a&HFF&}Research Institute, {in front of the }Main Entrance
 Dialogue: 0,0:06:15.11,0:06:18.81,Default,,0,0,0,,C-Captain-chan got cut in half!
 Dialogue: 0,0:06:22.61,0:06:26.42,Default,,0,0,0,,--Hey, you're alive, aren't you?! --Tashigi-chan!
 Dialogue: 0,0:06:37.33,0:06:38.57,Default,,0,0,0,,How...
@@ -195,8 +195,8 @@ Dialogue: 0,0:10:39.27,0:10:41.34,Default,,0,0,0,,I don't know what they're gonn
 Dialogue: 0,0:10:41.50,0:10:43.60,Default,,0,0,0,,Boss Brownbeard!
 Dialogue: 0,0:10:44.93,0:10:47.07,Default,,0,0,0,,We have to let the Master know!
 Dialogue: 0,0:10:47.94,0:10:49.95,Default,,0,0,0,,Follow me, those of you who can stand up!
-Dialogue: 0,0:10:54.44,0:10:58.11,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Luffy\NThe Ice Lands
-Dialogue: 1,0:10:54.44,0:10:58.11,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Luffy\NThe Ice Lands
+Dialogue: 0,0:10:54.44,0:10:58.11,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Frozen Lands, Team Luffy
+Dialogue: 1,0:10:54.44,0:10:58.11,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Frozen Lands, Team Luffy
 Dialogue: 0,0:11:00.23,0:11:03.89,Default,,0,0,0,,I heard a huge noise. Was it Sanji and the others?
 Dialogue: 0,0:11:05.41,0:11:07.52,Default,,0,0,0,,Hey, Alliga-taur!
 Dialogue: 0,0:11:07.52,0:11:10.14,Default,,0,0,0,,You really don't know what happened to my crew?
@@ -240,7 +240,7 @@ Dialogue: 0,0:13:25.66,0:13:27.64,Default,,0,0,0,,their ship had other crew memb
 Dialogue: 0,0:13:27.64,0:13:30.65,Default,,0,0,0,,and they were in the Burning Lands already.
 Dialogue: 0,0:13:31.27,0:13:36.32,Default,,0,0,0,,They made it across the lake and they'll be here in a matter of minutes.
 Dialogue: 0,0:13:37.59,0:13:40.89,Default,,0,0,0,,They were so strong. Now look.
-Dialogue: 0,0:13:39.64,0:13:44.44,"Sign",,0,0,0,,{\fad(250,0)}"The Straw Hats are Back"
+Dialogue: 0,0:13:39.64,0:13:44.44,"Sign",,0,0,0,,{\fad(250,0)}"The Straw Hats Are Back"
 Dialogue: 0,0:13:42.02,0:13:44.44,Default,,0,0,0,,I'm sure it was them.
 Dialogue: 0,0:13:44.68,0:13:47.96,Default,,0,0,0,,The Straw Hats...
 Dialogue: 0,0:13:47.96,0:13:50.48,Default,,0,0,0,,I'm sure you have heard about them.
@@ -257,8 +257,8 @@ Dialogue: 0,0:14:21.76,0:14:24.16,Default,,0,0,0,,the Navy would be on the alert
 Dialogue: 0,0:14:24.16,0:14:27.64,Default,,0,0,0,,Well, we can just suppress things that are going to
 Dialogue: 0,0:14:27.64,0:14:29.78,Default,,0,0,0,,happen on the island from now on.
 Dialogue: 0,0:14:35.83,0:14:38.28,Default,,0,0,0,,--Call Joker. --Yes, sir!
-Dialogue: 0,0:14:58.42,0:15:02.42,Sign,,0,0,365,,{\blur0.3\fad(1040,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(995,1040,\1a&H00&)}Team Sanji\NA mountain behind the laboratory
-Dialogue: 1,0:14:58.42,0:15:02.42,Sign,,0,0,365,,{\blur0.3\fad(1040,0)\fs60\bord0\4a&HFF&}Team Sanji\NA mountain behind the laboratory
+Dialogue: 0,0:14:58.42,0:15:02.42,Sign,,0,0,365,,{\blur0.3\fad(1040,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(995,1040,\1a&H00&)}Team Sanji\NA mountain behind the {research }institute
+Dialogue: 1,0:14:58.42,0:15:02.42,Sign,,0,0,365,,{\blur0.3\fad(1040,0)\fs60\bord0\4a&HFF&}Team Sanji\NA mountain behind the {research }institute
 Dialogue: 0,0:15:04.99,0:15:09.58,Default,,0,0,0,,We made it out from the backdoor but what should we do now?!
 Dialogue: 0,0:15:09.95,0:15:12.53,Default,,0,0,0,,Even with this strange transformation going on,
 Dialogue: 0,0:15:12.53,0:15:14.39,Default,,0,0,0,,we have to keep running for now!

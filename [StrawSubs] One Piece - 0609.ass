@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 609 (BD 1920x1080 x264 29.970fps FLAC) [C11
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 361
-Active Line: 370
-Video Position: 42409
+Scroll Position: 304
+Active Line: 311
+Video Position: 32210
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -136,7 +136,7 @@ Dialogue: 0,0:04:02.69,0:04:11.67,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,19
 Dialogue: 1,0:04:02.69,0:04:11.67,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Luffy Freezes to Death?!
 Dialogue: 0,0:04:02.69,0:04:11.67,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Spine-Chilling Snow Woman, Monet!
 Dialogue: 1,0:04:02.69,0:04:11.67,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Spine-Chilling Snow Woman, Monet!
-Dialogue: 0,0:04:35.29,0:04:39.36,"Sign",,0,0,0,,D BUILDING - THE "SAD" MANUFACTURING ROOM
+Dialogue: 0,0:04:35.29,0:04:39.36,"Sign",,0,0,0,,BUILDING D - THE S.A.D. MANUFACTURING ROOM
 Dialogue: 0,0:05:03.14,0:05:05.59,Default,,0,0,0,,I feel like my hand has been bitten
 Dialogue: 0,0:05:05.59,0:05:06.86,Default,,0,0,0,,by my own dog.
 Dialogue: 0,0:05:07.65,0:05:08.74,Default,,0,0,0,,Law.
@@ -153,7 +153,7 @@ Dialogue: 0,0:05:52.20,0:05:54.41,Default,,0,0,0,,...with fear.
 Dialogue: 0,0:05:57.21,0:05:58.88,Default,,0,0,0,,Like that time!
 Dialogue: 0,0:06:19.56,0:06:21.37,Default,,0,0,0,,Stand up, Law.
 Dialogue: 0,0:06:22.30,0:06:24.13,Default,,0,0,0,,It's too soon to die.
-Dialogue: 0,0:06:27.60,0:06:31.48,"Sign",,0,0,0,,C BUILDING 4TH FLOOR - CAESAR'S RESEARCH ROOM
+Dialogue: 0,0:06:27.60,0:06:31.48,"Sign",,0,0,0,,BUILDING C 4TH FLOOR - CAESAR'S RESEARCH ROOM
 Dialogue: 0,0:06:31.48,0:06:34.47,Default,,0,0,0,,Damn! What does she want?!
 Dialogue: 0,0:06:34.47,0:06:35.88,Default,,0,0,0,,Hey, bird woman!
 Dialogue: 0,0:06:36.16,0:06:37.28,Default,,0,0,0,,Come on out!
@@ -216,7 +216,7 @@ Dialogue: 0,0:10:48.30,0:10:51.79,Default,,0,0,0,,will land him in the slide to 
 Dialogue: 0,0:10:52.46,0:10:55.57,Default,,0,0,0,,He'll never be able to come back up unless he can fly.
 Dialogue: 0,0:10:56.00,0:10:58.48,Default,,0,0,0,,I didn't expect him to sabotage himself like that.
 Dialogue: 0,0:10:59.18,0:11:00.35,Default,,0,0,0,,Goodbye!
-Dialogue: 0,0:11:24.94,0:11:28.81,"Sign",,0,0,0,,B BUILDING 3RD FLOOR - NEAR THE BISCUITS ROOM
+Dialogue: 0,0:11:24.94,0:11:28.81,"Sign",,0,0,0,,BUILDING B 3RD FLOOR - NEAR THE BISCUITS ROOM
 Dialogue: 0,0:11:28.81,0:11:30.05,Default,,0,0,0,,The candy!
 Dialogue: 0,0:11:30.05,0:11:31.61,Default,,0,0,0,,Give us the candy!
 Dialogue: 0,0:11:31.92,0:11:35.94,Default,,0,0,0,,You must never eat that candy again.
@@ -333,7 +333,7 @@ Dialogue: 0,0:16:51.41,0:16:54.01,Default,,0,0,0,,Oh, she uses sorcery!
 Dialogue: 0,0:16:54.01,0:16:55.68,Default,,0,0,0,,She's a Logia-type?!
 Dialogue: 0,0:16:55.68,0:16:57.73,Default,,0,0,0,,So she's our enemy, huh?!
 Dialogue: 0,0:17:00.93,0:17:02.87,Default,,0,0,0,,Monet-san, why?
-Dialogue: 0,0:17:09.05,0:17:12.88,"Sign",,0,0,0,,B BUILDING 2ND FLOOR - AN EXAMINATION ROOM
+Dialogue: 0,0:17:09.05,0:17:12.88,"Sign",,0,0,0,,BUILDING B 2ND FLOOR - AN EXAMINATION ROOM
 Dialogue: 0,0:17:13.11,0:17:16.89,Default,,0,0,0,,Oh yeah, where did the boy go?
 Dialogue: 0,0:17:17.96,0:17:18.77,Default,,0,0,0,,The boy?
 Dialogue: 0,0:17:18.77,0:17:19.48,Default,,0,0,0,,Uh-huh.
@@ -349,9 +349,8 @@ Dialogue: 0,0:17:42.24,0:17:44.34,Default,,0,0,0,,so I didn't tell anyone.
 Dialogue: 0,0:17:45.09,0:17:50.01,Default,,0,0,0,,But I got here on the same ship with him so I've been worrying.
 Dialogue: 0,0:17:50.31,0:17:52.12,Default,,0,0,0,,Oh I see.
 Dialogue: 0,0:17:52.12,0:17:54.72,Default,,0,0,0,,But he's doing okay.
-Dialogue: 0,0:17:54.72,0:17:57.06,Default,,0,0,0,,This laboratory is big and...
-Dialogue: 0,0:17:57.06,0:17:58.69,Default,,0,0,0,,...there are various treatment rooms
-Dialogue: 0,0:17:58.69,0:18:00.31,Default,,0,0,0,,and he's just in a different room.
+Dialogue: 0,0:17:54.72,0:17:58.69,Default,,0,0,0,,This {research }institute's very big\Nand there are various treatment rooms.
+Dialogue: 0,0:17:58.69,0:18:00.96,Default,,0,0,0,,He's just in a different room.
 Dialogue: 0,0:18:00.96,0:18:02.10,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:18:02.32,0:18:04.84,Default,,0,0,0,,Is he eating something?
 Dialogue: 0,0:18:04.84,0:18:07.34,Default,,0,0,0,,Why doesn't he eat anything?

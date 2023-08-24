@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 620 (BD 1920x1080 x264 29.970fps FLAC) [9FB
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 244
-Active Line: 253
-Video Position: 42409
+Scroll Position: 158
+Active Line: 162
+Video Position: 24737
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -130,9 +130,8 @@ Dialogue: 0,0:04:05.66,0:04:07.66,Default,,0,0,0,,Vergo's been beaten.
 Dialogue: 0,0:04:08.53,0:04:11.40,Default,,0,0,0,,It's all because of my misjudgment.
 Dialogue: 0,0:04:11.40,0:04:14.30,Default,,0,0,0,,I feel bad for you all.
 Dialogue: 0,0:04:15.41,0:04:19.48,Default,,0,0,0,,But I want to make sure to wipe out all those squirts now.
-Dialogue: 0,0:04:20.38,0:04:23.71,Default,,0,0,0,,At the Third Laboratory, there is another weapon that was
-Dialogue: 0,0:04:23.71,0:04:28.02,Default,,0,0,0,,responsible for destroying the First and Second Laboratory
-Dialogue: 0,0:04:28.02,0:04:30.59,Default,,0,0,0,,and the rest of the island four years ago.
+Dialogue: 0,0:04:20.38,0:04:23.71,Default,,0,0,0,,At the Third Research Institute,\Nthere is another weapon that was responsible
+Dialogue: 0,0:04:23.71,0:04:30.05,Default,,0,0,0,,{\q2}for destroying the First and Second Research Institute,\Nas well as the rest of the island, four years ago.
 Dialogue: 0,0:04:30.59,0:04:33.46,Default,,0,0,0,,With just the push of a button,
 Dialogue: 0,0:04:33.46,0:04:36.39,Default,,0,0,0,,there will be only one survivor on the whole island.
 Dialogue: 0,0:04:37.33,0:04:40.26,Default,,0,0,0,,No one else can take that highly toxic gas.
@@ -180,8 +179,8 @@ Dialogue: 0,0:10:07.72,0:10:11.63,Default,,0,0,0,,Why is the Transponder Snail s
 Dialogue: 0,0:10:39.32,0:10:40.82,Default,,0,0,0,,Are you okay?
 Dialogue: 0,0:10:40.82,0:10:42.23,Default,,0,0,0,,Uh-huh!
 Dialogue: 0,0:10:43.89,0:10:45.93,Default,,0,0,0,,Seems like there was an explosion!
-Dialogue: 0,0:10:46.46,0:10:48.20,Default,,0,0,0,,I think it was in D Building.
-Dialogue: 0,0:10:48.83,0:10:52.04,Default,,0,0,0,,The SAD Manufacturing Room where I was before.
+Dialogue: 0,0:10:46.46,0:10:48.20,Default,,0,0,0,,I think it was in Building D.
+Dialogue: 0,0:10:48.83,0:10:52.04,Default,,0,0,0,,The S.A.D. Manufacturing Room where I was before.
 Dialogue: 0,0:11:02.25,0:11:03.45,Default,,0,0,0,,Monet.
 Dialogue: 0,0:11:20.00,0:11:23.20,Default,,0,0,0,,Goodbye, Smoker!
 Dialogue: 0,0:11:42.45,0:11:44.99,Default,,0,0,0,,What happened, Monet?
@@ -200,7 +199,7 @@ Dialogue: 0,0:13:24.35,0:13:27.46,Default,,0,0,0,,To earn the trust of Caesar,
 Dialogue: 0,0:13:27.82,0:13:30.49,Default,,0,0,0,,I let him keep my heart
 Dialogue: 0,0:13:31.46,0:13:35.97,Default,,0,0,0,,and took his secretary Monet's heart in return.
 Dialogue: 0,0:13:38.54,0:13:41.14,Default,,0,0,0,,Now it's a deal!
-Dialogue: 0,0:13:45.38,0:13:49.85,Default,,0,0,0,,And then I cut your heart out when you got to the lab.
+Dialogue: 0,0:13:45.38,0:13:49.85,Default,,0,0,0,,And then I cut your heart out when you got to the {research }institute.
 Dialogue: 0,0:14:04.99,0:14:09.40,Default,,0,0,0,,So I had two hearts in my possession.
 Dialogue: 0,0:14:27.45,0:14:32.59,Default,,0,0,0,,The Navy G-5 Vice Admiral Smoker's heart!
 Dialogue: 0,0:14:33.26,0:14:37.06,Default,,0,0,0,,What a nice gift, Law.

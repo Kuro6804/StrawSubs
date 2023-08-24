@@ -16406,11 +16406,11 @@ Dialogue: 5,0:01:48.91,0:01:50.86,OP04 - Romaji,,0,0,0,fx,{\an5\pos(538,30)\1c&H
 Dialogue: 5,0:01:48.91,0:01:50.86,OP04 - Romaji,,0,0,0,fx,{\an5\pos(538,30)\1c&H41C3FF&\clip(0,29.206896551724,720,30.103448275862)\bord0\shad0\alpha&HE5&\t(0,25,\fscx158\fscy150)\t(25,1950,\fscx108\fscy100)\fad(0,0)\bord1\be0.5}yo
 Dialogue: 5,0:01:48.91,0:01:50.86,OP04 - Romaji,,0,0,0,fx,{\an5\pos(538,30)\1c&H41C3FF&\clip(0,30.103448275862,720,31)\bord0\shad0\alpha&HEE&\t(0,25,\fscx158\fscy150)\t(25,1950,\fscx108\fscy100)\fad(0,0)\bord1\be0.5}yo
 Dialogue: 5,0:01:48.91,0:01:50.86,OP04 - Romaji,,0,0,0,fx,{\an5\pos(538,30)\1c&H41C3FF&\clip(0,31,720,31.896551724138)\bord0\shad0\alpha&HF6&\t(0,25,\fscx158\fscy150)\t(25,1950,\fscx108\fscy100)\fad(0,0)\bord1\be0.5}yo
-Dialogue: 10,0:02:01.27,0:02:05.94,Default,,0,0,0,,{\fnSegoe UI Symbol}♪{\fnImpress BT} The impregnable fortress, G8! {\fnSegoe UI Symbol}♪
+Dialogue: 10,0:02:01.27,0:02:05.94,Default,,0,0,0,,{\fnSegoe UI Symbol}♪{\fnImpress BT} The impregnable fortress, G-8! {\fnSegoe UI Symbol}♪
 Dialogue: 10,0:02:06.56,0:02:10.74,Default,,0,0,0,,{\fnSegoe UI Symbol}♪{\fnImpress BT} Pirates can't come near it! {\fnSegoe UI Symbol}♪
 Dialogue: 10,0:02:12.24,0:02:17.03,Default,,0,0,0,,{\fnSegoe UI Symbol}♪{\fnImpress BT} With its 108 cannons jutting out, {\fnSegoe UI Symbol}♪
 Dialogue: 10,0:02:18.28,0:02:22.75,Default,,0,0,0,,{\fnSegoe UI Symbol}♪{\fnImpress BT} it's a hedgehog that protects the peace! {\fnSegoe UI Symbol}♪
-Dialogue: 10,0:02:24.21,0:02:28.88,Default,,0,0,0,,{\fnSegoe UI Symbol}♪{\fnImpress BT} Our pride, G8! {\fnSegoe UI Symbol}♪
+Dialogue: 10,0:02:24.21,0:02:28.88,Default,,0,0,0,,{\fnSegoe UI Symbol}♪{\fnImpress BT} Our pride, G-8! {\fnSegoe UI Symbol}♪
 Dialogue: 10,0:02:28.88,0:02:34.47,Default,,0,0,0,,You know, though, I hear our fortress \Nisn't very popular lately within the Navy.
 Dialogue: 10,0:02:34.47,0:02:36.55,Default,,0,0,0,,Yeah, I hear there're some people who call us
 Dialogue: 10,0:02:36.55,0:02:38.72,Default,,0,0,0,,dim-witted hedgehogs made soft by peace behind our back...
@@ -16419,7 +16419,7 @@ Dialogue: 10,0:02:44.27,0:02:45.44,Default,,0,0,0,,What'd you say?!
 Dialogue: 10,0:02:45.85,0:02:50.65,Default,,0,0,0,,It wasn't me who said that. \NIt's a rumor! A rumor!
 Dialogue: 10,0:02:52.19,0:02:55.66,Default,,0,0,0,,Tsk! What's their problem?! \NPeace is wonderful!
 Dialogue: 10,0:02:55.66,0:02:57.45,Default,,0,0,0,,What's wrong with peace?!
-Dialogue: 10,0:02:58.12,0:03:01.95,Default,,0,0,0,,{\fnSegoe UI Symbol}♪{\fnImpress BT} The impregnable fortress, G8! {\fnSegoe UI Symbol}♪
+Dialogue: 10,0:02:58.12,0:03:01.95,Default,,0,0,0,,{\fnSegoe UI Symbol}♪{\fnImpress BT} The impregnable fortress, G-8! {\fnSegoe UI Symbol}♪
 Dialogue: 10,0:03:13.97,0:03:15.93,Default,,0,0,0,,Every day is a beautiful day.
 Dialogue: 10,0:03:26.10,0:03:28.81,Default,,0,0,0,,Man, they really tore up this ship!
 Dialogue: 10,0:03:28.81,0:03:31.19,Default,,0,0,0,,It'll probably take at least a week to fix it.

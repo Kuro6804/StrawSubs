@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 615 (BD 1920x1080 x264 29.970fps FLAC) [D20
 Video File: [SOFCJ-Raws] One Piece - 615 (BD 1920x1080 x264 29.970fps FLAC) [D2084678].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 321
-Active Line: 326
-Video Position: 42290
+Video Zoom Percent: 0.500000
+Scroll Position: 99
+Active Line: 107
+Video Position: 8854
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -143,9 +143,8 @@ Dialogue: 0,0:04:36.53,0:04:45.44,Title Card - Top,,0,0,0,,{\blur0.3\fad(1960,19
 Dialogue: 1,0:04:36.53,0:04:45.44,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1960,1960)\4a&HFF&}Brownbeard in Grief!
 Dialogue: 0,0:04:36.53,0:04:45.44,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1960,1960)\c&H000000&\1a&HFF&\t(1915,1960,\1a&H00&)\t(6950,6995,\1a&HFF&)}Luffy Lands a Furious Blow
 Dialogue: 1,0:04:36.53,0:04:45.44,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1960,1960)\4a&HFF&}Luffy Lands a Furious Blow
-Dialogue: 0,0:04:46.50,0:04:50.76,Default,,0,0,0,,Netherworld, the deadly gas, is flowing into the Third Laboratory
-Dialogue: 0,0:04:50.76,0:04:53.47,Default,,0,0,0,,and starting to fill up B Building where the Straw Hats,
-Dialogue: 0,0:04:53.47,0:04:56.11,Default,,0,0,0,,the Navy G-5, and the children are.
+Dialogue: 0,0:04:46.50,0:04:50.76,Default,,0,0,0,,Netherworld, the deadly gas,\Nis flowing into the Third Research Institute
+Dialogue: 0,0:04:50.76,0:04:56.11,Default,,0,0,0,,and starting to fill up Building B, where\Nthe Straw Hats, the Navy's G-5, and the children are.
 Dialogue: 0,0:04:58.97,0:05:02.09,Default,,0,0,0,,It's not this way! Go back, go back!
 Dialogue: 0,0:05:05.15,0:05:07.90,Default,,0,0,0,,It's only gas - how is it outpacing me?!
 Dialogue: 0,0:05:07.90,0:05:09.86,Default,,0,0,0,,Because you went the wrong way!
@@ -177,7 +176,7 @@ Dialogue: 0,0:07:08.78,0:07:11.42,Default,,0,0,0,,Caesar is telling you nothing 
 Dialogue: 0,0:07:11.42,0:07:14.12,Default,,0,0,0,,You're all gonna die if you stay here!
 Dialogue: 0,0:07:14.24,0:07:16.33,Default,,0,0,0,,What is he talking about?
 Dialogue: 0,0:07:16.41,0:07:19.29,Default,,0,0,0,,Has he gone crazy after being captured by the Straw Hats?
-Dialogue: 0,0:07:19.54,0:07:23.34,Default,,0,0,0,,Brownbeard is on the floor below - R Building 1st floor.
+Dialogue: 0,0:07:19.54,0:07:23.34,Default,,0,0,0,,Brownbeard is on the floor below - Building R 1st floor.
 Dialogue: 0,0:07:23.34,0:07:27.35,Default,,0,0,0,,But the Straw Hats and Navy soldiers will arrive there
 Dialogue: 0,0:07:27.35,0:07:29.60,Default,,0,0,0,,soon according to your plan.
 Dialogue: 0,0:07:29.60,0:07:31.69,Default,,0,0,0,,Should we tell Brownbeard to come up here?
@@ -324,12 +323,12 @@ Dialogue: 0,0:20:12.73,0:20:14.93,Default,,0,0,0,,no one will come to the rescue
 Dialogue: 0,0:20:15.20,0:20:19.71,Default,,0,0,0,,You don't know a damn thing about this island, Straw Hat!
 Dialogue: 0,0:20:19.71,0:20:24.91,Default,,0,0,0,,If you're getting involved without taking it seriously, you'll end up dead!
 Dialogue: 0,0:20:25.49,0:20:27.61,Default,,0,0,0,,Allying with Law is also not a good idea.
-Dialogue: 0,0:20:28.28,0:20:30.91,Default,,0,0,0,,He wants to mess with SAD.
+Dialogue: 0,0:20:28.28,0:20:30.91,Default,,0,0,0,,He wants to mess with the S.A.D.
 Dialogue: 0,0:20:31.31,0:20:33.74,Default,,0,0,0,,He is using you to kidnap me because I'm
-Dialogue: 0,0:20:33.74,0:20:36.40,Default,,0,0,0,,the only person who can create SAD.
-Dialogue: 0,0:20:37.84,0:20:40.29,Default,,0,0,0,,Let me tell you about SAD, Straw Hat.
+Dialogue: 0,0:20:33.74,0:20:36.40,Default,,0,0,0,,the only person who can create S.A.D.
+Dialogue: 0,0:20:37.84,0:20:40.29,Default,,0,0,0,,Let me tell you about S.A.D., Straw Hat.
 Dialogue: 0,0:20:40.97,0:20:47.12,Default,,0,0,0,,The most dangerous Warlord - Donquixote Doflamingo owns this factory
-Dialogue: 0,0:20:47.53,0:20:50.55,Default,,0,0,0,,and here, SAD is processed into a fruit called "SMILE."
+Dialogue: 0,0:20:47.53,0:20:50.55,Default,,0,0,0,,and here, S.A.D. is processed into a fruit called "SMILE."
 Dialogue: 0,0:20:53.09,0:20:55.54,Default,,0,0,0,,Do you know what SMILE is?
 Dialogue: 0,0:20:56.13,0:21:01.01,Default,,0,0,0,,We successfully recreated a Devil Fruit!
 Dialogue: 0,0:21:02.05,0:21:06.25,Default,,0,0,0,,SMILE is a Zoan type, man-made Devil Fruit.

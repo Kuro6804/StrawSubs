@@ -145,7 +145,7 @@ Dialogue: 0,0:04:29.15,0:04:38.13,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,19
 Dialogue: 1,0:04:29.15,0:04:38.13,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Mortal Combat in a Blizzard
 Dialogue: 0,0:04:29.15,0:04:38.13,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Straw Hats vs. the Snow Woman
 Dialogue: 1,0:04:29.15,0:04:38.13,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Straw Hats vs. the Snow Woman
-Dialogue: 0,0:04:43.23,0:04:47.77,"Sign",,0,0,0,,B BUILDING 3RD FLOOR - THE BISCUITS ROOM
+Dialogue: 0,0:04:43.23,0:04:47.77,"Sign",,0,0,0,,BUILDING B 3RD FLOOR - BISCUITS ROOM
 Dialogue: 0,0:05:05.26,0:05:07.20,Default,,0,0,0,,Robin! Are you okay?
 Dialogue: 0,0:05:07.20,0:05:07.97,Default,,0,0,0,,Yes,
 Dialogue: 0,0:05:08.57,0:05:09.73,Default,,0,0,0,,it's just a scratch.
@@ -291,9 +291,9 @@ Dialogue: 0,0:16:05.16,0:16:07.91,Default,,0,0,0,,Our priority now is providing 
 Dialogue: 0,0:16:07.91,0:16:10.57,Default,,0,0,0,,and getting rid of the Straw Hats.
 Dialogue: 0,0:16:11.39,0:16:14.01,Default,,0,0,0,,Because the gas is flowing into the building,
 Dialogue: 0,0:16:14.48,0:16:17.71,Default,,0,0,0,,the situation is favorable for us.
-Dialogue: 0,0:16:28.71,0:16:30.41,Default,,0,0,0,,B Building will be
+Dialogue: 0,0:16:28.71,0:16:30.41,Default,,0,0,0,,Building B will be
 Dialogue: 0,0:16:30.77,0:16:32.67,Default,,0,0,0,,filled up with gas soon.
-Dialogue: 0,0:16:33.76,0:16:36.86,Default,,0,0,0,,They have no choice but to head to R Building.
+Dialogue: 0,0:16:33.76,0:16:36.86,Default,,0,0,0,,They have no choice but to head to Building R.
 Dialogue: 0,0:16:37.67,0:16:41.31,Default,,0,0,0,,They're gonna be killed by the gas anyway though.
 Dialogue: 0,0:16:47.79,0:16:51.04,Default,,0,0,0,,Oh no! Oh no! Oh no! Oh no! Oh no...
 Dialogue: 0,0:16:51.04,0:16:52.46,Default,,0,0,0,,Oh no! Oh no!
@@ -312,7 +312,7 @@ Dialogue: 0,0:17:20.09,0:17:22.88,Default,,0,0,0,,Brook, you go with Kin'emon!
 Dialogue: 0,0:17:22.88,0:17:25.88,Default,,0,0,0,,We can't leave him alone - he's too clumsy!
 Dialogue: 0,0:17:25.88,0:17:27.23,Default,,0,0,0,,Alright!
 Dialogue: 0,0:17:27.23,0:17:29.16,Default,,0,0,0,,Corpse-dono, thank you!
-Dialogue: 0,0:17:29.49,0:17:31.29,Default,,0,0,0,,See you at R Building!
+Dialogue: 0,0:17:29.49,0:17:31.29,Default,,0,0,0,,See you at Building R!
 Dialogue: 0,0:17:31.29,0:17:32.47,Default,,0,0,0,,Okay!
 Dialogue: 0,0:17:44.63,0:17:48.65,Default,,0,0,0,,You've been only defending yourself
 Dialogue: 0,0:17:48.65,0:17:51.29,Default,,0,0,0,,without even trying to attack. Why is it?

@@ -23,17 +23,18 @@ Audio File: [SOFCJ-Raws] One Piece - 597 (BD 1920x1080 x264 29.970fps FLAC) [F65
 Video File: [SOFCJ-Raws] One Piece - 597 (BD 1920x1080 x264 29.970fps FLAC) [F656079F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 323
-Active Line: 335
-Video Position: 42407
+Video Zoom Percent: 0.625000
+Scroll Position: 306
+Active Line: 318
+Video Position: 39696
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
-Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
-Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,4,0
+Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,45,45,6,0
+Style: DefaultLow3,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,45,45,4,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
@@ -139,15 +140,16 @@ Dialogue: 0,0:04:37.66,0:04:46.64,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,19
 Dialogue: 1,0:04:37.66,0:04:46.64,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}A Ferocious Battle
 Dialogue: 0,0:04:37.66,0:04:46.64,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Caesar Reveals His True Strength!
 Dialogue: 1,0:04:37.66,0:04:46.64,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Caesar Reveals His True Strength!
-Dialogue: 0,0:04:47.14,0:04:52.81,"Sign",,0,0,0,,PUNK HAZARD--CENTER LAKE TEAM ZORO
-Dialogue: 0,0:04:50.72,0:04:54.68,DefaultLow2,,0,0,0,,Is that a Slime?
+Dialogue: 0,0:04:47.14,0:04:52.81,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Zoro\NPunk Hazard, Center Lake
+Dialogue: 1,0:04:47.14,0:04:52.81,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Zoro\NPunk Hazard, Center Lake
+Dialogue: 0,0:04:50.72,0:04:54.68,DefaultLow3,,0,0,0,,Is that a Slime?
 Dialogue: 0,0:04:54.68,0:04:55.89,Default,,0,0,0,,A Slime?
 Dialogue: 0,0:04:55.89,0:05:00.12,Default,,0,0,0,,Yes. I was once reading a book that had a monster...
 Dialogue: 0,0:05:00.12,0:05:05.25,Default,,0,0,0,,...that looks exactly like this one called a "Slime."
 Dialogue: 0,0:05:06.91,0:05:09.63,Default,,0,0,0,,I couldn't stop reading it.
 Dialogue: 0,0:05:09.63,0:05:13.56,Default,,0,0,0,,The Slime liked to attack women
 Dialogue: 0,0:05:13.56,0:05:18.04,Default,,0,0,0,,and its body fluids would only melt what the women were wearing!
-Dialogue: 0,0:05:14.86,0:05:19.74,"Sign",,0,0,0,,SLIMY, SLIMY
+Dialogue: 0,0:05:14.86,0:05:19.74,"Sign",,0,0,0,,"Slimy, Slimy"
 Dialogue: 0,0:05:18.04,0:05:20.28,Default,,0,0,0,,It was such a dirty monster!
 Dialogue: 0,0:05:19.74,0:05:21.24,"Sign",,0,0,0,,NO!!
 Dialogue: 0,0:05:22.22,0:05:25.96,Default,,0,0,0,,What?! That's too convenient!
@@ -196,8 +198,9 @@ Dialogue: 0,0:08:05.22,0:08:06.76,Default,,0,0,0,,You'll see.
 Dialogue: 0,0:08:06.76,0:08:09.13,Default,,0,0,0,,Alright. I was bored anyway.
 Dialogue: 0,0:08:13.17,0:08:17.03,Default,,0,0,0,,Is that the bird woman that Usopp was talking about?
 Dialogue: 0,0:08:19.10,0:08:21.15,Default,,0,0,0,,What?!
-Dialogue: 0,0:08:21.32,0:08:24.82,"Sign",,0,0,0,,CAESAR'S LABORATORY--THE FRONT DOOR TEAM LUFFY
-Dialogue: 0,0:08:22.10,0:08:24.65,DefaultLow,,0,0,0,,S-Straw Hat caught the Master!
+Dialogue: 0,0:08:21.32,0:08:24.82,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Luffy\NCaesar's Research Institute, Main Entrance
+Dialogue: 1,0:08:21.32,0:08:24.82,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Luffy\NCaesar's Research Institute, Main Entrance
+Dialogue: 0,0:08:22.10,0:08:24.65,DefaultLow2,,0,0,0,,S-Straw Hat caught Master!
 Dialogue: 0,0:08:24.98,0:08:26.73,Default,,0,0,0,,Way to go, Luffy!
 Dialogue: 0,0:08:26.73,0:08:28.76,Default,,0,0,0,,Dammit! That bastard!
 Dialogue: 0,0:08:28.91,0:08:30.09,Default,,0,0,0,,Straw Hat!
@@ -355,8 +358,9 @@ Dialogue: 0,0:20:46.16,0:20:47.83,Default,,0,0,0,,Strong...
 Dialogue: 0,0:20:47.83,0:20:49.38,Default,,0,0,0,,Ri...
 Dialogue: 0,0:21:00.61,0:21:02.31,Default,,0,0,0,,Damn! What's going on here?!
 Dialogue: 0,0:21:28.38,0:21:30.90,Default,,0,0,0,,I have them all now!
-Dialogue: 0,0:22:02.54,0:22:05.71,"Sign",,0,0,0,,CAESAR'S LABORATORY TEAM LAW
-Dialogue: 0,0:22:04.22,0:22:05.23,DefaultLow2,,0,0,0,,Law?
+Dialogue: 0,0:22:02.54,0:22:05.71,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Caesar's Research Institute, Team Law
+Dialogue: 1,0:22:02.54,0:22:05.71,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Caesar's Research Institute, Team Law
+Dialogue: 0,0:22:04.22,0:22:05.23,DefaultLow3,,0,0,0,,Law?
 Dialogue: 0,0:22:07.82,0:22:08.94,Default,,0,0,0,,Who is it?
 Dialogue: 0,0:22:09.27,0:22:10.55,Default,,0,0,0,,What's wrong?
 Dialogue: 0,0:22:11.44,0:22:14.66,Default,,0,0,0,,Oh no. You look like you're in pain.
@@ -367,11 +371,9 @@ Dialogue: 0,0:22:44.44,0:22:46.48,Default,,0,0,0,,...here?!
 Dialogue: 0,0:22:53.26,0:22:55.38,Default,,0,0,0,,It's been years.
 Dialogue: 0,0:22:56.59,0:22:58.67,Default,,0,0,0,,You've grown up.
 Dialogue: 0,0:22:59.48,0:23:00.38,Default,,0,0,0,,Law.
-Dialogue: 0,0:23:09.91,0:23:11.82,Default,,0,0,0,,Sanji manages to make it out of the poisonous lake safely,
-Dialogue: 0,0:23:11.82,0:23:14.20,Default,,0,0,0,,but there's little time to rejoice.
-Dialogue: 0,0:23:14.20,0:23:16.63,Default,,0,0,0,,They end up surrounded by Smileys,
-Dialogue: 0,0:23:16.63,0:23:19.25,Default,,0,0,0,,and are unable to escape from this crisis.
-Dialogue: 0,0:23:19.70,0:23:24.08,Default,,0,0,0,,It's in this hopeless situation, where the samurai reveals his true power.
+Dialogue: 0,0:23:09.91,0:23:14.20,Default,,0,0,0,,{\q2}Sanji manages to make it out of the poisonous lake safely,\Nbut there's little time to rejoice.
+Dialogue: 0,0:23:14.20,0:23:19.25,Default,,0,0,0,,They end up surrounded by Smileys\Nand are unable to escape from this crisis.
+Dialogue: 0,0:23:19.70,0:23:24.08,Default,,0,0,0,,It's in this hopeless situation,\Nwhere the samurai reveals his true power.
 Dialogue: 0,0:23:24.54,0:23:26.09,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:26.09,0:23:29.46,Default,,0,0,0,,"The Samurai Who Cuts Through Fire!\NFoxfire Kin'emon"
 Dialogue: 0,0:23:29.46,0:23:31.56,Default,,0,0,0,,I'm gonna be the Pirate King!!

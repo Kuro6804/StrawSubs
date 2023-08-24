@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 588 (BD 1920x1080 x264 29.970fps FLAC) [F1B
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 60
-Active Line: 68
-Video Position: 5637
+Scroll Position: 196
+Active Line: 205
+Video Position: 21466
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,7 +114,7 @@ Dialogue: 0,0:03:15.04,0:03:17.08,Default,,0,0,0,,After surviving a fierce battl
 Dialogue: 0,0:03:17.08,0:03:20.35,Default,,0,0,0,,the Straw Hats reach the New World at long last—
 Dialogue: 0,0:03:20.35,0:03:22.81,Default,,0,0,0,,the harshest sea, ruled by the Four Emperors.
 Dialogue: 0,0:03:23.28,0:03:27.12,Default,,0,0,0,,After receiving an emergency signal,\Nthey landed on Punk Hazard,
-Dialogue: 0,0:03:27.12,0:03:32.06,Default,,0,0,0,,a strange island divided into two parts—\Nthe Burning Lands and the Ice Lands.
+Dialogue: 0,0:03:27.12,0:03:32.06,Default,,0,0,0,,a strange island divided into two parts—\Nthe Burning Lands and the Frozen Lands.
 Dialogue: 0,0:03:32.60,0:03:35.51,Default,,0,0,0,,Whether it's the Straw Hats or Smoker,
 Dialogue: 0,0:03:36.22,0:03:39.49,Default,,0,0,0,,we can get rid of all those troublemakers
 Dialogue: 0,0:03:39.49,0:03:42.44,Default,,0,0,0,,who are learning what's going on on this island at once!
@@ -231,7 +231,7 @@ Dialogue: 0,0:10:40.39,0:10:42.95,Default,,0,0,0,,Luffy! Let's go! It's dangerou
 Dialogue: 0,0:10:42.95,0:10:43.96,Default,,0,0,0,,Uh-huh.
 Dialogue: 0,0:10:44.37,0:10:45.42,Default,,0,0,0,,Oh yeah.
 Dialogue: 0,0:10:45.42,0:10:48.13,Default,,0,0,0,,Hey, Tra-guy, I wanna ask you something.
-Dialogue: 0,0:10:50.14,0:10:52.73,Default,,0,0,0,,Go round to the back of the laboratory.
+Dialogue: 0,0:10:50.14,0:10:52.73,Default,,0,0,0,,Go round to the back of the {research }institute.
 Dialogue: 0,0:10:53.15,0:10:55.95,Default,,0,0,0,,What you're looking for is there.
 Dialogue: 0,0:10:55.95,0:10:57.60,Default,,0,0,0,,We'll see each other again later.
 Dialogue: 0,0:10:57.94,0:11:00.48,Default,,0,0,0,,We both have something we want to take back.
@@ -246,11 +246,11 @@ Dialogue: 0,0:11:35.44,0:11:37.86,Default,,0,0,0,,Stop! This is no time for that
 Dialogue: 0,0:11:37.86,0:11:39.48,Default,,0,0,0,,Smo-san and Captain-chan are injured!
 Dialogue: 0,0:11:52.52,0:11:54.32,Default,,0,0,0,,It's freezing!
 Dialogue: 0,0:11:54.86,0:11:55.99,DefaultLow,,0,0,0,,What should we do?!
-Dialogue: 0,0:11:54.97,0:11:58.13,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Sanji\NA mountain behind the laboratory
-Dialogue: 1,0:11:54.97,0:11:58.13,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Sanji\NA mountain behind the laboratory
+Dialogue: 0,0:11:54.97,0:11:58.13,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Sanji\NThe mountain behind the {research }institute
+Dialogue: 1,0:11:54.97,0:11:58.13,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Sanji\NThe mountain behind the {research }institute
 Dialogue: 0,0:11:55.99,0:11:58.13,DefaultLow,,0,0,0,,The kids can't take it anymore.
 Dialogue: 0,0:11:58.13,0:12:00.71,Default,,0,0,0,,Alright, let's remove this fur and...
-Dialogue: 0,0:12:00.71,0:12:02.67,Default,,0,0,0,,No! It's my body!
+Dialogue: 0,0:12:00.71,0:12:02.67,Default,,0,0,0,,Stop it! That's my body!
 Dialogue: 0,0:12:02.67,0:12:07.30,Default,,0,0,0,,But I don't think we can find any warm coats around here...
 Dialogue: 0,0:12:07.30,0:12:10.07,Default,,0,0,0,,Isn't there a lodge or something?
 Dialogue: 0,0:12:10.48,0:12:11.48,Default,,0,0,0,,On top of that,
@@ -317,11 +317,11 @@ Dialogue: 0,0:15:48.64,0:15:50.93,Default,,0,0,0,,Hello...
 Dialogue: 0,0:16:00.88,0:16:06.05,Sign,,0,0,268,,{\blur0.3\fad(520,520)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(4650,4695,\1a&HFF&)}The Straw Hats' Encampment
 Dialogue: 1,0:16:00.88,0:16:06.05,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,520)\4a&HFF&}The Straw Hats' Encampment
 Dialogue: 0,0:16:01.77,0:16:03.98,DefaultLow,,0,0,0,,We're here! This is good.
-Dialogue: 0,0:16:03.98,0:16:07.36,DefaultLow,,0,0,0,,This building has a similar style as the other one.
+Dialogue: 0,0:16:03.98,0:16:07.36,DefaultLow,,0,0,0,,This building has a similar style to other one.
 Dialogue: 0,0:16:07.36,0:16:08.82,DefaultLow,,0,0,0,,But it's crumbling.
 Dialogue: 0,0:16:08.82,0:16:11.20,DefaultLow,,0,0,0,,It looks like there was\Na huge explosion or something.
 Dialogue: 0,0:16:11.20,0:16:13.92,DefaultLow,,0,0,0,,It's fine as long as it'll\Nshelter us from the blizzard.
-Dialogue: 0,0:16:13.92,0:16:16.73,Default,,0,0,0,,Now, where should we begin?
+Dialogue: 0,0:16:14.28,0:16:16.73,Default,,0,0,0,,Now, where should we begin?
 Dialogue: 0,0:16:17.93,0:16:20.50,Default,,0,0,0,,I hurt my own delicate body!
 Dialogue: 0,0:16:20.50,0:16:22.76,Default,,0,0,0,,I'll treat it right away!
 Dialogue: 0,0:16:24.32,0:16:27.04,Default,,0,0,0,,Hey, Sanji-kun! What are you doing to my body?!
@@ -366,7 +366,7 @@ Dialogue: 0,0:18:41.24,0:18:42.45,Default,,0,0,0,,That's so cruel!
 Dialogue: 0,0:18:44.71,0:18:46.28,Default,,0,0,0,,Stop laughing!
 Dialogue: 0,0:18:46.28,0:18:47.99,Default,,0,0,0,,Wouldn't be so funny if it happened to you!
 Dialogue: 0,0:18:50.20,0:18:53.66,Default,,0,0,0,,Let's get it straight from the beginning.
-Dialogue: 0,0:18:53.66,0:18:56.61,Default,,0,0,0,,He is the samurai from the Wano Kingdom.
+Dialogue: 0,0:18:53.66,0:18:56.61,Default,,0,0,0,,He is the samurai from the Land of Wano.
 Dialogue: 0,0:18:57.03,0:18:59.24,Default,,0,0,0,,The signal that we received was...
 Dialogue: 0,0:18:59.24,0:19:01.79,Default,,0,0,0,,...meant for the Alliga-taur
 Dialogue: 0,0:19:01.79,0:19:04.04,Default,,0,0,0,,who they call "Boss" from one of his men.
@@ -420,7 +420,7 @@ Dialogue: 0,0:21:40.91,0:21:43.41,Default,,0,0,0,,It's hard to talk to Captain-c
 Dialogue: 0,0:21:43.41,0:21:44.62,Default,,0,0,0,,That means...
 Dialogue: 0,0:21:47.51,0:21:49.93,Default,,0,0,0,,This one is so scary!
 Dialogue: 0,0:21:49.93,0:21:51.70,Default,,0,0,0,,Smo-yan with Tashigi-chan's body!
-Dialogue: 0,0:21:51.70,0:21:57.37,Default,,0,0,0,,It says "CC" on a ship hidden beside the laboratory.
+Dialogue: 0,0:21:51.70,0:21:57.37,Default,,0,0,0,,It said "CC" on a ship hidden next to the {research }institute.
 Dialogue: 0,0:21:57.37,0:22:01.17,Default,,0,0,0,,What? There was such a ship, Vice Admiral Smoker?
 Dialogue: 0,0:22:01.51,0:22:05.23,Default,,0,0,0,,Yeah. If it's left over from old days,
 Dialogue: 0,0:22:05.23,0:22:06.53,Default,,0,0,0,,the mark should be "PH"...

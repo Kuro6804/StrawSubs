@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 584 (BD 1920x1080 x264 29.970fps FLAC) [C0F
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.437500
-Scroll Position: 54
-Active Line: 68
-Video Position: 5637
+Scroll Position: 282
+Active Line: 288
+Video Position: 36113
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -190,10 +190,10 @@ Dialogue: 1,0:09:02.03,0:09:07.70,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0
 Dialogue: 0,0:09:11.82,0:09:13.33,Default,,0,0,0,,They are...
 Dialogue: 0,0:09:16.23,0:09:19.71,Default,,0,0,0,,Boss! Please take care of them!
 Dialogue: 0,0:09:25.33,0:09:26.48,DefaultLow,,0,0,0,,Be ready!
-Dialogue: 0,0:09:26.48,0:09:28.33,DefaultLow,,0,0,0,,I, Brownbeard-sama,
-Dialogue: 0,0:09:27.18,0:09:34.42,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Boss Brownbeard — Alligator Centaur\N(Former Pirate, Bounty: 80 million 60 thousand berries)
-Dialogue: 1,0:09:27.18,0:09:34.42,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord0\4a&HFF&}Boss Brownbeard — Alligator Centaur\N(Former Pirate, Bounty: 80 million 60 thousand berries)
-Dialogue: 0,0:09:28.33,0:09:31.51,DefaultLow,,0,0,0,,will kick your asses all the way to hell!
+Dialogue: 0,0:09:26.48,0:09:28.15,DefaultLow,,0,0,0,,I, Brownbeard-sama,
+Dialogue: 0,0:09:27.18,0:09:34.42,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Boss Brownbeard — Alligator Centaur\N(Former Pirate, Bounty: 80 Million 60 Thousand Berries)
+Dialogue: 1,0:09:27.18,0:09:34.42,Sign,,0,0,365,,{\blur0.3\fad(750,0)\fs60\bord0\4a&HFF&}Boss Brownbeard — Alligator Centaur\N(Former Pirate, Bounty: 80 Million 60 Thousand Berries)
+Dialogue: 0,0:09:28.15,0:09:31.51,DefaultLow,,0,0,0,,will kick your asses all the way to hell!
 Dialogue: 0,0:09:36.51,0:09:39.16,Default,,0,0,0,,They're all centaurs!
 Dialogue: 0,0:09:39.16,0:09:41.08,Default,,0,0,0,,I wonder if they wanna join us too!
 Dialogue: 0,0:09:41.08,0:09:42.27,Default,,0,0,0,,I'm sure they don't!
@@ -217,8 +217,8 @@ Dialogue: 0,0:10:32.94,0:10:36.25,Default,,0,0,0,,--I'm not gonna kill you! Stop
 Dialogue: 0,0:10:36.85,0:10:38.79,Default,,0,0,0,,What a pathetic ploy!
 Dialogue: 0,0:10:39.16,0:10:43.11,Default,,0,0,0,,We can't let them go any further! Shoot them!
 Dialogue: 0,0:10:43.11,0:10:44.00,Default,,0,0,0,,Understood!
-Dialogue: 0,0:10:50.47,0:10:54.57,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Nami\NThe Ice Lands, inside the mysterious facility
-Dialogue: 1,0:10:50.47,0:10:54.57,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Nami\NThe Ice Lands, inside the mysterious facility
+Dialogue: 0,0:10:50.47,0:10:54.57,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Nami\NFrozen Lands, {inside the }Mysterious Facility
+Dialogue: 1,0:10:50.47,0:10:54.57,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Nami\NFrozen Lands, {inside the }Mysterious Facility
 Dialogue: 0,0:11:01.90,0:11:05.44,Default,,0,0,0,,This way, kids! Run if you wanna get away!
 Dialogue: 0,0:11:06.20,0:11:07.82,Default,,0,0,0,,You're on fire, Chopper!
 Dialogue: 0,0:11:07.82,0:11:09.00,Default,,0,0,0,,Of course!
@@ -237,8 +237,8 @@ Dialogue: 0,0:11:54.13,0:11:56.60,Default,,0,0,0,,Sis, are we going to be okay?
 Dialogue: 0,0:11:57.63,0:12:02.61,Default,,0,0,0,,Of course! We've been though situations like this lots of times!
 Dialogue: 0,0:12:02.61,0:12:05.05,Default,,0,0,0,,So just relax and follow us!
 Dialogue: 0,0:12:05.05,0:12:06.04,Default,,0,0,0,,Uh-huh!
-Dialogue: 0,0:12:13.65,0:12:18.36,Sign,,0,0,365,,{\blur0.3\fad(520,520)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(4190,4235,\1a&HFF&)}Team Sanji\NThe mysterious facility, Biscuits Room
-Dialogue: 1,0:12:13.65,0:12:18.36,Sign,,0,0,365,,{\blur0.3\fad(520,520)\fs60\bord0\4a&HFF&}Team Sanji\NThe mysterious facility, Biscuits Room
+Dialogue: 0,0:12:13.65,0:12:18.36,Sign,,0,0,365,,{\blur0.3\fad(520,520)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(4190,4235,\1a&HFF&)}Team Sanji\NMysterious Facility, Biscuits Room
+Dialogue: 1,0:12:13.65,0:12:18.36,Sign,,0,0,365,,{\blur0.3\fad(520,520)\fs60\bord0\4a&HFF&}Team Sanji\NMysterious Facility, Biscuits Room
 Dialogue: 0,0:12:19.98,0:12:23.29,Default,,0,0,0,,Weapons Left!
 Dialogue: 0,0:12:30.72,0:12:32.94,Default,,0,0,0,,Super!
 Dialogue: 0,0:12:33.76,0:12:35.91,Default,,0,0,0,,He has weapons all over his body!
@@ -259,8 +259,8 @@ Dialogue: 0,0:13:37.17,0:13:39.46,Default,,0,0,0,,This one is different from the
 Dialogue: 0,0:13:39.46,0:13:43.34,Default,,0,0,0,,Who is he? He's proving an able opponent!
 Dialogue: 0,0:13:43.61,0:13:45.81,Default,,0,0,0,,Again, what are you talking about?
 Dialogue: 0,0:13:45.81,0:13:49.72,Default,,0,0,0,,Well, that's what's going on with my torso!
-Dialogue: 0,0:13:52.32,0:13:56.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Brook\NIn front of the mysterious facility
-Dialogue: 1,0:13:52.32,0:13:56.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Brook\NIn front of the mysterious facility
+Dialogue: 0,0:13:52.32,0:13:56.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Brook\NMysterious Facility, Out-Front
+Dialogue: 1,0:13:52.32,0:13:56.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Brook\NMysterious Facility, Out-Front
 Dialogue: 0,0:13:59.83,0:14:02.76,Default,,0,0,0,,Hey! What's going on?!
 Dialogue: 0,0:14:02.76,0:14:05.53,Default,,0,0,0,,Wh-Wh-Who are you?!
 Dialogue: 0,0:14:07.68,0:14:10.57,Default,,0,0,0,,Where is your head and legs?!
@@ -295,7 +295,7 @@ Dialogue: 0,0:17:11.78,0:17:14.08,Default,,0,0,0,,Oh, them!
 Dialogue: 0,0:17:14.52,0:17:16.93,Default,,0,0,0,,The poison gas didn't work.
 Dialogue: 0,0:17:33.68,0:17:37.52,Default,,0,0,0,,Currently, they are breaking through ice floes with a cannon
 Dialogue: 0,0:17:37.52,0:17:39.24,Default,,0,0,0,,and slowly forcing their way into the island.
-Dialogue: 0,0:17:40.48,0:17:44.44,Default,,0,0,0,,They'll reach the laboratory in time!
+Dialogue: 0,0:17:40.48,0:17:44.44,Default,,0,0,0,,They'll reach the {research }institute in no time!
 Dialogue: 0,0:17:45.05,0:17:46.34,Default,,0,0,0,,Why?
 Dialogue: 0,0:17:46.84,0:17:49.64,Default,,0,0,0,,Why do they want to come into the island so badly?
 Dialogue: 0,0:17:50.62,0:17:53.16,Default,,0,0,0,,Do they know something?
@@ -327,8 +327,8 @@ Dialogue: 0,0:19:53.33,0:19:56.80,Default,,0,0,0,,Somebody who doesn't want to w
 Dialogue: 0,0:19:56.80,0:19:59.27,Default,,0,0,0,,Do you really think so?
 Dialogue: 0,0:19:59.27,0:20:01.33,Default,,0,0,0,,Let's find out.
 Dialogue: 0,0:20:03.06,0:20:04.95,Default,,0,0,0,,Is that...
-Dialogue: 0,0:20:04.95,0:20:08.69,Default,,0,0,0,,Yes, Dr. Vegapunk's laboratory.
-Dialogue: 0,0:20:08.69,0:20:10.98,Default,,0,0,0,,Former laboratory, I mean.
+Dialogue: 0,0:20:04.95,0:20:08.69,Default,,0,0,0,,Yes, Dr. Vegapunk's research institute.
+Dialogue: 0,0:20:08.69,0:20:10.98,Default,,0,0,0,,Former, that is.
 Dialogue: 0,0:20:11.42,0:20:15.72,Default,,0,0,0,,It should be abandoned and empty.
 Dialogue: 0,0:20:22.41,0:20:24.00,Default,,0,0,0,,There is still power.
 Dialogue: 0,0:20:24.98,0:20:27.65,Default,,0,0,0,,Who is living here?

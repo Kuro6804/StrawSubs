@@ -23,18 +23,19 @@ Audio File: [SOFCJ-Raws] One Piece - 599 (BD 1920x1080 x264 29.970fps FLAC) [81C
 Video File: [SOFCJ-Raws] One Piece - 599 (BD 1920x1080 x264 29.970fps FLAC) [81C65598].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 361
-Active Line: 371
-Video Position: 42407
+Video Zoom Percent: 0.500000
+Scroll Position: 327
+Active Line: 344
+Video Position: 37471
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
-Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,4.5,0,2,45,45,4,0
+Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,45,45,6,0
+Style: DefaultLow3,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,45,45,4,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -127,12 +128,13 @@ Dialogue: 0,0:03:27.44,0:03:30.23,Default,,0,0,0,,Use Sea Prism Stone chains for
 Dialogue: 0,0:03:30.91,0:03:33.08,Default,,0,0,0,,When did you come here?
 Dialogue: 0,0:03:34.15,0:03:35.50,Default,,0,0,0,,Vergo!
 Dialogue: 0,0:03:36.38,0:03:41.52,Default,,0,0,0,,Just arrived. Luckily, I was at Dress Rosa.
-Dialogue: 0,0:03:41.52,0:03:45.33,Default,,0,0,0,,I got a ride in an SAD tanker that was about to leave.
+Dialogue: 0,0:03:41.52,0:03:45.33,Default,,0,0,0,,I got a ride in a S.A.D. tanker that was about to leave.
 Dialogue: 0,0:03:46.81,0:03:55.79,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Shocking!
 Dialogue: 1,0:03:46.81,0:03:55.79,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Shocking!
 Dialogue: 0,0:03:46.81,0:03:55.79,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}The Mystery Man's True Identity—Vergo!
 Dialogue: 1,0:03:46.81,0:03:55.79,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Mystery Man's True Identity—Vergo!
-Dialogue: 0,0:03:56.69,0:04:00.19,"Sign",,0,0,0,,THE ICE LANDS--THE LABORATORY
+Dialogue: 0,0:03:56.69,0:04:00.19,Sign,,0,0,268,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Frozen Lands, Research Institute
+Dialogue: 1,0:03:56.69,0:04:00.19,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Frozen Lands, Research Institute
 Dialogue: 0,0:04:13.76,0:04:15.15,Default,,0,0,0,,You have no mercy.
 Dialogue: 0,0:04:15.15,0:04:18.14,Default,,0,0,0,,If I had mercy, it wouldn't make good punishment.
 Dialogue: 0,0:04:18.31,0:04:24.44,Default,,0,0,0,,Vergo... The Navy soldiers of the G-5 are here on the island now.
@@ -142,7 +144,8 @@ Dialogue: 0,0:04:38.78,0:04:42.99,Default,,0,0,0,,Don't try to give me your advi
 Dialogue: 0,0:04:43.60,0:04:47.27,Default,,0,0,0,,Also, don't make me repeat myself.
 Dialogue: 0,0:04:49.00,0:04:52.10,Default,,0,0,0,,You have to address me with "san."
 Dialogue: 0,0:04:53.62,0:04:55.74,Default,,0,0,0,,Oh, scary!
-Dialogue: 0,0:04:57.61,0:05:01.29,"Sign",,0,0,0,,THE NEW WORLD--AN ISLAND
+Dialogue: 0,0:04:57.61,0:05:01.29,Sign,,0,0,266,,{\blur0.3\fad(660,0)\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}A certain island in the New World
+Dialogue: 1,0:04:57.61,0:05:01.29,Sign,,0,0,266,,{\bord0\blur0.3\fad(660,0)\4a&HFF&}A certain island in the New World
 Dialogue: 0,0:05:06.02,0:05:08.91,Default,,0,0,0,,Hey, look! Soldiers of the G-5.
 Dialogue: 0,0:05:08.91,0:05:13.90,Default,,0,0,0,,Getting drunk and partying in the daytime? They're so obnoxious!
 Dialogue: 0,0:05:15.59,0:05:18.37,Default,,0,0,0,,Do you have a problem?!
@@ -152,9 +155,10 @@ Dialogue: 0,0:05:26.21,0:05:29.52,Default,,0,0,0,,going around like this for you
 Dialogue: 0,0:05:29.52,0:05:30.88,Default,,0,0,0,,Huh?!
 Dialogue: 0,0:05:30.88,0:05:35.10,Default,,0,0,0,,We deserve to take a little break, don't we?
 Dialogue: 0,0:05:35.10,0:05:36.77,Default,,0,0,0,,W-Well...
-Dialogue: 0,0:05:41.43,0:05:47.10,"Sign",,0,0,0,,THE NAVY "G-5" UNIT 06 COMMODORE YARISUGI
+Dialogue: 0,0:05:41.43,0:05:47.10,Sign,,0,0,363,,{\blur0.3\fad(660,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Commodore Yarisugi\NNaval Base G-5, Unit 06
+Dialogue: 1,0:05:41.43,0:05:47.10,Sign,,0,0,363,,{\blur0.3\fad(660,0)\fs60\bord0\4a&HFF&}Commodore Yarisugi\NNaval Base G-5, Unit 06
 Dialogue: 0,0:05:41.74,0:05:44.49,DefaultLow,,0,0,0,,It's good! Too good!
-Dialogue: 0,0:05:44.49,0:05:47.40,DefaultLow,,0,0,0,,Owner, give me a thousand of these!
+Dialogue: 0,0:05:44.49,0:05:47.10,DefaultLow,,0,0,0,,Owner, give me a thousand of these!
 Dialogue: 0,0:05:47.40,0:05:49.69,Default,,0,0,0,,W-We don't have that many in stock!
 Dialogue: 0,0:05:49.69,0:05:54.13,Default,,0,0,0,,What?! Why?! It's too good!
 Dialogue: 0,0:05:54.13,0:05:55.79,Default,,0,0,0,,Navy people!
@@ -209,9 +213,11 @@ Dialogue: 0,0:08:39.63,0:08:41.45,Default,,0,0,0,,because he was such a gentlema
 Dialogue: 0,0:08:43.05,0:08:46.31,Default,,0,0,0,,He thinks that it was an accident, too?!
 Dialogue: 0,0:08:50.63,0:08:52.18,Default,,0,0,0,,They are still alive!
 Dialogue: 0,0:08:58.33,0:09:02.04,Default,,0,0,0,,Our children are still alive.
-Dialogue: 0,0:09:03.59,0:09:06.42,DefaultLow2,,0,0,0,,Somewhere in this world!
-Dialogue: 0,0:09:04.43,0:09:07.43,"Sign",,0,0,0,,PUNK HAZARD
-Dialogue: 0,0:09:07.90,0:09:11.07,"Sign",,0,0,0,,THE REMAINS OF THE FIRST AND SECOND LABORATORY TEAM NAMI/USOPP
+Dialogue: 0,0:09:03.59,0:09:06.42,DefaultLow3,,0,0,0,,Somewhere in this world!
+Dialogue: 0,0:09:04.43,0:09:07.43,Sign,,0,0,264,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Punk Hazard
+Dialogue: 1,0:09:04.43,0:09:07.43,Sign,,0,0,264,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Punk Hazard
+Dialogue: 0,0:09:07.90,0:09:11.07,Sign,,0,0,365,,{\blur0.3\fad(500,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Team Nami/Usopp\NRuins of the First and Second Research Institutes
+Dialogue: 1,0:09:07.90,0:09:11.07,Sign,,0,0,365,,{\blur0.3\fad(500,0)\fs60\bord0\4a&HFF&}Team Nami/Usopp\NRuins of the First and Second Research Institutes
 Dialogue: 0,0:09:14.36,0:09:16.84,Default,,0,0,0,,My head is gonna explode!
 Dialogue: 0,0:09:16.84,0:09:19.14,Default,,0,0,0,,Usopp, make them fall asleep already!
 Dialogue: 0,0:09:19.14,0:09:22.85,Default,,0,0,0,,I'm doing it but it's not gonna work that many times!
@@ -240,7 +246,7 @@ Dialogue: 0,0:10:28.69,0:10:32.20,Default,,0,0,0,,No! Don't be ridiculous, they'
 Dialogue: 0,0:10:34.91,0:10:38.09,Default,,0,0,0,,But we can't just run around like this!
 Dialogue: 0,0:10:57.20,0:10:58.74,Default,,0,0,0,,Master!
 Dialogue: 0,0:11:01.13,0:11:03.72,Default,,0,0,0,,Are you okay, children?
-Dialogue: 0,0:11:04.02,0:11:06.92,Default,,0,0,0,,Let's go back to the laboratory!
+Dialogue: 0,0:11:04.02,0:11:06.92,Default,,0,0,0,,Let's go back to the {research }institute!
 Dialogue: 0,0:11:06.92,0:11:08.82,Default,,0,0,0,,It's dangerous here.
 Dialogue: 0,0:11:10.94,0:11:12.51,Default,,0,0,0,,It's the candy!
 Dialogue: 0,0:11:12.51,0:11:13.45,Default,,0,0,0,,Master!
@@ -248,7 +254,8 @@ Dialogue: 0,0:11:13.45,0:11:14.59,Default,,0,0,0,,Master!
 Dialogue: 0,0:11:14.59,0:11:15.89,Default,,0,0,0,,Master!
 Dialogue: 0,0:11:16.16,0:11:22.10,Default,,0,0,0,,Master! Master! Master!
 Dialogue: 0,0:11:22.10,0:11:23.93,Default,,0,0,0,,Master?
-Dialogue: 0,0:11:30.54,0:11:34.54,"Sign",,0,0,0,,CENTER LAKE
+Dialogue: 0,0:11:30.54,0:11:34.54,Sign,,0,0,264,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Center Lake
+Dialogue: 1,0:11:30.54,0:11:34.54,Sign,,0,0,264,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Center Lake
 Dialogue: 0,0:11:42.18,0:11:43.98,Default,,0,0,0,,The Slime got mad!
 Dialogue: 0,0:11:44.28,0:11:45.67,Default,,0,0,0,,Why, all of a sudden?
 Dialogue: 0,0:11:45.67,0:11:50.92,Default,,0,0,0,,Probably because those small Slimes were blown up.
@@ -266,10 +273,10 @@ Dialogue: 0,0:13:11.30,0:13:14.55,Default,,0,0,0,,Maybe he's flinging pieces of 
 Dialogue: 0,0:13:19.97,0:13:23.34,Default,,0,0,0,,We don't want that monster to run wild on this side!
 Dialogue: 0,0:13:23.34,0:13:27.03,Default,,0,0,0,,You're right! If we cut it, it spews gas. If we burn it, it explodes.
 Dialogue: 0,0:13:27.03,0:13:28.39,Default,,0,0,0,,And it's way bigger than the ones from before!
-Dialogue: 0,0:13:31.08,0:13:33.06,Default,,0,0,0,,The lab could be in danger, too!
+Dialogue: 0,0:13:31.08,0:13:33.06,Default,,0,0,0,,The {research }institute could be in danger, too!
 Dialogue: 0,0:13:33.35,0:13:35.29,Default,,0,0,0,,What? Then, we'd better hurry!
 Dialogue: 0,0:13:35.58,0:13:37.35,Default,,0,0,0,,Momonosuke!
-Dialogue: 0,0:13:37.35,0:13:40.57,Default,,0,0,0,,What are you guys gonna do?! I'm going to the lab!
+Dialogue: 0,0:13:37.35,0:13:40.57,Default,,0,0,0,,What are you guys gonna do?!\NI'm going to the {research }institute!
 Dialogue: 0,0:13:40.57,0:13:43.64,Default,,0,0,0,,Then we gotta go, too! Idiot!
 Dialogue: 0,0:13:43.64,0:13:45.37,Default,,0,0,0,,Who're you calling "idiot"?!
 Dialogue: 0,0:13:45.37,0:13:46.85,Default,,0,0,0,,You're such a pain!
@@ -277,7 +284,7 @@ Dialogue: 0,0:13:46.85,0:13:50.07,Default,,0,0,0,,If you get separated from Kin'
 Dialogue: 0,0:13:50.07,0:13:52.47,Default,,0,0,0,,we have to look for you all over the island!
 Dialogue: 0,0:13:52.47,0:13:55.79,Default,,0,0,0,,You can't fight now, Zoro-san, Sanji-san!
 Dialogue: 0,0:13:59.86,0:14:02.53,Default,,0,0,0,,I want to see his swordplay, too!
-Dialogue: 0,0:14:02.79,0:14:05.42,Default,,0,0,0,,Let's go to the lab!
+Dialogue: 0,0:14:02.79,0:14:05.42,Default,,0,0,0,,Let's go to the {research }institute!
 Dialogue: 0,0:14:12.75,0:14:13.77,Default,,0,0,0,,You awake?
 Dialogue: 0,0:14:14.16,0:14:15.72,Default,,0,0,0,,What are you doing here?
 Dialogue: 0,0:14:15.72,0:14:17.71,Default,,0,0,0,,I was gonna ask you the same thing.
@@ -292,9 +299,10 @@ Dialogue: 0,0:14:45.20,0:14:47.64,Default,,0,0,0,,You all look better than I tho
 Dialogue: 0,0:14:47.64,0:14:50.04,Default,,0,0,0,,What?! You're...
 Dialogue: 0,0:14:50.04,0:14:54.34,Default,,0,0,0,,You're the head of the G-5! Why the hell are you here?!
 Dialogue: 0,0:14:54.87,0:14:55.94,Default,,0,0,0,,Vergo!
-Dialogue: 0,0:15:11.53,0:15:14.50,DefaultLow,,0,0,0,,Give us back Smo-yan, Caesar!
-Dialogue: 0,0:15:12.50,0:15:17.27,"Sign",,0,0,0,,CAESAR'S LABORATORY - THE FRONT
-Dialogue: 0,0:15:14.83,0:15:17.03,DefaultLow,,0,0,0,,Give us back Tashigi-chan!
+Dialogue: 0,0:15:11.53,0:15:14.50,DefaultLow2,,0,0,0,,Give us back Smo-yan, Caesar!
+Dialogue: 0,0:15:12.50,0:15:17.27,Sign,,0,0,266,,{\blur0.3\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Caesar's Research Institute, Out-Front
+Dialogue: 1,0:15:12.50,0:15:17.27,Sign,,0,0,266,,{\bord0\blur0.3\fad(500,0)\4a&HFF&}Caesar's Research Institute, Out-Front
+Dialogue: 0,0:15:14.83,0:15:17.03,DefaultLow2,,0,0,0,,Give us back Tashigi-chan!
 Dialogue: 0,0:15:26.74,0:15:28.70,Default,,0,0,0,,All clear!
 Dialogue: 0,0:15:28.70,0:15:30.35,Default,,0,0,0,,Alright, close the shutters!
 Dialogue: 0,0:15:30.78,0:15:35.33,Default,,0,0,0,,Don't let the Navy soldiers in at any cost!

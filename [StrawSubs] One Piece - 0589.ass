@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 589 (BD 1920x1080 x264 29.970fps FLAC) [2EE
 Video File: [SOFCJ-Raws] One Piece - 589 (BD 1920x1080 x264 29.970fps FLAC) [2EE94074].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 58
-Active Line: 68
-Video Position: 5637
+Video Zoom Percent: 0.562500
+Scroll Position: 147
+Active Line: 160
+Video Position: 16152
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,7 +112,7 @@ Dialogue: 0,0:03:14.53,0:03:16.75,Default,,0,0,0,,After surviving a fierce battl
 Dialogue: 0,0:03:16.75,0:03:19.50,Default,,0,0,0,,the Straw Hats reach the New World at long last—
 Dialogue: 0,0:03:19.50,0:03:21.71,Default,,0,0,0,,the harshest sea, ruled by the Four Emperors.
 Dialogue: 0,0:03:22.25,0:03:25.82,Default,,0,0,0,,After receiving an emergency signal,\Nthey landed on Punk Hazard,
-Dialogue: 0,0:03:25.82,0:03:28.79,Default,,0,0,0,,a strange island divided into two parts—\Nthe Burning Lands and the Ice Lands.
+Dialogue: 0,0:03:25.82,0:03:28.79,Default,,0,0,0,,a strange island divided into two parts—\Nthe Burning Lands and the Frozen Lands.
 Dialogue: 0,0:03:28.79,0:03:34.19,Default,,0,0,0,,{\q2}A branch of the Navy led by Smoker, G-5,\Nreached the island while chasing after the Straw Hats
 Dialogue: 0,0:03:34.19,0:03:37.86,Default,,0,0,0,,and ended up in battle with Trafalgar Law,\Nwho suddenly appeared.
 Dialogue: 0,0:03:38.29,0:03:41.53,Default,,0,0,0,,It's you! Do you remember me?
@@ -198,8 +198,8 @@ Dialogue: 0,0:08:47.67,0:08:48.67,Default,,0,0,0,,You're a bad person!
 Dialogue: 0,0:08:48.67,0:08:52.39,Default,,0,0,0,,Be careful! Before it gets too late,
 Dialogue: 0,0:08:52.39,0:08:55.72,Default,,0,0,0,,I'll try to take back my heart and body,
 Dialogue: 0,0:08:55.72,0:08:58.43,Default,,0,0,0,,and reveal who's really behind this!
-Dialogue: 0,0:08:58.92,0:09:03.46,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Former Vegapunk Lab\NLaboratory #3
-Dialogue: 1,0:08:58.92,0:09:03.46,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Former Vegapunk Lab\NLaboratory #3
+Dialogue: 0,0:08:58.92,0:09:03.46,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Former Vegapunk Lab\NThird Research Institute
+Dialogue: 1,0:08:58.92,0:09:03.46,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Former Vegapunk Lab\NThird Research Institute
 Dialogue: 0,0:09:04.13,0:09:06.55,Default,,0,0,0,,I finally got through to him.
 Dialogue: 0,0:09:07.17,0:09:08.14,Default,,0,0,0,,Clank.
 Dialogue: 0,0:09:08.14,0:09:10.27,Default,,0,0,0,,We have permission to kill.
@@ -281,17 +281,16 @@ Dialogue: 0,0:12:55.89,0:12:59.36,Default,,0,0,0,,This place... This island...
 Dialogue: 0,0:13:00.49,0:13:05.53,Default,,0,0,0,,...used to be a lush green treasure house of life.
 Dialogue: 0,0:13:05.53,0:13:06.87,Default,,0,0,0,,Really?
 Dialogue: 0,0:13:06.87,0:13:08.24,Default,,0,0,0,,It's nothing like that now.
-Dialogue: 0,0:13:25.75,0:13:28.30,Default,,0,0,0,,And it housed a laboratory
-Dialogue: 0,0:13:28.30,0:13:30.55,Default,,0,0,0,,of Dr.Vegapunk, a Government scientist.
+Dialogue: 0,0:13:25.75,0:13:30.55,Default,,0,0,0,,It housed the research institutes of\NDr. Vegapunk, a Government scientist.
 Dialogue: 0,0:13:30.55,0:13:35.14,Default,,0,0,0,,They were experimenting with and developing weapons and chemicals here.
 Dialogue: 0,0:13:40.06,0:13:45.04,Default,,0,0,0,,Instead of going to prisons, they brought some prisoners here
 Dialogue: 0,0:13:45.04,0:13:48.55,Default,,0,0,0,,and performed experiments on them like they were guinea pigs.
 Dialogue: 0,0:13:49.98,0:13:52.14,Default,,0,0,0,,But four years ago,
 Dialogue: 0,0:13:52.14,0:13:55.69,Default,,0,0,0,,Vegapunk's chemical weapon test went wrong!
-Dialogue: 0,0:14:18.60,0:14:22.38,Default,,0,0,0,,And two of the three laboratories exploded!
-Dialogue: 0,0:14:22.88,0:14:25.93,Default,,0,0,0,,This is the remains of that laboratory.
-Dialogue: 0,0:14:48.61,0:14:52.88,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Former Vegapunk Labs\NRuins of Laboratories #1 and #2
-Dialogue: 1,0:14:48.61,0:14:52.88,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Former Vegapunk Labs\NRuins of Laboratories #1 and #2
+Dialogue: 0,0:14:18.60,0:14:22.38,Default,,0,0,0,,And two of the {research }institutes exploded!
+Dialogue: 0,0:14:22.88,0:14:25.93,Default,,0,0,0,,These are the remains of those very {research }institutes.
+Dialogue: 0,0:14:48.61,0:14:52.88,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Former Vegapunk Labs\NRuins of the First and Second Research Institutes
+Dialogue: 1,0:14:48.61,0:14:52.88,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Former Vegapunk Labs\NRuins of the First and Second Research Institutes
 Dialogue: 0,0:14:52.87,0:14:56.37,Default,,0,0,0,,I see. So there was a huge explosion.
 Dialogue: 0,0:14:57.04,0:14:59.25,Default,,0,0,0,,That's why this place is a mess.
 Dialogue: 0,0:15:02.28,0:15:06.20,Default,,0,0,0,,The explosion belched intense heat and toxic substances,
@@ -299,9 +298,9 @@ Dialogue: 0,0:15:06.20,0:15:09.66,Default,,0,0,0,,and killed each and every livi
 Dialogue: 0,0:15:27.48,0:15:29.69,Default,,0,0,0,,But in that critical situation,
 Dialogue: 0,0:15:29.69,0:15:33.15,Default,,0,0,0,,the Government left those guinea-pig prisoners
 Dialogue: 0,0:15:33.74,0:15:38.69,Default,,0,0,0,,and escaped from the island then shut it down completely.
-Dialogue: 0,0:15:40.81,0:15:43.78,Default,,0,0,0,,The prisoners stayed in the Third Laboratory,
-Dialogue: 0,0:15:43.78,0:15:46.36,Default,,0,0,0,,the only building that remained intact,
-Dialogue: 0,0:15:46.36,0:15:51.20,Default,,0,0,0,,and sheltered themselves from the poison gas that was all over the island.
+Dialogue: 0,0:15:40.81,0:15:43.78,Default,,0,0,0,,The prisoners took shelter\Nin the Third Research Institute,
+Dialogue: 0,0:15:43.78,0:15:46.36,Default,,0,0,0,,the only place that remained intact,
+Dialogue: 0,0:15:46.36,0:15:51.20,Default,,0,0,0,,and hid from the poison gas that spread all over the island.
 Dialogue: 0,0:15:51.66,0:15:55.04,Default,,0,0,0,,Even those who survived were paralyzed mainly in their lower body
 Dialogue: 0,0:15:55.04,0:15:58.04,Default,,0,0,0,,because of the nerve gas
 Dialogue: 0,0:15:58.04,0:16:00.95,Default,,0,0,0,,and lost hope in their future.
@@ -338,7 +337,7 @@ Dialogue: 0,0:18:18.18,0:18:21.32,Default,,0,0,0,,What a touching story!
 Dialogue: 0,0:18:21.61,0:18:24.20,Default,,0,0,0,,So the Tra-guy is a good guy as I thought!
 Dialogue: 0,0:18:24.20,0:18:26.57,Default,,0,0,0,,He saved my life, too!
 Dialogue: 0,0:18:26.57,0:18:29.16,Default,,0,0,0,,Vegapunk is a horrible person!
-Dialogue: 0,0:18:29.45,0:18:33.41,Default,,0,0,0,,That's why there were those half-sheep people at the laboratory.
+Dialogue: 0,0:18:29.45,0:18:33.41,Default,,0,0,0,,That's why there were those half-sheep people at the {research }institute.
 Dialogue: 0,0:18:33.41,0:18:35.58,Default,,0,0,0,,Centaurs and the bird woman, too.
 Dialogue: 0,0:18:35.58,0:18:37.13,Default,,0,0,0,,It all makes sense.
 Dialogue: 0,0:18:37.13,0:18:39.26,Default,,0,0,0,,But wait. What about the dragon?
@@ -407,18 +406,18 @@ Dialogue: 0,0:22:04.26,0:22:06.01,Default,,0,0,0,,"Not good."
 Dialogue: 0,0:22:10.49,0:22:11.94,Default,,0,0,0,,Another failure?
 Dialogue: 0,0:22:13.50,0:22:15.25,Default,,0,0,0,,Failure?
 Dialogue: 0,0:22:15.25,0:22:16.68,Default,,0,0,0,,Watch your tongue!
-Dialogue: 0,0:22:16.85,0:22:26.83,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Master Caesar Clown\NFormer government scientist, bounty: 300 million berries
-Dialogue: 1,0:22:16.85,0:22:26.83,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Master Caesar Clown\NFormer government scientist, bounty: 300 million berries
+Dialogue: 0,0:22:16.85,0:22:26.83,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Master Caesar Clown\NFormer Government Scientist, Bounty: 300 Million Berries
+Dialogue: 1,0:22:16.85,0:22:26.83,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Master Caesar Clown\NFormer Government Scientist, Bounty: 300 Million Berries
 Dialogue: 0,0:22:17.64,0:22:20.42,DefaultLow,,0,0,0,,My experiments never fail!
-Dialogue: 0,0:22:20.42,0:22:22.91,DefaultLow,,0,0,0,,Even what happened four years ago!
-Dialogue: 0,0:22:22.91,0:22:26.82,DefaultLow,,0,0,0,,Everyone talks nonsense as usual!
+Dialogue: 0,0:22:20.42,0:22:22.91,DefaultLow,,0,0,0,,The one four years ago wasn't a failure, either!
+Dialogue: 0,0:22:22.91,0:22:26.82,DefaultLow,,0,0,0,,They've been spouting such nonsense!
 Dialogue: 0,0:22:27.12,0:22:28.72,Default,,0,0,0,,A failed experiment?
-Dialogue: 0,0:22:28.72,0:22:32.04,Default,,0,0,0,,I "killed" the whole island with the weapon!
-Dialogue: 0,0:22:32.04,0:22:34.78,Default,,0,0,0,,It wasn't a failure, World Government!
-Dialogue: 0,0:22:35.49,0:22:38.77,Default,,0,0,0,,I'm capable of killing more enemies than anyone else.
-Dialogue: 0,0:22:40.53,0:22:45.28,Default,,0,0,0,,I carefully document my victims until their final moment.
-Dialogue: 0,0:22:45.28,0:22:46.81,Default,,0,0,0,,You just wait!
-Dialogue: 0,0:22:46.81,0:22:52.12,Default,,0,0,0,,I'll make them realize who is the greatest scientist in the world!
+Dialogue: 0,0:22:28.72,0:22:32.04,Default,,0,0,0,,I showed how my weapon\Ncould kill an entire island!
+Dialogue: 0,0:22:32.04,0:22:34.78,Default,,0,0,0,,It wasn't a failure,\Nyou World Government curs!
+Dialogue: 0,0:22:35.49,0:22:38.77,Default,,0,0,0,,I proved myself the most efficient\Nkiller in the world!
+Dialogue: 0,0:22:40.53,0:22:45.28,Default,,0,0,0,,I meticulously document each of my victims\Nuntil they draw their final breath.
+Dialogue: 0,0:22:45.28,0:22:46.81,Default,,0,0,0,,Just you watch!
+Dialogue: 0,0:22:46.81,0:22:52.12,Default,,0,0,0,,I'll show them who the number one\Nscientist in the world is!
 Dialogue: 0,0:23:08.60,0:23:12.28,Default,,0,0,0,,The children suddenly begin fainting\Nfrom terrible pain, one after the other.
 Dialogue: 0,0:23:12.71,0:23:18.71,Default,,0,0,0,,The Straw Hat crewmates are left stunned\Nwhen Chopper reveals the horrifying cause.
 Dialogue: 0,0:23:19.10,0:23:25.05,Default,,0,0,0,,Meanwhile, Team Zoro sets out to find the samurai, unaware of the colossal shadows looming nearby.

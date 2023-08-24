@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 616 (BD 1920x1080 x264 29.970fps FLAC) [AC7
 Video File: [SOFCJ-Raws] One Piece - 616 (BD 1920x1080 x264 29.970fps FLAC) [AC73261F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 300
-Active Line: 305
-Video Position: 42288
+Video Zoom Percent: 0.500000
+Scroll Position: 143
+Active Line: 154
+Video Position: 16927
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -165,7 +165,7 @@ Dialogue: 0,0:06:13.90,0:06:16.40,Default,,0,0,0,,A gas burner attack that could
 Dialogue: 0,0:06:19.68,0:06:24.30,Default,,0,0,0,,Did he get melted away? Or incinerated?!
 Dialogue: 0,0:06:31.40,0:06:35.28,Default,,0,0,0,,I-I-I-I know! It doesn't feel like it's real, does it?!
 Dialogue: 0,0:06:35.28,0:06:39.01,Default,,0,0,0,,It's too much for a rookie who just came to the New World!
-Dialogue: 0,0:06:39.01,0:06:41.91,Default,,0,0,0,,But one of those monsters is here in the lab.
+Dialogue: 0,0:06:39.01,0:06:41.91,Default,,0,0,0,,But one of those monsters is here in the {research }institute.
 Dialogue: 0,0:06:42.33,0:06:43.49,Default,,0,0,0,,It's Vergo!
 Dialogue: 0,0:06:43.49,0:06:47.11,Default,,0,0,0,,No one can compete against his Armament Haki!
 Dialogue: 0,0:06:47.11,0:06:49.83,Default,,0,0,0,,Smoker and Law are goners!
@@ -191,7 +191,7 @@ Dialogue: 0,0:09:01.63,0:09:04.41,Default,,0,0,0,,Pirate Vergo!
 Dialogue: 0,0:09:05.00,0:09:08.16,Default,,0,0,0,,Your Haki isn't good enough to beat me.
 Dialogue: 0,0:09:08.87,0:09:10.84,Default,,0,0,0,,Why can't you see that?
 Dialogue: 0,0:09:16.52,0:09:21.16,Default,,0,0,0,,Netherworld is a lethal gas that petrifies human bodies and kills them.
-Dialogue: 0,0:09:21.85,0:09:25.38,Default,,0,0,0,,And it is now flowing into the laboratory.
+Dialogue: 0,0:09:21.85,0:09:25.38,Default,,0,0,0,,And it is now flowing into the {research }institute.
 Dialogue: 0,0:09:28.04,0:09:29.95,Default,,0,0,0,,Hey, what are you doing?!
 Dialogue: 0,0:09:29.95,0:09:31.63,Default,,0,0,0,,If you were going straight,
 Dialogue: 0,0:09:31.63,0:09:33.72,Default,,0,0,0,,we should've been caught up with the kids by now!
@@ -211,7 +211,7 @@ Dialogue: 0,0:10:06.43,0:10:08.92,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:10:08.92,0:10:11.11,Default,,0,0,0,,Mocha! Stay with me!
 Dialogue: 0,0:10:11.11,0:10:13.02,Default,,0,0,0,,You're gonna be alright soon!
 Dialogue: 0,0:10:13.02,0:10:15.60,Default,,0,0,0,,Come on! Get it all out!
-Dialogue: 0,0:10:18.90,0:10:22.87,Default,,0,0,0,,The survivors are heading toward R Building, 1st floor -
+Dialogue: 0,0:10:18.90,0:10:22.87,Default,,0,0,0,,The survivors are heading toward Building R, 1st floor -
 Dialogue: 0,0:10:22.87,0:10:24.71,Default,,0,0,0,,the location of the last exit
 Dialogue: 0,0:10:24.90,0:10:27.11,Default,,0,0,0,,and ground zero of the fight between Luffy and Caesar!
 Dialogue: 0,0:10:27.87,0:10:31.65,Default,,0,0,0,,Meanwhile, Kin'emon is looking for his son Momonosuke...
@@ -299,7 +299,7 @@ Dialogue: 0,0:18:46.08,0:18:48.88,Default,,0,0,0,,I know you're listening, "Joke
 Dialogue: 0,0:18:59.09,0:19:01.93,Default,,0,0,0,,Vergo is a dead man, Joker.
 Dialogue: 0,0:19:02.38,0:19:04.98,Default,,0,0,0,,You're about to lose your right-hand man.
 Dialogue: 0,0:19:05.43,0:19:07.85,Default,,0,0,0,,And Straw Hatter will take care of Caesar. {Straw Hat-ya}
-Dialogue: 0,0:19:08.68,0:19:11.95,Default,,0,0,0,,That means you're also gonna lose SAD.
+Dialogue: 0,0:19:08.68,0:19:11.95,Default,,0,0,0,,That means you're also gonna lose the S.A.D.
 Dialogue: 0,0:19:12.52,0:19:17.64,Default,,0,0,0,,You couldn't see this coming because you were overconfident.
 Dialogue: 0,0:19:18.26,0:19:20.73,Default,,0,0,0,,So why don't you just keep cackling like always
 Dialogue: 0,0:19:20.73,0:19:22.85,Default,,0,0,0,,and think about your next move.

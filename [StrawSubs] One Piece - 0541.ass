@@ -220,7 +220,7 @@ Dialogue: 0,0:11:44.32,0:11:45.52,Default,,0,0,0,,Drop dead!
 Dialogue: 0,0:11:51.13,0:11:52.56,DefaultLow,,0,0,0,,Vice Admiral Borsalino.
 Dialogue: 0,0:11:51.29,0:11:56.03,Sign,,0,0,365,,{\blur0.3\fad(770,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(725,770,\1a&H00&)}Marineford, Navy Headquarters
 Dialogue: 1,0:11:51.29,0:11:56.03,Sign,,0,0,365,,{\blur0.3\fad(770,0)\fs60\bord0\4a&HFF&}Marineford, Navy Headquarters
-Dialogue: 0,0:11:52.56,0:11:56.03,DefaultLow,,0,0,0,,G2 branch - Rear Admiral Kadar's ship has been defeated.
+Dialogue: 0,0:11:52.56,0:11:56.03,DefaultLow,,0,0,0,,G-2 branch - Rear Admiral Kadar's ship has been defeated.
 Dialogue: 0,0:11:56.03,0:12:00.00,Default,,0,0,0,,Oh? Why did they even fight them?
 Dialogue: 0,0:12:00.00,0:12:03.37,Default,,0,0,0,,I just wanted to know where they were.
 Dialogue: 0,0:12:03.37,0:12:06.01,Default,,0,0,0,,It's said if you get close enough to see them,

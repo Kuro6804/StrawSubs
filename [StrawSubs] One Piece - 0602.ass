@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 602 (BD 1920x1080 x264 29.970fps FLAC) [CE7
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 306
-Active Line: 316
-Video Position: 42288
+Scroll Position: 290
+Active Line: 298
+Video Position: 40187
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -159,7 +159,7 @@ Dialogue: 0,0:06:28.30,0:06:31.49,Default,,0,0,0,,Smiley!
 Dialogue: 0,0:06:56.70,0:06:58.82,Default,,0,0,0,,Look out! Something's going on!
 Dialogue: 0,0:06:58.82,0:07:00.50,Default,,0,0,0,,What is "something"?!
 Dialogue: 0,0:07:00.50,0:07:03.31,Default,,0,0,0,,How do I know?! But I'm sure it's something bad!
-Dialogue: 0,0:07:03.31,0:07:06.71,Default,,0,0,0,,Just do as the Master says and run to the lab!
+Dialogue: 0,0:07:03.31,0:07:06.71,Default,,0,0,0,,Just do as the Master says and run to the {research }institute!
 Dialogue: 0,0:07:06.71,0:07:10.39,Default,,0,0,0,,Damn! I can't believe the sled broke! Why now?!
 Dialogue: 0,0:07:10.81,0:07:13.32,Default,,0,0,0,,Master!
 Dialogue: 0,0:07:13.39,0:07:16.10,Default,,0,0,0,,He's acting strange since he ate the candy!
@@ -214,7 +214,7 @@ Dialogue: 0,0:13:04.85,0:13:06.87,Default,,0,0,0,,Master!
 Dialogue: 0,0:13:10.06,0:13:13.68,Default,,0,0,0,,Oh no! We have to run! Or we'll end up like them...
 Dialogue: 0,0:13:13.68,0:13:14.71,Default,,0,0,0,,It's impossible!
 Dialogue: 0,0:13:14.71,0:13:17.55,Default,,0,0,0,,There's nowhere to run on the island from such gas!
-Dialogue: 0,0:13:17.55,0:13:20.76,Default,,0,0,0,,Oh, I see! That's why they sealed off the lab!
+Dialogue: 0,0:13:17.55,0:13:20.76,Default,,0,0,0,,Oh, I see! That's why they sealed off the {research }institute!
 Dialogue: 0,0:13:20.76,0:13:22.50,Default,,0,0,0,,They didn't want the gas to enter!
 Dialogue: 0,0:13:25.35,0:13:27.22,Default,,0,0,0,,Open up, Caesar!
 Dialogue: 0,0:13:27.22,0:13:30.45,Default,,0,0,0,,Damn! I don't wanna die here!
@@ -248,7 +248,7 @@ Dialogue: 0,0:15:47.70,0:15:48.90,Default,,0,0,0,,Brownbeard...
 Dialogue: 0,0:15:50.36,0:15:54.34,Default,,0,0,0,,But I have to save my crew first!
 Dialogue: 0,0:15:54.93,0:15:57.40,Default,,0,0,0,,Otherwise, I can't die in peace!
 Dialogue: 0,0:16:00.30,0:16:02.07,Default,,0,0,0,,Hey, you...
-Dialogue: 0,0:16:05.48,0:16:09.58,Default,,0,0,0,,I gotta get to the lab where my crew are as soon as possible!
+Dialogue: 0,0:16:05.48,0:16:09.58,Default,,0,0,0,,I gotta get to the {research }institute where my crew are as soon as possible!
 Dialogue: 0,0:16:09.58,0:16:12.29,Default,,0,0,0,,But you're hurt all over...
 Dialogue: 0,0:16:12.29,0:16:14.37,Default,,0,0,0,,So we all wanna go to the same place!
 Dialogue: 0,0:16:15.07,0:16:19.26,Default,,0,0,0,,We have to save those kids from that jerk, too!
@@ -304,7 +304,7 @@ Dialogue: 0,0:19:24.00,0:19:27.31,Default,,0,0,0,,Are they your friends, "Straw 
 Dialogue: 0,0:19:29.63,0:19:33.03,Default,,0,0,0,,That's just what I'd expect from your friends - they're tough!
 Dialogue: 0,0:19:35.18,0:19:39.06,Default,,0,0,0,,But soon they're going to be running out of breath and poisoned by the gas.
 Dialogue: 0,0:19:42.60,0:19:47.97,Default,,0,0,0,,And eventually, there'll only be an uninhabitable "Netherworld"!
-Dialogue: 0,0:19:50.41,0:19:56.81,Default,,0,0,0,,No one outside of this laboratory will survive.
+Dialogue: 0,0:19:50.41,0:19:56.81,Default,,0,0,0,,No one outside of this {research }institute will survive.
 Dialogue: 0,0:20:00.64,0:20:04.71,Default,,0,0,0,,Neither will any of you!
 Dialogue: 0,0:20:06.97,0:20:08.02,Default,,0,0,0,,What's happening?!
 Dialogue: 0,0:20:22.03,0:20:25.67,Default,,0,0,0,,Now prove it to the world!
@@ -335,9 +335,9 @@ Dialogue: 0,0:21:49.53,0:21:53.68,Default,,0,0,0,,--But they're still held capti
 Dialogue: 0,0:21:53.68,0:21:56.56,Default,,0,0,0,,Smo-yan! Tashigi-chan!
 Dialogue: 0,0:21:56.56,0:21:57.68,Default,,0,0,0,,Everybody!
 Dialogue: 0,0:22:16.51,0:22:18.44,Default,,0,0,0,,By the way,
-Dialogue: 0,0:22:20.88,0:22:24.26,Default,,0,0,0,,that laboratory is really well-built!
-Dialogue: 0,0:22:25.37,0:22:26.58,Default,,0,0,0,,Yes, it is.
-Dialogue: 0,0:22:27.69,0:22:31.08,Default,,0,0,0,,You can easily carry big equipment with this thing.
+Dialogue: 0,0:22:20.88,0:22:24.26,Default,,0,0,0,,that {research }institute sure is well-equipped!
+Dialogue: 0,0:22:25.37,0:22:26.58,Default,,0,0,0,,You're right.
+Dialogue: 0,0:22:27.69,0:22:31.08,Default,,0,0,0,,You could easily carry\Nbig equipment with this thing.
 Dialogue: 0,0:22:31.35,0:22:33.60,Default,,0,0,0,,H-How can you two be so relaxed?!
 Dialogue: 0,0:22:33.90,0:22:38.00,Default,,0,0,0,,Hmmm... Okay, what should we do?
 Dialogue: 0,0:22:39.10,0:22:43.43,Default,,0,0,0,,It was unexpected to see Vergo here but Straw Hatter... {Straw Hat-ya}

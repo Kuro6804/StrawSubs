@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 611 (BD 1920x1080 x264 29.970fps FLAC) [E60
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 391
-Active Line: 394
-Video Position: 42152
+Scroll Position: 95
+Active Line: 97
+Video Position: 7666
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -136,7 +136,7 @@ Dialogue: 1,0:03:53.88,0:04:02.89,Title Card - Top,,0,0,215,,{\bord0\blur0.3\fad
 Dialogue: 0,0:03:53.88,0:04:02.89,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Momonosuke Appears
 Dialogue: 1,0:03:53.88,0:04:02.89,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Momonosuke Appears
 Dialogue: 0,0:04:14.49,0:04:16.00,DefaultLow,,0,0,0,,Momonosuke?
-Dialogue: 0,0:04:15.17,0:04:19.84,"Sign",,0,0,0,,THE BASEMENT OF C BUILDING - A GARBAGE DUMP TEAM LUFFY
+Dialogue: 0,0:04:15.17,0:04:19.84,"Sign",,0,0,0,,Basement of Building C, Garbage Dump\NTeam Luffy
 Dialogue: 0,0:04:16.00,0:04:18.11,DefaultLow,,0,0,0,,That is my name.
 Dialogue: 0,0:04:19.84,0:04:22.41,Default,,0,0,0,,I heard that name before somewhere.
 Dialogue: 0,0:04:22.41,0:04:24.02,Default,,0,0,0,,Where was it?
@@ -147,7 +147,7 @@ Dialogue: 0,0:04:33.62,0:04:35.96,Default,,0,0,0,,...stop drooling!
 Dialogue: 0,0:04:37.09,0:04:40.30,Default,,0,0,0,,You can't eat me!
 Dialogue: 0,0:04:40.30,0:04:42.62,Default,,0,0,0,,If you try to eat me, I'll eat you first!
 Dialogue: 0,0:04:43.07,0:04:44.92,DefaultLow,,0,0,0,,Behave yourself!
-Dialogue: 0,0:04:43.40,0:04:47.57,"Sign",,0,0,0,,MOMONOSUKE (DRAGON)
+Dialogue: 0,0:04:43.40,0:04:47.57,"Sign",,0,0,0,,Momonosuke (Dragon)
 Dialogue: 0,0:04:49.91,0:04:50.58,Default,,0,0,0,,Oh?
 Dialogue: 0,0:04:50.58,0:04:53.46,Default,,0,0,0,,Maybe "Momonosuke" is stuck on a dragon's body
 Dialogue: 0,0:04:53.46,0:04:55.18,Default,,0,0,0,,and he's talking with his farts...
@@ -352,7 +352,7 @@ Dialogue: 0,0:18:07.19,0:18:08.64,Default,,0,0,0,,H-Hey!
 Dialogue: 0,0:18:11.59,0:18:13.28,Default,,0,0,0,,Hey, wait!
 Dialogue: 0,0:18:18.25,0:18:19.10,Default,,0,0,0,,We're...
 Dialogue: 0,0:18:19.10,0:18:20.38,Default,,0,0,0,,flying!
-Dialogue: 0,0:18:27.49,0:18:31.16,"Sign",,0,0,0,,AT THE BACK OF 2ND FLOOR OF B BUILDING A PATH AT AN EXAMINATION ROOM
+Dialogue: 0,0:18:27.49,0:18:31.16,"Sign",,0,0,0,,AT THE BACK OF 2ND FLOOR OF BUILDING B, A PATH AT AN EXAMINATION ROOM
 Dialogue: 0,0:18:38.51,0:18:41.97,Default,,0,0,0,,I wonder if Nami and the others are doing okay without me!
 Dialogue: 0,0:18:41.97,0:18:44.44,Default,,0,0,0,,Well, at least Zoro is with them!
 Dialogue: 0,0:18:44.82,0:18:47.14,Default,,0,0,0,,I'll save you at any cost
@@ -369,7 +369,7 @@ Dialogue: 0,0:19:07.76,0:19:09.67,Default,,0,0,0,,Let's check the other side of 
 Dialogue: 0,0:19:12.37,0:19:14.76,Default,,0,0,0,,Was his name Momonosuke-kun?
 Dialogue: 0,0:19:14.76,0:19:20.18,Default,,0,0,0,,I bet he is a boy who dresses like samurai-san!
 Dialogue: 0,0:19:20.83,0:19:24.57,Default,,0,0,0,,Hey! Where are you?!
-Dialogue: 0,0:19:25.58,0:19:28.92,"Sign",,0,0,0,,D BUILDING - THE "SAD" MANUFACTURING ROOM
+Dialogue: 0,0:19:25.58,0:19:28.92,"Sign",,0,0,0,,BUILDING D - THE S.A.D. MANUFACTURING ROOM
 Dialogue: 0,0:19:33.58,0:19:39.13,Default,,0,0,0,,My Armament Haki surpasses your ability by far.
 Dialogue: 0,0:19:44.21,0:19:47.69,Default,,0,0,0,,I think you're smart enough to know
 Dialogue: 0,0:19:47.69,0:19:50.00,Default,,0,0,0,,that it's useless to fight against me.
@@ -383,7 +383,7 @@ Dialogue: 0,0:20:22.60,0:20:23.39,Default,,0,0,0,,Shave!
 Dialogue: 0,0:20:39.35,0:20:41.39,Default,,0,0,0,,Don't mess with the Navy!
 Dialogue: 0,0:20:47.76,0:20:50.67,Default,,0,0,0,,I didn't know you cared so much about your men,
 Dialogue: 0,0:20:50.67,0:20:51.80,Default,,0,0,0,,Smoker-kun.
-Dialogue: 0,0:20:58.51,0:21:02.18,"Sign",,0,0,0,,B BUILDING - NEAR THE BISCUITS ROOM
+Dialogue: 0,0:20:58.51,0:21:02.18,"Sign",,0,0,0,,BUILDING B - NEAR THE BISCUITS ROOM
 Dialogue: 0,0:21:02.74,0:21:04.26,Default,,0,0,0,,Everybody, this way!
 Dialogue: 0,0:21:04.26,0:21:06.67,Default,,0,0,0,,Get to the Biscuits Room where the children are!
 Dialogue: 0,0:21:06.67,0:21:08.72,Default,,0,0,0,,Hurry up! Hurry up!
@@ -404,7 +404,7 @@ Dialogue: 0,0:21:37.81,0:21:38.99,Default,,0,0,0,,He's crazy!
 Dialogue: 0,0:21:39.88,0:21:41.88,Default,,0,0,0,,Hurry up!
 Dialogue: 0,0:21:41.88,0:21:43.73,Default,,0,0,0,,If you wanna save the children,
 Dialogue: 0,0:21:43.73,0:21:45.42,Default,,0,0,0,,go to the Biscuits Room now!
-Dialogue: 0,0:21:45.52,0:21:49.36,"Sign",,0,0,0,,B BUILDING 3RD FLOOR - THE BISCUITS ROOM
+Dialogue: 0,0:21:45.52,0:21:49.36,"Sign",,0,0,0,,BUILDING B 3RD FLOOR - THE BISCUITS ROOM
 Dialogue: 0,0:21:53.12,0:21:56.19,Default,,0,0,0,,It's cold! The whole room is in a blizzard!
 Dialogue: 0,0:21:56.19,0:21:57.40,Default,,0,0,0,,I just took off my coat!
 Dialogue: 0,0:21:57.40,0:21:59.40,Default,,0,0,0,,What is a Snow-Snow Fruit?!

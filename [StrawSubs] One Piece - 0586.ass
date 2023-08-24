@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 586 (BD 1920x1080 x264 29.970fps FLAC) [2DB
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.437500
-Scroll Position: 53
-Active Line: 68
-Video Position: 5637
+Scroll Position: 74
+Active Line: 75
+Video Position: 6639
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,9 +112,9 @@ Dialogue: 0,0:03:14.25,0:03:16.66,Default,,0,0,0,,After surviving a fierce battl
 Dialogue: 0,0:03:16.66,0:03:19.72,Default,,0,0,0,,the Straw Hats reach the New World at long last—
 Dialogue: 0,0:03:19.72,0:03:22.18,Default,,0,0,0,,the harshest sea, ruled by the Four Emperors.
 Dialogue: 0,0:03:22.67,0:03:26.14,Default,,0,0,0,,After receiving an emergency signal,\Nthey landed on Punk Hazard,
-Dialogue: 0,0:03:26.72,0:03:32.41,Default,,0,0,0,,a strange island divided into two parts—\Nthe Burning Lands and the Ice Lands.
+Dialogue: 0,0:03:26.72,0:03:32.41,Default,,0,0,0,,a strange island divided into two parts—\Nthe Burning Lands and the Frozen Lands.
 Dialogue: 0,0:03:32.75,0:03:35.05,Default,,0,0,0,,Sink to your death, Devil Fruit users!
-Dialogue: 0,0:03:41.49,0:03:45.66,Default,,0,0,0,,Cut that crap. Let us see inside the laboratory.
+Dialogue: 0,0:03:41.49,0:03:45.66,Default,,0,0,0,,Cut the crap. Let us look inside the {research }institute.
 Dialogue: 0,0:03:45.99,0:03:47.94,Default,,0,0,0,,I'm the only one here!
 Dialogue: 0,0:03:48.40,0:03:52.40,Default,,0,0,0,,If Straw Hat comes, I'll chop his head off for you.
 Dialogue: 0,0:03:52.64,0:03:55.07,Default,,0,0,0,,If that's all you have to say, go home!
@@ -217,9 +217,9 @@ Dialogue: 0,0:10:52.96,0:10:55.91,Default,,0,0,0,,When did he freeze our guns?!
 Dialogue: 0,0:10:56.63,0:10:58.14,Default,,0,0,0,,That's unforgivable!
 Dialogue: 0,0:10:58.14,0:11:01.37,Default,,0,0,0,,"Unforgivable"? Right back at you!
 Dialogue: 0,0:11:04.48,0:11:06.57,Default,,0,0,0,,--You bastard! --How dare you?!
-Dialogue: 0,0:11:08.86,0:11:12.57,Default,,0,0,0,,Losing friends - I'm sick of it (korigori)!
+Dialogue: 0,0:11:08.86,0:11:12.57,Default,,0,0,0,,Losing friends - I'm sick of it (korigori)! {TL Note}
 Dialogue: 0,0:11:12.93,0:11:13.37,Default,,0,0,0,,What?
-Dialogue: 0,0:11:13.37,0:11:15.30,Default,,0,0,0,,And it sounds like ice (koori)!
+Dialogue: 0,0:11:13.37,0:11:15.30,Default,,0,0,0,,And it sounds like ice (koori)! {TL Note}
 Dialogue: 0,0:11:18.54,0:11:21.22,Default,,0,0,0,,He's fast! He sure can fight!
 Dialogue: 0,0:11:22.42,0:11:24.39,Default,,0,0,0,,I didn't know they had another crewmember!
 Dialogue: 0,0:11:24.87,0:11:27.58,Default,,0,0,0,,But it doesn't matter now!
@@ -272,8 +272,8 @@ Dialogue: 0,0:14:20.11,0:14:23.11,Default,,0,0,0,,You'd better not fight back!
 Dialogue: 0,0:14:23.75,0:14:26.75,Default,,0,0,0,,Then I won't have to hurt you so bad!
 Dialogue: 0,0:14:29.81,0:14:34.31,Default,,0,0,0,,Oh, my friends. You're in better shape than I thought!
 Dialogue: 0,0:14:41.99,0:14:45.92,Default,,0,0,0,,Help me!!
-Dialogue: 0,0:15:04.82,0:15:08.32,Sign,,0,0,268,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}The laboratory, in front of the main entrance
-Dialogue: 1,0:15:04.82,0:15:08.32,Sign,,0,0,268,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}The laboratory, in front of the main entrance
+Dialogue: 0,0:15:04.82,0:15:08.32,Sign,,0,0,268,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Research Institute, {in front of the }Main Entrance
+Dialogue: 1,0:15:04.82,0:15:08.32,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Research Institute, {in front of the }Main Entrance
 Dialogue: 0,0:15:22.55,0:15:24.23,Default,,0,0,0,,I told you, Smo-san!
 Dialogue: 0,0:15:24.23,0:15:27.17,Default,,0,0,0,,This is why I said I didn't want anything to do with him!
 Dialogue: 0,0:15:27.17,0:15:29.39,Default,,0,0,0,,What should we do?!

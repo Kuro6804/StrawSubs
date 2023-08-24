@@ -134,14 +134,14 @@ Dialogue: 1,0:04:19.11,0:04:28.02,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1
 Dialogue: 0,0:04:19.11,0:04:28.02,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1960,1960)\c&H000000&\1a&HFF&\t(1915,1960,\1a&H00&)\t(6950,6995,\1a&HFF&)}The Ultimate Grizzly Magnum
 Dialogue: 1,0:04:19.11,0:04:28.02,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1960,1960)\4a&HFF&}The Ultimate Grizzly Magnum
 Dialogue: 0,0:04:28.58,0:04:32.31,Default,,0,0,0,,The deadly gas - Netherworld will fill up the building-- in five minutes.
-Dialogue: 0,0:04:33.13,0:04:36.59,Default,,0,0,0,,The survivors are all heading toward R Building -
+Dialogue: 0,0:04:33.13,0:04:36.59,Default,,0,0,0,,The survivors are all heading toward Building R -
 Dialogue: 0,0:04:36.59,0:04:40.13,Default,,0,0,0,,the "R-66" door, the only exit to escape. However...
-Dialogue: 0,0:04:47.10,0:04:50.57,"Sign",,0,0,0,,B BUILDING - SANJI
+Dialogue: 0,0:04:47.10,0:04:50.57,"Sign",,0,0,0,,BUILDING B - SANJI
 Dialogue: 0,0:04:59.33,0:05:00.94,Default,,0,0,0,,The ceiling lifted up just now!
 Dialogue: 0,0:05:02.00,0:05:03.58,Default,,0,0,0,,What just happened?!
 Dialogue: 0,0:05:06.71,0:05:09.46,Default,,0,0,0,,The gas has started flowing in from the cracks!
 Dialogue: 0,0:05:09.68,0:05:10.96,Default,,0,0,0,,This is no good.
-Dialogue: 0,0:05:10.96,0:05:13.99,Default,,0,0,0,,--Everybody! Get to R Building now! --Run!
+Dialogue: 0,0:05:10.96,0:05:13.99,Default,,0,0,0,,--Everybody! Get to Building R now! --Run!
 Dialogue: 0,0:05:13.99,0:05:16.20,Default,,0,0,0,,But I'm scared, Sis!
 Dialogue: 0,0:05:18.52,0:05:20.73,Default,,0,0,0,,I can't run anymore!
 Dialogue: 0,0:05:20.96,0:05:23.82,Default,,0,0,0,,We have no time for wimping out, kids!
@@ -164,11 +164,11 @@ Dialogue: 0,0:06:34.33,0:06:36.63,Default,,0,0,0,,"There's no turning back"?
 Dialogue: 0,0:06:37.22,0:06:38.72,Default,,0,0,0,,That's hysterical.
 Dialogue: 0,0:07:00.61,0:07:02.18,Default,,0,0,0,,Realize your place!
 Dialogue: 0,0:07:02.26,0:07:03.44,Default,,0,0,0,,Law!
-Dialogue: 0,0:07:08.85,0:07:13.68,"Sign",,0,0,0,,B BUILDING 2ND FLOOR - THE EXAMINATION ROOM
+Dialogue: 0,0:07:08.85,0:07:13.68,"Sign",,0,0,0,,BUILDING B 2ND FLOOR - THE EXAMINATION ROOM
 Dialogue: 0,0:07:08.99,0:07:10.48,Default,,0,0,0,,{\an8}The ceiling's gonna collapse!
 Dialogue: 0,0:07:10.90,0:07:13.68,Default,,0,0,0,,{\an8}Chopper-yan, it's not safe to stay here!
 Dialogue: 0,0:07:13.97,0:07:16.85,Default,,0,0,0,,Uh-huh! I've done all I could for now!
-Dialogue: 0,0:07:17.12,0:07:18.69,Default,,0,0,0,,Go to R Building now!
+Dialogue: 0,0:07:17.12,0:07:18.69,Default,,0,0,0,,Go to Building R now!
 Dialogue: 0,0:07:18.69,0:07:22.29,Default,,0,0,0,,Alright, count on us! Let's go, guys!
 Dialogue: 0,0:07:22.29,0:07:23.36,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:07:26.25,0:07:29.47,Default,,0,0,0,,Mocha! Stay with me! Let's get out of here!
@@ -191,7 +191,7 @@ Dialogue: 0,0:08:37.77,0:08:39.98,Default,,0,0,0,,Don't worry about me.
 Dialogue: 0,0:08:40.57,0:08:42.52,Default,,0,0,0,,Just worry about yourself.
 Dialogue: 0,0:08:53.76,0:08:56.48,Default,,0,0,0,,This room will explode.
 Dialogue: 0,0:08:57.18,0:09:00.16,Default,,0,0,0,,Goodbye, Vergo the pirate!
-Dialogue: 0,0:09:08.87,0:09:11.84,"Sign",,0,0,0,,R BUILDING 1ST FLOOR
+Dialogue: 0,0:09:08.87,0:09:11.84,"Sign",,0,0,0,,BUILDING R 1ST FLOOR
 Dialogue: 0,0:09:15.08,0:09:17.27,Default,,0,0,0,,What was that?
 Dialogue: 0,0:09:18.49,0:09:21.25,Default,,0,0,0,,S-Something is falling down!
 Dialogue: 0,0:09:27.90,0:09:29.99,Default,,0,0,0,,I know who could have done such a thing!
@@ -208,7 +208,7 @@ Dialogue: 0,0:10:10.71,0:10:14.32,Default,,0,0,0,,Alright. Now let's look for th
 Dialogue: 0,0:10:16.08,0:10:17.33,Default,,0,0,0,,You've got to be kidding!
 Dialogue: 0,0:10:21.02,0:10:23.40,Default,,0,0,0,,--The Straw Hat member's gone! --Where did he go?!
 Dialogue: 0,0:10:23.40,0:10:24.37,Default,,0,0,0,,Find him!
-Dialogue: 0,0:10:25.70,0:10:28.21,Default,,0,0,0,,R Building 2nd floor, can you hear me?
+Dialogue: 0,0:10:25.70,0:10:28.21,Default,,0,0,0,,Building R 2nd floor, can you hear me?
 Dialogue: 0,0:10:28.43,0:10:30.34,Default,,0,0,0,,Oh, it's the Master!
 Dialogue: 0,0:10:30.34,0:10:33.85,Default,,0,0,0,,If the Master is okay, we're gonna be alright!
 Dialogue: 0,0:10:34.08,0:10:36.65,Default,,0,0,0,,Secret room, come in!
@@ -281,7 +281,7 @@ Dialogue: 0,0:16:43.84,0:16:45.07,Default,,0,0,0,,Huh? Okay!
 Dialogue: 0,0:16:48.79,0:16:52.36,Default,,0,0,0,,Hey, where are you going, Straw Hat Luffy?!
 Dialogue: 0,0:16:54.52,0:16:57.00,Default,,0,0,0,,Did you chicken out all of a sudden?!
 Dialogue: 0,0:16:57.00,0:16:59.25,Default,,0,0,0,,What a pathetic man!
-Dialogue: 0,0:17:00.15,0:17:05.44,Default,,0,0,0,,But B Building beyond that path is almost filled up with Netherworld!
+Dialogue: 0,0:17:00.15,0:17:05.44,Default,,0,0,0,,But Building B beyond that path is almost filled up with Netherworld!
 Dialogue: 0,0:17:06.43,0:17:10.49,Default,,0,0,0,,There is no place to run on the island anymore!
 Dialogue: 0,0:17:11.60,0:17:14.58,Default,,0,0,0,,That goes for all of you guinea pigs, too!
 Dialogue: 0,0:17:22.51,0:17:24.40,Default,,0,0,0,,All of you,

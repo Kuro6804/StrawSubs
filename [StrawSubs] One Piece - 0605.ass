@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 605 (BD 1920x1080 x264 29.970fps FLAC) [8FA
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 318
-Active Line: 331
-Video Position: 42407
+Scroll Position: 250
+Active Line: 259
+Video Position: 32461
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -126,15 +126,14 @@ Dialogue: 0,0:03:34.10,0:03:37.60,Default,,0,0,0,,and were exposed to Netherworl
 Dialogue: 0,0:03:37.60,0:03:40.07,Default,,0,0,0,,But they broke out of the cage thanks to their ally ---
 Dialogue: 0,0:03:40.07,0:03:43.21,Default,,0,0,0,,a Warlord - Trafalgar Law's tactful maneuvers
 Dialogue: 0,0:03:43.21,0:03:45.47,Default,,0,0,0,,and were reunited with their crew.
-Dialogue: 0,0:03:46.66,0:03:50.37,Default,,0,0,0,,Now, outside of this laboratory is filled with the poison gas
-Dialogue: 0,0:03:50.37,0:03:51.97,Default,,0,0,0,,but there is one passage
-Dialogue: 0,0:03:51.97,0:03:55.32,Default,,0,0,0,,that could lead you directly to the sea bypassing the air outside!
+Dialogue: 0,0:03:46.66,0:03:50.37,Default,,0,0,0,,Right now, the outside of\Nthe {research }institute is filled with poison gas,
+Dialogue: 0,0:03:50.37,0:03:55.32,Default,,0,0,0,,but there is one passage that could lead you\Ndirectly to the sea, bypassing the air outside!
 Dialogue: 0,0:03:55.77,0:04:00.11,Default,,0,0,0,,There is a big door marked "R-66" that is an entrance
 Dialogue: 0,0:04:00.11,0:04:02.83,Default,,0,0,0,,to the passage to the sea.
 Dialogue: 0,0:04:02.83,0:04:07.45,Default,,0,0,0,,I'd rather not have to create a massacre but I can only give you two hours.
 Dialogue: 0,0:04:08.14,0:04:10.94,Default,,0,0,0,,Those of you who stay longer than that,
 Dialogue: 0,0:04:10.94,0:04:13.33,Default,,0,0,0,,I can't guarantee your safety.
-Dialogue: 0,0:04:15.16,0:04:20.24,Default,,0,0,0,,There are children who were kidnapped two years ago in this laboratory!
+Dialogue: 0,0:04:15.16,0:04:20.24,Default,,0,0,0,,There are children in this research institute who were kidnapped two years ago!
 Dialogue: 0,0:04:20.24,0:04:24.98,Default,,0,0,0,,Retrieve them and head for the "R-66" door!
 Dialogue: 0,0:04:25.52,0:04:29.52,Default,,0,0,0,,Wait for me, Momonosuke! I'll save you at any cost!
 Dialogue: 0,0:04:29.52,0:04:31.89,Default,,0,0,0,,Hey, Luffy!
@@ -172,11 +171,11 @@ Dialogue: 0,0:07:25.14,0:07:26.54,Default,,0,0,0,,Wait for me, kids!
 Dialogue: 0,0:07:26.54,0:07:29.02,Default,,0,0,0,,I will heal you at any cost!
 Dialogue: 0,0:07:50.16,0:07:52.69,Default,,0,0,0,,But come to think of it, which way should I go?!
 Dialogue: 0,0:07:53.89,0:07:55.83,Default,,0,0,0,,What are my soldiers doing?
-Dialogue: 0,0:07:55.83,0:07:59.16,Default,,0,0,0,,Troops have mobilized against them in A Building!
-Dialogue: 0,0:07:59.16,0:08:04.35,Default,,0,0,0,,The main unit is preparing to make a stand at the post in the back of B Building!
+Dialogue: 0,0:07:55.83,0:07:59.16,Default,,0,0,0,,Troops have mobilized against them in Building A!
+Dialogue: 0,0:07:59.16,0:08:04.35,Default,,0,0,0,,The main unit is preparing to make a stand at the post in the back of Building B!
 Dialogue: 0,0:08:07.92,0:08:12.18,Default,,0,0,0,,I'm sure what they want is to escape from the island.
 Dialogue: 0,0:08:12.18,0:08:14.94,Default,,0,0,0,,Then, they must be heading for...
-Dialogue: 0,0:08:14.94,0:08:19.34,Default,,0,0,0,,...the path going directly to R Building - Gate 66!
+Dialogue: 0,0:08:14.94,0:08:19.34,Default,,0,0,0,,...the path going directly to Building R - Gate 66!
 Dialogue: 0,0:08:38.12,0:08:40.47,Default,,0,0,0,,I won't let them do that!
 Dialogue: 0,0:08:40.47,0:08:44.41,Default,,0,0,0,,Block off the passage between Building A and B!
 Dialogue: 0,0:08:45.19,0:08:48.71,Default,,0,0,0,,Close the gate there and isolate Building A!
@@ -203,9 +202,9 @@ Dialogue: 0,0:09:59.96,0:10:02.82,Default,,0,0,0,,You're not a swordsman.
 Dialogue: 0,0:10:03.64,0:10:06.72,Default,,0,0,0,,Oh yeah, I'm not a swordsman.
 Dialogue: 0,0:10:06.72,0:10:10.33,Default,,0,0,0,,Alright, I'll go strike down those squirts.
 Dialogue: 0,0:10:14.49,0:10:17.15,DefaultLow,,0,0,0,,Where are you, Caesar?!
-Dialogue: 0,0:10:15.83,0:10:19.34,"Sign",,0,0,0,,LABORATORY BUILDING A
+Dialogue: 0,0:10:15.83,0:10:19.34,"Sign",,0,0,0,,Research Institute, Building A
 Dialogue: 0,0:10:27.17,0:10:30.58,Default,,0,0,0,,I won't let you pass through here, Straw Hat!
-Dialogue: 0,0:10:33.68,0:10:36.22,Default,,0,0,0,,I'm a gatekeeper of B Building and a former pirate!
+Dialogue: 0,0:10:33.68,0:10:36.22,Default,,0,0,0,,I'm a gatekeeper of Building B and a former pirate!
 Dialogue: 0,0:10:36.22,0:10:39.22,Default,,0,0,0,,People call me "Machete" Run!
 Dialogue: 0,0:10:39.22,0:10:42.92,Default,,0,0,0,,In the name of Master Caesar, the scientist of love!
 Dialogue: 0,0:10:42.92,0:10:44.84,Default,,0,0,0,,You don't have animal legs!
@@ -243,7 +242,7 @@ Dialogue: 0,0:13:55.11,0:13:55.89,Default,,0,0,0,,Well...
 Dialogue: 0,0:13:58.35,0:14:02.42,Default,,0,0,0,,We thought that we could get away from the gas by flying on him
 Dialogue: 0,0:14:03.05,0:14:05.40,Default,,0,0,0,,but he didn't fly at all.
 Dialogue: 0,0:14:06.63,0:14:10.20,Default,,0,0,0,,He doesn't fly now because he got injected with sedatives.
-Dialogue: 0,0:14:10.60,0:14:16.17,Default,,0,0,0,,But it wasn't a great idea to let him in the laboratory.
+Dialogue: 0,0:14:10.60,0:14:16.17,Default,,0,0,0,,But it wasn't a great idea to let him into the {research }institute.
 Dialogue: 0,0:14:16.17,0:14:17.63,Default,,0,0,0,,Is he dangerous?
 Dialogue: 0,0:14:17.63,0:14:19.61,Default,,0,0,0,,He's kind of cute...
 Dialogue: 0,0:14:23.57,0:14:26.13,Default,,0,0,0,,This is a rare opportunity for us!
@@ -298,8 +297,8 @@ Dialogue: 0,0:17:32.67,0:17:33.30,Default,,0,0,0,,Hurry up!
 Dialogue: 0,0:17:33.30,0:17:35.70,Default,,0,0,0,,It's really gonna close soon!
 Dialogue: 0,0:17:35.70,0:17:37.77,Default,,0,0,0,,Come on, come on!
 Dialogue: 0,0:17:38.37,0:17:41.09,Default,,0,0,0,,Experiment cannon, stand by!
-Dialogue: 0,0:17:49.32,0:17:53.32,"Sign",,0,0,0,,OUTSIDE THE LABORATORY
-Dialogue: 0,0:17:54.93,0:17:59.18,Default,,0,0,0,,Take aim at the outer wall of Building A of the Third Laboratory!
+Dialogue: 0,0:17:49.32,0:17:53.32,"Sign",,0,0,0,,Outside the research institute
+Dialogue: 0,0:17:54.93,0:17:59.18,Default,,0,0,0,,Take aim at the outer wall of Building A\Nof the Third Research Institute!
 Dialogue: 0,0:18:15.91,0:18:17.27,Default,,0,0,0,,Fire!
 Dialogue: 0,0:18:23.76,0:18:25.68,Default,,0,0,0,,The wall's been broken!
 Dialogue: 0,0:18:28.18,0:18:30.90,Default,,0,0,0,,H-Hey, don't tell me...

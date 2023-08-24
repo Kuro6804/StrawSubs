@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 582 (BD 1920x1080 x264 29.970fps FLAC) [50A
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.437500
-Scroll Position: 50
-Active Line: 68
-Video Position: 5739
+Scroll Position: 329
+Active Line: 347
+Video Position: 38970
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -223,9 +223,9 @@ Dialogue: 0,0:10:14.76,0:10:16.91,Default,,0,0,0,,you knew we were pirates, didn
 Dialogue: 0,0:10:18.78,0:10:21.19,Default,,0,0,0,,Shut up and leave, pirate!
 Dialogue: 0,0:10:21.19,0:10:24.91,Default,,0,0,0,,You can't make it by yourself - all you got is your head.
 Dialogue: 0,0:10:26.67,0:10:27.77,Default,,0,0,0,,What are you doing?!
-Dialogue: 0,0:10:29.41,0:10:31.58,Default,,0,0,0,,Huh, samurai from the Wano Kingdom?!
+Dialogue: 0,0:10:29.41,0:10:31.58,Default,,0,0,0,,Huh, samurai from the Land of Wano?!
 Dialogue: 0,0:10:32.82,0:10:35.61,Default,,0,0,0,,What?! Samurai?! Is he?!
-Dialogue: 0,0:10:36.12,0:10:39.35,Default,,0,0,0,,This is a typical Wano Kingdom hairstyle.
+Dialogue: 0,0:10:36.12,0:10:39.35,Default,,0,0,0,,This is a typical {Land of }Wano hairstyle.
 Dialogue: 0,0:10:41.79,0:10:47.25,Default,,0,0,0,,Does it mean he is the killer samurai that the guy on the Snail mentioned?!
 Dialogue: 0,0:10:47.25,0:10:48.34,Default,,0,0,0,,Scary!
 Dialogue: 0,0:10:48.46,0:10:49.83,Default,,0,0,0,,I heard an explosion!
@@ -256,8 +256,8 @@ Dialogue: 0,0:13:20.91,0:13:23.39,Default,,0,0,0,,Ch-Children?!
 Dialogue: 0,0:13:23.83,0:13:25.06,Default,,0,0,0,,What's going on here?
 Dialogue: 0,0:13:27.94,0:13:30.34,Default,,0,0,0,,There are a bunch of kids!
 Dialogue: 0,0:13:31.00,0:13:32.99,Default,,0,0,0,,What's this place?!
-Dialogue: 0,0:13:47.61,0:13:51.25,Sign,,0,0,268,,{\blur0.3\fad(420,0)\c&H000000&\1a&HFF&\t(375,420,\1a&H00&)}Punk Hazard, the Burning Lands
-Dialogue: 1,0:13:47.61,0:13:51.25,Sign,,0,0,268,,{\bord0\blur0.3\fad(420,0)\4a&HFF&}Punk Hazard, the Burning Lands
+Dialogue: 0,0:13:47.61,0:13:51.25,Sign,,0,0,266,,{\blur0.3\fad(420,0)\c&H000000&\1a&HFF&\t(375,420,\1a&H00&)}Punk Hazard, Burning Lands
+Dialogue: 1,0:13:47.61,0:13:51.25,Sign,,0,0,266,,{\bord0\blur0.3\fad(420,0)\4a&HFF&}Punk Hazard, Burning Lands
 Dialogue: 0,0:13:55.53,0:14:00.10,Default,,0,0,0,,So all of your friends have cool hind legs like these?
 Dialogue: 0,0:14:00.10,0:14:01.15,Default,,0,0,0,,I wanna see them!
 Dialogue: 0,0:14:01.55,0:14:06.61,Default,,0,0,0,,Yeah! I'm sure they'll be surprised when they see your legs!
@@ -350,7 +350,7 @@ Dialogue: 0,0:19:15.21,0:19:17.29,Default,,0,0,0,,They belong to some kind of or
 Dialogue: 0,0:19:17.75,0:19:20.09,Default,,0,0,0,,--"CC"? --So they're our enemies?
 Dialogue: 0,0:19:21.16,0:19:24.22,Default,,0,0,0,,Anyway, even if we go back to the sea of fire,
 Dialogue: 0,0:19:24.22,0:19:25.57,Default,,0,0,0,,the Sunny is not there!
-Dialogue: 0,0:19:25.87,0:19:29.48,Default,,0,0,0,,The only option we have now is to go to the ice lands!
+Dialogue: 0,0:19:25.87,0:19:29.48,Default,,0,0,0,,The only option we have now is to go to the Frozen Lands!
 Dialogue: 0,0:19:29.48,0:19:33.67,Default,,0,0,0,,Nami, Sanji, Franky, and Chopper are missing!
 Dialogue: 0,0:19:37.23,0:19:40.60,Default,,0,0,0,,They were abducted most likely.
 Dialogue: 0,0:19:41.31,0:19:44.52,Default,,0,0,0,,I hope they're not riddled with bullets.
@@ -365,7 +365,7 @@ Dialogue: 0,0:20:04.71,0:20:06.27,Default,,0,0,0,,What are we gonna do, Luffy?
 Dialogue: 0,0:20:06.72,0:20:10.80,Default,,0,0,0,,We can rescue them if we can get to the other side, right?
 Dialogue: 0,0:20:11.94,0:20:13.63,Default,,0,0,0,,Then we have no choice!
 Dialogue: 0,0:20:13.88,0:20:16.99,Default,,0,0,0,,All right! Let's go! The plan has changed!
-Dialogue: 0,0:20:16.99,0:20:19.46,Default,,0,0,0,,Let's go to the ice lands to rescue our friends!
+Dialogue: 0,0:20:16.99,0:20:19.46,Default,,0,0,0,,Let's go to the Frozen Lands to rescue our friends!
 Dialogue: 0,0:20:20.00,0:20:22.94,Default,,0,0,0,,I wonder if they're selling winter clothes on the way.
 Dialogue: 0,0:20:24.38,0:20:27.24,Default,,0,0,0,,Seriously, we're gonna die from cold like this!
 Dialogue: 0,0:20:27.24,0:20:28.92,Default,,0,0,0,,What should we do?
@@ -386,8 +386,8 @@ Dialogue: 0,0:21:21.29,0:21:23.56,Default,,0,0,0,,Release large amounts of the p
 Dialogue: 0,0:21:24.50,0:21:28.76,Default,,0,0,0,,Don't kill them--we don't want any trouble!
 Dialogue: 0,0:21:28.76,0:21:29.65,Default,,0,0,0,,Yes, sir!
 Dialogue: 0,0:21:38.91,0:21:40.86,DefaultLow,,0,0,0,,Vice Admiral Smoker, it's impossible!
-Dialogue: 0,0:21:39.32,0:21:44.62,Sign,,0,0,268,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Northwest Shore
-Dialogue: 1,0:21:39.32,0:21:44.62,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Northwest Shore
+Dialogue: 0,0:21:39.32,0:21:44.62,Sign,,0,0,266,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Northwest Shore
+Dialogue: 1,0:21:39.32,0:21:44.62,Sign,,0,0,266,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Northwest Shore
 Dialogue: 0,0:21:40.86,0:21:43.01,DefaultLow,,0,0,0,,I-I can't breathe...
 Dialogue: 0,0:21:43.01,0:21:44.62,DefaultLow,,0,0,0,,The gas is still leaking!
 Dialogue: 0,0:21:45.32,0:21:48.67,Default,,0,0,0,,Be careful! You don't wanna inhale even a single breath!
