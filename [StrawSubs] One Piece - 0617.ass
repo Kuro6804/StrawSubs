@@ -24,14 +24,16 @@ Video File: [SOFCJ-Raws] One Piece - 617 (BD 1920x1080 x264 29.970fps FLAC) [2A2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 308
-Active Line: 309
-Video Position: 42164
+Scroll Position: 147
+Active Line: 156
+Video Position: 16470
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
+Style: Sign2,A-OTF Kakumin Pro B,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.33,0,2,45,45,45,0
+Style: Sign3,A-OTF Kakumin Pro B,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,45,45,45,0
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
@@ -136,7 +138,8 @@ Dialogue: 1,0:04:19.11,0:04:28.02,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fa
 Dialogue: 0,0:04:28.58,0:04:32.31,Default,,0,0,0,,The deadly gas - Netherworld will fill up the building-- in five minutes.
 Dialogue: 0,0:04:33.13,0:04:36.59,Default,,0,0,0,,The survivors are all heading toward Building R -
 Dialogue: 0,0:04:36.59,0:04:40.13,Default,,0,0,0,,the "R-66" door, the only exit to escape. However...
-Dialogue: 0,0:04:47.10,0:04:50.57,"Sign",,0,0,0,,BUILDING B - SANJI
+Dialogue: 0,0:04:47.10,0:04:50.57,Sign3,,0,0,333,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Sanji, Building B
+Dialogue: 1,0:04:47.10,0:04:50.57,Sign3,,0,0,333,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Team Sanji, Building B
 Dialogue: 0,0:04:59.33,0:05:00.94,Default,,0,0,0,,The ceiling lifted up just now!
 Dialogue: 0,0:05:02.00,0:05:03.58,Default,,0,0,0,,What just happened?!
 Dialogue: 0,0:05:06.71,0:05:09.46,Default,,0,0,0,,The gas has started flowing in from the cracks!
@@ -164,7 +167,8 @@ Dialogue: 0,0:06:34.33,0:06:36.63,Default,,0,0,0,,"There's no turning back"?
 Dialogue: 0,0:06:37.22,0:06:38.72,Default,,0,0,0,,That's hysterical.
 Dialogue: 0,0:07:00.61,0:07:02.18,Default,,0,0,0,,Realize your place!
 Dialogue: 0,0:07:02.26,0:07:03.44,Default,,0,0,0,,Law!
-Dialogue: 0,0:07:08.85,0:07:13.68,"Sign",,0,0,0,,BUILDING B 2ND FLOOR - THE EXAMINATION ROOM
+Dialogue: 0,0:07:08.85,0:07:13.68,Sign3,,0,0,235,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Examination Room\NBuilding B, 2nd Floor
+Dialogue: 1,0:07:08.85,0:07:13.68,Sign3,,0,0,235,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Examination Room\NBuilding B, 2nd Floor
 Dialogue: 0,0:07:08.99,0:07:10.48,Default,,0,0,0,,{\an8}The ceiling's gonna collapse!
 Dialogue: 0,0:07:10.90,0:07:13.68,Default,,0,0,0,,{\an8}Chopper-yan, it's not safe to stay here!
 Dialogue: 0,0:07:13.97,0:07:16.85,Default,,0,0,0,,Uh-huh! I've done all I could for now!
@@ -191,7 +195,8 @@ Dialogue: 0,0:08:37.77,0:08:39.98,Default,,0,0,0,,Don't worry about me.
 Dialogue: 0,0:08:40.57,0:08:42.52,Default,,0,0,0,,Just worry about yourself.
 Dialogue: 0,0:08:53.76,0:08:56.48,Default,,0,0,0,,This room will explode.
 Dialogue: 0,0:08:57.18,0:09:00.16,Default,,0,0,0,,Goodbye, Vergo the pirate!
-Dialogue: 0,0:09:08.87,0:09:11.84,"Sign",,0,0,0,,BUILDING R 1ST FLOOR
+Dialogue: 0,0:09:08.87,0:09:11.84,Sign2,,0,0,235,,{\blur0.3\fad(330,0)\c&H000000&\1a&HFF&\t(285,330,\1a&H00&)}Building R, 1st Floor
+Dialogue: 1,0:09:08.87,0:09:11.84,Sign2,,0,0,235,,{\bord0\blur0.3\fad(330,0)\4a&HFF&}Building R, 1st Floor
 Dialogue: 0,0:09:15.08,0:09:17.27,Default,,0,0,0,,What was that?
 Dialogue: 0,0:09:18.49,0:09:21.25,Default,,0,0,0,,S-Something is falling down!
 Dialogue: 0,0:09:27.90,0:09:29.99,Default,,0,0,0,,I know who could have done such a thing!
@@ -252,7 +257,7 @@ Dialogue: 0,0:13:18.67,0:13:19.71,Default,,0,0,0,,It's flowing in!
 Dialogue: 0,0:13:19.87,0:13:23.37,Default,,0,0,0,,Yes. You should've done as I said from the start!
 Dialogue: 0,0:13:23.37,0:13:25.63,Default,,0,0,0,,Dregs shouldn't think!
 Dialogue: 0,0:13:28.69,0:13:33.41,Default,,0,0,0,,Now, become my power! Netherworld!
-Dialogue: 0,0:14:04.93,0:14:07.73,"Sign",,0,0,0,,NETHERWORLD
+Dialogue: 0,0:14:04.93,0:14:07.73,"Sign",,0,0,0,,{\fad(1440,0)}"Netherworld"
 Dialogue: 0,0:14:13.78,0:14:18.04,Default,,0,0,0,,This is my scientific power!
 Dialogue: 0,0:14:53.54,0:14:54.88,Default,,0,0,0,,It's kicking in.
 Dialogue: 0,0:15:04.63,0:15:09.60,Default,,0,0,0,,Look, Straw Hat Luffy! This amazing appearance!

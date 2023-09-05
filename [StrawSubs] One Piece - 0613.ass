@@ -23,17 +23,19 @@ Audio File: [SOFCJ-Raws] One Piece - 613 (BD 1920x1080 x264 29.970fps FLAC) [504
 Video File: [SOFCJ-Raws] One Piece - 613 (BD 1920x1080 x264 29.970fps FLAC) [504CAA77].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 134
-Active Line: 135
-Video Position: 11683
+Video Zoom Percent: 0.625000
+Scroll Position: 233
+Active Line: 242
+Video Position: 24036
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Sign2,A-OTF Kakumin Pro B,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.33,0,2,45,45,45,0
+Style: Sign3,A-OTF Kakumin Pro B,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,45,45,45,0
+Style: Sign4,A-OTF Kakumin Pro B,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -173,7 +175,8 @@ Dialogue: 0,0:06:15.60,0:06:17.43,Default,,0,0,0,,What we have got to do
 Dialogue: 0,0:06:17.43,0:06:23.29,Default,,0,0,0,,is save those damn children to impress Nami-san, Robin-chan, and Tashigi-chan!
 Dialogue: 0,0:06:23.29,0:06:24.16,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:06:24.48,0:06:27.00,Default,,0,0,0,,All for the ladies!
-Dialogue: 0,0:06:29.57,0:06:34.24,"Sign",,0,0,0,,Near the Exit of the Biscuits Room
+Dialogue: 0,0:06:29.57,0:06:34.24,Sign2,,0,0,358,,{\blur0.3\fad(520,680)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(3990,4035,\1a&HFF&)}Near the Biscuits Room exit
+Dialogue: 1,0:06:29.57,0:06:34.24,Sign2,,0,0,358,,{\bord0\blur0.3\fad(520,680)\4a&HFF&}Near the Biscuits Room exit
 Dialogue: 0,0:06:29.82,0:06:31.43,DefaultLow,,0,0,0,,Why don't you go with them?
 Dialogue: 0,0:06:31.68,0:06:33.03,DefaultLow,,0,0,0,,I'm free to do whatever I want!
 Dialogue: 0,0:06:33.03,0:06:34.91,DefaultLow,,0,0,0,,I don't need you here!
@@ -243,7 +246,8 @@ Dialogue: 0,0:10:53.79,0:10:55.80,Default,,0,0,0,,How scary.
 Dialogue: 0,0:10:55.80,0:10:56.85,Default,,0,0,0,,Snowstorm.
 Dialogue: 0,0:11:05.69,0:11:06.81,Default,,0,0,0,,Whoa-whoa!
 Dialogue: 0,0:11:15.75,0:11:18.56,DefaultLow,,0,0,0,,Why is it chasing me?!
-Dialogue: 0,0:11:15.89,0:11:18.56,"Sign",,0,0,0,,Building B\NUsopp
+Dialogue: 0,0:11:15.89,0:11:18.56,Sign3,,0,0,363,,{\blur0.3\fad(180,0)\c&H000000&\1a&HFF&\t(135,180,\1a&H00&)}Team Usopp, Building B
+Dialogue: 1,0:11:15.89,0:11:18.56,Sign3,,0,0,363,,{\bord0\blur0.3\fad(180,0)\4a&HFF&}Team Usopp, Building B
 Dialogue: 0,0:11:19.94,0:11:21.00,Default,,0,0,0,,Don't follow me!
 Dialogue: 0,0:11:23.53,0:11:26.33,Default,,0,0,0,,Alright. It's not gonna be safe here
 Dialogue: 0,0:11:26.33,0:11:28.87,Default,,0,0,0,,and I gotta find the Sea Prism Stone handcuffs already!
@@ -278,7 +282,8 @@ Dialogue: 0,0:13:13.16,0:13:14.77,Default,,0,0,0,,Go to Building R now!
 Dialogue: 0,0:13:15.08,0:13:18.18,Default,,0,0,0,,Hey, are you looking for Momonosuke-kun?
 Dialogue: 0,0:13:19.98,0:13:21.22,DefaultLow,,0,0,0,,Mocha!
 Dialogue: 0,0:13:21.22,0:13:23.05,DefaultLow,,0,0,0,,Give us the candy!
-Dialogue: 0,0:13:21.99,0:13:25.82,"Sign",,0,0,0,,Building B, 3rd Floor; A Path in the Back
+Dialogue: 0,0:13:21.99,0:13:25.82,Sign3,,0,0,265,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Interior Passageway\NBuilding B, 3rd Floor
+Dialogue: 1,0:13:21.99,0:13:25.82,Sign3,,0,0,265,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Interior Passageway\NBuilding B, 3rd Floor
 Dialogue: 0,0:13:23.05,0:13:25.82,DefaultLow,,0,0,0,,Stop! You can't have it all!
 Dialogue: 0,0:13:26.23,0:13:28.90,Default,,0,0,0,,Konbu! Doran! Everybody!
 Dialogue: 0,0:13:28.90,0:13:31.12,Default,,0,0,0,,I know it's hard but you can't have it!
@@ -296,7 +301,8 @@ Dialogue: 0,0:14:16.47,0:14:17.36,Default,,0,0,0,,Uh-huh!
 Dialogue: 0,0:14:18.13,0:14:20.99,Default,,0,0,0,,Chopper-chan, I'm not gonna give up!
 Dialogue: 0,0:14:20.99,0:14:22.64,Default,,0,0,0,,I won't give up - for everyone's sake!
 Dialogue: 0,0:14:23.38,0:14:25.12,Default,,0,0,0,,I'm not gonna let anybody have it!
-Dialogue: 0,0:14:41.53,0:14:45.70,"Sign",,0,0,0,,THE BASEMENT OF BUILDING C - A GARBAGE DUMP
+Dialogue: 0,0:14:41.53,0:14:45.70,Sign4,,0,0,264,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Building C Basement, Garbage Dump
+Dialogue: 1,0:14:41.53,0:14:45.70,Sign4,,0,0,264,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Building C Basement, Garbage Dump
 Dialogue: 0,0:14:59.63,0:15:01.26,Default,,0,0,0,,Hey, are you alright?!
 Dialogue: 0,0:15:07.89,0:15:10.70,Default,,0,0,0,,I'll take it from here, Momo!
 Dialogue: 0,0:15:13.77,0:15:16.56,Default,,0,0,0,,Wait for me, Caesar!

@@ -24,15 +24,17 @@ Video File: [SOFCJ-Raws] One Piece - 606 (BD 1920x1080 x264 29.970fps FLAC) [74C
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 356
-Active Line: 373
+Scroll Position: 361
+Active Line: 378
 Video Position: 36537
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
+Style: Sign2,A-OTF Kakumin Pro B,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.33,0,2,45,45,45,0
+Style: Sign3,A-OTF Kakumin Pro B,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -149,7 +151,8 @@ Dialogue: 0,0:04:45.57,0:04:54.55,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,19
 Dialogue: 1,0:04:45.57,0:04:54.55,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}The Treasonous Vice Admiral!
 Dialogue: 0,0:04:45.57,0:04:54.55,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}"Demon Bamboo" Vergo
 Dialogue: 1,0:04:45.57,0:04:54.55,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}"Demon Bamboo" Vergo
-Dialogue: 0,0:04:58.02,0:05:02.09,"Sign",,0,0,0,,THE PASSAGE BETWEEN BUILDING A AND B
+Dialogue: 0,0:04:58.02,0:05:02.09,Sign3,,0,0,266,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Passageway Between Building A and B
+Dialogue: 1,0:04:58.02,0:05:02.09,Sign3,,0,0,266,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Passageway Between Building A and B
 Dialogue: 0,0:05:02.86,0:05:05.18,Default,,0,0,0,,I can't believe he broke the wall of the {Research }institute
 Dialogue: 0,0:05:05.18,0:05:06.74,Default,,0,0,0,,and let the gas in.
 Dialogue: 0,0:05:07.06,0:05:10.24,Default,,0,0,0,,That Caesar guy does such bizarre things.
@@ -194,7 +197,8 @@ Dialogue: 0,0:06:40.90,0:06:42.69,Default,,0,0,0,,do you have anything I can eat
 Dialogue: 0,0:06:44.09,0:06:45.56,Default,,0,0,0,,Shut up!
 Dialogue: 0,0:06:45.56,0:06:48.25,Default,,0,0,0,,When we get to a soldiers' post,
 Dialogue: 0,0:06:48.25,0:06:50.91,Default,,0,0,0,,I will buck you all off!
-Dialogue: 0,0:06:51.83,0:06:55.33,"Sign",,0,0,0,,THE PASSAGE BETWEEN BUILDING A AND B
+Dialogue: 0,0:06:51.83,0:06:55.33,Sign3,,0,0,266,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Passageway Between Building A and B
+Dialogue: 1,0:06:51.83,0:06:55.33,Sign3,,0,0,266,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Passageway Between Building A and B
 Dialogue: 0,0:07:09.57,0:07:10.76,Default,,0,0,0,,Captain-chan!
 Dialogue: 0,0:07:10.76,0:07:13.02,Default,,0,0,0,,Captain-chan, are you listening?
 Dialogue: 0,0:07:13.02,0:07:14.36,Default,,0,0,0,,Let's go ahead!
@@ -320,7 +324,8 @@ Dialogue: 0,0:15:25.43,0:15:27.00,Default,,0,0,0,,O-One of the Straw Hats?
 Dialogue: 0,0:15:27.00,0:15:28.33,Default,,0,0,0,,Why is a pirate helping us?
 Dialogue: 0,0:15:39.51,0:15:40.87,Default,,0,0,0,,I heard the sound of...
 Dialogue: 0,0:15:42.41,0:15:43.90,Default,,0,0,0,,...a woman's tears falling.
-Dialogue: 0,0:15:50.70,0:15:54.20,"Sign",,0,0,0,,INSIDE OF BUILDING B
+Dialogue: 0,0:15:50.70,0:15:54.20,Sign,,0,0,265,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}{Inside of }Building B
+Dialogue: 1,0:15:50.70,0:15:54.20,Sign,,0,0,265,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}{Inside of }Building B
 Dialogue: 0,0:15:57.66,0:16:00.55,Default,,0,0,0,,Sanji has taken off somewhere making a serious face!
 Dialogue: 0,0:16:00.55,0:16:04.32,Default,,0,0,0,,I felt a mysterious presence back there.
 Dialogue: 0,0:16:04.32,0:16:05.43,Default,,0,0,0,,Forget about him.
@@ -338,7 +343,8 @@ Dialogue: 0,0:16:33.43,0:16:37.89,Default,,0,0,0,,Plus, he's one of the smaller 
 Dialogue: 0,0:16:37.89,0:16:40.57,Default,,0,0,0,,They're faster and much more resilient!
 Dialogue: 0,0:16:43.27,0:16:45.01,Default,,0,0,0,,Let's just run for now!
 Dialogue: 0,0:16:47.75,0:16:49.26,Default,,0,0,0,,Run faster!
-Dialogue: 0,0:16:58.54,0:17:02.01,"Sign",,0,0,0,,A STAIRCASE IN THE MIDDLE OF BUILDING B
+Dialogue: 0,0:16:58.54,0:17:02.01,Sign3,,0,0,264,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Building B, Central Staircase
+Dialogue: 1,0:16:58.54,0:17:02.01,Sign3,,0,0,264,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Building B, Central Staircase
 Dialogue: 0,0:17:06.22,0:17:07.50,Default,,0,0,0,,Damn!
 Dialogue: 0,0:17:07.50,0:17:08.79,Default,,0,0,0,,I don't wanna fall behind!
 Dialogue: 0,0:17:10.52,0:17:11.81,Default,,0,0,0,,Straw Hat,
@@ -350,7 +356,8 @@ Dialogue: 0,0:17:19.48,0:17:22.08,Default,,0,0,0,,Is he with Caesar?
 Dialogue: 0,0:17:22.08,0:17:23.45,Default,,0,0,0,,I think so.
 Dialogue: 0,0:17:23.45,0:17:24.50,Default,,0,0,0,,Don't get in my way!
 Dialogue: 0,0:17:24.94,0:17:27.78,Default,,0,0,0,,Wait, you bastard!
-Dialogue: 0,0:17:33.64,0:17:36.81,"Sign",,0,0,0,,BUILDING B - THE GAS BALLOON LANDING PAD
+Dialogue: 0,0:17:33.64,0:17:36.81,Sign2,,0,0,264,,{\blur0.3\fad(630,0)\c&H000000&\1a&HFF&\t(585,630,\1a&H00&)}Building B, Gas Balloon Landing Pad
+Dialogue: 1,0:17:33.64,0:17:36.81,Sign2,,0,0,264,,{\bord0\blur0.3\fad(630,0)\4a&HFF&}Building B, Gas Balloon Landing Pad
 Dialogue: 0,0:17:37.10,0:17:38.38,Default,,0,0,0,,Help!
 Dialogue: 0,0:17:39.68,0:17:41.35,Default,,0,0,0,,I'm scared!
 Dialogue: 0,0:17:41.35,0:17:43.63,Default,,0,0,0,,Get me out of here!
@@ -411,7 +418,8 @@ Dialogue: 0,0:20:02.84,0:20:04.21,Default,,0,0,0,,This is bad!
 Dialogue: 0,0:20:06.46,0:20:10.87,Default,,0,0,0,,Hey, could you take me to the Biscuits Room?!
 Dialogue: 0,0:20:10.87,0:20:13.87,Default,,0,0,0,,Okay! I know a shortcut to the Biscuits Room!
 Dialogue: 0,0:20:13.87,0:20:15.92,Default,,0,0,0,,Follow me!
-Dialogue: 0,0:20:19.10,0:20:23.11,"Sign",,0,0,0,,Caesar's Laboratory {Laboratory Room}
+Dialogue: 0,0:20:19.10,0:20:23.11,Sign,,0,0,262,,{\blur0.3\fad(660,0)\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Caesar's Laboratory {Laboratory Room}
+Dialogue: 1,0:20:19.10,0:20:23.11,Sign,,0,0,262,,{\bord0\blur0.3\fad(660,0)\4a&HFF&}Caesar's Laboratory {Laboratory Room}
 Dialogue: 0,0:20:23.44,0:20:26.39,Default,,0,0,0,,What the hell is Vergo doing?!
 Dialogue: 0,0:20:26.78,0:20:30.07,Default,,0,0,0,,The G-5 are my test subjects!
 Dialogue: 0,0:20:30.07,0:20:33.28,Default,,0,0,0,,It'll be a total waste if I don't kill them with Netherworld!
@@ -422,7 +430,8 @@ Dialogue: 0,0:20:39.77,0:20:42.54,Default,,0,0,0,,and let the gas flow in from t
 Dialogue: 0,0:20:43.79,0:20:46.98,Default,,0,0,0,,But Vergo is still there.
 Dialogue: 0,0:20:46.98,0:20:50.01,Default,,0,0,0,,I don't care if that idiot lives or dies!
 Dialogue: 0,0:20:50.01,0:20:51.51,Default,,0,0,0,,Just do it!
-Dialogue: 0,0:20:51.60,0:20:55.07,"Sign",,0,0,0,,BUILDING B 3RD FLOOR - NEAR THE BISCUITS ROOM
+Dialogue: 0,0:20:51.60,0:20:55.07,Sign3,,0,0,362,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Near the Biscuits Room\NBuilding B, 3rd Floor
+Dialogue: 1,0:20:51.60,0:20:55.07,Sign3,,0,0,362,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Near the Biscuits Room\NBuilding B, 3rd Floor
 Dialogue: 0,0:21:01.60,0:21:04.24,Default,,0,0,0,,The Biscuits Room is down this way!
 Dialogue: 0,0:21:04.24,0:21:05.36,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:21:06.09,0:21:08.20,Default,,0,0,0,,The Biscuits Room is this way!

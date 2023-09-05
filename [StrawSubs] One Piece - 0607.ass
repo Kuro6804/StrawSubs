@@ -23,17 +23,18 @@ Audio File: [SOFCJ-Raws] One Piece - 607 (BD 1920x1080 x264 29.970fps FLAC) [BC4
 Video File: [SOFCJ-Raws] One Piece - 607 (BD 1920x1080 x264 29.970fps FLAC) [BC43A5F1].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 356
-Active Line: 359
-Video Position: 38459
+Video Zoom Percent: 0.500000
+Scroll Position: 226
+Active Line: 243
+Video Position: 23199
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Sign3,A-OTF Kakumin Pro B,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,45,45,45,0
+Style: Sign4,A-OTF Kakumin Pro B,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -244,7 +245,8 @@ Dialogue: 0,0:10:50.07,0:10:51.63,Default,,0,0,0,,That was close!
 Dialogue: 0,0:10:52.19,0:10:53.11,Default,,0,0,0,,Again!
 Dialogue: 0,0:10:53.11,0:10:55.30,Default,,0,0,0,,Go to hell, Straw Hat!
 Dialogue: 0,0:10:59.01,0:11:00.30,Default,,0,0,0,,What happened?
-Dialogue: 0,0:11:00.48,0:11:04.98,"Sign",,0,0,0,,THE PASSAGE BETWEEN BUILDING A AND B
+Dialogue: 0,0:11:00.48,0:11:04.98,Sign3,,0,0,266,,{\blur0.3\fad(520,520)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(3980,4025,\1a&HFF&)}Passageway Between Building A and B
+Dialogue: 1,0:11:00.48,0:11:04.98,Sign3,,0,0,266,,{\bord0\blur0.3\fad(520,520)\4a&HFF&}Passageway Between Building A and B
 Dialogue: 0,0:11:02.16,0:11:03.00,DefaultLow,,0,0,0,,Hurry up!
 Dialogue: 0,0:11:03.00,0:11:04.56,DefaultLow,,0,0,0,,The gate is closing!
 Dialogue: 0,0:11:04.56,0:11:06.02,DefaultLow,,0,0,0,,Run!
@@ -260,7 +262,8 @@ Dialogue: 0,0:11:39.45,0:11:40.48,Default,,0,0,0,,"Black Leg."
 Dialogue: 0,0:11:50.13,0:11:51.23,Default,,0,0,0,,Flanchet...
 Dialogue: 0,0:11:52.77,0:11:53.96,Default,,0,0,0,,...Strike!
 Dialogue: 0,0:11:57.19,0:11:58.36,Default,,0,0,0,,He's strong!
-Dialogue: 0,0:12:04.74,0:12:09.25,"Sign",,0,0,0,,INSIDE OF BUILDING B THE BROWNBEARD EXPRESS AND ITS RIDERS
+Dialogue: 0,0:12:04.74,0:12:09.25,Sign3,,0,0,264,,{\blur0.3\fad(520,520)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(3990,4035,\1a&HFF&)}Brownbeard Express and Its Passengers, {Inside of }Building B
+Dialogue: 1,0:12:04.74,0:12:09.25,Sign3,,0,0,264,,{\bord0\blur0.3\fad(520,520)\4a&HFF&}Brownbeard Express and Its Passengers, {Inside of }Building B
 Dialogue: 0,0:12:12.03,0:12:14.03,Default,,0,0,0,,Hey hey, that dragon is out of control!
 Dialogue: 0,0:12:14.03,0:12:15.05,Default,,0,0,0,,He's dangerous!
 Dialogue: 0,0:12:15.34,0:12:17.52,Default,,0,0,0,,He does look violent.
@@ -280,7 +283,8 @@ Dialogue: 0,0:12:41.58,0:12:42.79,Default,,0,0,0,,Just do it now!
 Dialogue: 0,0:12:42.79,0:12:44.17,Default,,0,0,0,,You're the oldest!
 Dialogue: 0,0:12:44.17,0:12:46.76,Default,,0,0,0,,That's right! You should respect your elders!
 Dialogue: 0,0:12:48.91,0:12:49.88,Default,,0,0,0,,What?!
-Dialogue: 0,0:12:54.06,0:12:58.80,"Sign",,0,0,0,,BUILDING D - IN FRONT OF THE S.A.D. MANUFACTURING ROOM
+Dialogue: 0,0:12:54.06,0:12:58.80,Sign4,,0,0,262,,{\blur0.3\fad(330,0)\c&H000000&\1a&HFF&\t(285,330,\1a&H00&)}Building D, outside the S.A.D. Manufacturing Room
+Dialogue: 1,0:12:54.06,0:12:58.80,Sign4,,0,0,262,,{\bord0\blur0.3\fad(330,0)\4a&HFF&}Building D, outside the S.A.D. Manufacturing Room
 Dialogue: 0,0:12:59.77,0:13:01.28,Default,,0,0,0,,Hey, we have a problem!
 Dialogue: 0,0:13:01.28,0:13:01.89,Default,,0,0,0,,What is it?
 Dialogue: 0,0:13:01.89,0:13:06.02,Default,,0,0,0,,The Navy soldiers and the Straw Hats entered Building B!

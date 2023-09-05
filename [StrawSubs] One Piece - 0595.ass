@@ -24,8 +24,8 @@ Video File: [SOFCJ-Raws] One Piece - 595 (BD 1920x1080 x264 29.970fps FLAC) [7BE
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 251
-Active Line: 260
+Scroll Position: 253
+Active Line: 259
 Video Position: 32605
 
 [V4+ Styles]
@@ -33,6 +33,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
 Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
+Style: Sign3,A-OTF Kakumin Pro B,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,45,45,45,0
+Style: Sign4,A-OTF Kakumin Pro B,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -128,8 +130,8 @@ Dialogue: 0,0:03:39.80,0:03:48.81,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,19
 Dialogue: 1,0:03:39.80,0:03:48.81,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Capture Master
 Dialogue: 0,0:03:39.80,0:03:48.81,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Pirate Alliance's Plan Commences!
 Dialogue: 1,0:03:39.80,0:03:48.81,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Pirate Alliance's Plan Commences!
-Dialogue: 0,0:03:51.68,0:03:55.69,Sign,,0,0,363,,{\blur0.3\fad(1040,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(995,1040,\1a&H00&)}Present time\NThe mountain behind the {research }institute
-Dialogue: 1,0:03:51.68,0:03:55.69,Sign,,0,0,363,,{\blur0.3\fad(1040,0)\fs60\bord0\4a&HFF&}Present time\NThe mountain behind the {research }institute
+Dialogue: 0,0:03:51.68,0:03:55.69,Sign4,,0,0,362,,{\blur0.3\fad(1040,0)\c&H000000&\1a&HFF&\t(995,1040,\1a&H00&)}Present time\NThe mountain behind the {research }institute
+Dialogue: 1,0:03:51.68,0:03:55.69,Sign4,,0,0,362,,{\bord0\blur0.3\fad(1040,0)\4a&HFF&}Present time\NThe mountain behind the {research }institute
 Dialogue: 0,0:03:55.99,0:04:00.35,Default,,0,0,0,,Maybe from when I fell? Looks like I hit my head.
 Dialogue: 0,0:04:00.62,0:04:05.13,Default,,0,0,0,,Oh, maybe I did, too. I have a huge headache!
 Dialogue: 0,0:04:05.57,0:04:09.27,Default,,0,0,0,,We've wasted so much time. I wonder if the samurai is okay.
@@ -284,8 +286,8 @@ Dialogue: 0,0:15:49.38,0:15:52.93,Default,,0,0,0,,...that occurred on Punk Hazar
 Dialogue: 0,0:16:22.55,0:16:27.34,Default,,0,0,0,,I invented the H₂S poison gas bomb.
 Dialogue: 0,0:16:27.34,0:16:30.09,Default,,0,0,0,,It worked so well
 Dialogue: 0,0:16:30.09,0:16:34.55,Default,,0,0,0,,and killed everything on the island in a matter of seconds!
-Dialogue: 0,0:17:07.81,0:17:11.31,Sign,,0,0,268,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}One year later
-Dialogue: 1,0:17:07.81,0:17:11.31,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}One year later
+Dialogue: 0,0:17:07.81,0:17:11.31,Sign,,0,0,267,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}One year later
+Dialogue: 1,0:17:07.81,0:17:11.31,Sign,,0,0,267,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}One year later
 Dialogue: 0,0:17:14.18,0:17:17.53,Default,,0,0,0,,Do they believe I purified the gas all over the island?
 Dialogue: 0,0:17:17.53,0:17:21.39,Default,,0,0,0,,No way! No one would do such a wasteful thing!
 Dialogue: 0,0:17:22.08,0:17:25.75,Default,,0,0,0,,I compressed it and turned it into a monster.
@@ -295,10 +297,10 @@ Dialogue: 0,0:17:37.53,0:17:42.77,Default,,0,0,0,,This island was once covered w
 Dialogue: 0,0:17:42.77,0:17:46.03,Default,,0,0,0,,People tend to forget tragedies in no time
 Dialogue: 0,0:17:46.03,0:17:48.59,Default,,0,0,0,,but that one has lingered here all along.
 Dialogue: 0,0:17:48.86,0:17:52.26,Default,,0,0,0,,It was always in my hand!
-Dialogue: 0,0:17:57.83,0:18:03.33,Sign,,0,0,363,,{\blur0.3\fad(500,630)\fs60\bord2.2\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(4870,4915,\1a&HFF&)}Former Vegapunk Lab\NThird Research Institute
-Dialogue: 1,0:17:57.83,0:18:03.33,Sign,,0,0,363,,{\blur0.3\fad(500,630)\fs60\bord0\4a&HFF&}Former Vegapunk Lab\NThird Research Institute
-Dialogue: 0,0:18:07.90,0:18:12.98,Sign,,0,0,363,,{\blur0.3\fad(660,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Former Vegapunk Labs\NRuins of the First and Second Research Institutes
-Dialogue: 1,0:18:07.90,0:18:12.98,Sign,,0,0,363,,{\blur0.3\fad(660,0)\fs60\bord0\4a&HFF&}Former Vegapunk Labs\NRuins of the First and Second Research Institutes
+Dialogue: 0,0:17:57.83,0:18:03.33,Sign3,,0,0,360,,{\blur0.3\fad(500,630)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(4870,4915,\1a&HFF&)}Former Vegapunk Lab\NThird Research Institute
+Dialogue: 1,0:17:57.83,0:18:03.33,Sign3,,0,0,360,,{\bord0\blur0.3\fad(500,630)\4a&HFF&}Former Vegapunk Lab\NThird Research Institute
+Dialogue: 0,0:18:07.90,0:18:12.98,Sign4,,0,0,360,,{\blur0.3\fad(660,0)\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Former Vegapunk Labs\NRuins of the First and Second Research Institutes
+Dialogue: 1,0:18:07.90,0:18:12.98,Sign4,,0,0,360,,{\bord0\blur0.3\fad(660,0)\4a&HFF&}Former Vegapunk Labs\NRuins of the First and Second Research Institutes
 Dialogue: 0,0:18:22.39,0:18:24.82,Default,,0,0,0,,I'll never let him take these children again.
 Dialogue: 0,0:18:25.15,0:18:29.21,Default,,0,0,0,,I can't believe he was using them as his test subjects and drugged them.
 Dialogue: 0,0:18:29.50,0:18:32.66,Default,,0,0,0,,I can't forgive the Master guy!

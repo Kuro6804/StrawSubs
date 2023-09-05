@@ -23,17 +23,20 @@ Audio File: [SOFCJ-Raws] One Piece - 601 (BD 1920x1080 x264 29.970fps FLAC) [D87
 Video File: [SOFCJ-Raws] One Piece - 601 (BD 1920x1080 x264 29.970fps FLAC) [D8746168].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 150
-Active Line: 167
-Video Position: 16618
+Video Zoom Percent: 0.625000
+Scroll Position: 283
+Active Line: 292
+Video Position: 33835
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,45,45,6,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
+Style: Sign2,A-OTF Kakumin Pro B,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.33,0,2,45,45,45,0
+Style: Sign3,A-OTF Kakumin Pro B,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,45,45,45,0
+Style: Sign4,A-OTF Kakumin Pro B,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -137,7 +140,8 @@ Dialogue: 0,0:04:18.68,0:04:27.68,Title Card - Top,,0,0,0,,{\blur0.3\fad(1980,19
 Dialogue: 1,0:04:18.68,0:04:27.68,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1980,1980)\4a&HFF&}A Shock to the New World
 Dialogue: 0,0:04:18.68,0:04:27.68,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1980,1980)\c&H000000&\1a&HFF&\t(1935,1980,\1a&H00&)\t(7020,7065,\1a&HFF&)}Caesar's Horrendous Experiment
 Dialogue: 1,0:04:18.68,0:04:27.68,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1980,1980)\4a&HFF&}Caesar's Horrendous Experiment
-Dialogue: 0,0:04:32.99,0:04:36.49,"Sign",,0,0,0,,Caesar's Research Institute, Out-Front
+Dialogue: 0,0:04:32.99,0:04:36.49,Sign2,,0,0,260,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Caesar's Research Institute, Out-Front
+Dialogue: 1,0:04:32.99,0:04:36.49,Sign2,,0,0,260,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Caesar's Research Institute, Out-Front
 Dialogue: 0,0:04:39.51,0:04:40.10,Default,,0,0,0,,Open up!
 Dialogue: 0,0:04:41.56,0:04:43.81,Default,,0,0,0,,Dammit! It's as solid as rock!
 Dialogue: 0,0:04:43.81,0:04:46.32,Default,,0,0,0,,Hey! Open the shutter!
@@ -206,7 +210,8 @@ Dialogue: 0,0:08:54.42,0:08:56.53,Default,,0,0,0,,Hey, get away from the door!
 Dialogue: 0,0:08:56.53,0:08:58.92,Default,,0,0,0,,Damn! What a pain in the butt!
 Dialogue: 0,0:08:58.92,0:09:01.73,Default,,0,0,0,,Help me! Sis!
 Dialogue: 0,0:09:03.84,0:09:07.14,Default,,0,0,0,,Sis!!
-Dialogue: 0,0:09:13.77,0:09:17.27,"Sign",,0,0,0,,Ruins of the First and Second Research Institutes
+Dialogue: 0,0:09:13.77,0:09:17.27,Sign4,,0,0,266,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Ruins of the First and Second Research Institutes
+Dialogue: 1,0:09:13.77,0:09:17.27,Sign4,,0,0,266,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Ruins of the First and Second Research Institutes
 Dialogue: 0,0:09:25.97,0:09:26.89,Default,,0,0,0,,Ow, ow, ow...
 Dialogue: 0,0:09:27.89,0:09:29.01,Default,,0,0,0,,I'm alive!
 Dialogue: 0,0:09:29.96,0:09:32.92,Default,,0,0,0,,There are a whole bunch of cuts and bruises on Sanji-kun's body
@@ -294,20 +299,17 @@ Dialogue: 0,0:15:32.88,0:15:35.55,Default,,0,0,0,,Something is on the screen!
 Dialogue: 0,0:15:35.55,0:15:38.63,Default,,0,0,0,,What is that? Where is it? That looks like...
 Dialogue: 0,0:15:38.63,0:15:41.29,Default,,0,0,0,,...a candy! It's a huge candy!
 Dialogue: 0,0:15:41.74,0:15:44.43,Default,,0,0,0,,When did they place that Video Transponder Snail?
-Dialogue: 0,0:15:50.67,0:16:07.52,"Sign",,0,0,0,,VARIOUS PLACES IN THE NEW WORLD UNDERWORLD BROKERS
-Dialogue: 0,0:15:51.41,0:15:54.83,DefaultLow2,,0,0,0,,Thank you for waiting, brokers.
-Dialogue: 0,0:15:54.83,0:15:58.92,DefaultLow2,,0,0,0,,It's going to start soon. The Smilies...
-Dialogue: 0,0:15:58.92,0:16:00.18,DefaultLow2,,0,0,0,,...that made their way
-Dialogue: 0,0:16:00.18,0:16:02.24,DefaultLow2,,0,0,0,,from the Burning Lands separately...
-Dialogue: 0,0:16:02.24,0:16:05.00,DefaultLow2,,0,0,0,,...will all arrive at this
-Dialogue: 0,0:16:05.00,0:16:07.52,DefaultLow2,,0,0,0,,central part of the Frozen Lands very soon.
-Dialogue: 0,0:16:07.66,0:16:10.82,Default,,0,0,0,,When they merge into one another
-Dialogue: 0,0:16:10.82,0:16:15.37,Default,,0,0,0,,and become one big "Smiley" again,
-Dialogue: 0,0:16:16.39,0:16:18.51,Default,,0,0,0,,the experiment will begin.
-Dialogue: 0,0:16:45.53,0:16:47.23,Default,,0,0,0,,You see - Smiley is...
-Dialogue: 0,0:16:48.08,0:16:51.31,Default,,0,0,0,,...the H₂S poison gas bomb itself...
-Dialogue: 0,0:16:51.84,0:16:56.30,Default,,0,0,0,,...the same one that killed everything on the island...
-Dialogue: 0,0:16:56.30,0:16:57.76,Default,,0,0,0,,...four years ago!
+Dialogue: 0,0:15:50.67,0:16:07.52,Sign3,,0,0,262,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Underworld Brokers\NVarious locations in the New World
+Dialogue: 1,0:15:50.67,0:16:07.52,Sign3,,0,0,262,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Underworld Brokers\NVarious locations in the New World
+Dialogue: 0,0:15:51.41,0:15:54.83,DefaultLow2,,0,0,0,,Sorry to have kept you waiting, distinguished brokers.
+Dialogue: 0,0:15:54.83,0:15:57.60,DefaultLow2,,0,0,0,,The main event will begin shortly.
+Dialogue: 0,0:15:57.60,0:16:02.24,DefaultLow2,,0,0,0,,The Smileys are making their way from the Burning Lands,
+Dialogue: 0,0:16:02.24,0:16:06.95,DefaultLow2,,0,0,0,,coalescing toward the center of the Frozen Lands.
+Dialogue: 0,0:16:07.52,0:16:15.37,Default,,0,0,0,,Once they reunite\Nand Smiley becomes whole again,
+Dialogue: 0,0:16:16.23,0:16:18.51,Default,,0,0,0,,the experiment will begin.
+Dialogue: 0,0:16:45.53,0:16:47.23,Default,,0,0,0,,You see, Smiley...
+Dialogue: 0,0:16:48.08,0:16:56.30,Default,,0,0,0,,is the very H₂S gas bomb itself that,\Nfour years ago, killed everything on this island...
+Dialogue: 0,0:16:56.30,0:16:57.76,Default,,0,0,0,,{\i1}That{\i0} is what he is!
 Dialogue: 0,0:16:58.38,0:17:00.13,Default,,0,0,0,,H₂S gas?
 Dialogue: 0,0:17:04.09,0:17:06.11,Default,,0,0,0,,Last time,
 Dialogue: 0,0:17:12.66,0:17:14.88,Default,,0,0,0,,despite the fact they were growing weaker by the minute,
@@ -319,7 +321,8 @@ Dialogue: 0,0:17:48.54,0:17:52.16,Default,,0,0,0,,It will add a new effect to th
 Dialogue: 0,0:17:52.16,0:17:55.86,Default,,0,0,0,,and the weapon of mass destruction will reach completion.
 Dialogue: 0,0:17:56.87,0:18:00.36,Default,,0,0,0,,The new weapon that will make its debut today is called...
 Dialogue: 0,0:18:01.47,0:18:03.13,Default,,0,0,0,,..."Netherworld"!
-Dialogue: 0,0:18:03.60,0:18:07.60,"Sign",,0,0,0,,FROZEN LANDS - THE CENTRAL PART
+Dialogue: 0,0:18:03.60,0:18:07.60,Sign,,0,0,264,,{\blur0.3\fad(660,0)\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Frozen Lands, Center
+Dialogue: 1,0:18:03.60,0:18:07.60,Sign,,0,0,264,,{\bord0\blur0.3\fad(660,0)\4a&HFF&}Frozen Lands, Center
 Dialogue: 0,0:18:11.73,0:18:13.82,Default,,0,0,0,,They're coming!
 Dialogue: 0,0:18:14.61,0:18:16.81,Default,,0,0,0,,Can we even outrun such monsters?!
 Dialogue: 0,0:18:20.20,0:18:21.74,Default,,0,0,0,,Oh, it's coming!
@@ -330,7 +333,8 @@ Dialogue: 0,0:18:36.61,0:18:39.89,Default,,0,0,0,,Hey, guys! I see a ball!
 Dialogue: 0,0:18:40.44,0:18:41.97,Default,,0,0,0,,What's that?!
 Dialogue: 0,0:18:42.19,0:18:44.99,Default,,0,0,0,,It looks like... a candy?!
 Dialogue: 0,0:18:44.99,0:18:47.08,Default,,0,0,0,,Somebody's there underneath it!
-Dialogue: 0,0:18:48.95,0:18:52.45,"Sign",,0,0,0,,VEGAPUNK'S DRAGON - SMALL SIZE
+Dialogue: 0,0:18:48.95,0:18:52.45,Sign3,,0,0,264,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Vegapunk's Dragon (Small)
+Dialogue: 1,0:18:48.95,0:18:52.45,Sign3,,0,0,264,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Vegapunk's Dragon (Small)
 Dialogue: 0,0:18:53.00,0:18:56.79,Default,,0,0,0,,Master, I see a big, gel-like creature.
 Dialogue: 0,0:18:57.09,0:18:58.90,Default,,0,0,0,,I think that's Smiley.
 Dialogue: 0,0:19:00.27,0:19:04.42,Default,,0,0,0,,Now we are going to project Master's video on the fog as planned.
@@ -382,7 +386,7 @@ Dialogue: 0,0:22:23.49,0:22:25.23,Default,,0,0,0,,What is that?
 Dialogue: 0,0:22:31.00,0:22:33.63,Default,,0,0,0,,That's a big candy!
 Dialogue: 0,0:22:41.27,0:22:43.85,Default,,0,0,0,,Good boy, Smiley.
 Dialogue: 0,0:22:47.60,0:22:51.81,Default,,0,0,0,,Nobody can stop him now!
-Dialogue: 0,0:23:10.03,0:23:13.47,Default,,0,0,0,,Used in the past to convert Punk Hazard into a land of death,
+Dialogue: 0,0:23:10.03,0:23:13.47,Default,,0,0,0,,Used in the past to convert Punk Hazard into a world of death,
 Dialogue: 0,0:23:13.47,0:23:15.61,Default,,0,0,0,,Caesar's ultimate poison is unleashed.
 Dialogue: 0,0:23:16.35,0:23:19.35,Default,,0,0,0,,It swallows person after person as it spreads...
 Dialogue: 0,0:23:19.80,0:23:24.74,Default,,0,0,0,,...and closes in on the Straw Hats as the island is transformed into a hellish landscape.

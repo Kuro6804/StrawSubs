@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 597 (BD 1920x1080 x264 29.970fps FLAC) [F65
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 306
+Scroll Position: 309
 Active Line: 318
-Video Position: 39696
+Video Position: 39637
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +34,8 @@ Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,1
 Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,45,45,6,0
 Style: DefaultLow3,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,45,45,4,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
-Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
+Style: Sign3,A-OTF Kakumin Pro B,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,45,45,45,0
+Style: Sign4,A-OTF Kakumin Pro B,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2,0,2,45,45,45,0
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
@@ -140,8 +141,8 @@ Dialogue: 0,0:04:37.66,0:04:46.64,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,19
 Dialogue: 1,0:04:37.66,0:04:46.64,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}A Ferocious Battle
 Dialogue: 0,0:04:37.66,0:04:46.64,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Caesar Reveals His True Strength!
 Dialogue: 1,0:04:37.66,0:04:46.64,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Caesar Reveals His True Strength!
-Dialogue: 0,0:04:47.14,0:04:52.81,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Zoro\NPunk Hazard, Center Lake
-Dialogue: 1,0:04:47.14,0:04:52.81,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Zoro\NPunk Hazard, Center Lake
+Dialogue: 0,0:04:47.14,0:04:52.81,Sign3,,0,0,363,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Zoro\NPunk Hazard, Center Lake
+Dialogue: 1,0:04:47.14,0:04:52.81,Sign3,,0,0,363,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Team Zoro\NPunk Hazard, Center Lake
 Dialogue: 0,0:04:50.72,0:04:54.68,DefaultLow3,,0,0,0,,Is that a Slime?
 Dialogue: 0,0:04:54.68,0:04:55.89,Default,,0,0,0,,A Slime?
 Dialogue: 0,0:04:55.89,0:05:00.12,Default,,0,0,0,,Yes. I was once reading a book that had a monster...
@@ -198,8 +199,8 @@ Dialogue: 0,0:08:05.22,0:08:06.76,Default,,0,0,0,,You'll see.
 Dialogue: 0,0:08:06.76,0:08:09.13,Default,,0,0,0,,Alright. I was bored anyway.
 Dialogue: 0,0:08:13.17,0:08:17.03,Default,,0,0,0,,Is that the bird woman that Usopp was talking about?
 Dialogue: 0,0:08:19.10,0:08:21.15,Default,,0,0,0,,What?!
-Dialogue: 0,0:08:21.32,0:08:24.82,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Luffy\NCaesar's Research Institute, Main Entrance
-Dialogue: 1,0:08:21.32,0:08:24.82,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Luffy\NCaesar's Research Institute, Main Entrance
+Dialogue: 0,0:08:21.32,0:08:24.82,Sign3,,0,0,363,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Luffy\NCaesar's Research Institute, Main Entrance
+Dialogue: 1,0:08:21.32,0:08:24.82,Sign3,,0,0,363,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Team Luffy\NCaesar's Research Institute, Main Entrance
 Dialogue: 0,0:08:22.10,0:08:24.65,DefaultLow2,,0,0,0,,S-Straw Hat caught Master!
 Dialogue: 0,0:08:24.98,0:08:26.73,Default,,0,0,0,,Way to go, Luffy!
 Dialogue: 0,0:08:26.73,0:08:28.76,Default,,0,0,0,,Dammit! That bastard!
@@ -277,10 +278,10 @@ Dialogue: 0,0:13:12.04,0:13:12.87,Default,,0,0,0,,What?
 Dialogue: 0,0:13:30.49,0:13:31.72,Default,,0,0,0,,Luffy!
 Dialogue: 0,0:13:31.72,0:13:33.81,Default,,0,0,0,,That's our Master!
 Dialogue: 0,0:13:33.81,0:13:36.76,Default,,0,0,0,,Now, I'm gonna finish you off!
-Dialogue: 0,0:13:37.18,0:13:39.90,Default,,0,0,0,,Smilies, wake up!
-Dialogue: 0,0:13:39.90,0:13:41.51,Default,,0,0,0,,Smilies?
+Dialogue: 0,0:13:37.18,0:13:39.90,Default,,0,0,0,,Smileys, wake up!
+Dialogue: 0,0:13:39.90,0:13:41.51,Default,,0,0,0,,Smileys?
 Dialogue: 0,0:13:48.56,0:13:50.68,Default,,0,0,0,,What?! All of a sudden, they're moving...
-Dialogue: 0,0:13:50.95,0:13:55.08,Default,,0,0,0,,Smilies, cling onto Straw Hat!
+Dialogue: 0,0:13:50.95,0:13:55.08,Default,,0,0,0,,Smileys, cling onto Straw Hat!
 Dialogue: 0,0:13:55.08,0:13:56.45,Default,,0,0,0,,Jump!
 Dialogue: 0,0:14:01.17,0:14:03.26,Default,,0,0,0,,Why are they listening to the Master?!
 Dialogue: 0,0:14:07.65,0:14:11.23,Default,,0,0,0,,Luffy, watch out! They'll explode!
@@ -358,8 +359,8 @@ Dialogue: 0,0:20:46.16,0:20:47.83,Default,,0,0,0,,Strong...
 Dialogue: 0,0:20:47.83,0:20:49.38,Default,,0,0,0,,Ri...
 Dialogue: 0,0:21:00.61,0:21:02.31,Default,,0,0,0,,Damn! What's going on here?!
 Dialogue: 0,0:21:28.38,0:21:30.90,Default,,0,0,0,,I have them all now!
-Dialogue: 0,0:22:02.54,0:22:05.71,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Caesar's Research Institute, Team Law
-Dialogue: 1,0:22:02.54,0:22:05.71,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Caesar's Research Institute, Team Law
+Dialogue: 0,0:22:02.54,0:22:05.71,Sign4,,0,0,362,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Law, Caesar's Research Institute
+Dialogue: 1,0:22:02.54,0:22:05.71,Sign4,,0,0,362,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Team Law, Caesar's Research Institute
 Dialogue: 0,0:22:04.22,0:22:05.23,DefaultLow3,,0,0,0,,Law?
 Dialogue: 0,0:22:07.82,0:22:08.94,Default,,0,0,0,,Who is it?
 Dialogue: 0,0:22:09.27,0:22:10.55,Default,,0,0,0,,What's wrong?

@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 594 (BD 1920x1080 x264 29.970fps FLAC) [0AB
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 269
-Active Line: 270
-Video Position: 29529
+Scroll Position: 104
+Active Line: 105
+Video Position: 9826
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -280,8 +280,8 @@ Dialogue: 0,0:12:59.50,0:13:02.06,Default,,0,0,0,,Sorry! I shouldn't laugh! But.
 Dialogue: 0,0:13:02.94,0:13:04.70,Default,,0,0,0,,Super cute!
 Dialogue: 0,0:13:05.90,0:13:07.52,Default,,0,0,0,,Good luck, Chopper.
 Dialogue: 0,0:13:07.61,0:13:08.57,Default,,0,0,0,,Count on me!
-Dialogue: 0,0:13:12.48,0:13:15.98,Sign,,0,0,266,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Burning Lands
-Dialogue: 1,0:13:12.48,0:13:15.98,Sign,,0,0,266,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Burning Lands
+Dialogue: 0,0:13:12.48,0:13:15.98,Sign,,0,0,264,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Burning Lands
+Dialogue: 1,0:13:12.48,0:13:15.98,Sign,,0,0,264,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Burning Lands
 Dialogue: 0,0:13:16.98,0:13:18.69,Default,,0,0,0,,1, 2, 3!
 Dialogue: 0,0:13:21.19,0:13:23.23,Default,,0,0,0,,1, 2, 3!
 Dialogue: 0,0:13:33.86,0:13:36.14,Default,,0,0,0,,Alright, it's unlocked!
@@ -332,8 +332,8 @@ Dialogue: 0,0:17:24.47,0:17:26.59,Default,,0,0,0,,That's okay. We're with you.
 Dialogue: 0,0:17:27.29,0:17:31.02,Default,,0,0,0,,Then, I will go along with what you guys want to do.
 Dialogue: 0,0:17:31.60,0:17:34.44,Default,,0,0,0,,You need to convince the rest of your crew.
 Dialogue: 0,0:17:34.44,0:17:36.50,Default,,0,0,0,,Yeah, I got it!
-Dialogue: 0,0:17:38.98,0:17:42.98,Sign,,0,0,266,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Caesar Clown's Research Institute, Out-Front
-Dialogue: 1,0:17:38.98,0:17:42.98,Sign,,0,0,266,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Caesar Clown's Research Institute, Out-Front
+Dialogue: 0,0:17:38.98,0:17:42.98,Sign,,0,0,265,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Caesar Clown's Research Institute, Out-Front
+Dialogue: 1,0:17:38.98,0:17:42.98,Sign,,0,0,265,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Caesar Clown's Research Institute, Out-Front
 Dialogue: 0,0:17:43.09,0:17:46.04,Default,,0,0,0,,You bastard! Damn you creature!
 Dialogue: 0,0:17:50.81,0:17:52.35,Default,,0,0,0,,"Rebar" Smoothie!
 Dialogue: 0,0:17:53.52,0:17:55.05,Default,,0,0,0,,Fen Bock of the Gourd!

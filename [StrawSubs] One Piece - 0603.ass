@@ -24,16 +24,18 @@ Video File: [SOFCJ-Raws] One Piece - 603 (BD 1920x1080 x264 29.970fps FLAC) [411
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 334
-Active Line: 343
-Video Position: 37255
+Scroll Position: 140
+Active Line: 149
+Video Position: 11792
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
+Style: Sign3,A-OTF Kakumin Pro B,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,45,45,45,0
+Style: Sign4,A-OTF Kakumin Pro B,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -138,23 +140,28 @@ Dialogue: 0,0:04:15.71,0:04:19.45,Default,,0,0,0,,A pirate who was on the news r
 Dialogue: 0,0:04:19.45,0:04:21.31,Default,,0,0,0,,Straw Hat Luffy.
 Dialogue: 0,0:04:22.90,0:04:26.68,Default,,0,0,0,,His crewmate—Devil Child Nico Robin.
 Dialogue: 0,0:04:28.18,0:04:31.78,Default,,0,0,0,,{\q2}The Wild Dog of the Navy—Ashen Hunter Smoker.
-Dialogue: 0,0:04:33.73,0:04:35.54,DefaultLow,,0,0,0,,How did these big-timers end up
-Dialogue: 0,0:04:35.26,0:04:40.16,"Sign",,0,0,0,,VARIOUS PLACES IN THE NEW WORLD
-Dialogue: 0,0:04:35.54,0:04:37.66,DefaultLow,,0,0,0,,being captured by Caesar?
+Dialogue: 0,0:04:33.73,0:04:35.43,DefaultLow,,0,0,0,,How did these big-timers
+Dialogue: 0,0:04:35.26,0:04:40.16,Sign4,,0,0,260,,{\blur0.3\fad(680,0)\c&H000000&\1a&HFF&\t(635,680,\1a&H00&)}Various locations in the New World
+Dialogue: 1,0:04:35.26,0:04:40.16,Sign4,,0,0,260,,{\bord0\blur0.3\fad(680,0)\4a&HFF&}Various locations in the New World
+Dialogue: 0,0:04:35.43,0:04:37.66,DefaultLow,,0,0,0,,end up being captured by Caesar?
 Dialogue: 0,0:04:38.26,0:04:39.67,DefaultLow,,0,0,0,,What?!
 Dialogue: 0,0:04:40.34,0:04:43.71,Default,,0,0,0,,It's them! So that's where they are!
 Dialogue: 0,0:04:43.71,0:04:45.15,Default,,0,0,0,,What should we do?
 Dialogue: 0,0:04:47.33,0:04:50.45,Default,,0,0,0,,Let's see how things go for a while-bon.
 Dialogue: 0,0:04:54.39,0:04:55.61,Default,,0,0,0,,Hey, they are...
 Dialogue: 0,0:04:59.25,0:05:03.77,DefaultLow,,0,0,0,,He finally got off his ass! That Straw Hat!
-Dialogue: 0,0:04:59.72,0:05:03.72,"Sign",,0,0,0,,EUSTASS "CAPTAIN" KID
-Dialogue: 0,0:05:03.85,0:05:07.56,"Sign",,0,0,0,,THE CAPTAIN OF THE KID PIRATES BOUNTY: 470 MILLION BERRIES
+Dialogue: 0,0:04:59.72,0:05:03.72,Sign,,0,0,262,,{\blur0.3\fad(680,0)\c&H000000&\1a&HFF&\t(635,680,\1a&H00&)}Eustass "Captain" Kid
+Dialogue: 1,0:04:59.72,0:05:03.72,Sign,,0,0,262,,{\bord0\blur0.3\fad(680,0)\4a&HFF&}Eustass "Captain" Kid
+Dialogue: 0,0:05:03.85,0:05:07.56,Sign3,,0,0,362,,{\blur0.3\fad(220,520)\c&H000000&\1a&HFF&\t(175,220,\1a&H00&)\t(3190,3235,\1a&HFF&)}Captain of the Kid Pirates\NBounty: 470 Million Berries
+Dialogue: 1,0:05:03.85,0:05:07.56,Sign3,,0,0,362,,{\bord0\blur0.3\fad(220,520)\4a&HFF&}Captain of the Kid Pirates\NBounty: 470 Million Berries
 Dialogue: 0,0:05:04.19,0:05:05.86,DefaultLow,,0,0,0,,It's no use watching it.
 Dialogue: 0,0:05:06.37,0:05:08.42,DefaultLow,,0,0,0,,And you're not the kind of guy...
 Dialogue: 0,0:05:08.42,0:05:10.67,DefaultLow,,0,0,0,,...who wants to play an arms trader, are you?
-Dialogue: 0,0:05:09.59,0:05:11.83,"Sign",,0,0,0,,KILLER
+Dialogue: 0,0:05:09.59,0:05:11.83,Sign,,0,0,260,,{\blur0.3\fad(220,0)\c&H000000&\1a&HFF&\t(175,220,\1a&H00&)}Killer
+Dialogue: 1,0:05:09.59,0:05:11.83,Sign,,0,0,260,,{\bord0\blur0.3\fad(220,0)\4a&HFF&}Killer
 Dialogue: 0,0:05:10.67,0:05:11.53,DefaultLow,,0,0,0,,Killer.
-Dialogue: 0,0:05:13.63,0:05:17.13,"Sign",,0,0,0,,A CREW MEMBER OF THE KID PIRATES BOUNTY: 200 MILLION BERRIES
+Dialogue: 0,0:05:13.63,0:05:17.13,Sign3,,0,0,362,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Crewmate of the Kid Pirates\NBounty: 200 Million Berries
+Dialogue: 1,0:05:13.63,0:05:17.13,Sign3,,0,0,362,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Crewmate of the Kid Pirates\NBounty: 200 Million Berries
 Dialogue: 0,0:05:13.78,0:05:15.62,DefaultLow,,0,0,0,,You're right.
 Dialogue: 0,0:05:18.34,0:05:22.17,Default,,0,0,0,,But I can't believe those three are there together.
 Dialogue: 0,0:05:22.56,0:05:25.11,Default,,0,0,0,,Yeah, that asshole - Trafalgar!
@@ -164,22 +171,26 @@ Dialogue: 0,0:05:32.62,0:05:34.62,Default,,0,0,0,,Is he gonna start something?
 Dialogue: 0,0:05:35.09,0:05:39.29,Default,,0,0,0,,We don't wanna fall behind! Let's move!
 Dialogue: 0,0:05:39.93,0:05:42.49,Default,,0,0,0,,Kid, I beg you. Settle it peacefully.
 Dialogue: 0,0:05:42.49,0:05:44.03,Default,,0,0,0,,I know! So shut up, already!
-Dialogue: 0,0:05:53.44,0:05:56.44,"Sign",,0,0,0,,SCRATCHMEN APOO
+Dialogue: 0,0:05:53.44,0:05:56.44,Sign,,0,0,266,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Scratchmen Apoo
+Dialogue: 1,0:05:53.44,0:05:56.44,Sign,,0,0,266,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Scratchmen Apoo
 Dialogue: 0,0:05:53.52,0:05:56.17,DefaultLow,,0,0,0,,Hey, Captain Kid!
-Dialogue: 0,0:05:57.47,0:06:00.31,"Sign",,0,0,0,,BASIL HAWKINS
+Dialogue: 0,0:05:57.47,0:06:00.31,Sign,,0,0,262,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Basil Hawkins
+Dialogue: 1,0:05:57.47,0:06:00.31,Sign,,0,0,262,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Basil Hawkins
 Dialogue: 0,0:06:00.81,0:06:04.48,Default,,0,0,0,,You look annoying as always!
 Dialogue: 0,0:06:05.52,0:06:08.78,Default,,0,0,0,,Scratchmen! What are you doing?!
 Dialogue: 0,0:06:08.78,0:06:11.91,Default,,0,0,0,,You made a big mess out of our lair!
 Dialogue: 0,0:06:11.91,0:06:14.69,Default,,0,0,0,,Sorry, Captain! We couldn't stop him!
 Dialogue: 0,0:06:15.19,0:06:16.84,DefaultLow,,0,0,0,,I was making sure that
 Dialogue: 0,0:06:16.84,0:06:18.95,DefaultLow,,0,0,0,,you didn't have any snipers.
-Dialogue: 0,0:06:18.53,0:06:24.03,"Sign",,0,0,0,,THE CAPTAIN OF THE ON-AIR PIRATES BOUNTY: 350 MILLION BERRIES
+Dialogue: 0,0:06:18.53,0:06:24.03,Sign3,,0,0,362,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Captain of the On-Air Pirates\NBounty: 350 Million Berries
+Dialogue: 1,0:06:18.53,0:06:24.03,Sign3,,0,0,362,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Captain of the On-Air Pirates\NBounty: 350 Million Berries
 Dialogue: 0,0:06:19.65,0:06:21.45,DefaultLow,,0,0,0,,Anyone would do so
 Dialogue: 0,0:06:21.45,0:06:24.03,DefaultLow,,0,0,0,,when he gets summoned by his enemy.
 Dialogue: 0,0:06:24.20,0:06:26.08,Default,,0,0,0,,See, Killer?!
 Dialogue: 0,0:06:26.08,0:06:29.64,Default,,0,0,0,,This is why I told you not to call him!
 Dialogue: 0,0:06:29.93,0:06:33.18,Default,,0,0,0,,Calm down. He's a powerful man.
-Dialogue: 0,0:06:33.44,0:06:38.95,"Sign",,0,0,0,,THE CAPTAIN OF THE HAWKINS PIRATES BOUNTY: 320 MILLION BERRIES
+Dialogue: 0,0:06:33.44,0:06:38.95,Sign3,,0,0,362,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Captain of the Hawkins Pirates\NBounty: 320 Million Berries
+Dialogue: 1,0:06:33.44,0:06:38.95,Sign3,,0,0,362,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Captain of the Hawkins Pirates\NBounty: 320 Million Berries
 Dialogue: 0,0:06:33.94,0:06:37.07,DefaultLow,,0,0,0,,How thoughtless of you
 Dialogue: 0,0:06:37.07,0:06:38.95,DefaultLow,,0,0,0,,to keep a guest you invited waiting.
 Dialogue: 0,0:06:40.87,0:06:43.61,Default,,0,0,0,,You assholes...

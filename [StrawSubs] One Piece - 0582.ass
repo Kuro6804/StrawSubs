@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 582 (BD 1920x1080 x264 29.970fps FLAC) [50A
 Video File: [SOFCJ-Raws] One Piece - 582 (BD 1920x1080 x264 29.970fps FLAC) [50A2F6D4].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 329
-Active Line: 347
-Video Position: 38970
+Video Zoom Percent: 0.562500
+Scroll Position: 336
+Active Line: 348
+Video Position: 38941
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -256,8 +256,8 @@ Dialogue: 0,0:13:20.91,0:13:23.39,Default,,0,0,0,,Ch-Children?!
 Dialogue: 0,0:13:23.83,0:13:25.06,Default,,0,0,0,,What's going on here?
 Dialogue: 0,0:13:27.94,0:13:30.34,Default,,0,0,0,,There are a bunch of kids!
 Dialogue: 0,0:13:31.00,0:13:32.99,Default,,0,0,0,,What's this place?!
-Dialogue: 0,0:13:47.61,0:13:51.25,Sign,,0,0,266,,{\blur0.3\fad(420,0)\c&H000000&\1a&HFF&\t(375,420,\1a&H00&)}Punk Hazard, Burning Lands
-Dialogue: 1,0:13:47.61,0:13:51.25,Sign,,0,0,266,,{\bord0\blur0.3\fad(420,0)\4a&HFF&}Punk Hazard, Burning Lands
+Dialogue: 0,0:13:47.61,0:13:51.25,Sign,,0,0,264,,{\blur0.3\fad(420,0)\c&H000000&\1a&HFF&\t(375,420,\1a&H00&)}Punk Hazard, Burning Lands
+Dialogue: 1,0:13:47.61,0:13:51.25,Sign,,0,0,264,,{\bord0\blur0.3\fad(420,0)\4a&HFF&}Punk Hazard, Burning Lands
 Dialogue: 0,0:13:55.53,0:14:00.10,Default,,0,0,0,,So all of your friends have cool hind legs like these?
 Dialogue: 0,0:14:00.10,0:14:01.15,Default,,0,0,0,,I wanna see them!
 Dialogue: 0,0:14:01.55,0:14:06.61,Default,,0,0,0,,Yeah! I'm sure they'll be surprised when they see your legs!
@@ -386,8 +386,8 @@ Dialogue: 0,0:21:21.29,0:21:23.56,Default,,0,0,0,,Release large amounts of the p
 Dialogue: 0,0:21:24.50,0:21:28.76,Default,,0,0,0,,Don't kill them--we don't want any trouble!
 Dialogue: 0,0:21:28.76,0:21:29.65,Default,,0,0,0,,Yes, sir!
 Dialogue: 0,0:21:38.91,0:21:40.86,DefaultLow,,0,0,0,,Vice Admiral Smoker, it's impossible!
-Dialogue: 0,0:21:39.32,0:21:44.62,Sign,,0,0,266,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Northwest Shore
-Dialogue: 1,0:21:39.32,0:21:44.62,Sign,,0,0,266,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Northwest Shore
+Dialogue: 0,0:21:39.32,0:21:44.62,Sign,,0,0,262,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Northwest Shore
+Dialogue: 1,0:21:39.32,0:21:44.62,Sign,,0,0,262,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Northwest Shore
 Dialogue: 0,0:21:40.86,0:21:43.01,DefaultLow,,0,0,0,,I-I can't breathe...
 Dialogue: 0,0:21:43.01,0:21:44.62,DefaultLow,,0,0,0,,The gas is still leaking!
 Dialogue: 0,0:21:45.32,0:21:48.67,Default,,0,0,0,,Be careful! You don't wanna inhale even a single breath!

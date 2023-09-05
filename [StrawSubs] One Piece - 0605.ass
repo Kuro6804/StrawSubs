@@ -23,16 +23,17 @@ Audio File: [SOFCJ-Raws] One Piece - 605 (BD 1920x1080 x264 29.970fps FLAC) [8FA
 Video File: [SOFCJ-Raws] One Piece - 605 (BD 1920x1080 x264 29.970fps FLAC) [8FA13B71].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 250
-Active Line: 259
-Video Position: 32461
+Video Zoom Percent: 0.625000
+Scroll Position: 251
+Active Line: 260
+Video Position: 32048
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,8,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
+Style: Sign3,A-OTF Kakumin Pro B,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,45,45,45,0
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
@@ -158,7 +159,7 @@ Dialogue: 0,0:06:31.31,0:06:33.90,Default,,0,0,0,,What should I do? What should 
 Dialogue: 0,0:06:34.63,0:06:36.12,Default,,0,0,0,,What should I do?!
 Dialogue: 0,0:06:48.36,0:06:51.46,Default,,0,0,0,,The Master! He's like a devil!
 Dialogue: 0,0:06:51.46,0:06:55.59,Default,,0,0,0,,But looks like everybody's okay! I'm so glad!
-Dialogue: 0,0:06:53.20,0:06:55.60,"Sign",,0,0,0,,DON'T DO ANYTHING
+Dialogue: 0,0:06:53.20,0:06:55.60,"Sign",,0,0,0,,"Don't do anything"
 Dialogue: 0,0:06:58.17,0:06:59.97,Default,,0,0,0,,I don't know who gave me this paper.
 Dialogue: 0,0:07:00.44,0:07:05.40,Default,,0,0,0,,Did he or she mean Luffy and the others can escape on their own?!
 Dialogue: 0,0:07:06.58,0:07:08.88,Default,,0,0,0,,How did they break out of that cage?
@@ -202,7 +203,8 @@ Dialogue: 0,0:09:59.96,0:10:02.82,Default,,0,0,0,,You're not a swordsman.
 Dialogue: 0,0:10:03.64,0:10:06.72,Default,,0,0,0,,Oh yeah, I'm not a swordsman.
 Dialogue: 0,0:10:06.72,0:10:10.33,Default,,0,0,0,,Alright, I'll go strike down those squirts.
 Dialogue: 0,0:10:14.49,0:10:17.15,DefaultLow,,0,0,0,,Where are you, Caesar?!
-Dialogue: 0,0:10:15.83,0:10:19.34,"Sign",,0,0,0,,Research Institute, Building A
+Dialogue: 0,0:10:15.83,0:10:19.34,Sign3,,0,0,264,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Research Institute, Building A
+Dialogue: 1,0:10:15.83,0:10:19.34,Sign3,,0,0,264,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Research Institute, Building A
 Dialogue: 0,0:10:27.17,0:10:30.58,Default,,0,0,0,,I won't let you pass through here, Straw Hat!
 Dialogue: 0,0:10:33.68,0:10:36.22,Default,,0,0,0,,I'm a gatekeeper of Building B and a former pirate!
 Dialogue: 0,0:10:36.22,0:10:39.22,Default,,0,0,0,,People call me "Machete" Run!
@@ -213,7 +215,8 @@ Dialogue: 0,0:10:47.56,0:10:49.66,Default,,0,0,0,,What kind of centaur you are?!
 Dialogue: 0,0:10:49.99,0:10:52.31,Default,,0,0,0,,Spider...
 Dialogue: 0,0:10:52.31,0:10:53.70,Default,,0,0,0,,...desu.
 Dialogue: 0,0:11:00.72,0:11:02.71,Default,,0,0,0,,Outta my way!
-Dialogue: 0,0:11:09.89,0:11:13.89,"Sign",,0,0,0,,THE PASSAGE BETWEEN BUILDING A AND B
+Dialogue: 0,0:11:09.89,0:11:13.89,Sign3,,0,0,264,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Passageway Between Building A and B
+Dialogue: 1,0:11:09.89,0:11:13.89,Sign3,,0,0,264,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Passageway Between Building A and B
 Dialogue: 0,0:11:19.06,0:11:20.73,Default,,0,0,0,,It's a huge tunnel!
 Dialogue: 0,0:11:36.97,0:11:39.49,Default,,0,0,0,,Law! What's this buzzer?
 Dialogue: 0,0:11:40.42,0:11:43.79,Default,,0,0,0,,It warns people that a gate in this building will close.
@@ -297,7 +300,8 @@ Dialogue: 0,0:17:32.67,0:17:33.30,Default,,0,0,0,,Hurry up!
 Dialogue: 0,0:17:33.30,0:17:35.70,Default,,0,0,0,,It's really gonna close soon!
 Dialogue: 0,0:17:35.70,0:17:37.77,Default,,0,0,0,,Come on, come on!
 Dialogue: 0,0:17:38.37,0:17:41.09,Default,,0,0,0,,Experiment cannon, stand by!
-Dialogue: 0,0:17:49.32,0:17:53.32,"Sign",,0,0,0,,Outside the research institute
+Dialogue: 0,0:17:49.32,0:17:53.32,Sign3,,0,0,262,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Outside the research institute
+Dialogue: 1,0:17:49.32,0:17:53.32,Sign3,,0,0,262,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Outside the research institute
 Dialogue: 0,0:17:54.93,0:17:59.18,Default,,0,0,0,,Take aim at the outer wall of Building A\Nof the Third Research Institute!
 Dialogue: 0,0:18:15.91,0:18:17.27,Default,,0,0,0,,Fire!
 Dialogue: 0,0:18:23.76,0:18:25.68,Default,,0,0,0,,The wall's been broken!

@@ -24,15 +24,17 @@ Video File: [SOFCJ-Raws] One Piece - 610 (BD 1920x1080 x264 29.970fps FLAC) [43E
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 377
-Active Line: 382
-Video Position: 42288
+Scroll Position: 223
+Active Line: 230
+Video Position: 22212
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
-Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
+Style: Sign2,A-OTF Kakumin Pro B,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.33,0,2,45,45,45,0
+Style: Sign3,A-OTF Kakumin Pro B,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
 
@@ -147,7 +149,8 @@ Dialogue: 0,0:04:53.91,0:05:02.92,Title Card - Top,,0,0,0,,{\blur0.3\fad(1982,19
 Dialogue: 1,0:04:53.91,0:05:02.92,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Fists Collide!
 Dialogue: 0,0:04:53.91,0:05:02.92,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}The Battle of Two Vice Admirals
 Dialogue: 1,0:04:53.91,0:05:02.92,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}The Battle of Two Vice Admirals
-Dialogue: 0,0:05:07.29,0:05:11.96,"Sign",,0,0,0,,BUILDING B 3RD FLOOR - BISCUITS ROOM
+Dialogue: 0,0:05:07.29,0:05:11.96,Sign3,,0,0,360,,{\blur0.3\fad(660,0)\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Biscuits Room\NBuilding B, 3rd Floor
+Dialogue: 1,0:05:07.29,0:05:11.96,Sign3,,0,0,360,,{\bord0\blur0.3\fad(660,0)\4a&HFF&}Biscuits Room\NBuilding B, 3rd Floor
 Dialogue: 0,0:05:16.14,0:05:20.51,Default,,0,0,0,,Mocha, those sweet candies are for everybody, aren't they?
 Dialogue: 0,0:05:20.51,0:05:22.24,Default,,0,0,0,,Stop fighting.
 Dialogue: 0,0:05:22.24,0:05:25.18,Default,,0,0,0,,Share and eat them together as usual.
@@ -173,7 +176,8 @@ Dialogue: 0,0:06:28.34,0:06:30.67,Default,,0,0,0,,You can count on me to find th
 Dialogue: 0,0:06:30.67,0:06:32.54,Default,,0,0,0,,I'll come with you!
 Dialogue: 0,0:06:32.54,0:06:34.08,Default,,0,0,0,,I have to find Momonosuke!
 Dialogue: 0,0:06:34.08,0:06:36.02,Default,,0,0,0,,All right! Let's go!
-Dialogue: 0,0:06:46.62,0:06:50.96,"Sign",,0,0,0,,BUILDING D - THE S.A.D. MANUFACTURING ROOM
+Dialogue: 0,0:06:46.62,0:06:50.96,Sign3,,0,0,262,,{\blur0.3\fad(660,0)\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Building D, S.A.D. Manufacturing Room
+Dialogue: 1,0:06:46.62,0:06:50.96,Sign3,,0,0,262,,{\bord0\blur0.3\fad(660,0)\4a&HFF&}Building D, S.A.D. Manufacturing Room
 Dialogue: 0,0:07:10.22,0:07:10.98,Default,,0,0,0,,What are those?
 Dialogue: 0,0:07:11.84,0:07:13.68,Default,,0,0,0,,This room's really disturbing.
 Dialogue: 0,0:07:14.79,0:07:17.75,Default,,0,0,0,,That's none of your business.
@@ -206,7 +210,8 @@ Dialogue: 0,0:09:23.71,0:09:25.46,Default,,0,0,0,,once we're out of the base,
 Dialogue: 0,0:09:25.46,0:09:28.45,Default,,0,0,0,,an unit commander is responsible for the troops' life.
 Dialogue: 0,0:09:29.38,0:09:30.99,Default,,0,0,0,,Don't lay a hand
 Dialogue: 0,0:09:31.33,0:09:33.85,Default,,0,0,0,,on my men!
-Dialogue: 0,0:09:35.16,0:09:38.83,"Sign",,0,0,0,,BUILDING B - THE G-5 AND SANJI
+Dialogue: 0,0:09:35.16,0:09:38.83,Sign,,0,0,264,,{\blur0.3\fad(660,0)\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Team G-5/Sanji, Building B
+Dialogue: 1,0:09:35.16,0:09:38.83,Sign,,0,0,264,,{\bord0\blur0.3\fad(660,0)\4a&HFF&}Team G-5/Sanji, Building B
 Dialogue: 0,0:09:44.14,0:09:45.90,Default,,0,0,0,,What's going on here?
 Dialogue: 0,0:09:45.90,0:09:47.44,Default,,0,0,0,,Ouch! Ow! Ow!
 Dialogue: 0,0:09:47.44,0:09:49.04,Default,,0,0,0,,There is no place to step!
@@ -250,7 +255,8 @@ Dialogue: 0,0:11:23.02,0:11:23.92,Default,,0,0,0,,Black Leg!
 Dialogue: 0,0:11:23.92,0:11:25.25,Default,,0,0,0,,Come on, guys!
 Dialogue: 0,0:11:25.25,0:11:26.47,Default,,0,0,0,,You're gonna die if you're too slow!
 Dialogue: 0,0:11:29.29,0:11:30.94,Default,,0,0,0,,Everybody! This way!
-Dialogue: 0,0:11:31.47,0:11:35.88,"Sign",,0,0,0,,BUILDING R 2ND FLOOR - THE SECRET ROOM
+Dialogue: 0,0:11:31.47,0:11:35.88,Sign3,,0,0,265,,{\blur0.3\fad(660,0)\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Secret Room\NBuilding R, 2nd Floor
+Dialogue: 1,0:11:31.47,0:11:35.88,Sign3,,0,0,265,,{\bord0\blur0.3\fad(660,0)\4a&HFF&}Secret Room\NBuilding R, 2nd Floor
 Dialogue: 0,0:11:39.16,0:11:41.92,Default,,0,0,0,,They're so dumb!
 Dialogue: 0,0:11:41.92,0:11:44.87,Default,,0,0,0,,They let Netherworld in themselves!
 Dialogue: 0,0:11:44.87,0:11:46.05,Default,,0,0,0,,But...
@@ -263,7 +269,8 @@ Dialogue: 0,0:11:59.14,0:12:03.90,Default,,0,0,0,,I want to lure them into the f
 Dialogue: 0,0:12:04.23,0:12:08.33,Default,,0,0,0,,They're trying to get to Building R - Gate 66 anyway.
 Dialogue: 0,0:12:09.03,0:12:11.59,Default,,0,0,0,,I don't want them to take an unnecessary side trip
 Dialogue: 0,0:12:11.59,0:12:13.97,Default,,0,0,0,,so let's just guide them!
-Dialogue: 0,0:12:17.92,0:12:21.59,"Sign",,0,0,0,,BUILDING C - A GARBAGE DUMP
+Dialogue: 0,0:12:17.92,0:12:21.59,Sign2,,0,0,262,,{\blur0.3\fad(680,0)\c&H000000&\1a&HFF&\t(635,680,\1a&H00&)}Building C, Garbage Dump
+Dialogue: 1,0:12:17.92,0:12:21.59,Sign2,,0,0,262,,{\bord0\blur0.3\fad(680,0)\4a&HFF&}Building C, Garbage Dump
 Dialogue: 0,0:12:28.98,0:12:31.01,Default,,0,0,0,,That was awful.
 Dialogue: 0,0:12:35.87,0:12:37.20,Default,,0,0,0,,Where am I?
 Dialogue: 0,0:12:42.33,0:12:43.32,Default,,0,0,0,,It's broken.

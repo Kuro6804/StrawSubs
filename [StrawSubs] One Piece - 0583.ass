@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 583 (BD 1920x1080 x264 29.970fps FLAC) [9D9
 Video File: [SOFCJ-Raws] One Piece - 583 (BD 1920x1080 x264 29.970fps FLAC) [9D942511].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.687500
-Scroll Position: 326
-Active Line: 337
-Video Position: 40021
+Video Zoom Percent: 0.562500
+Scroll Position: 165
+Active Line: 170
+Video Position: 15933
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -208,8 +208,8 @@ Dialogue: 0,0:08:38.40,0:08:40.19,Default,,0,0,0,,Use as few gas canisters as po
 Dialogue: 0,0:08:42.95,0:08:46.29,Default,,0,0,0,,If we hit a child, the Master will be furious!
 Dialogue: 0,0:08:49.82,0:08:51.03,Default,,0,0,0,,Hey.
 Dialogue: 0,0:08:51.42,0:08:55.52,DefaultLow,,0,0,0,,Do you really wanna cross this lake, Luffy?
-Dialogue: 0,0:08:51.62,0:08:55.52,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Burning Lands, Team Luffy
-Dialogue: 1,0:08:51.62,0:08:55.52,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Burning Lands, Team Luffy
+Dialogue: 0,0:08:51.62,0:08:55.52,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Luffy, Burning Lands
+Dialogue: 1,0:08:51.62,0:08:55.52,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Luffy, Burning Lands
 Dialogue: 0,0:08:55.52,0:08:56.25,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:08:56.25,0:09:00.06,Default,,0,0,0,,But how do we cross it?
 Dialogue: 0,0:09:00.06,0:09:02.67,Default,,0,0,0,,Some parts are burning but there are ice floes as well.

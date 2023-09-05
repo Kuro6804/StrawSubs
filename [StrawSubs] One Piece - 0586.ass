@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 586 (BD 1920x1080 x264 29.970fps FLAC) [2DB
 Video File: [SOFCJ-Raws] One Piece - 586 (BD 1920x1080 x264 29.970fps FLAC) [2DBF010E].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.437500
-Scroll Position: 74
-Active Line: 75
-Video Position: 6639
+Video Zoom Percent: 0.562500
+Scroll Position: 221
+Active Line: 234
+Video Position: 27141
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -272,8 +272,8 @@ Dialogue: 0,0:14:20.11,0:14:23.11,Default,,0,0,0,,You'd better not fight back!
 Dialogue: 0,0:14:23.75,0:14:26.75,Default,,0,0,0,,Then I won't have to hurt you so bad!
 Dialogue: 0,0:14:29.81,0:14:34.31,Default,,0,0,0,,Oh, my friends. You're in better shape than I thought!
 Dialogue: 0,0:14:41.99,0:14:45.92,Default,,0,0,0,,Help me!!
-Dialogue: 0,0:15:04.82,0:15:08.32,Sign,,0,0,268,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Research Institute, {in front of the }Main Entrance
-Dialogue: 1,0:15:04.82,0:15:08.32,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Research Institute, {in front of the }Main Entrance
+Dialogue: 0,0:15:04.82,0:15:08.32,Sign,,0,0,266,,{\blur0.3\fad(520,0)\fs66\bord2.33\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Research Institute, {in front of the }Main Entrance
+Dialogue: 1,0:15:04.82,0:15:08.32,Sign,,0,0,266,,{\blur0.3\fad(520,0)\fs66\bord0\4a&HFF&}Research Institute, {in front of the }Main Entrance
 Dialogue: 0,0:15:22.55,0:15:24.23,Default,,0,0,0,,I told you, Smo-san!
 Dialogue: 0,0:15:24.23,0:15:27.17,Default,,0,0,0,,This is why I said I didn't want anything to do with him!
 Dialogue: 0,0:15:27.17,0:15:29.39,Default,,0,0,0,,What should we do?!

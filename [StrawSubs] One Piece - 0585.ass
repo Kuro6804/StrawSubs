@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 585 (BD 1920x1080 x264 29.970fps FLAC) [D49
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 296
-Active Line: 302
-Video Position: 31685
+Scroll Position: 257
+Active Line: 266
+Video Position: 28090
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -306,8 +306,8 @@ Dialogue: 0,0:15:14.16,0:15:17.33,Default,,0,0,0,,You are so persistent!
 Dialogue: 0,0:15:18.45,0:15:21.58,Default,,0,0,0,,I have no choice! I'll fight you!
 Dialogue: 0,0:15:31.12,0:15:33.87,Default,,0,0,0,,I'll forget I saw it.
 Dialogue: 0,0:15:33.87,0:15:37.16,Default,,0,0,0,,Oh, I don't have eyes anyway.
-Dialogue: 0,0:15:37.25,0:15:40.86,Sign,,0,0,268,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Research Institute, Main Entrance
-Dialogue: 1,0:15:37.25,0:15:40.86,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Research Institute, Main Entrance
+Dialogue: 0,0:15:37.25,0:15:40.86,Sign,,0,0,266,,{\blur0.3\fad(520,0)\fs66\bord2.33\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Research Institute, Main Entrance
+Dialogue: 1,0:15:37.25,0:15:40.86,Sign,,0,0,266,,{\blur0.3\fad(520,0)\fs66\bord0\4a&HFF&}Research Institute, Main Entrance
 Dialogue: 0,0:15:43.52,0:15:48.49,Default,,0,0,0,,Hello? My name is Monkey D. Luffy! I'm gonna become the Pirate King!
 Dialogue: 0,0:15:48.49,0:15:50.23,Default,,0,0,0,,You picked up too fast and said too much!
 Dialogue: 0,0:15:51.36,0:15:52.76,Default,,0,0,0,,Help me!

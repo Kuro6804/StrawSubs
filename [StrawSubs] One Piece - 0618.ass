@@ -24,15 +24,18 @@ Video File: [SOFCJ-Raws] One Piece - 618 (BD 1920x1080 x264 29.970fps FLAC) [DA2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 239
-Active Line: 245
-Video Position: 25695
+Scroll Position: 312
+Active Line: 321
+Video Position: 35972
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,200,200,56,0
 Style: DefaultLow2,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.001,0,1,4.5,0,2,45,45,6,0
 Style: Opening,FOT-Greco Std B,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,96,97,1.5,0,1,3.2,0,8,10,10,16,1
+Style: Sign,A-OTF Kakumin Pro B,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.5,0,2,45,45,45,0
+Style: Sign3,A-OTF Kakumin Pro B,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,45,45,45,0
+Style: Sign4,A-OTF Kakumin Pro B,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,2,0,2,45,45,45,0
 Style: "Sign",Candara,83,&H00F6FBF6,&H00F5FEF5,&H00564100,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,45,0
 Style: Title Card - Top,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,8,45,45,158,0
 Style: Title Card - Bottom,H-ShinYaLan,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.000150313,0,1,2.3,0,2,45,45,224,0
@@ -125,7 +128,7 @@ Dialogue: 0,0:03:27.85,0:03:33.03,Default,,0,0,0,,and learned about the ruler of
 Dialogue: 0,0:03:33.03,0:03:36.42,Default,,0,0,0,,All while trying to escape Netherworld,
 Dialogue: 0,0:03:36.42,0:03:40.42,Default,,0,0,0,,they are heading to Building R with the children that they rescued.
 Dialogue: 0,0:03:41.07,0:03:45.43,Default,,0,0,0,,Finally, a climactic battle rages on-- between Luffy and Caesar!
-Dialogue: 0,0:03:46.44,0:03:49.25,"Sign",,0,0,0,,LAND OF DEATH
+Dialogue: 0,0:03:46.44,0:03:49.25,"Sign",,0,0,0,,{\fad(1440,0)}"Netherworld"
 Dialogue: 0,0:03:55.26,0:03:59.47,Default,,0,0,0,,This is my scientific power!
 Dialogue: 0,0:03:59.61,0:04:00.67,Default,,0,0,0,,Caesar is...
 Dialogue: 0,0:04:01.21,0:04:04.31,Default,,0,0,0,,...the type of person that Luffy hates the most!
@@ -142,7 +145,8 @@ Dialogue: 0,0:04:55.98,0:05:04.96,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,19
 Dialogue: 1,0:04:55.98,0:05:04.96,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Attacked!
 Dialogue: 0,0:04:55.98,0:05:04.96,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Assassins from Dress Rosa
 Dialogue: 1,0:04:55.98,0:05:04.96,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Assassins from Dress Rosa
-Dialogue: 0,0:05:49.87,0:05:53.04,"Sign",,0,0,0,,VARIOUS PLACES IN THE NEW WORLD
+Dialogue: 0,0:05:49.87,0:05:53.04,Sign4,,0,0,257,,{\blur0.3\fad(330,0)\c&H000000&\1a&HFF&\t(285,330,\1a&H00&)}Various locations in the New World
+Dialogue: 1,0:05:49.87,0:05:53.04,Sign4,,0,0,257,,{\bord0\blur0.3\fad(330,0)\4a&HFF&}Various locations in the New World
 Dialogue: 0,0:05:54.16,0:05:56.03,Default,,0,0,0,,What is going on?
 Dialogue: 0,0:05:57.49,0:05:59.60,Default,,0,0,0,,Is this some kind of joke?!
 Dialogue: 0,0:05:59.60,0:06:01.49,Default,,0,0,0,,This is what they call a "public experiment"?
@@ -155,7 +159,8 @@ Dialogue: 0,0:06:17.11,0:06:19.15,Default,,0,0,0,,I think they formed an allianc
 Dialogue: 0,0:06:19.15,0:06:20.76,Default,,0,0,0,,Let the world know.
 Dialogue: 0,0:06:21.08,0:06:23.55,Default,,0,0,0,,This is not just a problem in the underground anymore.
 Dialogue: 0,0:06:26.91,0:06:29.67,Default,,0,0,0,,Watch out! This place is gonna collapse!
-Dialogue: 0,0:06:30.54,0:06:34.04,"Sign",,0,0,0,,BUILDING B 2ND FLOOR
+Dialogue: 0,0:06:30.54,0:06:34.04,Sign3,,0,0,261,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Building B, 2nd Floor
+Dialogue: 1,0:06:30.54,0:06:34.04,Sign3,,0,0,261,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Building B, 2nd Floor
 Dialogue: 0,0:06:34.23,0:06:36.51,Default,,0,0,0,,Hurry up! Hurry up! Hurry up!
 Dialogue: 0,0:06:38.19,0:06:39.74,Default,,0,0,0,,Mocha! You can make it!
 Dialogue: 0,0:06:44.24,0:06:46.40,Default,,0,0,0,,Mocha! You're gonna be alright!
@@ -167,7 +172,8 @@ Dialogue: 0,0:07:00.75,0:07:02.52,Default,,0,0,0,,Chopper, can you hear me?
 Dialogue: 0,0:07:03.28,0:07:04.99,Default,,0,0,0,,Is that Usopp?!
 Dialogue: 0,0:07:05.10,0:07:08.27,Default,,0,0,0,,Keep going straight and go down the stairs.
 Dialogue: 0,0:07:08.27,0:07:11.08,Default,,0,0,0,,That's the fastest way to Building R!
-Dialogue: 0,0:07:11.15,0:07:14.12,"Sign",,0,0,0,,Building R, 2nd Floor; Secret Room
+Dialogue: 0,0:07:11.15,0:07:14.12,Sign3,,0,0,261,,{\blur0.3\fad(280,0)\c&H000000&\1a&HFF&\t(235,280,\1a&H00&)}Secret Room\NBuilding R, 2nd Floor
+Dialogue: 1,0:07:11.15,0:07:14.12,Sign3,,0,0,261,,{\bord0\blur0.3\fad(280,0)\4a&HFF&}Secret Room\NBuilding R, 2nd Floor
 Dialogue: 0,0:07:11.08,0:07:13.03,DefaultLow2,,0,0,0,,I'm gonna shut the door to Building R
 Dialogue: 0,0:07:13.03,0:07:14.12,DefaultLow2,,0,0,0,,before the gas flows in!
 Dialogue: 0,0:07:14.12,0:07:15.58,DefaultLow2,,0,0,0,,So hurry up!
@@ -221,7 +227,8 @@ Dialogue: 0,0:09:56.04,0:09:59.17,Default,,0,0,0,,Just go down the stairs right 
 Dialogue: 0,0:09:59.45,0:10:02.13,Default,,0,0,0,,The gas is really closing in!
 Dialogue: 0,0:10:08.23,0:10:11.38,Default,,0,0,0,,We're almost at Building R! You can make it!
 Dialogue: 0,0:10:13.94,0:10:15.78,Default,,0,0,0,,We're almost there! Keep running!
-Dialogue: 0,0:10:23.57,0:10:26.71,"Sign",,0,0,0,,BUILDING R 1ST FLOOR
+Dialogue: 0,0:10:23.57,0:10:26.71,Sign3,,0,0,261,,{\blur0.3\fad(280,0)\c&H000000&\1a&HFF&\t(235,280,\1a&H00&)}Building R, 1st Floor
+Dialogue: 1,0:10:23.57,0:10:26.71,Sign3,,0,0,261,,{\bord0\blur0.3\fad(280,0)\4a&HFF&}Building R, 1st Floor
 Dialogue: 0,0:10:27.05,0:10:28.36,Default,,0,0,0,,Luffy!
 Dialogue: 0,0:10:29.12,0:10:30.26,Default,,0,0,0,,Oh, Nami!
 Dialogue: 0,0:10:30.47,0:10:32.67,Default,,0,0,0,,Great! You're here already!
@@ -248,7 +255,8 @@ Dialogue: 0,0:11:29.24,0:11:30.86,Default,,0,0,0,,I made it!
 Dialogue: 0,0:11:30.86,0:11:33.46,Default,,0,0,0,,Are you guys okay?! Good to see you!
 Dialogue: 0,0:11:37.48,0:11:38.79,Default,,0,0,0,,He's not here.
 Dialogue: 0,0:11:40.57,0:11:42.07,Default,,0,0,0,,Smoker-san...
-Dialogue: 0,0:11:42.22,0:11:45.79,"Sign",,0,0,0,,Path Between Building R and D
+Dialogue: 0,0:11:42.22,0:11:45.79,Sign4,,0,0,260,,{\blur0.3\fad(250,0)\c&H000000&\1a&HFF&\t(205,250,\1a&H00&)}Passageway Between Building R and D
+Dialogue: 1,0:11:42.22,0:11:45.79,Sign4,,0,0,260,,{\bord0\blur0.3\fad(250,0)\4a&HFF&}Passageway Between Building R and D
 Dialogue: 0,0:11:46.12,0:11:48.84,Default,,0,0,0,,Do we really need this?
 Dialogue: 0,0:11:49.04,0:11:53.18,Default,,0,0,0,,Yes, this is the truck that they use to transport containers of S.A.D.
 Dialogue: 0,0:11:53.43,0:11:55.94,Default,,0,0,0,,I'm gonna let everybody ride it.
@@ -294,7 +302,8 @@ Dialogue: 0,0:14:35.41,0:14:38.24,Default,,0,0,0,,I'm sure they will get here!
 Dialogue: 0,0:14:55.75,0:15:00.49,Default,,0,0,0,,Meanwhile, before the showdown between Luffy and Caesar...
 Dialogue: 0,0:15:05.69,0:15:08.79,Default,,0,0,0,,In the sky near Punk Hazard...
 Dialogue: 0,0:15:12.45,0:15:15.53,DefaultLow2,,0,0,0,,The end of this mission is the end of love.
-Dialogue: 0,0:15:12.83,0:15:18.84,"Sign",,0,0,0,,Donquixote Pirates, Servant/Assassin Baby 5
+Dialogue: 0,0:15:12.83,0:15:18.84,Sign3,,0,0,357,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Donquixote Pirates, Servant/Assassin Baby 5
+Dialogue: 1,0:15:12.83,0:15:18.84,Sign3,,0,0,357,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Donquixote Pirates, Servant/Assassin Baby 5
 Dialogue: 0,0:15:15.52,0:15:18.84,DefaultLow2,,0,0,0,,I'll finish him off when I get back!
 Dialogue: 0,0:15:18.84,0:15:20.77,Default,,0,0,0,,Joker! What an asshole!
 Dialogue: 0,0:15:20.92,0:15:27.15,Default,,0,0,0,,He killed my sweet fiancé by destroying the whole town!
@@ -304,7 +313,8 @@ Dialogue: 0,0:15:31.26,0:15:34.77,Default,,0,0,0,,He killed eight men that I lov
 Dialogue: 0,0:15:34.77,0:15:37.00,Default,,0,0,0,,and destroyed eight towns!
 Dialogue: 0,0:15:37.27,0:15:40.66,Default,,0,0,0,,Why does he want to screw up my happiness?!
 Dialogue: 0,0:15:41.71,0:15:44.03,DefaultLow2,,0,0,0,,Because the Young Master loves you-dasuyan!
-Dialogue: 0,0:15:42.96,0:15:51.63,"Sign",,0,0,0,,DONQUIXOTE PIRATES - A COMBATANT BUFFALO
+Dialogue: 0,0:15:42.96,0:15:51.63,Sign3,,0,0,357,,{\blur0.3\fad(660,0)\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Donquixote Pirates, Combatant Buffalo
+Dialogue: 1,0:15:42.96,0:15:51.63,Sign3,,0,0,357,,{\bord0\blur0.3\fad(660,0)\4a&HFF&}Donquixote Pirates, Combatant Buffalo
 Dialogue: 0,0:15:44.03,0:15:47.20,DefaultLow2,,0,0,0,,He loves you like his own sister
 Dialogue: 0,0:15:47.20,0:15:49.71,DefaultLow2,,0,0,0,,so he doesn't begrudge destroying a town
 Dialogue: 0,0:15:49.71,0:15:51.63,DefaultLow2,,0,0,0,,or two-dasuyan!
@@ -352,7 +362,8 @@ Dialogue: 0,0:19:36.98,0:19:40.11,Default,,0,0,0,,No! Something hit it-dasuyan!
 Dialogue: 0,0:19:47.57,0:19:49.36,Default,,0,0,0,,It's a human! There!
 Dialogue: 0,0:19:52.66,0:19:55.49,Default,,0,0,0,,What?! Caesar Clown?!
 Dialogue: 0,0:19:55.81,0:19:57.40,Default,,0,0,0,,No way!
-Dialogue: 0,0:20:00.25,0:20:04.09,"Sign",,0,0,0,,Dress Rosa
+Dialogue: 0,0:20:00.25,0:20:04.09,Sign,,0,0,257,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Dress Rosa
+Dialogue: 1,0:20:00.25,0:20:04.09,Sign,,0,0,257,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Dress Rosa
 Dialogue: 0,0:20:01.26,0:20:05.07,DefaultLow2,,0,0,0,,Ring, ring, ring... Ring, ring, ring...
 Dialogue: 0,0:20:05.38,0:20:06.96,DefaultLow2,,0,0,0,,Ring, ring... Clank!
 Dialogue: 0,0:20:07.37,0:20:11.11,Default,,0,0,0,,Joker! This is Buffalo from Punk Hazard!

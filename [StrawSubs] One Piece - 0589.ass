@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 589 (BD 1920x1080 x264 29.970fps FLAC) [2EE
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.562500
-Scroll Position: 147
-Active Line: 160
-Video Position: 16152
+Scroll Position: 237
+Active Line: 250
+Video Position: 26702
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -289,8 +289,8 @@ Dialogue: 0,0:13:49.98,0:13:52.14,Default,,0,0,0,,But four years ago,
 Dialogue: 0,0:13:52.14,0:13:55.69,Default,,0,0,0,,Vegapunk's chemical weapon test went wrong!
 Dialogue: 0,0:14:18.60,0:14:22.38,Default,,0,0,0,,And two of the {research }institutes exploded!
 Dialogue: 0,0:14:22.88,0:14:25.93,Default,,0,0,0,,These are the remains of those very {research }institutes.
-Dialogue: 0,0:14:48.61,0:14:52.88,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Former Vegapunk Labs\NRuins of the First and Second Research Institutes
-Dialogue: 1,0:14:48.61,0:14:52.88,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Former Vegapunk Labs\NRuins of the First and Second Research Institutes
+Dialogue: 0,0:14:48.61,0:14:52.88,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs52\bord2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Former Vegapunk Labs\NRuins of the First and Second Research Institutes
+Dialogue: 1,0:14:48.61,0:14:52.88,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs52\bord0\4a&HFF&}Former Vegapunk Labs\NRuins of the First and Second Research Institutes
 Dialogue: 0,0:14:52.87,0:14:56.37,Default,,0,0,0,,I see. So there was a huge explosion.
 Dialogue: 0,0:14:57.04,0:14:59.25,Default,,0,0,0,,That's why this place is a mess.
 Dialogue: 0,0:15:02.28,0:15:06.20,Default,,0,0,0,,The explosion belched intense heat and toxic substances,
