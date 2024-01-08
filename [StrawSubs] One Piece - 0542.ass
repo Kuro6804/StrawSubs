@@ -22,10 +22,10 @@ Audio File: [Panda-Raws] One Piece - 0542 (WEB 1080p AMZN JP 29.970fps EAC3) [94
 Video File: [Panda-Raws] One Piece - 0542 (WEB 1080p AMZN JP 29.970fps EAC3) [946347E6].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 382
-Active Line: 377
-Video Position: 46479
+Video Zoom Percent: 0.500000
+Scroll Position: 352
+Active Line: 359
+Video Position: 42106
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -398,34 +398,62 @@ Dialogue: 0,0:23:09.64,0:23:11.17,Default,Sunny,0,0,0,,Take care!
 Dialogue: 0,0:23:11.17,0:23:13.68,Default,Sunny,0,0,0,,Let's meet again,
 Dialogue: 0,0:23:13.68,0:23:16.85,Default,Sunny,0,0,0,,The Sunny!
 Dialogue: 0,0:23:19.98,0:23:21.50,Default,All,0,0,0,,That's what you meant?!
-Dialogue: 0,0:23:24.92,0:23:29.26,Credits,English,0,0,0,,I can't stay still! I can't stop!
-Dialogue: 0,0:23:29.26,0:23:33.63,Credits,English,0,0,0,,Dawn can't come soon enough, I'm tired of waiting!
-Dialogue: 0,0:23:33.63,0:23:37.50,Credits,English,0,0,0,,One, two, Sunshine, four... We Go!
-Dialogue: 0,0:23:38.73,0:23:43.55,Credits,English,0,0,0,,Now raise our flag to the Break of Romance Dawn
-Dialogue: 0,0:23:44.24,0:23:49.58,Credits,English,0,0,0,,Let the waves crash, they'll jump start us out of sleep
-Dialogue: 0,0:23:49.58,0:23:54.22,Credits,English,0,0,0,,If we're gonna travel through an unbelievable world,
-Dialogue: 0,0:23:54.22,0:23:58.42,Credits,English,0,0,0,,you'll have to be tough
-Dialogue: 0,0:23:58.90,0:24:01.65,Credits,English,0,0,0,,Standing out too much, is that a crime?
-Dialogue: 0,0:24:01.65,0:24:04.63,Credits,English,0,0,0,,Wanted → Means a Winner {\fsp-14}(・∀・)
-Dialogue: 0,0:24:04.63,0:24:10.10,Credits,English,0,0,0,,Aah, freedom is our only rule!
-Dialogue: 0,0:24:10.10,0:24:15.77,Credits,English,0,0,0,,Forget our worries, just let the wind blow
-Dialogue: 0,0:24:15.77,0:24:18.40,Credits,English,0,0,0,,I'll be the first to the One Piece, I swear
-Dialogue: 0,0:24:18.40,0:24:22.40,Credits,English,0,0,0,,Our hearts dream beyond measure
-Dialogue: 0,0:24:22.40,0:24:26.78,Credits,English,0,0,0,,So let's never wake them up
-Dialogue: 0,0:24:26.78,0:24:29.02,Credits,English,0,0,0,,I can't stay still! I can't stop!
-Dialogue: 0,0:24:29.02,0:24:33.52,Credits,English,0,0,0,,Dawn can't come soon enough, I'm tired of waiting!
-Dialogue: 0,0:24:33.52,0:24:36.93,Credits,English,0,0,0,,One, two, Sunshine, four... We Go!
-Dialogue: 0,0:25:03.28,0:25:09.25,Credits,English,0,0,0,,We... have made it this far
-Dialogue: 0,0:25:09.25,0:25:12.00,Credits,English,0,0,0,,We'll go... wherever our dreams take us
-Dialogue: 0,0:25:12.00,0:25:17.17,Credits,English,0,0,0,,And we won't leave anyone behind
-Dialogue: 0,0:25:17.17,0:25:19.84,Credits,English,0,0,0,,We'll never look back, that's a vow
-Dialogue: 0,0:25:19.84,0:25:23.84,Credits,English,0,0,0,,On that day when our dreams began,
-Dialogue: 0,0:25:23.84,0:25:28.14,Credits,English,0,0,0,,we set our goals and they've never changed!
-Dialogue: 0,0:25:28.14,0:25:30.70,Credits,English,0,0,0,,I can't stay still! I can't stop!
-Dialogue: 0,0:25:30.70,0:25:34.95,Credits,English,0,0,0,,The sun in my heart will never set!
-Dialogue: 0,0:25:34.95,0:25:41.76,Credits,English,0,0,0,,One, two, Sunshine... One, two, Sunshine...
-Dialogue: 0,0:25:43.06,0:25:49.25,Credits,English,0,0,0,,One, two, Sunshine, four... We Go!
-Dialogue: 0,0:25:49.25,0:25:52.34,Credits,English,0,0,0,,We Go!
+Dialogue: 0,0:23:24.92,0:23:29.26,Credits,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still! I can't stop!
+Dialogue: 1,0:23:24.92,0:23:29.26,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still! I can't stop!
+Dialogue: 0,0:23:29.26,0:23:33.63,Credits,English,0,0,0,,{\blur0.3\c&H000000&}Dawn can't come soon enough, I'm tired of waiting!
+Dialogue: 1,0:23:29.26,0:23:33.63,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Dawn can't come soon enough, I'm tired of waiting!
+Dialogue: 0,0:23:33.63,0:23:37.50,Credits,English,0,0,0,,{\blur0.3\c&H000000&}One, two, Sunshine, four... We Go!
+Dialogue: 1,0:23:33.63,0:23:37.50,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}One, two, Sunshine, four... We Go!
+Dialogue: 0,0:23:38.73,0:23:43.55,Credits,English,0,0,0,,{\blur0.3\c&H000000&}Now raise our flag to the Break of Romance Dawn
+Dialogue: 1,0:23:38.73,0:23:43.55,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Now raise our flag to the Break of Romance Dawn
+Dialogue: 0,0:23:44.24,0:23:49.58,Credits,English,0,0,0,,{\blur0.3\c&H000000&}Let the waves crash, they'll jump start us out of sleep
+Dialogue: 1,0:23:44.24,0:23:49.58,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Let the waves crash, they'll jump start us out of sleep
+Dialogue: 0,0:23:49.58,0:23:54.22,Credits,English,0,0,0,,{\blur0.3\c&H000000&}If we're gonna travel through an unbelievable world,
+Dialogue: 1,0:23:49.58,0:23:54.22,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}If we're gonna travel through an unbelievable world,
+Dialogue: 0,0:23:54.22,0:23:58.42,Credits,English,0,0,0,,{\blur0.3\c&H000000&}you'll have to be tough
+Dialogue: 1,0:23:54.22,0:23:58.42,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}you'll have to be tough
+Dialogue: 0,0:23:58.90,0:24:01.65,Credits,English,0,0,0,,{\blur0.3\c&H000000&}Standing out too much, is that a crime?
+Dialogue: 1,0:23:58.90,0:24:01.65,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Standing out too much, is that a crime?
+Dialogue: 0,0:24:01.65,0:24:04.63,Credits,English,0,0,0,,{\blur0.3\c&H000000&}Wanted → Means a Winner {\fsp-14}(・∀・)
+Dialogue: 1,0:24:01.65,0:24:04.63,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Wanted → Means a Winner {\fsp-14}(・∀・)
+Dialogue: 0,0:24:04.63,0:24:10.10,Credits,English,0,0,0,,{\blur0.3\c&H000000&}Aah, freedom is our only rule!
+Dialogue: 1,0:24:04.63,0:24:10.10,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Aah, freedom is our only rule!
+Dialogue: 0,0:24:10.10,0:24:15.77,Credits,English,0,0,0,,{\blur0.3\c&H000000&}Forget our worries, just let the wind blow
+Dialogue: 1,0:24:10.10,0:24:15.77,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Forget our worries, just let the wind blow
+Dialogue: 0,0:24:15.77,0:24:18.40,Credits,English,0,0,0,,{\blur0.3\c&H000000&}I'll be the first to the One Piece, I swear
+Dialogue: 1,0:24:15.77,0:24:18.40,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I'll be the first to the One Piece, I swear
+Dialogue: 0,0:24:18.40,0:24:22.40,Credits,English,0,0,0,,{\blur0.3\c&H000000&}Our hearts dream beyond measure
+Dialogue: 1,0:24:18.40,0:24:22.40,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Our hearts dream beyond measure
+Dialogue: 0,0:24:22.40,0:24:26.78,Credits,English,0,0,0,,{\blur0.3\c&H000000&}So let's never wake them up
+Dialogue: 1,0:24:22.40,0:24:26.78,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}So let's never wake them up
+Dialogue: 0,0:24:26.78,0:24:29.02,Credits,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still! I can't stop!
+Dialogue: 1,0:24:26.78,0:24:29.02,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still! I can't stop!
+Dialogue: 0,0:24:29.02,0:24:33.52,Credits,English,0,0,0,,{\blur0.3\c&H000000&}Dawn can't come soon enough, I'm tired of waiting!
+Dialogue: 1,0:24:29.02,0:24:33.52,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Dawn can't come soon enough, I'm tired of waiting!
+Dialogue: 0,0:24:33.52,0:24:36.93,Credits,English,0,0,0,,{\blur0.3\c&H000000&}One, two, Sunshine, four... We Go!
+Dialogue: 1,0:24:33.52,0:24:36.93,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}One, two, Sunshine, four... We Go!
+Dialogue: 0,0:25:03.28,0:25:09.25,Credits,English,0,0,0,,{\blur0.3\c&H000000&}We... have made it this far
+Dialogue: 1,0:25:03.28,0:25:09.25,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}We... have made it this far
+Dialogue: 0,0:25:09.25,0:25:12.00,Credits,English,0,0,0,,{\blur0.3\c&H000000&}We'll go... wherever our dreams take us
+Dialogue: 1,0:25:09.25,0:25:12.00,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll go... wherever our dreams take us
+Dialogue: 0,0:25:12.00,0:25:17.17,Credits,English,0,0,0,,{\blur0.3\c&H000000&}And we won't leave anyone behind
+Dialogue: 1,0:25:12.00,0:25:17.17,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}And we won't leave anyone behind
+Dialogue: 0,0:25:17.17,0:25:19.84,Credits,English,0,0,0,,{\blur0.3\c&H000000&}We'll never look back, that's a vow
+Dialogue: 1,0:25:17.17,0:25:19.84,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}We'll never look back, that's a vow
+Dialogue: 0,0:25:19.84,0:25:23.84,Credits,English,0,0,0,,{\blur0.3\c&H000000&}On that day when our dreams began,
+Dialogue: 1,0:25:19.84,0:25:23.84,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}On that day when our dreams began,
+Dialogue: 0,0:25:23.84,0:25:28.14,Credits,English,0,0,0,,{\blur0.3\c&H000000&}we set our goals and they've never changed!
+Dialogue: 1,0:25:23.84,0:25:28.14,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}we set our goals and they've never changed!
+Dialogue: 0,0:25:28.14,0:25:30.70,Credits,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still! I can't stop!
+Dialogue: 1,0:25:28.14,0:25:30.70,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still! I can't stop!
+Dialogue: 0,0:25:30.70,0:25:34.95,Credits,English,0,0,0,,{\blur0.3\c&H000000&}The sun in my heart will never set!
+Dialogue: 1,0:25:30.70,0:25:34.95,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}The sun in my heart will never set!
+Dialogue: 0,0:25:34.95,0:25:41.76,Credits,English,0,0,0,,{\blur0.3\c&H000000&}One, two, Sunshine... One, two, Sunshine...
+Dialogue: 1,0:25:34.95,0:25:41.76,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}One, two, Sunshine... One, two, Sunshine...
+Dialogue: 0,0:25:43.06,0:25:49.25,Credits,English,0,0,0,,{\blur0.3\c&H000000&}One, two, Sunshine, four... We Go!
+Dialogue: 1,0:25:43.06,0:25:49.25,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}One, two, Sunshine, four... We Go!
+Dialogue: 0,0:25:49.25,0:25:52.34,Credits,English,0,0,0,,{\blur0.3\c&H000000&}We Go!
+Dialogue: 1,0:25:49.25,0:25:52.34,Credits,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}We Go!
 Dialogue: 0,0:25:54.94,0:25:59.94,Default,Na,0,0,0,,After a long voyage, Tiger finally returns Koala to her home.
 Dialogue: 0,0:26:00.48,0:26:04.71,Default,Na,0,0,0,,Watching Koala and her mother in a tearful embrace,
 Dialogue: 0,0:26:04.71,0:26:08.35,Default,Na,0,0,0,,Tiger sees hope for a new future for Fishmen and humans.
