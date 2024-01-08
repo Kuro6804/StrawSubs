@@ -23,7 +23,9 @@ Video File: [Kuro] One Piece 3D2Y (WEB 1080p 29.970fps AAC) [AADE996C].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Video Position: 710
+Scroll Position: 222
+Active Line: 247
+Video Position: 31083
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -214,7 +216,7 @@ Dialogue: 0,0:11:40.78,0:11:45.46,Flashback,,0,0,0,,Thank you for all the damn t
 Dialogue: 0,0:11:47.32,0:11:48.66,Default,,0,0,0,,Chopper.
 Dialogue: 0,0:11:48.66,0:11:51.90,Flashback,,0,0,0,,Even if I don't have any crewmates, I can still fight! {88}
 Dialogue: 0,0:11:52.16,0:11:53.90,Flashback,,0,0,0,,You do have a crew! {88}
-Dialogue: 0,0:11:54.50,0:11:57.37,Flashback,,0,0,0,,We're your crew! {88}
+Dialogue: 0,0:11:54.50,0:11:57.37,Flashback,,0,0,0,,{\i1}We're{\i0} your crew! {88}
 Dialogue: 0,0:11:58.10,0:12:01.14,Flashback,,0,0,0,,I do want to be a pirate, but… {90}
 Dialogue: 0,0:12:01.47,0:12:04.51,Flashback,,0,0,0,,I can't join your crew. {90}
 Dialogue: 0,0:12:04.68,0:12:05.58,Flashback,,0,0,0,,Shut up! {90}
@@ -290,7 +292,7 @@ Dialogue: 0,0:16:22.10,0:16:22.90,Default,,0,0,0,,It's coming!
 Dialogue: 0,0:17:02.71,0:17:06.64,Default,,0,0,0,,Byojack, how many minutes have passed\Nsince we started attacking?
 Dialogue: 0,0:17:07.08,0:17:09.78,Default,,0,0,0,,Um... eight minutes.
 Dialogue: 0,0:17:10.65,0:17:17.12,Default,,0,0,0,,So slow! It shouldn't take that long to sink three warships and a liner!
-Dialogue: 0,0:17:17.12,0:17:23.03,Default,,0,0,0,,B-But it took so much trouble for us to recruit those crew members while you were gone!
+Dialogue: 0,0:17:17.12,0:17:23.03,Default,,0,0,0,,B-But it took so much trouble for us to recruit\Nthose crewmates while you were gone!
 Dialogue: 0,0:17:23.39,0:17:26.26,Default,,0,0,0,,Building up numbers isn't good enough!
 Dialogue: 0,0:17:27.33,0:17:30.30,Default,,0,0,0,,Nightin, Gairam, Sebastian.
 Dialogue: 0,0:17:30.53,0:17:32.90,Default,,0,0,0,,Show them how you do it.
@@ -1288,7 +1290,7 @@ Dialogue: 0,1:23:10.37,1:23:16.18,Default,,0,0,0,,{\q2}and before we knew it peo
 Dialogue: 0,1:23:18.75,1:23:20.12,Flashback,,0,0,0,,A submarine?
 Dialogue: 0,1:23:20.12,1:23:24.66,Flashback,,0,0,0,,Yes. If we can travel underwater, unless there's a need to surface,
 Dialogue: 0,1:23:24.66,1:23:26.86,Flashback,,0,0,0,,we can avoid unnecessary battles.
-Dialogue: 0,1:23:26.96,1:23:31.20,Flashback,,0,0,0,,Since we have so many crew members,\Nwe need a bigger ship.
+Dialogue: 0,1:23:26.96,1:23:31.20,Flashback,,0,0,0,,Since we have such a big crew,\Nwe'll need a bigger ship.
 Dialogue: 0,1:23:31.40,1:23:33.06,Flashback,,0,0,0,,What about weapons?
 Dialogue: 0,1:23:33.46,1:23:37.94,Flashback,,0,0,0,,I want a big cannon! A truly massive one!
 Dialogue: 0,1:23:38.04,1:23:39.90,Flashback,,0,0,0,,Why do we need such a thing?

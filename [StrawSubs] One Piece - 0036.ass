@@ -246,7 +246,7 @@ Dialogue: 10,0:13:30.95,0:13:33.95,Default,,0,0,0,,We've found out where the Arl
 Dialogue: 10,0:13:33.95,0:13:36.96,Default,,0,0,0,,It seems they intend to \Nsettle down on this island!
 Dialogue: 10,0:13:37.46,0:13:38.83,Default,,0,0,0,,It's time to decide!
 Dialogue: 10,0:13:39.20,0:13:41.21,Default,,0,0,0,,Do we fight now and die defiantly?!
-Dialogue: 10,0:13:41.21,0:13:44.30,Default,,0,0,0,,Or do we place our hope in waiting \Nfor help from the government,
+Dialogue: 10,0:13:41.21,0:13:44.30,Default,,0,0,0,,Or do we place our hope in waiting \Nfor help from the Government,
 Dialogue: 10,0:13:44.30,0:13:47.06,Default,,0,0,0,,while living under the fear \Nof being killed at any time?!
 Dialogue: 10,0:13:47.06,0:13:48.18,Default,,0,0,0,,It's one or the other!
 Dialogue: 10,0:13:48.80,0:13:51.93,Default,,0,0,0,,Only Navy Headquarters \Nstands a chance against them!
@@ -314,7 +314,7 @@ Dialogue: 10,0:17:32.11,0:17:33.11,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:17:33.69,0:17:36.11,Default,,0,0,0,,After Arlong dragged me off,
 Dialogue: 10,0:17:36.11,0:17:39.08,Default,,0,0,0,,five Navy ships came to capture him,
 Dialogue: 10,0:17:39.08,0:17:41.45,Default,,0,0,0,,but they were all sunk easily...
-Dialogue: 10,0:17:42.12,0:17:45.24,Default,,0,0,0,,I don't think the government will \Nsend any more help to this island.
+Dialogue: 10,0:17:42.12,0:17:45.24,Default,,0,0,0,,I don't think the Government will \Nsend any more help to this island.
 Dialogue: 10,0:17:45.24,0:17:48.33,Default,,0,0,0,,That's what made me realize \N{\i1}I{\i0} have to do something.
 Dialogue: 10,0:17:49.50,0:17:51.45,Default,,0,0,0,,I made an agreement with Arlong
 Dialogue: 10,0:17:51.45,0:17:53.80,Default,,0,0,0,,to buy Cocoyashi Village from him.
@@ -383,7 +383,7 @@ Dialogue: 10,0:22:34.45,0:22:36.96,Default,,0,0,0,,They {\i1}were{\i0} pirates, 
 Dialogue: 10,0:22:36.96,0:22:38.37,Default,,0,0,0,,I have no intentions of condemning you.
 Dialogue: 10,0:22:38.37,0:22:40.58,Default,,0,0,0,,However, stealing {\i1}is{\i0} stealing.
 Dialogue: 10,0:22:40.58,0:22:44.67,Default,,0,0,0,,Therefore, as of this moment, \Nall of the property you've stolen
-Dialogue: 10,0:22:44.67,0:22:48.05,Default,,0,0,0,,now belongs to the government!
+Dialogue: 10,0:22:44.67,0:22:48.05,Default,,0,0,0,,now belongs to the Government!
 Dialogue: 10,0:22:49.30,0:22:53.05,Default,,0,0,0,,Now give us all of your stolen goods!
 Dialogue: 10,0:22:53.47,0:22:55.02,Default,,0,0,0,,We're confiscating it!
 Dialogue: 0,0:22:57.05,0:23:01.89,ED2-Romaji,,0,0,0,,{\fscx129.8\fad(150,150)}hamidashita kimochi tsunagara nakute

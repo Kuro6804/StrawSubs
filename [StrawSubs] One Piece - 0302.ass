@@ -110,7 +110,7 @@ Dialogue: 0,0:03:04.05,0:03:09.96,Default,,0,0,0,,His final words spurred people
 Dialogue: 0,0:03:10.32,0:03:12.21,Default,,0,0,0,,My treasure?
 Dialogue: 0,0:03:12.73,0:03:14.55,Default,,0,0,0,,If you want it, you can have it!
 Dialogue: 0,0:03:14.55,0:03:16.18,Default,,0,0,0,,Go, find it!
-Dialogue: 0,0:03:16.18,0:03:18.93,Default,,0,0,0,,I’ve left everything\Nthis world’s got to offer {\i1}there!{\i0}
+Dialogue: 0,0:03:16.18,0:03:18.93,Default,,0,0,0,,I've left everything\Nthis world's got to offer {\i1}there!{\i0}
 Dialogue: 0,0:03:19.41,0:03:23.93,Default,,0,0,0,,And so men set sail for the Grand Line\Nin pursuit of their dreams!
 Dialogue: 0,0:03:24.54,0:03:28.40,Default,,0,0,0,,Indeed, the world is in the midst\Nof the Great Pirate Era!
 Dialogue: 0,0:03:33.77,0:03:35.43,Default,,0,0,0,,Just watch carefully!
@@ -175,10 +175,10 @@ Dialogue: 0,0:07:25.00,0:07:29.18,Default,,0,0,0,,If a bunch of battleships come
 Dialogue: 0,0:07:29.18,0:07:30.49,Default,,0,0,0,,Also, look.
 Dialogue: 0,0:07:31.69,0:07:34.43,Default,,0,0,0,,The whirlpools that were surging so violently
 Dialogue: 0,0:07:34.43,0:07:38.34,Default,,0,0,0,,that they prevented ships from\Ncoming here are now completely gone.
-Dialogue: 0,0:07:38.34,0:07:41.90,Default,,0,0,0,,It's because the Gates of Justice were\Nopened all the way to allow attacks.
+Dialogue: 0,0:07:38.34,0:07:41.90,Default,,0,0,0,,It's because the Gate of Justice was\Nopened all the way to allow attacks.
 Dialogue: 0,0:07:41.90,0:07:53.87,"Sign",,0,0,0,,{\an9}"Sea Currents"\N"Tower of Law"
-Dialogue: 0,0:07:42.25,0:07:46.65,Default,,0,0,0,,Those whirlpools were generated\Nby the sea currents blocked by the huge gates.
-Dialogue: 0,0:07:46.65,0:07:49.55,Default,,0,0,0,,Now that the gates are open and nothing is blocking them,
+Dialogue: 0,0:07:42.25,0:07:46.65,Default,,0,0,0,,Those whirlpools were generated\Nby the sea currents blocked by the huge gate.
+Dialogue: 0,0:07:46.65,0:07:49.55,Default,,0,0,0,,Now that the gate is open and nothing is blocking them,
 Dialogue: 0,0:07:49.55,0:07:53.87,Default,,0,0,0,,the sea currents went back to normal and the whirlpools disappeared, huh?
 Dialogue: 0,0:07:54.33,0:07:55.83,Default,,0,0,0,,Which means, the battleships...
 Dialogue: 0,0:07:55.83,0:07:58.32,Default,,0,0,0,,...will have no trouble coming this way.

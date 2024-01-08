@@ -110,7 +110,7 @@ Dialogue: 0,0:03:04.05,0:03:09.96,Default,,0,0,0,,His final words spurred people
 Dialogue: 0,0:03:10.32,0:03:12.21,Default,,0,0,0,,My treasure?
 Dialogue: 0,0:03:12.73,0:03:14.55,Default,,0,0,0,,If you want it, you can have it!
 Dialogue: 0,0:03:14.55,0:03:16.18,Default,,0,0,0,,Go, find it!
-Dialogue: 0,0:03:16.18,0:03:18.93,Default,,0,0,0,,I’ve left everything\Nthis world’s got to offer {\i1}there!{\i0}
+Dialogue: 0,0:03:16.18,0:03:18.93,Default,,0,0,0,,I've left everything\Nthis world's got to offer {\i1}there!{\i0}
 Dialogue: 0,0:03:19.41,0:03:23.93,Default,,0,0,0,,And so men set sail for the Grand Line\Nin pursuit of their dreams!
 Dialogue: 0,0:03:24.54,0:03:28.40,Default,,0,0,0,,Indeed, the world is in the midst\Nof the Great Pirate Era!
 Dialogue: 0,0:03:31.79,0:03:36.94,Default,,0,0,0,,A long time ago, I made the decision\Nthat I'd never again build a ship.
@@ -237,9 +237,9 @@ Dialogue: 0,0:11:58.90,0:12:00.06,Default,,0,0,0,,I concede!
 Dialogue: 0,0:12:03.53,0:12:05.15,Default,,0,0,0,,Luffy-san! Zoro-san!
 Dialogue: 0,0:12:06.43,0:12:09.11,Default,,0,0,0,,It's been a while. Do you recognize me?
 Dialogue: 0,0:12:10.83,0:12:11.59,Default,,0,0,0,,Who are you?
-Dialogue: 0,0:12:12.13,0:12:14.04,Default,,0,0,0,,It's me! Coby!
+Dialogue: 0,0:12:12.13,0:12:14.04,Default,,0,0,0,,It's me! Koby!
 Dialogue: 0,0:12:14.89,0:12:16.50,Default,,0,0,0,,Don't you remember me?
-Dialogue: 0,0:12:16.50,0:12:18.03,Default,,0,0,0,,Coby?
+Dialogue: 0,0:12:16.50,0:12:18.03,Default,,0,0,0,,Koby?
 Dialogue: 0,0:12:20.08,0:12:23.85,Default,,0,0,0,,Do you think... even I could join the Navy?
 Dialogue: 0,0:12:24.80,0:12:29.43,Default,,0,0,0,,--Navy?\N--Yes! Catching bad guys is my dream!
 Dialogue: 0,0:12:29.43,0:12:31.85,Default,,0,0,0,,It's been my dream ever since I was little!\NDo you think I can do it?!
@@ -247,21 +247,21 @@ Dialogue: 0,0:12:32.67,0:12:37.48,Default,,0,0,0,,Luffy-san and I haven't known\
 Dialogue: 0,0:12:37.48,0:12:38.52,Default,,0,0,0,,Right?
 Dialogue: 0,0:12:39.04,0:12:42.51,Default,,0,0,0,,Yeah! We're gonna part ways,\Nbut we'll always be friends!
 Dialogue: 0,0:12:43.08,0:12:47.34,Default,,0,0,0,,Thank you! I'll never forget\Nall you've done for me!
-Dialogue: 0,0:12:47.34,0:12:50.13,Default,,0,0,0,,Let's meet again sometime, Coby!
+Dialogue: 0,0:12:47.34,0:12:50.13,Default,,0,0,0,,Let's meet again sometime, Koby!
 Dialogue: 0,0:12:50.13,0:12:53.24,Default,,0,0,0,,--Luffy-san...\N--Bye!
 Dialogue: 0,0:12:53.67,0:12:55.74,Default,,0,0,0,,All hands, salute!
 Dialogue: 0,0:12:57.45,0:13:00.37,Default,,0,0,0,,See ya!
-Dialogue: 0,0:13:01.60,0:13:03.33,Default,,0,0,0,,Coby?!
-Dialogue: 0,0:13:03.94,0:13:09.92,Default,,0,0,0,,I do have a friend Coby...\Nbut the Coby I know was short.
-Dialogue: 0,0:13:10.54,0:13:14.39,Default,,0,0,0,,That's me! The Coby who\Nwas a hopeless crybaby!
+Dialogue: 0,0:13:01.60,0:13:03.33,Default,,0,0,0,,Koby?!
+Dialogue: 0,0:13:03.94,0:13:09.92,Default,,0,0,0,,I do have a friend Koby...\Nbut the Koby I know was short.
+Dialogue: 0,0:13:10.54,0:13:14.39,Default,,0,0,0,,That's me! The Koby who\Nwas a hopeless crybaby!
 Dialogue: 0,0:13:14.81,0:13:17.85,Default,,0,0,0,,What?! Is that true?!
-Dialogue: 0,0:13:18.31,0:13:19.71,Default,,0,0,0,,That Coby?
+Dialogue: 0,0:13:18.31,0:13:19.71,Default,,0,0,0,,That Koby?
 Dialogue: 0,0:13:20.25,0:13:21.48,Default,,0,0,0,,Why are you in the Grand Line?
 Dialogue: 0,0:13:22.06,0:13:25.00,Default,,0,0,0,,I've still got a ways to go\Nto become a Navy Officer,
 Dialogue: 0,0:13:25.00,0:13:29.36,Default,,0,0,0,,but when I heard that you were nearby,\NI just wanted to see you guys so badly.
 Dialogue: 0,0:13:29.36,0:13:31.61,Default,,0,0,0,,What?!
 Dialogue: 0,0:13:33.41,0:13:35.16,DefaultLow,,0,0,0,,We owe you two for helping us
-Dialogue: 0,0:13:33.92,0:13:36.88,"Sign",,0,0,0,,{\fad(450,1)}"Coby\NSergeant Major, Navy Headquarters"
+Dialogue: 0,0:13:33.92,0:13:36.88,"Sign",,0,0,0,,{\fad(450,1)}"Koby\NSergeant Major, Navy Headquarters"
 Dialogue: 0,0:13:35.16,0:13:36.83,DefaultLow,,0,0,0,,become who we are now!
 Dialogue: 0,0:13:37.92,0:13:40.92,"Sign",,0,0,0,,{\fad(450,1)}"Helmeppo\NSergeant, Navy Headquarters"
 Dialogue: 0,0:13:38.38,0:13:40.87,DefaultLow,,0,0,0,,Well, I wouldn't go that far, but...
@@ -293,7 +293,7 @@ Dialogue: 0,0:15:19.98,0:15:20.95,Default,,0,0,0,,Oh...
 Dialogue: 0,0:15:21.65,0:15:22.79,Default,,0,0,0,,It's you...
 Dialogue: 0,0:15:22.79,0:15:24.99,Default,,0,0,0,,Hey!
 Dialogue: 0,0:15:25.76,0:15:29.36,Default,,0,0,0,,Oh, yeah... There was a\Nguy like that. So it's you!
-Dialogue: 0,0:15:30.16,0:15:35.32,Default,,0,0,0,,I still can't stand these guys, Coby!
+Dialogue: 0,0:15:30.16,0:15:35.32,Default,,0,0,0,,I still can't stand these guys, Koby!
 Dialogue: 0,0:15:35.32,0:15:38.32,Default,,0,0,0,,It can't be helped, Helmeppo-san.\NYou should accept the past.
 Dialogue: 0,0:15:38.91,0:15:40.04,Default,,0,0,0,,Oh, that?
 Dialogue: 0,0:15:40.04,0:15:41.28,Default,,0,0,0,,Yeah, that.
@@ -382,7 +382,7 @@ Dialogue: 0,0:22:02.93,0:22:04.80,Default,,0,0,0,,That's the Revolutionary Army.
 Dialogue: 0,0:22:04.80,0:22:07.60,Default,,0,0,0,,And Dragon is the man who leads it.
 Dialogue: 0,0:22:08.77,0:22:13.06,Default,,0,0,0,,Their ideology has now spread in\Nmany countries around the world,
 Dialogue: 0,0:22:13.06,0:22:16.94,Default,,0,0,0,,which caused rebellions and\Nled several kingdoms to fall.
-Dialogue: 0,0:22:17.48,0:22:19.19,Default,,0,0,0,,The government naturally became angry
+Dialogue: 0,0:22:17.48,0:22:19.19,Default,,0,0,0,,The Government naturally became angry
 Dialogue: 0,0:22:19.19,0:22:22.90,Default,,0,0,0,,and has been searching everywhere for\Ntheir mastermind, Dragon, all this time
 Dialogue: 0,0:22:22.90,0:22:25.03,Default,,0,0,0,,as the world's most heinous criminal...
 Dialogue: 0,0:22:26.12,0:22:30.75,Default,,0,0,0,,...but he's been considered a mysterious man\Nwhose background was completely unknown.

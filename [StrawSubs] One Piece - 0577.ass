@@ -40,11 +40,11 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:16.00,0:00:21.41,Default,Narrator,0,0,0,,Once there was a man who had it all,\Nthe legendary Pirate King Gold Roger.
 Dialogue: 0,0:00:21.41,0:00:26.11,Default,Narrator,0,0,0,,His final words spurred people\Nto take to the seas in droves:
 Dialogue: 0,0:00:26.11,0:00:29.35,Default,Roger,0,0,0,,My treasure?\NIf you want it, you can have it...
-Dialogue: 0,0:00:29.35,0:00:32.85,Default,Roger,0,0,0,,Go, find it! I’ve left everything\Nthis world’s got to offer {\i1}there!{\i0}
+Dialogue: 0,0:00:29.35,0:00:32.85,Default,Roger,0,0,0,,Go, find it! I've left everything\Nthis world's got to offer {\i1}there!{\i0}
 Dialogue: 0,0:00:33.32,0:00:35.89,Default,Narrator,0,0,0,,People now set sail\Nin pursuit of their dreams.
 Dialogue: 0,0:00:35.89,0:00:38.46,Default,Narrator,0,0,0,,Indeed, the world is in the midst of\Nthe Great Pirate Era!
-Dialogue: 0,0:00:38.46,0:00:42.33,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still!  I can't stop!
-Dialogue: 1,0:00:38.46,0:00:42.33,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still!  I can't stop!
+Dialogue: 0,0:00:38.46,0:00:42.33,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still! I can't stop!
+Dialogue: 1,0:00:38.46,0:00:42.33,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still! I can't stop!
 Dialogue: 0,0:00:42.43,0:00:46.80,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Dawn can't come soon enough, I'm tired of waiting!
 Dialogue: 1,0:00:42.43,0:00:46.80,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Dawn can't come soon enough, I'm tired of waiting!
 Dialogue: 0,0:00:46.86,0:00:50.53,Opening,English,0,0,0,,{\blur0.3\c&H000000&}One, two, {\bord3.8}Sunshine{\bord}, four... We Go!
@@ -71,8 +71,8 @@ Dialogue: 0,0:01:31.58,0:01:35.31,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Ou
 Dialogue: 1,0:01:31.58,0:01:35.31,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Our hearts dream beyond measure
 Dialogue: 0,0:01:35.51,0:01:39.88,Opening,English,0,0,0,,{\blur0.3\c&H000000&}So let's never wake them up
 Dialogue: 1,0:01:35.51,0:01:39.88,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}So let's never wake them up
-Dialogue: 0,0:01:39.98,0:01:42.39,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still!  I can't stop!
-Dialogue: 1,0:01:39.98,0:01:42.39,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still!  I can't stop!
+Dialogue: 0,0:01:39.98,0:01:42.39,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still! I can't stop!
+Dialogue: 1,0:01:39.98,0:01:42.39,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still! I can't stop!
 Dialogue: 0,0:01:42.49,0:01:46.52,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Dawn can't come soon enough, I'm tired of waiting!
 Dialogue: 1,0:01:42.49,0:01:46.52,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Dawn can't come soon enough, I'm tired of waiting!
 Dialogue: 0,0:01:46.66,0:01:50.09,Opening,English,0,0,0,,{\blur0.3\c&H000000&}One, two, {\bord3.8}Sunshine{\bord}, four... We Go!
@@ -89,8 +89,8 @@ Dialogue: 0,0:02:08.38,0:02:12.15,Opening,English,0,0,0,,{\blur0.3\c&H000000&}On
 Dialogue: 1,0:02:08.38,0:02:12.15,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}On that day when our dreams began,
 Dialogue: 0,0:02:12.35,0:02:16.65,Opening,English,0,0,0,,{\blur0.3\c&H000000&}we set our goals and they've never changed!
 Dialogue: 1,0:02:12.35,0:02:16.65,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}we set our goals and they've never changed!
-Dialogue: 0,0:02:16.75,0:02:19.16,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still!  I can't stop!
-Dialogue: 1,0:02:16.75,0:02:19.16,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still!  I can't stop!
+Dialogue: 0,0:02:16.75,0:02:19.16,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still! I can't stop!
+Dialogue: 1,0:02:16.75,0:02:19.16,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still! I can't stop!
 Dialogue: 0,0:02:19.29,0:02:23.59,Opening,English,0,0,0,,{\blur0.3\c&H000000&}The sun in my heart will never set!
 Dialogue: 1,0:02:19.29,0:02:23.59,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}The sun in my heart will never set!
 Dialogue: 0,0:02:23.69,0:02:30.53,Opening,English,0,0,0,,{\blur0.3\c&H000000&}One, two, {\bord3.8}Sunshine{\bord}... One, two, {\bord3.8}Sunshine{\bord}...

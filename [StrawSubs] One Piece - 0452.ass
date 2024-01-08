@@ -98,17 +98,17 @@ Dialogue: 0,0:03:41.95,0:03:44.78,Default,,0,0,0,,who has been taken to Navy HQ!
 Dialogue: 0,0:03:44.78,0:03:48.70,Default,,0,0,0,,There is nothing but despair ahead for you!
 Dialogue: 0,0:03:48.70,0:03:51.46,Default,,0,0,0,,You can't get away no \Nmatter how you struggle!
 Dialogue: 0,0:03:51.46,0:03:55.79,Default,,0,0,0,,Can't you see that it's no \Nuse? For pirates like you...
-Dialogue: 0,0:03:55.79,0:03:58.21,Default,,0,0,0,,...The Gates of Justice won't open!
-Dialogue: 0,0:03:59.92,0:04:03.47,Default,,0,0,0,,Are you sure about opening the gates?
+Dialogue: 0,0:03:55.79,0:03:58.21,Default,,0,0,0,,...The Gate of Justice won't open!
+Dialogue: 0,0:03:59.92,0:04:03.47,Default,,0,0,0,,Are you sure about opening the gate?
 Dialogue: 0,0:04:03.47,0:04:05.05,Default,,0,0,0,,Warden Magellan!
 Dialogue: 0,0:04:05.05,0:04:06.72,Default,,0,0,0,,Bon-chan is...
 Dialogue: 0,0:04:07.81,0:04:10.00,Default,,0,0,0,,It's me!
 Dialogue: 0,0:04:11.73,0:04:16.07,Default,,0,0,0,,Bon-chan! Bon-chan!
-Dialogue: 0,0:04:16.07,0:04:19.94,Default,,0,0,0,,Bon-chan, the gates're closing.
+Dialogue: 0,0:04:16.07,0:04:19.94,Default,,0,0,0,,Bon-chan, the gate's closing.
 Dialogue: 0,0:04:19.94,0:04:21.78,Default,,0,0,0,,We...
 Dialogue: 0,0:04:21.78,0:04:22.90,Default,,0,0,0,,...have to go.
 Dialogue: 0,0:04:25.28,0:04:27.12,Default,,0,0,0,,Thank you!
-Dialogue: 0,0:04:27.12,0:04:30.91,Default,,0,0,0,,--The gates are closing!\N--We gotta sink them!
+Dialogue: 0,0:04:27.12,0:04:30.91,Default,,0,0,0,,--The gate is closing!\N--We gotta sink them!
 Dialogue: 0,0:04:30.91,0:04:33.58,Default,,0,0,0,,Do you wanna say something before you die?!
 Dialogue: 0,0:04:33.58,0:04:35.37,Default,,0,0,0,,This is what I wanted!
 Dialogue: 0,0:04:37.04,0:04:42.34,Default,,0,0,0,,Luffy has broken out of the world's \Ngreatest prison Impel Down!
@@ -207,7 +207,7 @@ Dialogue: 0,0:11:23.66,0:11:28.33,Default,,0,0,0,,I know that you guys know abou
 Dialogue: 0,0:11:29.20,0:11:31.33,Default,,0,0,0,,--What'd you say?\N--Navy HQ?
 Dialogue: 0,0:11:31.86,0:11:35.88,Default,,0,0,0,,It's obvious. It's your faults \Nfor being so clueless.
 Dialogue: 0,0:11:35.88,0:11:36.84,Default,,0,0,0,,What?!
-Dialogue: 0,0:11:36.84,0:11:39.51,Default,,0,0,0,,We passed through the Gates of Justice.
+Dialogue: 0,0:11:36.84,0:11:39.51,Default,,0,0,0,,We passed through the Gate of Justice.
 Dialogue: 0,0:11:39.51,0:11:43.89,Default,,0,0,0,,That means our destination must be \Neither Navy HQ or Enies Lobby.
 Dialogue: 0,0:11:43.89,0:11:47.57,Default,,0,0,0,,The Tub Current that we're on \Nis exclusive to the Government.
 Dialogue: 0,0:11:47.57,0:11:51.23,Default,,0,0,0,,It's a giant whirlpool that connects \Nthe Government's 3 major facilities
@@ -277,7 +277,7 @@ Dialogue: 0,0:16:29.05,0:16:31.38,Default,,0,0,0,,Well... I don't really...
 Dialogue: 0,0:16:31.71,0:16:36.41,Default,,0,0,0,,We know that you have \NJinbe, Crocodile, Ivankov,
 Dialogue: 0,0:16:36.41,0:16:41.31,Default,,0,0,0,,and more than 200 ruffians who \Nare also escapees on board.
 Dialogue: 0,0:16:42.04,0:16:43.40,Default,,0,0,0,,I warn you.
-Dialogue: 0,0:16:44.12,0:16:49.53,Default,,0,0,0,,As long as we don't open the Gates of Justice, \Nyou guys can't get to Marineford
+Dialogue: 0,0:16:44.12,0:16:49.53,Default,,0,0,0,,As long as we don't open the Gate of Justice, \Nyou guys can't get to Marineford
 Dialogue: 0,0:16:49.53,0:16:53.07,Default,,0,0,0,,or even get out of the Tub Current!
 Dialogue: 0,0:16:53.54,0:16:57.92,Default,,0,0,0,,There is no sea for you all \Nto get away to or to live on!
 Dialogue: 0,0:16:59.27,0:17:02.16,Default,,0,0,0,,Better make yourselves \Ncomfortable! That's it.

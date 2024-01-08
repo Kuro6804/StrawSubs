@@ -85,9 +85,9 @@ Dialogue: 0,0:03:06.99,0:03:16.00,Title,,0,0,0,,{\fad(2000,2000)\q2\pos(352,410)
 Dialogue: 10,0:03:22.72,0:03:25.22,Default,,0,0,0,,Gen-{\i1}san{\i0}? And the Navy?
 Dialogue: 10,0:03:31.81,0:03:34.48,Default,,0,0,0,,Are {\i1}you{\i0} the girl thief known as Nami?
 Dialogue: 10,0:03:36.40,0:03:42.32,Default,,0,0,0,,Our information has it you've hidden \Ntreasure you stole from pirates.
-Dialogue: 10,0:03:42.32,0:03:47.66,Default,,0,0,0,,The government hereby confiscates \Nall the property you have stolen!
+Dialogue: 10,0:03:42.32,0:03:47.66,Default,,0,0,0,,The Government hereby confiscates \Nall the property you have stolen!
 Dialogue: 10,0:03:53.37,0:03:56.00,Default,,0,0,0,,What's the matter? \NDid you not hear me?
-Dialogue: 10,0:03:56.59,0:03:58.63,Default,,0,0,0,,The government hereby takes possession
+Dialogue: 10,0:03:56.59,0:03:58.63,Default,,0,0,0,,The Government hereby takes possession
 Dialogue: 10,0:03:58.63,0:04:02.05,Default,,0,0,0,,of everything you stole from the pirates.
 Dialogue: 10,0:04:03.51,0:04:08.22,Default,,0,0,0,,My, my. You're very passionate about your duties, I see.
 Dialogue: 10,0:04:08.59,0:04:11.48,Default,,0,0,0,,You're not brave enough to stand up to pirates,
@@ -106,7 +106,7 @@ Dialogue: 10,0:04:56.77,0:04:57.69,Default,,0,0,0,,You know that!
 Dialogue: 10,0:04:58.27,0:05:02.32,Default,,0,0,0,,He's ruling over this island and \Ntrampling all over people's lives!
 Dialogue: 10,0:05:02.32,0:05:03.95,Default,,0,0,0,,Is ignoring that major problem
 Dialogue: 10,0:05:03.95,0:05:06.28,Default,,0,0,0,,and raking in stolen goods from a thief
-Dialogue: 10,0:05:06.28,0:05:07.53,Default,,0,0,0,,what the government stands for?!
+Dialogue: 10,0:05:06.28,0:05:07.53,Default,,0,0,0,,what the Government stands for?!
 Dialogue: 10,0:05:08.99,0:05:11.37,Default,,0,0,0,,Don't talk all big.
 Dialogue: 10,0:05:11.37,0:05:12.50,Default,,0,0,0,,Continue your search!
 Dialogue: 10,0:05:12.86,0:05:17.46,Default,,0,0,0,,People all over the island've been \Nwaiting for your help for years now!
@@ -139,7 +139,7 @@ Dialogue: 10,0:06:48.13,0:06:51.09,Default,,0,0,0,,What on earth are you talking
 Dialogue: 10,0:06:51.09,0:06:53.47,Default,,0,0,0,,You're saying all the villagers are thieves,
 Dialogue: 10,0:06:53.47,0:06:56.77,Default,,0,0,0,,and we should arrest them?
 Dialogue: 10,0:06:56.77,0:07:01.02,Default,,0,0,0,,He's saying that each and every \None of us is fighting to live!
-Dialogue: 10,0:07:01.98,0:07:05.36,Default,,0,0,0,,But only because we can't rely \Non any of you government people!
+Dialogue: 10,0:07:01.98,0:07:05.36,Default,,0,0,0,,But only because we can't rely \Non any of you Government people!
 Dialogue: 10,0:07:05.78,0:07:09.86,Default,,0,0,0,,If you're not gonna save our village, \Nthen get the hell out of here!
 Dialogue: 10,0:07:10.40,0:07:13.57,Default,,0,0,0,,Dilly-dally and Arlong'll go after your ship, too!
 Dialogue: 10,0:07:13.57,0:07:17.45,Default,,0,0,0,,Mr. Arlong will? \NI wouldn't be so sure...
@@ -151,7 +151,7 @@ Dialogue: 10,0:07:32.97,0:07:36.31,Default,,0,0,0,,I just got the feeling there'
 Dialogue: 10,0:07:47.11,0:07:48.48,Default,,0,0,0,,Don't tell me he...
 Dialogue: 10,0:07:54.16,0:07:57.16,Default,,0,0,0,,Don't tell me Arlong sent you here!
 Dialogue: 10,0:07:58.95,0:08:00.50,Default,,0,0,0,,Who knows?
-Dialogue: 10,0:08:00.50,0:08:06.71,Default,,0,0,0,,We're simply dealing with theft \Nas any government workers would.
+Dialogue: 10,0:08:00.50,0:08:06.71,Default,,0,0,0,,We're simply dealing with theft \Nas any Government workers would.
 Dialogue: 10,0:08:06.97,0:08:09.13,Default,,0,0,0,,What rotten scum!
 Dialogue: 10,0:08:09.13,0:08:12.09,Default,,0,0,0,,I can't believe the Navy would \Nstoop to being pirate cronies!
 Dialogue: 10,0:08:14.30,0:08:15.89,Default,,0,0,0,,{\i1}Arlong!{\i0}

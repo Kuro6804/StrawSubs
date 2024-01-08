@@ -180,12 +180,12 @@ Dialogue: 0,0:08:10.94,0:08:14.81,Default,,0,0,0,,Yo ho ho ho... Yo ho ho ho...
 Dialogue: 0,0:08:14.81,0:08:18.76,Default,,0,0,0,,Yo ho ho ho... Yo ho ho ho...
 Dialogue: 0,0:08:18.76,0:08:22.72,Default,,0,0,0,,Time to ship out Binks' Brew!
 Dialogue: 0,0:08:22.72,0:08:26.62,Default,,0,0,0,,The sea breeze blows us to who-knows-where,\Nlet the waves be our guide!
-Dialogue: 0,0:08:26.62,0:08:30.76,Default,,0,0,0,,O’er across the ocean tide,\Nthe sunset stirs, going wild!
+Dialogue: 0,0:08:26.62,0:08:30.76,Default,,0,0,0,,O'er across the ocean tide,\Nthe sunset stirs, going wild!
 Dialogue: 0,0:08:30.76,0:08:33.96,Default,,0,0,0,,Look to the skies! Watch the circling birds\Nas they sing and pass us by!
 Dialogue: 0,0:08:33.96,0:08:36.99,Default,,0,0,0,,--What's that?\N--Men are funny!
 Dialogue: 0,0:08:36.99,0:08:41.10,Default,,0,0,0,,It's funnier than Sweetpea's drunk dance!
 Dialogue: 0,0:08:41.64,0:08:44.00,Default,Sweetpea,0,0,0,,I hate to admit it, but I can't top this.
-Dialogue: 0,0:08:46.33,0:08:49.80,Default,,0,0,0,,As we journey off t’ward the ends of the high seas!
+Dialogue: 0,0:08:46.33,0:08:49.80,Default,,0,0,0,,As we journey off t'ward the ends of the high seas!
 Dialogue: 0,0:08:49.80,0:08:54.01,Default,,0,0,0,,Hey! Yo ho ho ho... Yo ho ho ho...
 Dialogue: 0,0:08:54.71,0:08:56.35,Default,,0,0,0,,Yo ho ho ho...
 Dialogue: 0,0:09:00.85,0:09:03.94,Default,,0,0,0,,Why can't you get it? It's like this!
@@ -313,9 +313,9 @@ Dialogue: 0,0:17:55.67,0:17:57.72,Default,Gloriosa,0,0,0,,Enies Lobby.
 Dialogue: 0,0:17:57.72,0:17:59.72,Default,Gloriosa,0,0,0,,Impel Down.
 Dialogue: 0,0:17:59.72,0:18:01.39,Default,Gloriosa,0,0,0,,Navy Headquarters.
 Dialogue: 0,0:18:02.14,0:18:07.68,Default,Gloriosa,0,0,0,,There's a giant whirlpool which \Nconnects those three facilities.
-Dialogue: 0,0:18:07.68,0:18:13.72,Default,Gloriosa,0,0,0,,When you open the Gates of Justice \Nat any of the three facilities,
+Dialogue: 0,0:18:07.68,0:18:13.72,Default,Gloriosa,0,0,0,,When you open the Gate of Justice \Nat any of the three facilities,
 Dialogue: 0,0:18:13.72,0:18:18.03,Default,Gloriosa,0,0,0,,the current runs inside \Nallowing you to enter.
-Dialogue: 0,0:18:18.03,0:18:23.20,Default,Gloriosa,0,0,0,,That means if the gates aren't open, \Nyou'd just keep drifting on the current.
+Dialogue: 0,0:18:18.03,0:18:23.20,Default,Gloriosa,0,0,0,,That means if none of the gates are open, \Nyou'd just keep drifting on the current.
 Dialogue: 0,0:18:23.66,0:18:27.62,Default,Gloriosa,0,0,0,,Pirate ships would rather avoid the current
 Dialogue: 0,0:18:27.62,0:18:30.08,Default,Gloriosa,0,0,0,,by going a long way round.
 Dialogue: 0,0:18:30.08,0:18:32.08,Default,,0,0,0,,What should I do?

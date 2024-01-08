@@ -102,7 +102,7 @@ Dialogue: 0,0:02:56.95,0:03:02.91,Default,Na,0,0,0,,His final words spurred peop
 Dialogue: 0,0:03:03.20,0:03:05.04,Default,Roger,0,0,0,,My treasure?
 Dialogue: 0,0:03:05.62,0:03:07.33,Default,Roger,0,0,0,,If you want it, you can have it!
 Dialogue: 0,0:03:07.33,0:03:09.00,Default,Roger,0,0,0,,Go, find it!
-Dialogue: 0,0:03:09.00,0:03:11.88,Default,Roger,0,0,0,,I’ve left everything\Nthis world’s got to offer {\i1}there!{\i0}
+Dialogue: 0,0:03:09.00,0:03:11.88,Default,Roger,0,0,0,,I've left everything\Nthis world's got to offer {\i1}there!{\i0}
 Dialogue: 0,0:03:12.30,0:03:16.84,Default,Na,0,0,0,,And so men set sail for the Grand Line\Nin pursuit of their dreams!
 Dialogue: 0,0:03:17.43,0:03:21.26,Default,Na,0,0,0,,Indeed, the world is in the midst\Nof the Great Pirate Era!
 Dialogue: 0,0:03:23.68,0:03:30.05,Sign,Text,0,0,250,,{\blur0.8\fnGrantham Bold\fs77\bord2.8\fad(1800,0)\c&H000000&\1a&HFF&\t(1755,1800,\1a&H00&)}Holy Land of Mary Geoise
@@ -114,7 +114,7 @@ Dialogue: 0,0:03:52.00,0:03:54.25,Default,Sengoku,0,0,0,,Give me a better excuse
 Dialogue: 0,0:03:54.25,0:03:56.30,Default,Sengoku,0,0,0,,I'm the one who has to \Nreport this to the top!
 Dialogue: 0,0:03:59.82,0:04:01.67,Default,Garp,0,0,0,,That's my grandson for you!
 Dialogue: 0,0:04:01.94,0:04:03.50,Default,Sengoku,0,0,0,,Quiet, Garp!
-Dialogue: 0,0:04:03.50,0:04:06.53,Default,Sengoku,0,0,0,,You were assigned a special government \Nmission to eliminate them all,
+Dialogue: 0,0:04:03.50,0:04:06.53,Default,Sengoku,0,0,0,,You were assigned a special Government \Nmission to eliminate them all,
 Dialogue: 0,0:04:06.53,0:04:09.34,Default,Sengoku,0,0,0,,yet you couldn't even bring back the \Nhead of Luffy of the Straw Hats?
 Dialogue: 0,0:04:09.34,0:04:10.52,Default,Sengoku,0,0,0,,You're a disgrace!
 Dialogue: 0,0:04:12.51,0:04:14.56,Default,Garp,0,0,0,,Don't worry, Sengoku.

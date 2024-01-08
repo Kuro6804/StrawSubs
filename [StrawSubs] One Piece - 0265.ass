@@ -31,14 +31,14 @@ Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
 Dialogue: 0,0:00:20.45,0:00:24.58,Default,,0000,0000,0000,,Luffy and the gang have arrived in Enies Lobby.
 Dialogue: 0,0:00:26.04,0:00:29.80,Default,,0000,0000,0000,,If we can't recover Nico Robin\Nand Franky on this straight path
 Dialogue: 0,0:00:26.96,0:00:30.05,OS,,0000,0000,0000,,"Iron Fence" "Main Gate"
-Dialogue: 0,0:00:29.80,0:00:32.51,Default,,0000,0000,0000,,from the main gate to the Gates of Justice,
+Dialogue: 0,0:00:29.80,0:00:32.51,Default,,0000,0000,0000,,from the main gate to the Gate of Justice,
 Dialogue: 0,0:00:30.05,0:00:31.51,OS,,0000,0000,0000,,"Courthouse" "Main Island Front Gate"
-Dialogue: 0,0:00:31.51,0:00:34.01,OS,,0000,0000,0000,,"Gates of Justice" "Tower of Law"
+Dialogue: 0,0:00:31.51,0:00:34.01,OS,,0000,0000,0000,,"Gate of Justice" "Tower of Law"
 Dialogue: 0,0:00:32.51,0:00:34.01,Default,,0000,0000,0000,,we will have lost.
 Dialogue: 0,0:00:34.01,0:00:37.18,Default,,0000,0000,0000,,Why?! No matter where Robin is taken to,
 Dialogue: 0,0:00:37.18,0:00:39.39,Default,,0000,0000,0000,,we can just keep going after\Nthem until we get her back!
 Dialogue: 0,0:00:39.39,0:00:42.10,Default,,0000,0000,0000,,I explained this before we\Nleft Water Seven, didn't I?!
-Dialogue: 0,0:00:42.10,0:00:44.52,Default,,0000,0000,0000,,The only destinations beyond those gates
+Dialogue: 0,0:00:42.10,0:00:44.52,Default,,0000,0000,0000,,The only destinations beyond that gate
 Dialogue: 0,0:00:44.52,0:00:46.98,Default,,0000,0000,0000,,are Navy Headquarters and the deep-sea prison.
 Dialogue: 0,0:00:46.98,0:00:51.57,Default,,0000,0000,0000,,So we have to settle this matter\Nbefore that at any cost.
 Dialogue: 0,0:00:51.57,0:00:53.69,Default,,0000,0000,0000,,She's right.
@@ -56,8 +56,8 @@ Dialogue: 0,0:01:33.61,0:01:39.16,Default,,0000,0000,0000,,We'd like you guys to
 Dialogue: 0,0:01:39.16,0:01:41.58,Default,,0000,0000,0000,,Okay, got it.
 Dialogue: 0,0:01:41.58,0:01:45.75,Default,,0000,0000,0000,,Okay, guys! We're now\Nat the front of the island!
 Dialogue: 0,0:01:45.75,0:01:49.67,Default,,0000,0000,0000,,Take a good look at the sky behind Enies Lobby.
-Dialogue: 0,0:01:51.09,0:01:53.50,Default,,0000,0000,0000,,Those are the Gates of Justice.
-Dialogue: 0,0:01:53.50,0:01:58.97,Default,,0000,0000,0000,,Whoooa! That's huge!
+Dialogue: 0,0:01:51.09,0:01:53.50,Default,,0000,0000,0000,,That's the Gate of Justice.
+Dialogue: 0,0:01:53.50,0:01:58.97,Default,,0000,0000,0000,,Whoooa! It's huge!
 Dialogue: 0,0:02:01.39,0:02:04.35,Default,,0000,0000,0000,,Now, there's no time to lose!
 Dialogue: 0,0:02:06.89,0:02:09.69,Default,,0000,0000,0000,,Well then, as we planned,\Nwe're gonna go in first!
 Dialogue: 0,0:02:10.44,0:02:12.52,Default,,0000,0000,0000,,Leave the backup to us!

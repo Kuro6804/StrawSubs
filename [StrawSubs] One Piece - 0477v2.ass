@@ -270,7 +270,7 @@ Dialogue: 0,0:18:14.44,0:18:15.81,Default,,0,0,0,,Pops!
 Dialogue: 0,0:18:17.98,0:18:19.18,Default,,0,0,0,,Hey, Pops is...!
 Dialogue: 0,0:18:19.18,0:18:20.62,Default,,0,0,0,,What?!
 Dialogue: 0,0:18:21.32,0:18:24.92,Default,,0,0,0,,Hey! It's too late for you to go out now!
-Dialogue: 0,0:18:25.36,0:18:30.19,Default,,0,0,0,,Look, Coby, there's no question! It's obviously the Navy's victory!
+Dialogue: 0,0:18:25.36,0:18:30.19,Default,,0,0,0,,Look, Koby, there's no question! It's obviously the Navy's victory!
 Dialogue: 0,0:18:30.19,0:18:32.36,Default,,0,0,0,,Red Hound-san got Whitebeard
 Dialogue: 0,0:18:32.36,0:18:35.40,Default,,0,0,0,,and Yellow Monkey-san and Blue Pheasant-san got Marco
 Dialogue: 0,0:18:35.40,0:18:39.47,Default,,0,0,0,,and Jozu, 1st and 3rd division commanders!
@@ -284,7 +284,7 @@ Dialogue: 0,0:19:01.42,0:19:04.46,Default,,0,0,0,,Whoa! Oh, I mean...
 Dialogue: 0,0:19:04.46,0:19:08.13,Default,,0,0,0,,I-I-I'm sorry! I got carried away!
 Dialogue: 0,0:19:08.13,0:19:10.17,Default,,0,0,0,,It's embarrassing! I wanna crawl in a hole!
 Dialogue: 0,0:19:10.17,0:19:14.54,Default,,0,0,0,,After I met you, I became emboldened a little bit...
-Dialogue: 0,0:19:14.54,0:19:16.21,Default,,0,0,0,,Coby!
+Dialogue: 0,0:19:14.54,0:19:16.21,Default,,0,0,0,,Koby!
 Dialogue: 0,0:19:16.21,0:19:18.31,Default,,0,0,0,,You wanna fight me, right?
 Dialogue: 0,0:19:18.31,0:19:21.08,Default,,0,0,0,,Then, of course you have to become such a heavy hitter!
 Dialogue: 0,0:19:22.71,0:19:28.32,Default,,0,0,0,,After all, it was just a pipe dream for me to become an admiral!
@@ -292,7 +292,7 @@ Dialogue: 0,0:19:28.32,0:19:34.16,Default,,0,0,0,,Even Luffy-san's strength gave
 Dialogue: 0,0:19:34.16,0:19:41.10,Default,,0,0,0,,It's impossible for me because all I do is run despite being a Navy soldier!
 Dialogue: 0,0:19:41.10,0:19:42.77,Default,,0,0,0,,It's just impossible!
 Dialogue: 0,0:19:42.77,0:19:47.10,Default,,0,0,0,,It's over already! So let's just sit back\Nand enjoy it from here!
-Dialogue: 0,0:19:47.10,0:19:48.40,Default,,0,0,0,,Alright, Coby?
+Dialogue: 0,0:19:47.10,0:19:48.40,Default,,0,0,0,,Alright, Koby?
 Dialogue: 0,0:19:52.94,0:19:56.41,Default,Ivankov,0,0,0,,Are you asking me\Nto inject another shot of Energy Hormone?!
 Dialogue: 0,0:19:56.41,0:19:58.28,Default,Ivankov,0,0,0,,That's insane!
 Dialogue: 0,0:19:58.88,0:20:04.09,Default,Ivankov,0,0,0,,You gotta stop it now!\NYou've been fighting since Impel Down!
@@ -323,7 +323,7 @@ Dialogue: 0,0:22:36.77,0:22:38.74,Default,,0,0,0,,S-Straw Hat is...!
 Dialogue: 0,0:22:41.78,0:22:45.65,Default,,0,0,0,,N-No way! I thought he received a mortal wound by getting kicked
 Dialogue: 0,0:22:45.65,0:22:47.82,Default,,0,0,0,,in the teeth by Yellow Monkey-san!
 Dialogue: 0,0:22:51.49,0:22:56.09,Default,,0,0,0,,H-Hey! Where are you going?! It's too dangerous!
-Dialogue: 0,0:22:58.59,0:23:00.10,Default,,0,0,0,,Coby...
+Dialogue: 0,0:22:58.59,0:23:00.10,Default,,0,0,0,,Koby...
 Dialogue: 0,0:23:03.50,0:23:05.27,Default,,0,0,0,,Luffy-san!
 Dialogue: 0,0:23:08.97,0:23:10.24,Default,,0,0,0,,Luffy!
 Dialogue: 0,0:23:10.24,0:23:14.04,Default,,0,0,0,,Ace!!
@@ -333,9 +333,9 @@ Dialogue: 0,0:23:26.82,0:23:30.39,Default,,0,0,0,,But the Navy forces form a mas
 Dialogue: 0,0:23:30.39,0:23:35.26,Default,,0,0,0,,Among them stands one young man\Ntrying to motivate himself
 Dialogue: 0,0:23:35.26,0:23:37.97,Default,,0,0,0,,to achieve the heights he once swore to reach.
 Dialogue: 0,0:23:37.97,0:23:39.17,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 0,0:23:39.17,0:23:42.27,Default,,0,0,0,,"To Live Up to a Promise!!\NLuffy and Coby Collide!"
+Dialogue: 0,0:23:39.17,0:23:42.27,Default,,0,0,0,,"To Live Up to a Promise!!\NLuffy and Koby Collide!"
 Dialogue: 0,0:23:42.27,0:23:44.61,Default,,0,0,0,,I'm gonna be the Pirate King!!
 Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}To Live Up to a Promise!!
 Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}To Live Up to a Promise!!
-Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Luffy and Coby Collide!
-Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Luffy and Coby Collide!
+Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}Luffy and Koby Collide!
+Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\4a&HFF&}Luffy and Koby Collide!

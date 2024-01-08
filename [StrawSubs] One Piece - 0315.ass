@@ -109,7 +109,7 @@ Dialogue: 0,0:03:04.05,0:03:09.96,Default,,0,0,0,,His final words spurred people
 Dialogue: 0,0:03:10.32,0:03:12.21,Default,,0,0,0,,My treasure?
 Dialogue: 0,0:03:12.73,0:03:14.55,Default,,0,0,0,,If you want it, you can have it!
 Dialogue: 0,0:03:14.55,0:03:16.18,Default,,0,0,0,,Go, find it!
-Dialogue: 0,0:03:16.18,0:03:18.93,Default,,0,0,0,,I’ve left everything\Nthis world’s got to offer {\i1}there!{\i0}
+Dialogue: 0,0:03:16.18,0:03:18.93,Default,,0,0,0,,I've left everything\Nthis world's got to offer {\i1}there!{\i0}
 Dialogue: 0,0:03:19.41,0:03:23.93,Default,,0,0,0,,And so men set sail for the Grand Line\Nin pursuit of their dreams!
 Dialogue: 0,0:03:24.54,0:03:28.40,Default,,0,0,0,,Indeed, the world is in the midst\Nof the Great Pirate Era!
 Dialogue: 0,0:03:29.86,0:03:32.19,Default,,0,0,0,,Your father's name is...
@@ -147,10 +147,10 @@ Dialogue: 0,0:05:10.41,0:05:13.54,Default,,0,0,0,,Anyway, that old man was like 
 Dialogue: 0,0:05:13.54,0:05:16.71,Default,,0,0,0,,I was really surprised about Dragon.
 Dialogue: 0,0:05:16.71,0:05:19.38,Default,,0,0,0,,So he was special to begin\Nwith because of his lineage.
 Dialogue: 0,0:05:20.13,0:05:21.38,Default,,0,0,0,,Where's Luffy?
-Dialogue: 0,0:05:21.38,0:05:23.97,Default,,0,0,0,,He's out front talking to Coby and his buddy.
+Dialogue: 0,0:05:21.38,0:05:23.97,Default,,0,0,0,,He's out front talking to Koby and his buddy.
 Dialogue: 0,0:05:23.97,0:05:26.47,Default,,0,0,0,,Don't you have to go?\NThey're your friends, too, right?
 Dialogue: 0,0:05:26.97,0:05:28.81,Default,,0,0,0,,It does bring back memories...
-Dialogue: 0,0:05:29.60,0:05:32.44,Default,,0,0,0,,...but it was Luffy who saved Coby.
+Dialogue: 0,0:05:29.60,0:05:32.44,Default,,0,0,0,,...but it was Luffy who saved Koby.
 Dialogue: 0,0:05:33.35,0:05:34.86,Default,,0,0,0,,Nami isn't around either, huh?
 Dialogue: 0,0:05:34.86,0:05:37.36,Default,,0,0,0,,I thought she wanted to hear\Nstories about the marines...
 Dialogue: 0,0:05:38.03,0:05:39.82,Default,,0,0,0,,I wonder if she decided to let them talk alone...
@@ -165,7 +165,7 @@ Dialogue: 0,0:05:59.84,0:06:02.51,Default,,0,0,0,,Hm? But I saw in a newspaper b
 Dialogue: 0,0:06:02.51,0:06:05.30,Default,,0,0,0,,that my grandpa's ship\Ncrossed that mystery mountain
 Dialogue: 0,0:06:05.30,0:06:07.18,Default,,0,0,0,,and entered the Grand Line.
 Dialogue: 0,0:06:07.18,0:06:09.10,Default,,0,0,0,,Oh, that article was a lie.
-Dialogue: 0,0:06:09.10,0:06:11.98,Default,,0,0,0,,Hey, Coby! You shouldn't\Ntell him about it so casually!
+Dialogue: 0,0:06:09.10,0:06:11.98,Default,,0,0,0,,Hey, Koby! You shouldn't\Ntell him about it so casually!
 Dialogue: 0,0:06:11.98,0:06:12.60,Default,,0,0,0,,Ah...
 Dialogue: 0,0:06:13.73,0:06:16.65,Default,,0,0,0,,But it's okay, since it's Luffy-san.
 Dialogue: 0,0:06:16.65,0:06:20.53,Default,,0,0,0,,H-How could it be okay?!\NHe is a pirate, you know!
@@ -261,7 +261,7 @@ Dialogue: 0,0:12:43.83,0:12:46.45,Default,,0,0,0,,Whoa... Ah... Um...
 Dialogue: 0,0:12:47.54,0:12:50.96,Default,,0,0,0,,I-I-I'm sorry! I-I got too full of myself!
 Dialogue: 0,0:12:50.96,0:12:52.79,Default,,0,0,0,,I'm so embarrassed! I wanna crawl under a rug!
 Dialogue: 0,0:12:52.79,0:12:57.17,Default,,0,0,0,,I-I got carried away, since I saw you, and...
-Dialogue: 0,0:12:57.17,0:12:57.92,Default,,0,0,0,,Coby...
+Dialogue: 0,0:12:57.17,0:12:57.92,Default,,0,0,0,,Koby...
 Dialogue: 0,0:12:59.01,0:13:01.05,Default,,0,0,0,,You're gonna fight me, right?
 Dialogue: 0,0:13:01.05,0:13:03.85,Default,,0,0,0,,Then at least get to that level.\NIt's obvious you'll need to.
 Dialogue: 0,0:13:06.85,0:13:09.35,Default,,0,0,0,,I-It's an Admiral we're talking about...
@@ -271,7 +271,7 @@ Dialogue: 0,0:13:20.03,0:13:21.45,Default,,0,0,0,,Why...
 Dialogue: 0,0:13:29.37,0:13:33.46,Default,,0,0,0,,As I am right now, it's such a wild dream
 Dialogue: 0,0:13:33.46,0:13:35.96,Default,,0,0,0,,that just saying it almost makes me faint...
 Dialogue: 0,0:13:38.46,0:13:42.38,Default,,0,0,0,,And yet, how can you\Nhave faith in me like that?
-Dialogue: 0,0:13:43.01,0:13:47.35,Default,,0,0,0,,Oh? You're still a crybaby, huh, Coby?
+Dialogue: 0,0:13:43.01,0:13:47.35,Default,,0,0,0,,Oh? You're still a crybaby, huh, Koby?
 Dialogue: 0,0:13:52.23,0:13:56.07,Default,,0,0,0,,I'm so glad that I was able\Nto see you two again today!
 Dialogue: 0,0:14:00.19,0:14:04.20,Default,,0,0,0,,It really is a lot of work\Nchasing after these people.
 Dialogue: 0,0:14:07.99,0:14:11.25,Default,,0,0,0,,We'll get stronger and stronger!
@@ -282,7 +282,7 @@ Dialogue: 0,0:14:22.93,0:14:24.30,Default,,0,0,0,,Hey, wait up, you jerk!
 Dialogue: 0,0:14:24.30,0:14:27.47,Default,,0,0,0,,All right! Let's see who\Nmakes it to the harbor first!
 Dialogue: 0,0:14:27.47,0:14:29.01,Default,,0,0,0,,Don't be silly! That's not fair!
 Dialogue: 0,0:14:30.60,0:14:35.98,Default,,0,0,0,,Luffy... didn't you just\Ncreate another crazy enemy?
-Dialogue: 0,0:14:36.77,0:14:40.65,Default,,0,0,0,,Coby is a man who makes\Nthings happen. I know that much.
+Dialogue: 0,0:14:36.77,0:14:40.65,Default,,0,0,0,,Koby is a man who makes\Nthings happen. I know that much.
 Dialogue: 0,0:15:05.26,0:15:07.18,Default,,0,0,0,,It was good to see that\Nhe seemed to be doing well.
 Dialogue: 0,0:15:08.10,0:15:15.31,Default,,0,0,0,,But I wonder if he realizes how the world\Nsees what happened in Enies Lobby...
 Dialogue: 0,0:15:15.69,0:15:19.19,Default,,0,0,0,,In any event, an island directly under\Nthe Government was annihilated...

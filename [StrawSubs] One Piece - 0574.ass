@@ -40,11 +40,11 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:15.00,0:00:20.40,Default,Narrator,0,0,0,,Once there was a man who had it all,\Nthe legendary Pirate King Gold Roger.
 Dialogue: 0,0:00:20.40,0:00:25.10,Default,Narrator,0,0,0,,His final words spurred people\Nto take to the seas in droves:
 Dialogue: 0,0:00:25.10,0:00:28.35,Default,Roger,0,0,0,,My treasure?\NIf you want it, you can have it...
-Dialogue: 0,0:00:28.35,0:00:31.85,Default,Roger,0,0,0,,Go, find it! I’ve left everything\Nthis world’s got to offer {\i1}there!{\i0}
+Dialogue: 0,0:00:28.35,0:00:31.85,Default,Roger,0,0,0,,Go, find it! I've left everything\Nthis world's got to offer {\i1}there!{\i0}
 Dialogue: 0,0:00:32.30,0:00:34.88,Default,Narrator,0,0,0,,People now set sail\Nin pursuit of their dreams.
 Dialogue: 0,0:00:34.88,0:00:37.45,Default,Narrator,0,0,0,,Indeed, the world is in the midst of\Nthe Great Pirate Era!
-Dialogue: 0,0:00:37.45,0:00:41.33,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still!  I can't stop!
-Dialogue: 1,0:00:37.45,0:00:41.33,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still!  I can't stop!
+Dialogue: 0,0:00:37.45,0:00:41.33,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still! I can't stop!
+Dialogue: 1,0:00:37.45,0:00:41.33,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still! I can't stop!
 Dialogue: 0,0:00:41.43,0:00:45.80,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Dawn can't come soon enough, I'm tired of waiting!
 Dialogue: 1,0:00:41.43,0:00:45.80,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Dawn can't come soon enough, I'm tired of waiting!
 Dialogue: 0,0:00:45.86,0:00:49.53,Opening,English,0,0,0,,{\blur0.3\c&H000000&}One, two, {\bord3.8}Sunshine{\bord}, four... We Go!
@@ -71,8 +71,8 @@ Dialogue: 0,0:01:30.57,0:01:34.31,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Ou
 Dialogue: 1,0:01:30.57,0:01:34.31,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Our hearts dream beyond measure
 Dialogue: 0,0:01:34.51,0:01:38.88,Opening,English,0,0,0,,{\blur0.3\c&H000000&}So let's never wake them up
 Dialogue: 1,0:01:34.51,0:01:38.88,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}So let's never wake them up
-Dialogue: 0,0:01:38.98,0:01:41.39,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still!  I can't stop!
-Dialogue: 1,0:01:38.98,0:01:41.39,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still!  I can't stop!
+Dialogue: 0,0:01:38.98,0:01:41.39,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still! I can't stop!
+Dialogue: 1,0:01:38.98,0:01:41.39,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still! I can't stop!
 Dialogue: 0,0:01:41.49,0:01:45.52,Opening,English,0,0,0,,{\blur0.3\c&H000000&}Dawn can't come soon enough, I'm tired of waiting!
 Dialogue: 1,0:01:41.49,0:01:45.52,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}Dawn can't come soon enough, I'm tired of waiting!
 Dialogue: 0,0:01:45.66,0:01:49.09,Opening,English,0,0,0,,{\blur0.3\c&H000000&}One, two, {\bord3.8}Sunshine{\bord}, four... We Go!
@@ -89,8 +89,8 @@ Dialogue: 0,0:02:07.38,0:02:11.15,Opening,English,0,0,0,,{\blur0.3\c&H000000&}On
 Dialogue: 1,0:02:07.38,0:02:11.15,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}On that day when our dreams began,
 Dialogue: 0,0:02:11.35,0:02:15.65,Opening,English,0,0,0,,{\blur0.3\c&H000000&}we set our goals and they've never changed!
 Dialogue: 1,0:02:11.35,0:02:15.65,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}we set our goals and they've never changed!
-Dialogue: 0,0:02:15.75,0:02:18.16,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still!  I can't stop!
-Dialogue: 1,0:02:15.75,0:02:18.16,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still!  I can't stop!
+Dialogue: 0,0:02:15.75,0:02:18.16,Opening,English,0,0,0,,{\blur0.3\c&H000000&}I can't stay still! I can't stop!
+Dialogue: 1,0:02:15.75,0:02:18.16,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}I can't stay still! I can't stop!
 Dialogue: 0,0:02:18.29,0:02:22.59,Opening,English,0,0,0,,{\blur0.3\c&H000000&}The sun in my heart will never set!
 Dialogue: 1,0:02:18.29,0:02:22.59,Opening,English,0,0,0,,{\bord0\blur0.3\4a&HFF&}The sun in my heart will never set!
 Dialogue: 0,0:02:22.69,0:02:29.53,Opening,English,0,0,0,,{\blur0.3\c&H000000&}One, two, {\bord3.8}Sunshine{\bord}... One, two, {\bord3.8}Sunshine{\bord}...
@@ -325,12 +325,12 @@ Dialogue: 0,0:18:06.20,0:18:14.48,Default,,0,0,0,,Yo ho ho ho... Yo ho ho ho...
 Dialogue: 0,0:18:14.48,0:18:23.19,Default,,0,0,0,,Yo ho ho ho... Yo ho ho ho...
 Dialogue: 0,0:18:23.19,0:18:27.56,Default,,0,0,0,,Time to ship out Binks' Brew!
 Dialogue: 0,0:18:27.56,0:18:31.56,Default,,0,0,0,,The sea breeze blows us to who-knows-where,\Nlet the waves be our guide
-Dialogue: 0,0:18:31.56,0:18:36.20,Default,,0,0,0,,O’er across the ocean tide,\Nthe sunset stirs, going wild!
+Dialogue: 0,0:18:31.56,0:18:36.20,Default,,0,0,0,,O'er across the ocean tide,\Nthe sunset stirs, going wild!
 Dialogue: 0,0:18:36.20,0:18:40.34,Default,,0,0,0,,Look to the skies! Watch the circling birds\Nas they sing and pass us by!
-Dialogue: 0,0:18:40.34,0:18:44.81,Default,,0,0,0,,Fare thee well to the weaver’s town,\Nto the harbor as well...
+Dialogue: 0,0:18:40.34,0:18:44.81,Default,,0,0,0,,Fare thee well to the weaver's town,\Nto the harbor as well...
 Dialogue: 0,0:18:44.81,0:18:49.08,Default,,0,0,0,,Sing a booming song,\Na song for us casting off!
-Dialogue: 0,0:18:49.08,0:18:53.32,Default,,0,0,0,,Oh, the gold and silver waves,\Nall of ‘em turnin’ to sea spray!
-Dialogue: 0,0:18:53.32,0:18:57.32,Default,,0,0,0,,As we journey off t’ward the ends of the high seas!
+Dialogue: 0,0:18:49.08,0:18:53.32,Default,,0,0,0,,Oh, the gold and silver waves,\Nall of 'em turnin' to sea spray!
+Dialogue: 0,0:18:53.32,0:18:57.32,Default,,0,0,0,,As we journey off t'ward the ends of the high seas!
 Dialogue: 0,0:18:57.32,0:19:01.72,Default,,0,0,0,,Time to ship out Binks' Brew!
 Dialogue: 0,0:19:01.72,0:19:05.96,Default,,0,0,0,,Pirates we, we'll divide and conquer all the seas!
 Dialogue: 0,0:19:05.96,0:19:10.37,Default,,0,0,0,,With the waves to rest our heads, ship beneath us as our bed!

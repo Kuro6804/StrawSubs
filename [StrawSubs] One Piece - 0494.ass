@@ -334,8 +334,8 @@ Dialogue: 0,0:19:26.22,0:19:29.22,Default,,0,0,0,,I'm sure that they're torturin
 Dialogue: 0,0:19:29.22,0:19:33.42,Default,,0,0,0,,I thought that he'd just tell them \Nbecause he's dumb and cries so much!
 Dialogue: 0,0:19:33.42,0:19:35.12,Default,,0,0,0,,It doesn't make sense!
 Dialogue: 0,0:19:36.73,0:19:38.70,Default,,0,0,0,,If nothing is done, he'll...
-Dialogue: 0,0:19:45.84,0:19:50.17,Sign,,0,0,340,,{\blur0.3\fad(1020,0)\fs66\bord2.3\c&H000000&\1a&HFF&\t(975,1020,\1a&H00&)}Gray Terminal, Pirate’s Bay
-Dialogue: 1,0:19:45.84,0:19:50.17,Sign,,0,0,340,,{\blur0.3\fad(1020,0)\fs66\bord0\4a&HFF&}Gray Terminal, Pirate’s Bay
+Dialogue: 0,0:19:45.84,0:19:50.17,Sign,,0,0,340,,{\blur0.3\fad(1020,0)\fs66\bord2.3\c&H000000&\1a&HFF&\t(975,1020,\1a&H00&)}Gray Terminal, Pirate's Bay
+Dialogue: 1,0:19:45.84,0:19:50.17,Sign,,0,0,340,,{\blur0.3\fad(1020,0)\fs66\bord0\4a&HFF&}Gray Terminal, Pirate's Bay
 Dialogue: 0,0:19:47.47,0:19:50.17,DefaultLow,,0,0,0,,It's so late!
 Dialogue: 0,0:19:50.57,0:19:52.78,Default,,0,0,0,,Who is in charge today?
 Dialogue: 0,0:19:53.54,0:19:56.85,Default,,0,0,0,,It's Porchemy, Captain Bluejam.

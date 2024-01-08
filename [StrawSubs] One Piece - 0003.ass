@@ -90,7 +90,7 @@ Dialogue: 10,0:03:29.81,0:03:33.15,Default,,0,0,0,,Which is yours? \NI couldn't 
 Dialogue: 10,0:03:33.47,0:03:35.52,Default,,0,0,0,,All three are mine.
 Dialogue: 10,0:03:35.52,0:03:37.98,Default,,0,0,0,,I use the Three-Sword Style.
 Dialogue: 10,0:03:40.15,0:03:41.11,Default,,0,0,0,,You'll take 'em, right?
-Dialogue: 10,0:03:41.11,0:03:45.49,Default,,0,0,0,,If we fight together now, \Nyou'll be a government-defying villain!
+Dialogue: 10,0:03:41.11,0:03:45.49,Default,,0,0,0,,If we fight together now, \Nyou'll be a Government-defying villain!
 Dialogue: 10,0:03:45.49,0:03:48.83,Default,,0,0,0,,Would you prefer that, \Nor being killed by the Navy like this?
 Dialogue: 10,0:03:49.37,0:03:51.71,Default,,0,0,0,,What are you, the devil's son?!
 Dialogue: 10,0:03:51.71,0:03:52.92,Default,,0,0,0,,Well, whatever.
@@ -167,7 +167,7 @@ Dialogue: 10,0:07:57.08,0:07:58.20,Default,,0,0,0,,No thanks!
 Dialogue: 10,0:08:01.16,0:08:02.92,Default,,0,0,0,,C-Captain Morgan is...
 Dialogue: 10,0:08:05.29,0:08:06.63,Default,,0,0,0,,...being trounced completely...
 Dialogue: 10,0:08:08.67,0:08:10.13,Default,,0,0,0,,And you call yourself a navy?!
-Dialogue: 10,0:08:10.13,0:08:12.84,Default,,0,0,0,,You've destroyed Coby's dream!
+Dialogue: 10,0:08:10.13,0:08:12.84,Default,,0,0,0,,You've destroyed Koby's dream!
 Dialogue: 10,0:08:13.76,0:08:17.10,Default,,0,0,0,,Hold it, Straw Hat! \NCheck {\i1}this{\i0} out!
 Dialogue: 10,0:08:18.97,0:08:21.60,Default,,0,0,0,,I said hold it! \NAre you stupid?!
 Dialogue: 10,0:08:21.60,0:08:24.48,Default,,0,0,0,,Pay attention! \NI have a hostage here!
@@ -179,7 +179,7 @@ Dialogue: 10,0:08:43.08,0:08:47.04,Default,,0,0,0,,Luffy-{\i1}san{\i0}! \NI don'
 Dialogue: 10,0:08:47.04,0:08:47.92,Default,,0,0,0,,Even if it means dying!
 Dialogue: 10,0:08:48.42,0:08:49.88,Default,,0,0,0,,Yeah, I know!
 Dialogue: 10,0:08:50.71,0:08:52.63,Default,,0,0,0,,Give it up, stupid son!
-Dialogue: 10,0:08:52.63,0:08:54.88,Default,,0,0,0,,Coby really is ready to die!
+Dialogue: 10,0:08:52.63,0:08:54.88,Default,,0,0,0,,Koby really is ready to die!
 Dialogue: 10,0:08:56.18,0:08:57.55,Default,,0,0,0,,Don't move!
 Dialogue: 10,0:08:57.55,0:08:59.85,Default,,0,0,0,,I told you not to move! \NI-I'll shoot!
 Dialogue: 10,0:09:01.27,0:09:02.60,Default,,0,0,0,,Behind you!
@@ -213,7 +213,7 @@ Dialogue: 10,0:11:52.14,0:11:54.27,Default,,0,0,0,,I was definitely at my rope's
 Dialogue: 10,0:11:54.27,0:11:56.07,Default,,0,0,0,,having not eaten for three weeks!
 Dialogue: 10,0:12:00.15,0:12:02.70,Default,,0,0,0,,Huh? You're finished already?
 Dialogue: 10,0:12:03.41,0:12:06.41,Default,,0,0,0,,How the heck can you have \Na bigger appetite than me?!
-Dialogue: 10,0:12:06.41,0:12:09.37,Default,,0,0,0,,It tastes good! Right, Coby?
+Dialogue: 10,0:12:06.41,0:12:09.37,Default,,0,0,0,,It tastes good! Right, Koby?
 Dialogue: 10,0:12:09.37,0:12:11.91,Default,,0,0,0,,Thank you for treating me to food, too...
 Dialogue: 10,0:12:12.28,0:12:15.38,Default,,0,0,0,,It's no problem! \NThe town {\i1}has{\i0} been saved, after all!
 Dialogue: 10,0:12:15.67,0:12:18.17,Default,,0,0,0,,You really are amazing!
@@ -343,7 +343,7 @@ Dialogue: 10,0:20:01.59,0:20:02.51,Default,,0,0,0,,Yes, sir!
 Dialogue: 0,0:20:09.31,0:20:11.56,Sign,,0,0,0,,"I'VE FLASHILY TAKEN THE MAP! BUGGY!"
 Dialogue: 10,0:20:15.23,0:20:17.44,Default,,0,0,0,,That was a pretty lame act.
 Dialogue: 10,0:20:17.44,0:20:19.32,Default,,0,0,0,,Wouldn't be shocked if they saw through it.
-Dialogue: 10,0:20:19.86,0:20:23.24,Default,,0,0,0,,Coby'll handle the rest on his own now. \NI just know it.
+Dialogue: 10,0:20:19.86,0:20:23.24,Default,,0,0,0,,Koby'll handle the rest on his own now. \NI just know it.
 Dialogue: 10,0:20:23.24,0:20:25.12,Default,,0,0,0,,It's a nice way to leave, though.
 Dialogue: 10,0:20:25.12,0:20:27.20,Default,,0,0,0,,Being unable to turn back \N'cause everyone hates you-
 Dialogue: 10,0:20:27.83,0:20:28.95,Default,,0,0,0,,it's pirate-like!
@@ -351,7 +351,7 @@ Dialogue: 10,0:20:30.54,0:20:31.50,Default,,0,0,0,,That's true!
 Dialogue: 10,0:20:31.50,0:20:32.87,Default,,0,0,0,,Luffy-{\i1}san{\i0}!
 Dialogue: 10,0:20:35.17,0:20:39.25,Default,,0,0,0,,Thank you! \NI'll never forget all you've done for me!
 Dialogue: 10,0:20:40.01,0:20:43.84,Default,,0,0,0,,I've {\i1}never{\i0} heard of a pirate \Nbeing thanked by a marine...
-Dialogue: 10,0:20:46.72,0:20:49.85,Default,,0,0,0,,Let's meet again sometime, Coby!
+Dialogue: 10,0:20:46.72,0:20:49.85,Default,,0,0,0,,Let's meet again sometime, Koby!
 Dialogue: 10,0:20:49.85,0:20:52.68,Default,,0,0,0,,– Luffy-{\i1}san...{\i0} \N– Bye!
 Dialogue: 10,0:20:53.19,0:20:55.35,Default,,0,0,0,,All hands, salute!
 Dialogue: 10,0:20:58.32,0:21:01.28,Default,,0,0,0,,See ya!

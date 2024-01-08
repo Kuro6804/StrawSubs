@@ -107,8 +107,8 @@ Dialogue: 0,0:04:48.06,0:04:52.73,Default,,0,0,0,,--It's a school of whale shark
 Dialogue: 0,0:04:54.91,0:04:56.86,Default,,0,0,0,,Cool!
 Dialogue: 0,0:04:56.90,0:05:05.83,Title Card - Top,,0,0,0,,{\blur0.8\fad(1965,1965)\c&H000000&\1a&HFF&\t(1920,1965,\1a&H00&)\t(6965,7010,\1a&HFF&)}Cause One Final Miracle
 Dialogue: 1,0:04:56.90,0:05:05.83,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1965,1965)\4a&HFF&}Cause One Final Miracle
-Dialogue: 0,0:04:56.90,0:05:05.83,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1965,1965)\c&H000000&\1a&HFF&\t(1920,1965,\1a&H00&)\t(6965,7010,\1a&HFF&)}Break Through the Gates of Justice
-Dialogue: 1,0:04:56.90,0:05:05.83,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1965,1965)\4a&HFF&}Break Through the Gates of Justice
+Dialogue: 0,0:04:56.90,0:05:05.83,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1965,1965)\c&H000000&\1a&HFF&\t(1920,1965,\1a&H00&)\t(6965,7010,\1a&HFF&)}Break Through the Gate of Justice
+Dialogue: 1,0:04:56.90,0:05:05.83,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1965,1965)\4a&HFF&}Break Through the Gate of Justice
 Dialogue: 0,0:05:17.94,0:05:19.46,Default,,0,0,0,,Carry them here!
 Dialogue: 0,0:05:29.18,0:05:31.31,Default,,0,0,0,,That guy's so cool!
 Dialogue: 0,0:05:48.36,0:05:50.70,Default,Luffy & Ivankov,0,0,0,,--Cool!\N--Heehaw!
@@ -150,7 +150,7 @@ Dialogue: 0,0:08:44.38,0:08:45.67,Default,,0,0,0,,They got us!
 Dialogue: 0,0:08:46.75,0:08:52.03,Default,,0,0,0,,Even though everybody ranked higher than \Nvice admiral has been summoned to Marineford,
 Dialogue: 0,0:08:52.03,0:08:55.34,Default,,0,0,0,,the Navy ships are still \Nformidable without them!
 Dialogue: 0,0:09:01.60,0:09:05.84,Default,,0,0,0,,Can't you see that it's no \Nuse? For pirates like you...
-Dialogue: 0,0:09:05.84,0:09:08.52,Default,,0,0,0,,...The Gates of Justice won't open!
+Dialogue: 0,0:09:05.84,0:09:08.52,Default,,0,0,0,,...The Gate of Justice won't open!
 Dialogue: 0,0:09:16.24,0:09:18.78,Default,,0,0,0,,Oh no! I forgot about this!
 Dialogue: 0,0:09:18.78,0:09:22.12,Default,,0,0,0,,Oh my God! We can't open them!
 Dialogue: 0,0:09:22.12,0:09:25.62,Default,,0,0,0,,Damn! It's a dead end after coming this far!
@@ -172,28 +172,28 @@ Dialogue: 0,0:10:27.43,0:10:28.85,Default,,0,0,0,,Fire!
 Dialogue: 0,0:10:49.12,0:10:52.58,Default,,0,0,0,,It's impossible for us to outrun them!
 Dialogue: 0,0:10:53.70,0:10:58.01,Default,,0,0,0,,Dammit! If nothing is done, the \NNavy will get us eventually!
 Dialogue: 0,0:10:58.01,0:10:59.51,Default,,0,0,0,,Damn prisoners!
-Dialogue: 0,0:10:59.51,0:11:03.90,Default,,0,0,0,,Why are they still heading to the \Ngates knowing that they're cornered?
-Dialogue: 0,0:11:03.90,0:11:08.04,Default,,0,0,0,,The gates can only be controlled \Nfrom inside of Impel Down.
-Dialogue: 0,0:11:08.04,0:11:10.35,Default,,0,0,0,,There is no other way to open them!
+Dialogue: 0,0:10:59.51,0:11:03.90,Default,,0,0,0,,Why are they still heading to the \Ngate knowing that they're cornered?
+Dialogue: 0,0:11:03.90,0:11:08.04,Default,,0,0,0,,The gate can only be controlled \Nfrom inside of Impel Down.
+Dialogue: 0,0:11:08.04,0:11:10.35,Default,,0,0,0,,There is no other way to open it!
 Dialogue: 0,0:11:15.98,0:11:19.19,Default,,0,0,0,,Keep firing! Sink them...
-Dialogue: 0,0:11:22.48,0:11:25.78,Default,,0,0,0,,The Gates of Justice are opening!
-Dialogue: 0,0:11:25.78,0:11:29.66,Default,,0,0,0,,Why?! What's going on?! Why \Nare they opening the gates?!
-Dialogue: 0,0:11:32.49,0:11:35.51,Default,,0,0,0,,They're open!
+Dialogue: 0,0:11:22.48,0:11:25.78,Default,,0,0,0,,The Gate of Justice is opening!
+Dialogue: 0,0:11:25.78,0:11:29.66,Default,,0,0,0,,Why?! What's going on?! Why are they opening the gate?!
+Dialogue: 0,0:11:32.49,0:11:35.51,Default,,0,0,0,,It's open!
 Dialogue: 0,0:11:38.01,0:11:40.62,Default,,0,0,0,,W-Why is this happening?
 Dialogue: 0,0:11:40.62,0:11:41.97,Default,,0,0,0,,Is this a trap?!
-Dialogue: 0,0:11:43.27,0:11:47.64,Default,,0,0,0,,Yes! I don't know why \Nbut the gates are opening!
-Dialogue: 0,0:11:48.38,0:11:51.18,Default,,0,0,0,,They're open! They're open!
+Dialogue: 0,0:11:43.27,0:11:47.64,Default,,0,0,0,,Yes! I don't know why \Nbut the gate is opening!
+Dialogue: 0,0:11:48.38,0:11:51.18,Default,,0,0,0,,It's open! It's open!
 Dialogue: 0,0:11:54.15,0:11:55.69,Default,,0,0,0,,What?!
 Dialogue: 0,0:11:57.73,0:12:00.36,Default,,0,0,0,,Warden Magellan! Please hurry!
 Dialogue: 0,0:12:00.36,0:12:02.49,Default,,0,0,0,,No! Wait!
 Dialogue: 0,0:12:08.29,0:12:09.41,Default,,0,0,0,,No way!
-Dialogue: 0,0:12:09.87,0:12:12.23,Default,,0,0,0,,Why are the gates opening?!
-Dialogue: 0,0:12:15.67,0:12:19.92,Default,,0,0,0,,Are you sure about opening the gates?
+Dialogue: 0,0:12:09.87,0:12:12.23,Default,,0,0,0,,Why is the gate opening?!
+Dialogue: 0,0:12:15.67,0:12:19.92,Default,,0,0,0,,Are you sure about opening the gate?
 Dialogue: 0,0:12:20.72,0:12:22.42,Default,,0,0,0,,Warden Magellan!
 Dialogue: 0,0:12:22.42,0:12:25.93,Default,,0,0,0,,I'm sure! Have I ever been wrong?!
 Dialogue: 0,0:12:25.93,0:12:28.31,Default,,0,0,0,,No, it's not like I don't believe you!
 Dialogue: 0,0:12:29.26,0:12:31.64,Default,,0,0,0,,After the prisoners' ship passes through,
-Dialogue: 0,0:12:31.64,0:12:34.10,Default,,0,0,0,,\Nclose the gates right away, understood?
+Dialogue: 0,0:12:31.64,0:12:34.10,Default,,0,0,0,,close the gate right away, understood?
 Dialogue: 0,0:12:34.10,0:12:35.85,Default,,0,0,0,,I got it, sir!
 Dialogue: 0,0:12:40.69,0:12:44.07,Default,,0,0,0,,Don't let them get away! \NThey aren't allowed to! Fire!
 Dialogue: 0,0:12:45.91,0:12:48.58,Default,,0,0,0,,Is it Magellan's order?! \NWhat is he thinking?!
@@ -202,7 +202,7 @@ Dialogue: 0,0:12:53.27,0:12:57.63,Default,,0,0,0,,Yes, um, but it doesn't \Nlook
 Dialogue: 0,0:12:57.63,0:13:01.71,Default,,0,0,0,,He was at the pier near the \Nmain entrance just while ago!
 Dialogue: 0,0:13:04.55,0:13:07.43,Default,,0,0,0,,Why is this? What's happening here?!
 Dialogue: 0,0:13:09.64,0:13:12.44,Default,,0,0,0,,Control room! What are you doing?!
-Dialogue: 0,0:13:12.44,0:13:14.84,Default,,0,0,0,,Who told you to open the gates?!
+Dialogue: 0,0:13:12.44,0:13:14.84,Default,,0,0,0,,Who told you to open the gate?!
 Dialogue: 0,0:13:14.84,0:13:17.48,Default,,0,0,0,,W-Warden!
 Dialogue: 0,0:13:20.11,0:13:21.61,Default,,0,0,0,,Oh no!
 Dialogue: 0,0:13:30.10,0:13:32.08,Default,,0,0,0,,Is that true?
@@ -213,11 +213,11 @@ Dialogue: 0,0:13:42.05,0:13:44.86,Default,,0,0,0,,It's me!
 Dialogue: 0,0:13:46.60,0:13:49.08,Default,,0,0,0,,I got you again!
 Dialogue: 0,0:13:49.08,0:13:50.47,Default,,0,0,0,,He's an imposter!
 Dialogue: 0,0:13:50.47,0:13:53.46,Default,,0,0,0,,Warden, I just heard from the lookout!
-Dialogue: 0,0:13:53.46,0:13:56.56,Default,,0,0,0,,The stolen ship will pass the gates soon!
-Dialogue: 0,0:13:56.56,0:13:59.73,Default,,0,0,0,,--Even if they get through the gates...\N--Spin, spin!
+Dialogue: 0,0:13:53.46,0:13:56.56,Default,,0,0,0,,The stolen ship will pass the gate soon!
+Dialogue: 0,0:13:56.56,0:13:59.73,Default,,0,0,0,,--Even if they get through the gate...\N--Spin, spin!
 Dialogue: 0,0:13:59.73,0:14:03.69,Default,,0,0,0,,--they can't outrun that many ships!\N--Spin, spin!
 Dialogue: 0,0:14:03.69,0:14:05.78,Default,,0,0,0,,--It's impossible!\N--Spin, spin!
-Dialogue: 0,0:14:05.78,0:14:09.49,Default,,0,0,0,,Then, close the gates now! Push the button!
+Dialogue: 0,0:14:05.78,0:14:09.49,Default,,0,0,0,,Then, close the gate now! Push the button!
 Dialogue: 0,0:14:09.49,0:14:11.27,Default,,0,0,0,,W-What?!
 Dialogue: 0,0:14:11.27,0:14:13.58,Default,,0,0,0,,Oh, yes, sir! Um...
 Dialogue: 0,0:14:13.58,0:14:15.29,Default,,0,0,0,,No, don't push it!
@@ -234,7 +234,7 @@ Dialogue: 0,0:14:33.18,0:14:37.53,Default,,0,0,0,,Memoir of a Desert Kingdom!
 Dialogue: 0,0:14:38.99,0:14:41.65,Default,,0,0,0,,Heehaw! I win!
 Dialogue: 0,0:14:41.65,0:14:44.73,Default,,0,0,0,,Y-You bastard!
 Dialogue: 0,0:14:46.02,0:14:48.99,Default,,0,0,0,,I'm not gonna let you go after Straw-chan!
-Dialogue: 0,0:15:10.76,0:15:13.12,Default,,0,0,0,,Look! The gates are closing!
+Dialogue: 0,0:15:10.76,0:15:13.12,Default,,0,0,0,,Look! The gate is closing!
 Dialogue: 0,0:15:13.12,0:15:17.98,Default,,0,0,0,,Yes! If we can get through, \Nthe Navy won't be able to follow us!
 Dialogue: 0,0:15:17.98,0:15:20.98,Default,,0,0,0,,I was with him at the entrance a while ago!
 Dialogue: 0,0:15:20.98,0:15:23.86,Default,,0,0,0,,He stayed alone at Impel Down?!
@@ -246,8 +246,8 @@ Dialogue: 0,0:15:42.96,0:15:44.96,Default,,0,0,0,,Are we gonna leave him there?!
 Dialogue: 0,0:15:44.96,0:15:51.22,Default,,0,0,0,,We already left hundreds \Nof friends who were beaten!
 Dialogue: 0,0:15:51.22,0:15:53.84,Default,,0,0,0,,Do you want to go back and fight Magellan?!
 Dialogue: 0,0:15:53.84,0:15:57.10,Default,,0,0,0,,And lose more friends and time?!
-Dialogue: 0,0:15:57.10,0:16:01.41,Default,,0,0,0,,To be able to open these gates, we \Nneeded somebody to stay there!
-Dialogue: 0,0:16:05.16,0:16:10.40,Default,,0,0,0,,I can do it better than anyone! \NI'm gonna open the Gates of Justice!
+Dialogue: 0,0:15:57.10,0:16:01.41,Default,,0,0,0,,To be able to open this gate, we \Nneeded somebody to stay there!
+Dialogue: 0,0:16:05.16,0:16:10.40,Default,,0,0,0,,I can do it better than anyone! \NI'm gonna open the Gate of Justice!
 Dialogue: 0,0:16:13.20,0:16:16.74,Default,,0,0,0,,What are you gonna do after that?!
 Dialogue: 0,0:16:16.74,0:16:19.58,Default,,0,0,0,,What a pointless question!
 Dialogue: 0,0:16:21.44,0:16:25.17,Default,,0,0,0,,Don't tell Straw-chan until \Ncommunications are cut off!
@@ -255,8 +255,8 @@ Dialogue: 0,0:16:26.58,0:16:28.50,Default,,0,0,0,,Us queers...
 Dialogue: 0,0:16:28.50,0:16:30.59,Default,,0,0,0,,...we don't say goodbye!
 Dialogue: 0,0:16:35.43,0:16:37.60,Default,,0,0,0,,It's still connected.
 Dialogue: 0,0:16:40.10,0:16:42.98,Default,,0,0,0,,A Baby Transponder Snail's \Ncoverage is limited.
-Dialogue: 0,0:16:42.98,0:16:46.39,Default,,0,0,0,,It won't work after the gates close.
-Dialogue: 0,0:16:51.00,0:16:54.45,Default,,0,0,0,,No, I can't control the \Nswitching device of the gates!
+Dialogue: 0,0:16:42.98,0:16:46.39,Default,,0,0,0,,It won't work after the gate's closed.
+Dialogue: 0,0:16:51.00,0:16:54.45,Default,,0,0,0,,No, I can't control the \Nswitching device of the gate!
 Dialogue: 0,0:16:54.45,0:16:57.32,Default,,0,0,0,,It's impossible to fix it in time, Warden!
 Dialogue: 0,0:17:00.22,0:17:02.41,Default,,0,0,0,,You dared to turn into \Nthe Warden, of all men?
 Dialogue: 0,0:17:02.41,0:17:05.62,Default,,0,0,0,,I'm glad that I memorized \Nyour face at that time!
@@ -302,7 +302,7 @@ Dialogue: 0,0:19:36.42,0:19:38.41,Default,,0,0,0,,Don't let them get away!
 Dialogue: 0,0:19:38.41,0:19:40.24,Default,,0,0,0,,Break them into pieces!
 Dialogue: 0,0:19:40.24,0:19:41.53,Default,,0,0,0,,Bon-chan!
 Dialogue: 0,0:19:42.54,0:19:44.64,Default,,0,0,0,,Bon-chan!
-Dialogue: 0,0:19:46.50,0:19:50.00,Default,,0,0,0,,Bon-chan, the gates're closing.
+Dialogue: 0,0:19:46.50,0:19:50.00,Default,,0,0,0,,Bon-chan, the gate's closing.
 Dialogue: 0,0:19:53.84,0:19:55.46,Default,,0,0,0,,We...
 Dialogue: 0,0:19:55.46,0:19:57.46,Default,,0,0,0,,...have to go.
 Dialogue: 0,0:20:03.55,0:20:05.64,Default,,0,0,0,,Thank you!
@@ -313,7 +313,7 @@ Dialogue: 0,0:20:29.77,0:20:31.45,Default,,0,0,0,,--Bon-chan!\N--Straw-chan!
 Dialogue: 0,0:20:32.74,0:20:36.04,Default,,0,0,0,,You gotta save your brother at any cost!
 Dialogue: 0,0:20:41.56,0:20:47.13,Default,,0,0,0,,I know that you can save \Nyour brother for sure!
 Dialogue: 0,0:20:47.13,0:20:49.89,Default,,0,0,0,,Bon-chan!
-Dialogue: 0,0:20:50.83,0:20:54.69,Default,,0,0,0,,--The gates are closing!\N--We gotta sink them!
+Dialogue: 0,0:20:50.83,0:20:54.69,Default,,0,0,0,,--The gate is closing!\N--We gotta sink them!
 Dialogue: 0,0:21:01.68,0:21:03.66,Default,,0,0,0,,It's been a long time!
 Dialogue: 0,0:21:04.40,0:21:06.86,Default,,0,0,0,,I'm more than fine now!
 Dialogue: 0,0:21:07.75,0:21:10.62,Default,,0,0,0,,Gimme a break!
@@ -328,7 +328,7 @@ Dialogue: 0,0:21:42.26,0:21:47.24,Default,,0,0,0,,--Bon-chan!\N--Brother Bon!
 Dialogue: 0,0:21:51.33,0:21:53.16,Default,,0,0,0,,I can't believe this!
 Dialogue: 0,0:21:53.67,0:21:55.83,Default,,0,0,0,,We let them get away!
 Dialogue: 0,0:21:56.32,0:21:59.41,Default,,0,0,0,,If it weren't for him, we would...
-Dialogue: 0,0:21:59.41,0:22:03.25,Default,,0,0,0,,We would've sunk in the \Nwater inside the gates!
+Dialogue: 0,0:21:59.41,0:22:03.25,Default,,0,0,0,,We would've sunk in the \Nwater inside the gate!
 Dialogue: 0,0:22:04.06,0:22:10.85,Default,,0,0,0,,The flower of friendship blooms even in hell.
 Dialogue: 0,0:22:10.85,0:22:14.56,Default,,0,0,0,,On the sand where waves come and go,
 Dialogue: 0,0:22:14.56,0:22:18.85,Default,,0,0,0,,it leaves its petal as a memento.

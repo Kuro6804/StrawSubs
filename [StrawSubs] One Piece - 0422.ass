@@ -174,12 +174,12 @@ Dialogue: 0,0:08:04.03,0:08:08.80,Default,,0,0,0,,What should we do \Nnow, Siste
 Dialogue: 0,0:08:09.61,0:08:11.55,Default,,0,0,0,,Don't ask me what to do!
 Dialogue: 0,0:08:12.16,0:08:15.78,Default,,0,0,0,,It's you guys who \Nwanted to come here
 Dialogue: 0,0:08:15.78,0:08:18.76,Default,,0,0,0,,and who spent a fortune \Non an Eternal Pose.
-Dialogue: 0,0:08:18.76,0:08:25.47,Default,,0,0,0,,B-Because we really wanted to save Captain \NBuggy who has been taken to Impel Down!
+Dialogue: 0,0:08:18.76,0:08:25.47,Default,,0,0,0,,B-Because we really wanted to save Captain Buggy who has been taken to Impel Down!
 Dialogue: 0,0:08:28.50,0:08:29.86,Default,,0,0,0,,Look at the sea!
 Dialogue: 0,0:08:29.86,0:08:33.99,Default,,0,0,0,,We're about to enter the Calm Belt \Nwhere monsters have their nests.
 Dialogue: 0,0:08:33.99,0:08:36.74,Default,,0,0,0,,You think this ship \Ncan sail there?
 Dialogue: 0,0:08:36.74,0:08:42.73,Default,,0,0,0,,But there is only one other course \Nand that's exclusively for the Navy.
-Dialogue: 0,0:08:42.73,0:08:47.17,Default,,0,0,0,,They're not gonna open the \NGates of Justice for a pirate ship.
+Dialogue: 0,0:08:42.73,0:08:47.17,Default,,0,0,0,,They're not gonna open the \NGate of Justice for a pirate ship.
 Dialogue: 0,0:08:47.17,0:08:50.80,Default,,0,0,0,,No way! We can't \Neven get there?!
 Dialogue: 0,0:08:50.80,0:08:54.68,Default,,0,0,0,,If nothing is done, Captain \NBuggy will be executed!
 Dialogue: 0,0:08:55.35,0:08:59.01,Default,,0,0,0,,...Along with his \Nfriend Ace-kun!
@@ -215,11 +215,11 @@ Dialogue: 0,0:10:56.30,0:10:59.76,Default,,0,0,0,,Have a peaceful \Nexecution! G
 Dialogue: 0,0:10:59.76,0:11:02.13,Default,,0,0,0,,See you in next life!
 Dialogue: 0,0:11:03.74,0:11:07.54,Default,,0,0,0,,I can feel your grief, Richie!
 Dialogue: 0,0:11:10.38,0:11:14.62,Default,,0,0,0,,This is Momonga, \Nmarine code G100660.
-Dialogue: 0,0:11:14.62,0:11:18.19,Default,,0,0,0,,We are about to sail on the current \Nso prepare to open the gates!
+Dialogue: 0,0:11:14.62,0:11:18.19,Default,,0,0,0,,We are about to sail on the current \Nso prepare to open the gate!
 Dialogue: 0,0:11:19.65,0:11:22.19,Default,,0,0,0,,The Navy ship that Luffy \Nand Hancock are on
 Dialogue: 0,0:11:22.19,0:11:24.90,Default,,0,0,0,,is approaching \Nthe Tub Current
 Dialogue: 0,0:11:24.90,0:11:26.96,Default,,0,0,0,,which is exclusively \Nused by the Navy
-Dialogue: 0,0:11:26.96,0:11:28.91,Default,,0,0,0,,and connects three of the \Ngovernment's central facilities.
+Dialogue: 0,0:11:26.96,0:11:28.91,Default,,0,0,0,,and connects three of the \NGovernment's central facilities.
 Dialogue: 0,0:11:29.91,0:11:35.88,Sign2,,0,0,377,,{\blur0.8\fad(777,500)\fs88\bord3.6\c&H000000&\1a&HFF&\t(732,777,\1a&H00&)\t(5470,5515,\1a&HFF&)}Great Underwater Prison\N{\fs111\bord4.2}Impel Down
 Dialogue: 1,0:11:29.91,0:11:35.88,Sign2,,0,0,377,,{\blur0.8\fad(777,500)\fs88\bord0\4a&HFF&}Great Underwater Prison\N{\fs111\bord0}Impel Down
 Dialogue: 0,0:12:09.70,0:12:11.66,Default,,0,0,0,,Just kill me!
@@ -232,8 +232,8 @@ Dialogue: 0,0:12:49.38,0:12:51.03,Default,,0,0,0,,That will learn ya!
 Dialogue: 0,0:13:19.06,0:13:23.51,Default,,0,0,0,,H-Hey, wait a minute! That \Nwas just a little disagreement!
 Dialogue: 0,0:13:23.51,0:13:27.64,Default,,0,0,0,,We're not on death \Nrow! Get us out of here!
 Dialogue: 0,0:13:56.37,0:14:02.53,Default,,0,0,0,,It has been four and half days since they left Maiden Island - Amazon Lily.
-Dialogue: 0,0:14:03.02,0:14:06.14,Default,,0,0,0,,Vice Admiral Momonga! We \Nare arriving at Impel Down!
-Dialogue: 0,0:14:06.14,0:14:07.81,Default,,0,0,0,,Hurry and open the gates!
+Dialogue: 0,0:14:03.02,0:14:06.14,Default,,0,0,0,,Vice Admiral Momonga! We are arriving at Impel Down!
+Dialogue: 0,0:14:06.14,0:14:07.81,Default,,0,0,0,,Hurry and open the gate!
 Dialogue: 0,0:14:07.81,0:14:09.20,Default,,0,0,0,,Aye-aye, sir!
 Dialogue: 0,0:14:28.83,0:14:32.43,Default,,0,0,0,,This is the world's \Ngreatest prison!
 Dialogue: 0,0:15:16.01,0:15:19.20,Default,,0,0,0,,We were delayed a bit \Nbecause of head winds

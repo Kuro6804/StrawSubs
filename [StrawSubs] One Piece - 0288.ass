@@ -109,10 +109,10 @@ Dialogue: 0,0:03:04.08,0:03:10.00,Default,,0,0,0,,His final words spurred people
 Dialogue: 0,0:03:10.38,0:03:12.26,Default,,0,0,0,,My treasure?
 Dialogue: 0,0:03:12.76,0:03:14.59,Default,,0,0,0,,If you want it, you can have it!
 Dialogue: 0,0:03:14.59,0:03:16.22,Default,,0,0,0,,Go, find it!
-Dialogue: 0,0:03:16.22,0:03:18.97,Default,,0,0,0,,I’ve left everything\Nthis world’s got to offer {\i1}there!{\i0}
+Dialogue: 0,0:03:16.22,0:03:18.97,Default,,0,0,0,,I've left everything\Nthis world's got to offer {\i1}there!{\i0}
 Dialogue: 0,0:03:19.47,0:03:23.98,Default,,0,0,0,,And so men set sail for the Grand Line\Nin pursuit of their dreams!
 Dialogue: 0,0:03:24.56,0:03:28.44,Default,,0,0,0,,Indeed, the world is in the midst\Nof the Great Pirate Era!
-Dialogue: 0,0:03:33.28,0:03:35.40,Default,,0,0,0,,I can see the Gates of Justice now,
+Dialogue: 0,0:03:33.28,0:03:35.40,Default,,0,0,0,,I can see the Gate of Justice now,
 Dialogue: 0,0:03:35.40,0:03:37.53,Default,,0,0,0,,but is it possible to go there\Non a regular boat?
 Dialogue: 0,0:03:38.20,0:03:41.87,Default,,0,0,0,,I don't have much time anyway.\NI guess I'll try something.
 Dialogue: 0,0:03:42.20,0:03:43.33,Default,,0,0,0,,Here we go!
@@ -173,19 +173,19 @@ Dialogue: 0,0:06:33.37,0:06:42.38,Title Card - Bottom,,0,0,0,,{\blur0.6\fad(1982
 Dialogue: 1,0:06:33.37,0:06:42.38,Title Card - Bottom,,0,0,0,,{\bord0\blur0.6\fad(1982,1982)\4a&HFF&}My Cola Is the Water of Life
 Dialogue: 0,0:06:54.31,0:06:57.98,Default,,0,0,0,,Seriously, there's no way you can cross\Nwater like this on a boat, now is there?
 Dialogue: 0,0:06:57.98,0:06:59.48,Default,,0,0,0,,Are you an idiot?!
-Dialogue: 0,0:07:00.69,0:07:04.32,Default,,0,0,0,,But Robin was taken to those gates!
+Dialogue: 0,0:07:00.69,0:07:04.32,Default,,0,0,0,,But Robin was taken to that gate!
 Dialogue: 0,0:07:04.53,0:07:08.37,Default,,0,0,0,,Unless I hurry up, I won't\Nbe able to bring her back!
 Dialogue: 0,0:07:11.29,0:07:14.58,Default,,0,0,0,,I should be able to reach the\Nbuilding right in front of it, right?
 Dialogue: 0,0:07:14.75,0:07:16.50,Default,,0,0,0,,Hey! What're you doing?!
 Dialogue: 0,0:07:16.50,0:07:17.96,Default,,0,0,0,,Wait, pirate guy!
 Dialogue: 0,0:07:17.96,0:07:19.46,Default,,0,0,0,,Calm down!
 Dialogue: 0,0:07:19.67,0:07:22.05,Default,,0,0,0,,If I can't cross the sea,\Nthen I have no choice but to jump!
-Dialogue: 0,0:07:22.25,0:07:26.84,Default,,0,0,0,,We came to tell you how to\Nget to the Gates of Justice!
+Dialogue: 0,0:07:22.25,0:07:26.84,Default,,0,0,0,,We came to tell you how to\Nget to the Gate of Justice!
 Dialogue: 0,0:07:28.01,0:07:28.89,Default,,0,0,0,,What?
 Dialogue: 0,0:07:46.28,0:07:47.53,Default,,0,0,0,,What's this place?
 Dialogue: 0,0:07:47.53,0:07:48.61,Default,,0,0,0,,A basement?
 Dialogue: 0,0:07:48.61,0:07:50.32,Default,,0,0,0,,It's an undersea passage.
-Dialogue: 0,0:07:50.53,0:07:53.74,Default,,0,0,0,,To get to the\NGates of Justice, you go under the sea.
+Dialogue: 0,0:07:50.53,0:07:53.74,Default,,0,0,0,,To get to the\NGate of Justice, you go under the sea.
 Dialogue: 0,0:07:54.41,0:07:55.71,Default,,0,0,0,,I see.
 Dialogue: 0,0:07:56.29,0:07:57.04,Default,,0,0,0,,Okay, then!
 Dialogue: 0,0:07:57.04,0:07:59.25,Default,,0,0,0,,Hey, wait!\NDo you know how to get there?!
@@ -205,7 +205,7 @@ Dialogue: 0,0:08:58.35,0:09:01.40,Default,,0,0,0,,so I bet you can operate\Nthem
 Dialogue: 0,0:09:02.06,0:09:03.65,Default,,0,0,0,,...though we don't have the key.
 Dialogue: 0,0:09:11.11,0:09:12.74,Default,,0,0,0,,You guys, stay back.
 Dialogue: 0,0:09:13.16,0:09:15.37,Default,,0,0,0,,Huh? What're you gonna do?
-Dialogue: 0,0:09:18.00,0:09:20.58,Default,,0,0,0,,We can go to the Gates of\NJustice through here, right?
+Dialogue: 0,0:09:18.00,0:09:20.58,Default,,0,0,0,,We can go to the Gate of Justice through here, right?
 Dialogue: 0,0:09:20.96,0:09:23.29,Default,,0,0,0,,Er... Yeah...
 Dialogue: 0,0:09:33.80,0:09:35.39,Default,,0,0,0,,Gear 3!
 Dialogue: 0,0:10:14.05,0:10:15.39,Default,,0,0,0,,They opened...
