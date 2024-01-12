@@ -140,7 +140,7 @@ Dialogue: 0,0:05:25.04,0:05:27.68,Default,,0,0,0,,Wasn't he a soldier of the Nep
 Dialogue: 0,0:05:27.68,0:05:31.05,DefaultLow,,0,0,0,,There is something I want to tell all citizens...
 Dialogue: 0,0:05:27.71,0:05:31.72,Sign,,0,0,268,,{\blur0.3\fad(520,520)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(3490,3535,\1a&HFF&)}Sea Forest
 Dialogue: 1,0:05:27.71,0:05:31.72,Sign,,0,0,268,,{\bord0\blur0.3\fad(520,520)\4a&HFF&}Sea Forest
-Dialogue: 0,0:05:31.05,0:05:33.05,DefaultLow,,0,0,0,,...of the Ryugu Kingdom.
+Dialogue: 0,0:05:31.05,0:05:33.05,DefaultLow,,0,0,0,,...of Ryugu Kingdom.
 Dialogue: 0,0:05:33.05,0:05:36.42,Default,,0,0,0,,This country will soon be destroyed.
 Dialogue: 0,0:05:36.42,0:05:40.96,Default,,0,0,0,,And it will be rebuilt under a new king.
 Dialogue: 0,0:05:40.96,0:05:42.16,Default,,0,0,0,,Namely, me!
@@ -198,7 +198,7 @@ Dialogue: 0,0:08:51.42,0:08:56.99,Default,,0,0,0,,...when they executed a human 
 Dialogue: 0,0:08:57.52,0:09:02.29,Default,,0,0,0,,That era saw humans grow to persecute Fishmen.
 Dialogue: 0,0:09:02.29,0:09:09.87,Default,,0,0,0,,So this time, by executing Neptune, I'll start the Great Fishman Era...
 Dialogue: 0,0:09:09.87,0:09:13.04,Default,,0,0,0,,...where Fishmen will dominate humans.
-Dialogue: 0,0:09:13.04,0:09:19.84,Default,,0,0,0,,As you may know by now, I'm at the Ryugu Palace as I speak. And we found something good.
+Dialogue: 0,0:09:13.04,0:09:19.84,Default,,0,0,0,,As you may know by now, I'm at Ryugu Palace as I speak. And we found something good.
 Dialogue: 0,0:09:21.38,0:09:26.88,Default,,0,0,0,,It's the letter from the Celestial Dragons that Queen Otohime got 10 years ago,
 Dialogue: 0,0:09:28.62,0:09:31.39,Default,,0,0,0,,at the risk of her life!
 Dialogue: 0,0:09:33.16,0:09:38.20,Default,,0,0,0,,If I destroy that letter, it's over. You won't get another one.
@@ -328,7 +328,7 @@ Dialogue: 0,0:19:46.20,0:19:49.41,Default,,0,0,0,,Boss Jinbe-sama! But...
 Dialogue: 0,0:19:49.41,0:19:53.61,Default,,0,0,0,,Luffy-kun, Princess-sama, both of you have to wait!
 Dialogue: 0,0:19:54.91,0:19:57.98,Default,,0,0,0,,Princess, I don't think you should go either.
 Dialogue: 0,0:19:58.58,0:20:00.32,Default,,0,0,0,,Hachi-sama...
-Dialogue: 0,0:20:00.32,0:20:04.95,Default,,0,0,0,,What Hody is most afraid of in the Ryugu Kingdom now is...
+Dialogue: 0,0:20:00.32,0:20:04.95,Default,,0,0,0,,What Hody is most afraid of in Ryugu Kingdom now is...
 Dialogue: 0,0:20:05.42,0:20:08.22,Default,,0,0,0,,...Princess Shirahoshi's ability!
 Dialogue: 0,0:20:10.26,0:20:15.36,Default,,0,0,0,,Even if he reshapes Fishman Island exactly the way he wants,
 Dialogue: 0,0:20:15.36,0:20:20.14,Default,,0,0,0,,once she controls the Sea Kings to attack the island, it'll be gone.
@@ -347,7 +347,7 @@ Dialogue: 0,0:21:11.89,0:21:16.99,Default,,0,0,0,,But even so, I'm sure that Hod
 Dialogue: 0,0:21:17.79,0:21:22.57,Default,,0,0,0,,And we shouldn't let Hody know that you can't control the power.
 Dialogue: 0,0:21:22.57,0:21:25.37,Default,,0,0,0,,It's good that he is afraid of it.
 Dialogue: 0,0:21:25.37,0:21:29.57,Default,,0,0,0,,Is that all? Then I'll get going.
-Dialogue: 0,0:21:29.97,0:21:33.14,Default,,0,0,0,,Shark! Take me to the Ryugu Palace!
+Dialogue: 0,0:21:29.97,0:21:33.14,Default,,0,0,0,,Shark! Take me to Ryugu Palace!
 Dialogue: 0,0:21:33.14,0:21:35.81,Default,,0,0,0,,Sanji, take care of Wimpy!
 Dialogue: 0,0:21:35.81,0:21:37.25,Default,,0,0,0,,Yeah! Count on it.
 Dialogue: 0,0:21:37.25,0:21:39.52,Default,,0,0,0,,I said "Wait," Luffy-kun!

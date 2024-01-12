@@ -253,8 +253,8 @@ Dialogue: 0,0:12:01.77,0:12:03.55,Default,,0,0,0,,You idiot! Don't you know who 
 Dialogue: 0,0:12:03.55,0:12:04.91,Default,,0,0,0,,That man is...
 Dialogue: 0,0:12:04.91,0:12:10.65,Default,,0,0,0,,the king of Fishman Island, or rather, Ryugu Kingdom...
 Dialogue: 0,0:12:10.65,0:12:12.85,Default,,0,0,0,,Neptune-sama!
-Dialogue: 0,0:12:13.08,0:12:17.59,Sign,,0,0,365,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}King of the Ryugu Kingdom\NNeptune, God of the Sea
-Dialogue: 1,0:12:13.08,0:12:17.59,Sign,,0,0,365,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}King of the Ryugu Kingdom\NNeptune, God of the Sea
+Dialogue: 0,0:12:13.08,0:12:17.59,Sign,,0,0,365,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}King of Ryugu Kingdom\NNeptune, God of the Sea
+Dialogue: 1,0:12:13.08,0:12:17.59,Sign,,0,0,365,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}King of Ryugu Kingdom\NNeptune, God of the Sea
 Dialogue: 0,0:12:14.72,0:12:17.59,DefaultLow,,0,0,0,,Neptune!
 Dialogue: 0,0:12:17.59,0:12:20.62,DefaultLow,,0,0,0,,Whale!
 Dialogue: 0,0:12:17.69,0:12:20.62,Sign,,0,0,365,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Hoe (Pet Whale)
@@ -350,7 +350,7 @@ Dialogue: 0,0:16:22.67,0:16:27.84,Default,,0,0,0,,A heavenly realm ordinary peop
 Dialogue: 0,0:16:29.17,0:16:31.57,Default,,0,0,0,,Ryugu Palace is...
 Dialogue: 0,0:16:31.57,0:16:36.08,Default,,0,0,0,,the place where King Neptune, the three Neptune Brothers,
 Dialogue: 0,0:16:36.08,0:16:39.65,Default,,0,0,0,,and the Mermaid Princess live—
-Dialogue: 0,0:16:40.92,0:16:43.99,Default,,0,0,0,,It's the royal palace of the Ryugu Kingdom!
+Dialogue: 0,0:16:40.92,0:16:43.99,Default,,0,0,0,,It's the royal palace of Ryugu Kingdom!
 Dialogue: 0,0:16:43.99,0:16:45.46,Default,,0,0,0,,Oh...
 Dialogue: 0,0:16:43.99,0:16:45.46,Alt,,0,0,0,,Oh...
 Dialogue: 0,0:16:46.16,0:16:48.02,Default,,0,0,0,,Camie, you did it again!

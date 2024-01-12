@@ -24,9 +24,9 @@ Video File: [Panda-Raws] One Piece - 0547 (WEB 1080p AMZN JP 29.970fps EAC3) [D8
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.312500
-Scroll Position: 60
-Active Line: 70
-Video Position: 6165
+Scroll Position: 135
+Active Line: 164
+Video Position: 20507
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -203,7 +203,7 @@ Dialogue: 0,0:11:14.12,0:11:17.96,Default,,0,0,0,,These letters keep flying in w
 Dialogue: 0,0:11:17.96,0:11:21.13,Default,,0,0,0,,There are already 5 of them, Father-sama!
 Dialogue: 0,0:11:21.13,0:11:22.67,Default,,0,0,0,,It's...
 Dialogue: 0,0:11:22.67,0:11:27.24,Default,,0,0,0,,...a love letter! But Shirahoshi is only 6 years old.
-Dialogue: 0,0:11:22.67,0:11:30.01,"Sign",,0,0,0,,"I'm in luv with you. I suspect. Marry me.\NVander Decken"
+Dialogue: 0,0:11:22.67,0:11:30.01,"Sign",,0,0,0,,"I'm in luv with you, I suspect. Marry me.\NVander Decken"
 Dialogue: 0,0:11:27.24,0:11:30.01,Default,,0,0,0,,Who is Vander Decken?
 Dialogue: 0,0:11:30.01,0:11:33.04,Default,,0,0,0,,That is the name of a pirate family.
 Dialogue: 0,0:11:35.48,0:11:37.98,Default,,0,0,0,,My children won't attend the funeral!
@@ -304,7 +304,7 @@ Dialogue: 0,0:20:04.55,0:20:11.63,Default,,0,0,0,,It feels like I have known you
 Dialogue: 0,0:20:11.63,0:20:13.00,Default,,0,0,0,,I feel comfortable with you.
 Dialogue: 0,0:20:13.70,0:20:17.97,Default,,0,0,0,,Yeah? Maybe that's because we've been through similar things.
 Dialogue: 0,0:20:23.21,0:20:24.54,Default,,0,0,0,,Now, excuse me.
-Dialogue: 0,0:20:25.58,0:20:30.75,Default,,0,0,0,,I took too much time. I need to know who is still at the Ryugu Palace now.
+Dialogue: 0,0:20:25.58,0:20:30.75,Default,,0,0,0,,I took too much time. I need to know who is still at Ryugu Palace now.
 Dialogue: 0,0:20:31.21,0:20:36.82,Default,,0,0,0,,Hody and his crew invaded the palace and captured the King and his soldiers.
 Dialogue: 0,0:20:37.39,0:20:41.66,Default,,0,0,0,,And you don't know what happened to four of your crew.
 Dialogue: 0,0:20:41.66,0:20:44.59,Default,,0,0,0,,That's all the information we have so far.
@@ -345,7 +345,7 @@ Dialogue: 0,0:23:03.60,0:23:05.57,Default,,0,0,0,,Can you hear me?
 Dialogue: 0,0:23:06.40,0:23:12.21,Default,,0,0,0,,I'm the captain of the New Fishman Pirates from the Fishman District,
 Dialogue: 0,0:23:12.81,0:23:15.54,Default,,0,0,0,,Hody Jones!
 Dialogue: 0,0:23:19.05,0:23:22.35,Default,,0,0,0,,Hody broadcasts his ambition across all of Fishman Island.
-Dialogue: 0,0:23:22.35,0:23:25.82,Default,,0,0,0,,His shocking intention is to destroy the Ryugu Kingdom
+Dialogue: 0,0:23:22.35,0:23:25.82,Default,,0,0,0,,His shocking intention is to destroy Ryugu Kingdom
 Dialogue: 0,0:23:25.82,0:23:29.83,Default,,0,0,0,,and establish himself as the new king.
 Dialogue: 0,0:23:29.83,0:23:33.30,Default,,0,0,0,,The citizens of Fishman Island had been deeply unsettled already,
 Dialogue: 0,0:23:33.30,0:23:38.17,Default,,0,0,0,,but Hody's announcement has further filled them with dread!

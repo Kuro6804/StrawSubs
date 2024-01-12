@@ -24,9 +24,9 @@ Video File: [Panda-Raws] One Piece - 0538 (WEB 1080p AMZN JP 29.970fps EAC3) [C3
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.437500
-Scroll Position: 59
-Active Line: 74
-Video Position: 6834
+Scroll Position: 74
+Active Line: 89
+Video Position: 8986
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -117,16 +117,16 @@ Dialogue: 0,0:03:42.77,0:03:48.01,Default,,0,0,0,,However, there they find the N
 Dialogue: 0,0:03:48.01,0:03:52.02,Default,,0,0,0,,arm in arm with Vander Decken, who has been\Nstalking the Mermaid Princess Shirahoshi.
 Dialogue: 0,0:03:52.02,0:03:56.39,Default,,0,0,0,,The Straw Hats find themselves caught up in the turmoil little by little.
 Dialogue: 0,0:03:57.29,0:04:02.43,Default,,0,0,0,,Vander Decken blocks Luffy and Shirahoshi's way to the Sea Forest.
-Dialogue: 0,0:04:02.43,0:04:07.10,Default,,0,0,0,,I found you! I suspect!
+Dialogue: 0,0:04:02.43,0:04:07.10,Default,,0,0,0,,I found you, I suspect!
 Dialogue: 0,0:04:08.63,0:04:10.57,Default,,0,0,0,,Shirahoshi!
 Dialogue: 0,0:04:12.40,0:04:14.37,Default,,0,0,0,,Vander Decken-sama!
-Dialogue: 0,0:04:15.04,0:04:19.18,Default,,0,0,0,,Why do you wanna interfere with my business with Shirahoshi?!
+Dialogue: 0,0:04:15.04,0:04:19.18,Default,,0,0,0,,This is between Shirahoshi and me!\NWhy are you butting in?!
 Dialogue: 0,0:04:23.18,0:04:25.22,Default,,0,0,0,,Gum-Gum...
-Dialogue: 0,0:04:25.22,0:04:27.05,Default,,0,0,0,,...Jet...
-Dialogue: 0,0:04:27.05,0:04:29.59,Default,,0,0,0,,...Hammer!
+Dialogue: 0,0:04:25.22,0:04:27.05,Default,,0,0,0,,Jet...
+Dialogue: 0,0:04:27.05,0:04:29.59,Default,,0,0,0,,Hammer!
 Dialogue: 0,0:04:30.45,0:04:33.52,Default,,0,0,0,,Go Shark!
-Dialogue: 0,0:04:34.86,0:04:38.13,Default,,0,0,0,,Meanwhile, at the Ryugu Palace, Zoro and the others...
-Dialogue: 0,0:04:38.13,0:04:43.10,Default,,0,0,0,,...are fighting an intense battle with the New Fishman Pirates led by Hody!
+Dialogue: 0,0:04:34.86,0:04:38.13,Default,,0,0,0,,Meanwhile, at Ryugu Palace,\NZoro and the others...
+Dialogue: 0,0:04:38.13,0:04:43.10,Default,,0,0,0,,are fighting an intense battle with the New Fishman Pirates led by Hody!
 Dialogue: 0,0:04:44.27,0:04:48.84,Default,,0,0,0,,Drop dead, you lowly creature!
 Dialogue: 0,0:04:57.35,0:04:59.25,Default,,0,0,0,,One-Sword Style, Draw...
 Dialogue: 0,0:04:59.82,0:05:02.02,Default,,0,0,0,,...Lion Song!
@@ -352,7 +352,7 @@ Dialogue: 0,0:21:02.65,0:21:05.01,Default,,0,0,0,,Hatchin! What happened to you?
 Dialogue: 0,0:21:05.88,0:21:07.22,Default,,0,0,0,,Camie...
 Dialogue: 0,0:21:07.22,0:21:11.02,Default,,0,0,0,,Is that true?! Hody did it?!
 Dialogue: 0,0:21:11.02,0:21:11.92,Default,,0,0,0,,Uh-huh.
-Dialogue: 0,0:21:11.92,0:21:17.16,Default,,0,0,0,,I never thought that such things could happen at the Ryugu Palace!
+Dialogue: 0,0:21:11.92,0:21:17.16,Default,,0,0,0,,I never thought that such things could happen at Ryugu Palace!
 Dialogue: 0,0:21:17.16,0:21:19.33,Default,,0,0,0,,What happened to Zoro and the others?!
 Dialogue: 0,0:21:19.33,0:21:23.27,Default,,0,0,0,,I don't know. I was gonna go back as soon as I met you.
 Dialogue: 0,0:21:23.27,0:21:25.07,Default,,0,0,0,,N-No!
