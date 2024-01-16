@@ -23,9 +23,9 @@ Video File: [Kuro] One Piece 3D2Y (WEB 1080p 29.970fps AAC) [AADE996C].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 222
-Active Line: 247
-Video Position: 31083
+Scroll Position: 207
+Active Line: 229
+Video Position: 27795
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -162,14 +162,14 @@ Dialogue: 0,0:08:03.07,0:08:07.47,Sign,,0,0,350,,{\fad(440,0)\blur0.6\c&H000000&
 Dialogue: 1,0:08:03.07,0:08:07.47,Sign,,0,0,350,,{\fad(440,0)\bord0\blur0.6\4a&HFF&\fs95}{\fnFOT-Greco Std B}「{\fn}Luscaina{\fnFOT-Greco Std B}」{\fn}\NA deserted island northwest of Maiden Island
 Dialogue: 0,0:08:03.10,0:08:07.47,DefaultLow,,0,0,0,,Accepting Rayleigh's suggestion, he came to Luscaina.
 Dialogue: 0,0:08:10.61,0:08:13.91,Default,,0,0,0,,It's the power to feel\Nother's presence more strongly. {"Flashback"/Reanimated} {516}
-Dialogue: 0,0:08:17.15,0:08:19.65,Default,,0,0,0,,It's called "Perception Haki"! {516}
-Dialogue: 0,0:08:21.85,0:08:24.09,Default,,0,0,0,,Next, "Armament Haki." {516}
-Dialogue: 0,0:08:24.76,0:08:28.63,Default,,0,0,0,,This power is like\Nwearing invisible armor. {516}
+Dialogue: 0,0:08:17.15,0:08:19.65,Default,,0,0,0,,It's called "Color of Perception"! {Perception Haki} {516}
+Dialogue: 0,0:08:21.85,0:08:24.09,Default,,0,0,0,,Next, "Color of Armaments." {Armament Haki} {516}
+Dialogue: 0,0:08:24.76,0:08:28.63,Default,,0,0,0,,This power is like wearing invisible armor. {516}
 Dialogue: 0,0:08:34.40,0:08:35.87,Default,,0,0,0,,And watch this. {516 no direct equivalent}
 Dialogue: 0,0:08:44.61,0:08:46.74,Default,,0,0,0,,That was the power to intimidate your enemy! {516}
-Dialogue: 0,0:08:47.44,0:08:49.65,Default,,0,0,0,,"Conqueror's Haki"! {516}
+Dialogue: 0,0:08:47.44,0:08:49.65,Default,,0,0,0,,The "Color of the Conqueror"! {Conqueror's Haki} {516}
 Dialogue: 0,0:08:52.76,0:08:58.50,Default,,0,0,0,,To obtain the power called Haki, the only effective\Ncountermove against Devil Fruit users,
-Dialogue: 0,0:08:58.50,0:09:01.87,Default,,0,0,0,,Luffy is now undertaking a two-year training course.
+Dialogue: 0,0:08:58.50,0:09:01.87,Default,,0,0,0,,Luffy is now undertaking\Na two-year training course.
 Dialogue: 0,0:09:03.63,0:09:06.13,Default,,0,0,0,,The pirate—Straw Hat Luffy will be... {516}
 Dialogue: 0,0:09:06.83,0:09:08.53,Default,,0,0,0,,on hiatus for a while. {"Flashback" END} {516}
 Dialogue: 0,0:09:14.71,0:09:15.84,Default,,0,0,0,,Are you okay now?
@@ -274,7 +274,7 @@ Dialogue: 0,0:15:14.83,0:15:16.00,Default,,0,0,0,,It got you!
 Dialogue: 0,0:15:16.30,0:15:20.00,Default,,0,0,0,,That was a Toughness Rabbit.\NThey can withstand blows.
 Dialogue: 0,0:15:20.00,0:15:22.07,Default,,0,0,0,,Dammit! That jerk!
 Dialogue: 0,0:15:22.07,0:15:27.41,Default,,0,0,0,,I see you can use Armament Haki\Nabout 50% of the time now.
-Dialogue: 0,0:15:27.41,0:15:30.68,Default,,0,0,0,,But your Perception Haki should sense\Nnot just your enemy's presence,
+Dialogue: 0,0:15:27.41,0:15:30.68,Default,,0,0,0,,But your Perception Haki should sense\Nnot just your enemy's presence, {Color of Perception}
 Dialogue: 0,0:15:30.68,0:15:34.08,Default,,0,0,0,,but also how strong they are.
 Dialogue: 0,0:15:34.08,0:15:38.96,Default,,0,0,0,,You have good eyes,\Nso you can't help relying on them.
 Dialogue: 0,0:15:38.96,0:15:39.79,Default,,0,0,0,,What?

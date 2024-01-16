@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 585 (BD 1920x1080 x264 29.970fps FLAC) [D49
 Video File: [SOFCJ-Raws] One Piece - 585 (BD 1920x1080 x264 29.970fps FLAC) [D497B9CE].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.312500
-Scroll Position: 89
-Active Line: 114
-Video Position: 11456
+Video Zoom Percent: 0.562500
+Scroll Position: 379
+Active Line: 387
+Video Position: 42036
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,7 +114,7 @@ Dialogue: 0,0:03:18.01,0:03:20.98,Default,,0,0,0,,the Straw Hats reach the New W
 Dialogue: 0,0:03:20.98,0:03:23.25,Default,,0,0,0,,the harshest sea, ruled by the Four Emperors.
 Dialogue: 0,0:03:23.98,0:03:27.88,Default,,0,0,0,,After receiving an emergency signal,\Nthey landed on Punk Hazard,
 Dialogue: 0,0:03:28.23,0:03:33.03,Default,,0,0,0,,a strange island divided into two parts—\Nthe Burning Lands and the Frozen Lands.
-Dialogue: 0,0:03:34.04,0:03:39.57,Default,,0,0,0,,Team Luffy is headed for the Frozen Lands\Nto rescue the captured Team Nami.
+Dialogue: 0,0:03:34.04,0:03:39.57,Default,,0,0,0,,Luffy and friends are headed for\Nthe Frozen Lands to rescue Nami's group.
 Dialogue: 0,0:03:40.12,0:03:47.27,Default,,0,0,0,,But they're unaware that some\Nformer acquaintances are also on the island.
 Dialogue: 0,0:03:48.31,0:03:51.65,Default,,0,0,0,,What brought you here—to my vacation home?
 Dialogue: 0,0:03:52.50,0:03:54.03,Default,,0,0,0,,Asher! {Ashen Hunter-ya}
@@ -125,8 +125,8 @@ Dialogue: 1,0:03:54.35,0:04:03.33,Title Card - Bottom,,0,0,236,,{\bord0\blur0.3\
 Dialogue: 0,0:04:39.03,0:04:43.65,Default,,0,0,0,,Trafalgar! I know you're a Warlord but we need you to ask you to step aside.
 Dialogue: 0,0:04:43.65,0:04:44.97,Default,,0,0,0,,Move out of the way!
 Dialogue: 0,0:04:47.21,0:04:51.07,Default,,0,0,0,,We know somebody else is here on the island!
-Dialogue: 0,0:04:54.11,0:04:58.75,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Nami\N{Inside of }Dr. Vegapunk's Former Research Institute
-Dialogue: 1,0:04:54.11,0:04:58.75,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Nami\N{Inside of }Dr. Vegapunk's Former Research Institute
+Dialogue: 0,0:04:54.11,0:04:58.75,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}{Inside of }Dr. Vegapunk's Former Research Institute\NNami's Location
+Dialogue: 1,0:04:54.11,0:04:58.75,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}{Inside of }Dr. Vegapunk's Former Research Institute\NNami's Location
 Dialogue: 0,0:04:54.52,0:04:58.15,DefaultLow2,,0,0,0,,Dad! Mom!
 Dialogue: 0,0:05:03.91,0:05:08.16,Default,,0,0,0,,Hey, you said "We are not sick anymore" earlier, didn't you?
 Dialogue: 0,0:05:08.83,0:05:09.29,Default,,0,0,0,,Uh-huh.
@@ -209,8 +209,8 @@ Dialogue: 0,0:09:21.59,0:09:23.48,Default,,0,0,0,,N-N...
 Dialogue: 0,0:09:24.31,0:09:25.82,Default,,0,0,0,,No!!
 Dialogue: 0,0:09:25.82,0:09:29.45,Default,,0,0,0,,No, Sis, wait! Don't leave us!
 Dialogue: 0,0:09:30.23,0:09:32.27,DefaultLow,,0,0,0,,Okay, I think I'm done.
-Dialogue: 0,0:09:31.59,0:09:35.53,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Sanji\N{Inside the }Research Institute, Biscuits Room
-Dialogue: 1,0:09:31.59,0:09:35.53,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Sanji\N{Inside the }Research Institute, Biscuits Room
+Dialogue: 0,0:09:31.59,0:09:35.53,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}{Inside the }Research Institute, Biscuits Room\NSanji's Location
+Dialogue: 1,0:09:31.59,0:09:35.53,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}{Inside the }Research Institute, Biscuits Room\NSanji's Location
 Dialogue: 0,0:09:32.95,0:09:33.76,DefaultLow,,0,0,0,,Hey!
 Dialogue: 0,0:09:33.76,0:09:35.53,DefaultLow,,0,0,0,,You've blocked their way. That's more than enough.
 Dialogue: 0,0:09:36.45,0:09:40.12,Default,,0,0,0,,Let's go! I just felt Nami-san's inner scream!
@@ -254,8 +254,8 @@ Dialogue: 0,0:11:40.45,0:11:42.68,Default,,0,0,0,,I better watch my mouth.
 Dialogue: 0,0:11:43.06,0:11:44.93,Default,,0,0,0,,I wonder if Nami found the way out!
 Dialogue: 0,0:11:44.93,0:11:45.93,Default,,0,0,0,,Let's find them!
 Dialogue: 0,0:11:45.93,0:11:47.85,Default,,0,0,0,,I'm really... itchy!
-Dialogue: 0,0:11:52.16,0:11:56.37,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Luffy\NPunk Hazard, Center Lake
-Dialogue: 1,0:11:52.16,0:11:56.37,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Luffy\NPunk Hazard, Center Lake
+Dialogue: 0,0:11:52.16,0:11:56.37,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Punk Hazard, Center Lake\NLuffy's Location
+Dialogue: 1,0:11:52.16,0:11:56.37,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Punk Hazard, Center Lake\NLuffy's Location
 Dialogue: 0,0:12:00.43,0:12:02.94,Default,,0,0,0,,I got you, intruders!
 Dialogue: 0,0:12:02.94,0:12:04.86,Default,,0,0,0,,No, he sliced it.
 Dialogue: 0,0:12:06.23,0:12:07.73,Default,,0,0,0,,Take a good look.
@@ -293,8 +293,8 @@ Dialogue: 0,0:14:17.23,0:14:19.09,Default,,0,0,0,,That was close.
 Dialogue: 0,0:14:19.09,0:14:21.11,Default,,0,0,0,,Why aren't you rowing?
 Dialogue: 0,0:14:32.56,0:14:36.13,Default,,0,0,0,,Devil Fruit users can't fight in the water!
 Dialogue: 0,0:14:36.13,0:14:38.89,Default,,0,0,0,,Sink to your death, Devil Fruit users!
-Dialogue: 0,0:14:39.40,0:14:44.10,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Brook\NA snowy mountain near the {research }institute
-Dialogue: 1,0:14:39.40,0:14:44.10,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Brook\NA snowy mountain near the {research }institute
+Dialogue: 0,0:14:39.40,0:14:44.10,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}A snowy mountain near the {research }institute\NBrook's Location
+Dialogue: 1,0:14:39.40,0:14:44.10,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}A snowy mountain near the {research }institute\NBrook's Location
 Dialogue: 0,0:14:45.90,0:14:48.80,Default,,0,0,0,,Gross! So gross!
 Dialogue: 0,0:14:50.00,0:14:52.33,Default,,0,0,0,,What's wrong with that ghost?!
 Dialogue: 0,0:14:52.33,0:14:53.81,Default,,0,0,0,,Suddenly attacking me!
@@ -425,10 +425,9 @@ Dialogue: 0,0:22:48.33,0:22:49.98,Default,,0,0,0,,Go, Smo-yan!
 Dialogue: 0,0:22:53.85,0:22:58.60,Default,,0,0,0,,--Kick his ass! --Show him the true power of G-5!
 Dialogue: 0,0:23:08.48,0:23:11.07,Default,,0,0,0,,Law's power, capable of lifting even warships...
 Dialogue: 0,0:23:11.07,0:23:13.23,Default,,0,0,0,,...overwhelms the Navy's G-5.
-Dialogue: 0,0:23:13.23,0:23:16.31,Default,,0,0,0,,Team Sanji/Nami also ends up...
-Dialogue: 0,0:23:16.31,0:23:19.37,Default,,0,0,0,,...in an unprecedented situation because of Law.
-Dialogue: 0,0:23:19.37,0:23:22.57,Default,,0,0,0,,Meanwhile, Team Luffy comes upon a lake in the Frozen Lands...
-Dialogue: 0,0:23:22.57,0:23:25.11,Default,,0,0,0,,...and encounters a crisis of its own!
+Dialogue: 0,0:23:13.23,0:23:19.37,Default,,0,0,0,,Sanji, Nami, and the others find themselves\Nin an unprecedented situation, thanks to Law.
+Dialogue: 0,0:23:19.37,0:23:22.57,Default,,0,0,0,,Meanwhile, Luffy's group comes upon\Na lake in the Frozen Lands...
+Dialogue: 0,0:23:22.57,0:23:25.11,Default,,0,0,0,,...and encounters a crisis of their own!
 Dialogue: 0,0:23:25.11,0:23:26.48,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:26.48,0:23:29.69,Default,,0,0,0,,"In a Real Pinch\NLuffy Sinks into the Icy Lake"
 Dialogue: 0,0:23:29.69,0:23:31.61,Default,,0,0,0,,I'm gonna be the Pirate King!!

@@ -25,8 +25,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
 Scroll Position: 81
-Active Line: 83
-Video Position: 6438
+Active Line: 85
+Video Position: 6764
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -125,7 +125,7 @@ Dialogue: 0,0:03:27.35,0:03:31.41,Default,,0,0,0,,There they were captured\Nby C
 Dialogue: 0,0:03:31.41,0:03:34.63,Default,,0,0,0,,and forced to face\Nhis weapon of mass destruction, Netherworld.
 Dialogue: 0,0:03:34.79,0:03:40.54,Default,,0,0,0,,{\q2}But thanks to a clever ploy of their newfound ally,\Nthe Warlord Trafalgar Law, they managed to reunite.
 Dialogue: 0,0:03:40.54,0:03:45.14,Default,,0,0,0,,Now they are headed for their only escape route: Building R, Gate 66.
-Dialogue: 0,0:03:45.66,0:03:51.08,Default,,0,0,0,,{\q2}Meanwhile, Vice Admiral Vergo, the base commander\Nof G-5, appeared in front of Team Tashigi, and...
+Dialogue: 0,0:03:45.66,0:03:51.08,Default,,0,0,0,,{\q2}Meanwhile, Vice Admiral Vergo, the base commander\Nof G-5, appeared in front of Tashigi's group, and...
 Dialogue: 0,0:03:51.08,0:03:53.76,Default,,0,0,0,,Captain Tashigi, you're gonna love this!
 Dialogue: 0,0:03:53.76,0:03:56.52,Default,,0,0,0,,Reinforcements have arrived!
 Dialogue: 0,0:03:56.72,0:03:59.06,Default,,0,0,0,,The Vice Admiral came to help!

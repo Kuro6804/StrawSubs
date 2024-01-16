@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 617 (BD 1920x1080 x264 29.970fps FLAC) [2A2
 Video File: [SOFCJ-Raws] One Piece - 617 (BD 1920x1080 x264 29.970fps FLAC) [2A2BD7DC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
+Video Zoom Percent: 0.500000
 Scroll Position: 74
-Active Line: 94
-Video Position: 8426
+Active Line: 95
+Video Position: 8640
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -135,8 +135,8 @@ Dialogue: 0,0:04:19.11,0:04:28.02,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1960
 Dialogue: 1,0:04:19.11,0:04:28.02,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1960,1960)\4a&HFF&}The Ultimate Grizzly Magnum
 Dialogue: 0,0:04:28.58,0:04:32.31,Default,,0,0,0,,The deadly gas, Netherworld,\Nwill fill up the building in five minutes.
 Dialogue: 0,0:04:33.13,0:04:40.13,Default,,0,0,0,,The survivors are all heading toward Gate 66\Nof Building R, their only escape route, however...
-Dialogue: 0,0:04:47.10,0:04:50.57,Sign3,,0,0,333,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Sanji, Building B
-Dialogue: 1,0:04:47.10,0:04:50.57,Sign3,,0,0,333,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Team Sanji, Building B
+Dialogue: 0,0:04:47.10,0:04:50.57,Sign3,,0,0,333,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Building B, Sanji's Location
+Dialogue: 1,0:04:47.10,0:04:50.57,Sign3,,0,0,333,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Building B, Sanji's Location
 Dialogue: 0,0:04:59.33,0:05:00.94,Default,,0,0,0,,The ceiling lifted up just now!
 Dialogue: 0,0:05:02.00,0:05:03.58,Default,,0,0,0,,What just happened?!
 Dialogue: 0,0:05:06.71,0:05:09.46,Default,,0,0,0,,The gas has started flowing in from the cracks!

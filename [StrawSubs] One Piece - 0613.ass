@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 613 (BD 1920x1080 x264 29.970fps FLAC) [504
 Video File: [SOFCJ-Raws] One Piece - 613 (BD 1920x1080 x264 29.970fps FLAC) [504CAA77].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 68
-Active Line: 84
-Video Position: 6614
+Video Zoom Percent: 0.500000
+Scroll Position: 280
+Active Line: 297
+Video Position: 36808
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -152,7 +152,7 @@ Dialogue: 1,0:05:06.02,0:05:15.00,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fa
 Dialogue: 0,0:05:15.30,0:05:17.52,Default,,0,0,0,,Alright! Let's go, G-5!
 Dialogue: 0,0:05:17.52,0:05:20.77,Default,,0,0,0,,Let's go save the children like Captain-chan said!
 Dialogue: 0,0:05:20.77,0:05:23.14,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:05:23.14,0:05:26.19,Default,,0,0,0,,I can't believe there is another Logia eater besides Caesar!
+Dialogue: 0,0:05:23.14,0:05:26.19,Default,,0,0,0,,I can't believe there is another Logia user besides Caesar!
 Dialogue: 0,0:05:26.19,0:05:30.34,Default,,0,0,0,,That cute harpy-chan was a Devil Fruit user?!
 Dialogue: 0,0:05:30.34,0:05:31.83,Default,,0,0,0,,How awful!
 Dialogue: 0,0:05:31.83,0:05:34.07,Default,,0,0,0,,We can't handle her!
@@ -208,7 +208,7 @@ Dialogue: 0,0:08:26.99,0:08:28.67,Default,,0,0,0,,You don't really try to fight 
 Dialogue: 0,0:08:28.67,0:08:30.37,Default,,0,0,0,,You won't kill us!
 Dialogue: 0,0:08:30.37,0:08:32.40,Default,,0,0,0,,Maybe you're not gonna lose but you're not gonna win either!
 Dialogue: 0,0:08:32.68,0:08:35.50,Default,,0,0,0,,That's why I had to stay here!
-Dialogue: 0,0:08:36.54,0:08:41.80,Default,,0,0,0,,If I let this Logia eater go after my people, there will be carnage!
+Dialogue: 0,0:08:36.54,0:08:41.80,Default,,0,0,0,,If I let this Logia user go after my people, there will be carnage!
 Dialogue: 0,0:08:43.79,0:08:45.99,Default,,0,0,0,,Are you looking down on me?!
 Dialogue: 0,0:08:45.99,0:08:46.70,Default,,0,0,0,,Yes, I am.
 Dialogue: 0,0:08:48.25,0:08:49.00,Default,,0,0,0,,Oh!
@@ -244,8 +244,8 @@ Dialogue: 0,0:10:53.79,0:10:55.80,Default,,0,0,0,,How scary.
 Dialogue: 0,0:10:55.80,0:10:56.85,Default,,0,0,0,,Snowstorm.
 Dialogue: 0,0:11:05.69,0:11:06.81,Default,,0,0,0,,Whoa-whoa!
 Dialogue: 0,0:11:15.75,0:11:18.56,DefaultLow,,0,0,0,,Why is it chasing me?!
-Dialogue: 0,0:11:15.89,0:11:18.56,Sign3,,0,0,363,,{\blur0.3\fad(180,0)\c&H000000&\1a&HFF&\t(135,180,\1a&H00&)}Team Usopp, Building B
-Dialogue: 1,0:11:15.89,0:11:18.56,Sign3,,0,0,363,,{\bord0\blur0.3\fad(180,0)\4a&HFF&}Team Usopp, Building B
+Dialogue: 0,0:11:15.89,0:11:18.56,Sign3,,0,0,363,,{\blur0.3\fad(180,0)\c&H000000&\1a&HFF&\t(135,180,\1a&H00&)}Building B, Usopp's Location
+Dialogue: 1,0:11:15.89,0:11:18.56,Sign3,,0,0,363,,{\bord0\blur0.3\fad(180,0)\4a&HFF&}Building B, Usopp's Location
 Dialogue: 0,0:11:19.94,0:11:21.00,Default,,0,0,0,,Don't follow me!
 Dialogue: 0,0:11:23.53,0:11:26.33,Default,,0,0,0,,Alright. It's not gonna be safe here
 Dialogue: 0,0:11:26.33,0:11:28.87,Default,,0,0,0,,and I gotta find the Sea Prism Stone handcuffs already!
@@ -299,8 +299,8 @@ Dialogue: 0,0:14:16.47,0:14:17.36,Default,,0,0,0,,Uh-huh!
 Dialogue: 0,0:14:18.13,0:14:20.99,Default,,0,0,0,,Chopper-chan, I'm not gonna give up!
 Dialogue: 0,0:14:20.99,0:14:22.64,Default,,0,0,0,,I won't give up - for everyone's sake!
 Dialogue: 0,0:14:23.38,0:14:25.12,Default,,0,0,0,,I'm not gonna let anybody have it!
-Dialogue: 0,0:14:41.53,0:14:45.70,Sign4,,0,0,264,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Building C Basement, Garbage Dump
-Dialogue: 1,0:14:41.53,0:14:45.70,Sign4,,0,0,264,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Building C Basement, Garbage Dump
+Dialogue: 0,0:14:41.53,0:14:45.70,Sign4,,0,0,264,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Building C's Basement, Garbage Dump
+Dialogue: 1,0:14:41.53,0:14:45.70,Sign4,,0,0,264,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Building C's Basement, Garbage Dump
 Dialogue: 0,0:14:59.63,0:15:01.26,Default,,0,0,0,,Hey, are you alright?!
 Dialogue: 0,0:15:07.89,0:15:10.70,Default,,0,0,0,,I'll take it from here, Momo!
 Dialogue: 0,0:15:13.77,0:15:16.56,Default,,0,0,0,,Wait for me, Caesar!
@@ -337,11 +337,10 @@ Dialogue: 0,0:19:47.83,0:19:49.21,Default,,0,0,0,,Is she still alive?!
 Dialogue: 0,0:19:54.59,0:19:57.61,Default,,0,0,0,,He didn't use Haki?
 Dialogue: 0,0:19:59.37,0:20:03.85,Default,,0,0,0,,Is this how he shows his mercy?
 Dialogue: 0,0:20:21.96,0:20:24.31,Default,,0,0,0,,I guess she can't control her body.
-Dialogue: 0,0:20:25.29,0:20:28.13,Default,,0,0,0,,Because she's frightened by his overwhelming strength
-Dialogue: 0,0:20:28.13,0:20:30.22,Default,,0,0,0,,and the fact she could have died if he had used Haki!
-Dialogue: 0,0:20:31.91,0:20:33.66,Default,,0,0,0,,I've never seen anyone beat somebody like this!
-Dialogue: 0,0:20:35.00,0:20:36.35,Default,,0,0,0,,When the Straw Hats disappeared for two years,--
-Dialogue: 0,0:20:36.35,0:20:39.96,Default,,0,0,0,,I wonder where they were and what they were doing.
+Dialogue: 0,0:20:25.29,0:20:28.13,Default,,0,0,0,,Because she's frightened\Nby his overwhelming strength
+Dialogue: 0,0:20:28.13,0:20:30.22,Default,,0,0,0,,and the fact she could\Nhave died if he had used Haki!
+Dialogue: 0,0:20:31.91,0:20:33.66,Default,,0,0,0,,I've never seen anyone\Nbeat somebody like this!
+Dialogue: 0,0:20:35.00,0:20:39.96,Default,,0,0,0,,{\q2}When the Straw Hats disappeared for two years,\NI wonder where they were and what they were doing.
 Dialogue: 0,0:20:41.07,0:20:45.03,Default,,0,0,0,,Just how strong have they become?!
 Dialogue: 0,0:20:45.75,0:20:50.07,Default,,0,0,0,,Ro... ro... noa... Zoro!
 Dialogue: 0,0:20:56.04,0:20:58.11,Default,,0,0,0,,I won't let you get away!

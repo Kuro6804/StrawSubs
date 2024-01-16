@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 600 (BD 1920x1080 x264 29.970fps FLAC) [E83
 Video File: [SOFCJ-Raws] One Piece - 600 (BD 1920x1080 x264 29.970fps FLAC) [E83E174D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 68
-Active Line: 81
-Video Position: 6194
+Video Zoom Percent: 0.500000
+Scroll Position: 102
+Active Line: 110
+Video Position: 10231
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -151,8 +151,8 @@ Dialogue: 0,0:05:25.95,0:05:27.15,Default,,0,0,0,,He's right.
 Dialogue: 0,0:05:27.15,0:05:30.49,Default,,0,0,0,,And they say that Doflamingo
 Dialogue: 0,0:05:30.96,0:05:34.45,Default,,0,0,0,,attacked Moria after the Paramount War!
 Dialogue: 0,0:05:35.08,0:05:36.49,Default,,0,0,0,,He attacked Moria?
-Dialogue: 0,0:05:40.19,0:05:43.69,Sign4,,0,0,362,,{\blur0.3\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Team Nami/Usopp\NRuins of the First and Second Research Institutes
-Dialogue: 1,0:05:40.19,0:05:43.69,Sign4,,0,0,362,,{\bord0\blur0.3\fad(500,0)\4a&HFF&}Team Nami/Usopp\NRuins of the First and Second Research Institutes
+Dialogue: 0,0:05:40.19,0:05:43.69,Sign4,,0,0,363,,{\blur0.3\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Ruins of the First and Second Research Institutes\NNami & Usopp's Location
+Dialogue: 1,0:05:40.19,0:05:43.69,Sign4,,0,0,363,,{\bord0\blur0.3\fad(500,0)\4a&HFF&}Ruins of the First and Second Research Institutes\NNami & Usopp's Location
 Dialogue: 0,0:05:55.39,0:05:56.83,Default,,0,0,0,,Master!
 Dialogue: 0,0:05:56.83,0:05:58.22,Default,,0,0,0,,Master!
 Dialogue: 0,0:06:00.35,0:06:01.71,Default,,0,0,0,,Master!

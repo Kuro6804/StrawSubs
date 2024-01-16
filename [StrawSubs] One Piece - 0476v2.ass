@@ -24,9 +24,9 @@ Video File: [Panda-Raws] One Piece - 0476 (WEB 1080p AMZN JP 29.970fps EAC3) [18
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 42
-Active Line: 60
-Video Position: 6716
+Scroll Position: 79
+Active Line: 80
+Video Position: 11381
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -117,21 +117,21 @@ Dialogue: 0,0:06:00.01,0:06:09.02,Title Card - Top,,0,0,0,,{\blur0.3\fad(1969,19
 Dialogue: 1,0:06:00.01,0:06:09.02,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1969,1969)\4a&HFF&}Luffy at the End of His Tether!
 Dialogue: 0,0:06:00.01,0:06:09.02,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1969,1969)\c&H000000&\1a&HFF&\t(1924,1969,\1a&H00&)\t(7041,7086,\1a&HFF&)}An All-out Battle at Oris Plaza!!
 Dialogue: 1,0:06:00.01,0:06:09.02,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1969,1969)\4a&HFF&}An All-out Battle at Oris Plaza!!
-Dialogue: 0,0:06:19.73,0:06:25.30,Default,Ivankov,0,0,0,,It's curtains for a Devil Fruit user\Nif he falls into the sea!
-Dialogue: 0,0:06:26.20,0:06:31.48,Default,Ivankov,0,0,0,,If nothing is done, I'm gonna really... really...
-Dialogue: 0,0:06:31.48,0:06:34.14,Default,Ivankov,0,0,0,,...fall... fall...
-Dialogue: 0,0:06:34.14,0:06:35.81,Default,Ivankov,0,0,0,,...fall...
+Dialogue: 0,0:06:19.73,0:06:25.30,Default,Ivankov,0,0,0,,It's curtains for a Devil Fruit user\Nif they fall into the sea!
+Dialogue: 0,0:06:26.20,0:06:31.48,Default,Ivankov,0,0,0,,If nothing is done, Vi'm gonna really... really...
+Dialogue: 0,0:06:31.48,0:06:34.14,Default,Ivankov,0,0,0,,fall... fall...
+Dialogue: 0,0:06:34.14,0:06:35.81,Default,Ivankov,0,0,0,,fall...
 Dialogue: 0,0:06:35.81,0:06:37.98,Default,Ivankov,0,0,0,,Or not!
-Dialogue: 0,0:06:40.75,0:06:44.82,Default,Ivankov,0,0,0,,You're not gonna fall?! You got me there!
+Dialogue: 0,0:06:40.75,0:06:44.82,Default,Ivankov,0,0,0,,"You're not gonna fall?! You got me there!"
 Dialogue: 0,0:06:44.82,0:06:46.56,Default,,0,0,0,,What are you doing, Ivankov?
-Dialogue: 0,0:06:47.59,0:06:52.03,Default,Ivankov,0,0,0,,Be quiet please! I need to hear what's going on at the plaza!
+Dialogue: 0,0:06:47.59,0:06:52.03,Default,Ivankov,0,0,0,,Be quiet please! Vi need to hear what's going on at the plaza!
 Dialogue: 0,0:06:52.03,0:06:55.67,Default,,0,0,0,,Huh? You are the one who is making noise!
 Dialogue: 0,0:06:58.60,0:07:01.24,Default,,0,0,0,,Ouch! I got hurt!
-Dialogue: 0,0:07:03.07,0:07:08.65,Default,Ivankov,0,0,0,,I'm sure that the battle is growing fiercer\Non the other side of the wall.
+Dialogue: 0,0:07:03.07,0:07:08.65,Default,Ivankov,0,0,0,,Vi'm sure that the battle is growing fiercer\Non the other side of the wall.
 Dialogue: 0,0:07:08.65,0:07:11.82,Default,Ivankov,0,0,0,,Maybe, Straw-boy is already...
-Dialogue: 0,0:07:11.98,0:07:13.25,Default,Ivankov,0,0,0,,...boiled!
+Dialogue: 0,0:07:11.98,0:07:13.25,Default,Ivankov,0,0,0,,boiled!
 Dialogue: 0,0:07:13.25,0:07:14.72,Default,Ivankov,0,0,0,,Or roasted!
-Dialogue: 0,0:07:15.12,0:07:16.52,Default,Ivankov,0,0,0,,Or iced!
+Dialogue: 0,0:07:15.12,0:07:16.52,Default,Ivankov,0,0,0,,Or frozen!
 Dialogue: 0,0:07:16.52,0:07:19.69,Default,Ivankov,0,0,0,,Yeah, maybe that's what is happening to him!
 Dialogue: 0,0:07:19.69,0:07:22.19,Default,Ivankov,0,0,0,,Oh no! Oh boy!
 Dialogue: 0,0:07:22.19,0:07:24.39,Default,,0,0,0,,What are you doing?! We need to hurry!
@@ -208,17 +208,17 @@ Dialogue: 0,0:16:08.52,0:16:11.19,Default,Ivankov,0,0,0,,There he is! Straw-boy!
 Dialogue: 0,0:16:11.19,0:16:13.72,Default,Ivankov,0,0,0,,He's there, Jinbe!
 Dialogue: 0,0:16:14.62,0:16:15.59,Default,,0,0,0,,Who is it?!
 Dialogue: 0,0:16:15.59,0:16:16.99,Default,,0,0,0,,Where is that voice coming from?
-Dialogue: 0,0:16:22.23,0:16:27.00,Default,Ivankov,0,0,0,,I knew it! This is exactly\Nwhat I thought was happening!
+Dialogue: 0,0:16:22.23,0:16:27.00,Default,Ivankov,0,0,0,,Vi knew it! This is exactly\Nwhat Vi thought was happening!
 Dialogue: 0,0:16:27.67,0:16:28.74,Default,,0,0,0,,It's up there!
 Dialogue: 0,0:16:28.74,0:16:31.01,Default,,0,0,0,,Why is that face so big?!
 Dialogue: 0,0:16:31.01,0:16:32.88,Default,,0,0,0,,Ivankov of the Revolutionary Army!
 Dialogue: 0,0:16:32.88,0:16:33.88,Default,,0,0,0,,Luffy-kun!
 Dialogue: 0,0:16:33.88,0:16:36.58,Default,Ivankov,0,0,0,,Are you still alive, Straw-boy?!
-Dialogue: 0,0:16:36.58,0:16:38.58,Default,Ivankov,0,0,0,,Oh, I'm gonna fall, gonna fall...
+Dialogue: 0,0:16:36.58,0:16:38.58,Default,Ivankov,0,0,0,,Oh, Vi'm gonna fall, gonna fall...
 Dialogue: 0,0:16:38.58,0:16:40.88,Default,Ivankov,0,0,0,,Or not!
 Dialogue: 0,0:16:42.92,0:16:44.72,Default,,0,0,0,,You did!
 Dialogue: 0,0:16:46.86,0:16:48.56,Default,,0,0,0,,What are you doing?!
-Dialogue: 0,0:16:48.56,0:16:49.63,Default,Ivankov,0,0,0,,I'm sorry!
+Dialogue: 0,0:16:48.56,0:16:49.63,Default,Ivankov,0,0,0,,My apologies!
 Dialogue: 0,0:16:51.23,0:16:53.83,Default,,0,0,0,,How boisterous you are.
 Dialogue: 0,0:16:55.80,0:16:58.20,Default,,0,0,0,,Iva-chan! Jinbe!
 Dialogue: 0,0:16:58.20,0:17:00.07,Default,,0,0,0,,Let me go!

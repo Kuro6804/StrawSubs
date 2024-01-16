@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 588 (BD 1920x1080 x264 29.970fps FLAC) [F1B
 Video File: [SOFCJ-Raws] One Piece - 588 (BD 1920x1080 x264 29.970fps FLAC) [F1BA03F8].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.312500
-Scroll Position: 376
-Active Line: 405
-Video Position: 42288
+Video Zoom Percent: 0.562500
+Scroll Position: 204
+Active Line: 205
+Video Position: 21428
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -246,8 +246,8 @@ Dialogue: 0,0:11:35.44,0:11:37.86,Default,,0,0,0,,Stop! This is no time for that
 Dialogue: 0,0:11:37.86,0:11:39.48,Default,,0,0,0,,Smo-san and Captain-chan are injured!
 Dialogue: 0,0:11:52.52,0:11:54.32,Default,,0,0,0,,It's freezing!
 Dialogue: 0,0:11:54.86,0:11:55.99,DefaultLow,,0,0,0,,What should we do?!
-Dialogue: 0,0:11:54.97,0:11:58.13,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Sanji\NThe mountain behind the {research }institute
-Dialogue: 1,0:11:54.97,0:11:58.13,Sign,,0,0,363,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Sanji\NThe mountain behind the {research }institute
+Dialogue: 0,0:11:54.97,0:11:58.13,Sign,,0,0,366,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}The mountain behind the {research }institute\NSanji's Location
+Dialogue: 1,0:11:54.97,0:11:58.13,Sign,,0,0,366,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}The mountain behind the {research }institute\NSanji's Location
 Dialogue: 0,0:11:55.99,0:11:58.13,DefaultLow,,0,0,0,,The kids can't take it anymore.
 Dialogue: 0,0:11:58.13,0:12:00.71,Default,,0,0,0,,Alright, let's remove this fur and...
 Dialogue: 0,0:12:00.71,0:12:02.67,Default,,0,0,0,,Stop it! That's my body!

@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 597 (BD 1920x1080 x264 29.970fps FLAC) [F65
 Video File: [SOFCJ-Raws] One Piece - 597 (BD 1920x1080 x264 29.970fps FLAC) [F656079F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 72
-Active Line: 95
-Video Position: 8218
+Video Zoom Percent: 0.500000
+Scroll Position: 165
+Active Line: 176
+Video Position: 16364
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -142,8 +142,8 @@ Dialogue: 0,0:04:37.66,0:04:46.64,Title Card - Top,,0,0,0,,{\blur0.3\fad(1976,19
 Dialogue: 1,0:04:37.66,0:04:46.64,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}A Ferocious Battle
 Dialogue: 0,0:04:37.66,0:04:46.64,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1976,1976)\c&H000000&\1a&HFF&\t(1931,1976,\1a&H00&)\t(7004,7049,\1a&HFF&)}Caesar Reveals His True Strength!
 Dialogue: 1,0:04:37.66,0:04:46.64,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1976,1976)\4a&HFF&}Caesar Reveals His True Strength!
-Dialogue: 0,0:04:47.14,0:04:52.81,Sign3,,0,0,363,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Zoro\NPunk Hazard, Center Lake
-Dialogue: 1,0:04:47.14,0:04:52.81,Sign3,,0,0,363,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Team Zoro\NPunk Hazard, Center Lake
+Dialogue: 0,0:04:47.14,0:04:52.81,Sign3,,0,0,363,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Punk Hazard, Center Lake\NZoro's Location
+Dialogue: 1,0:04:47.14,0:04:52.81,Sign3,,0,0,363,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Punk Hazard, Center Lake\NZoro's Location
 Dialogue: 0,0:04:50.72,0:04:54.68,DefaultLow3,,0,0,0,,Is that a Slime?
 Dialogue: 0,0:04:54.68,0:04:55.89,Default,,0,0,0,,A Slime?
 Dialogue: 0,0:04:55.89,0:05:00.12,Default,,0,0,0,,Yes. I was once reading a book that had a monster...
@@ -200,16 +200,16 @@ Dialogue: 0,0:08:05.22,0:08:06.76,Default,,0,0,0,,You'll see.
 Dialogue: 0,0:08:06.76,0:08:09.13,Default,,0,0,0,,Alright. I was bored anyway.
 Dialogue: 0,0:08:13.17,0:08:17.03,Default,,0,0,0,,Is that the bird woman that Usopp was talking about?
 Dialogue: 0,0:08:19.10,0:08:21.15,Default,,0,0,0,,What?!
-Dialogue: 0,0:08:21.32,0:08:24.82,Sign3,,0,0,363,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Luffy\NCaesar's Research Institute, Main Entrance
-Dialogue: 1,0:08:21.32,0:08:24.82,Sign3,,0,0,363,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Team Luffy\NCaesar's Research Institute, Main Entrance
+Dialogue: 0,0:08:21.32,0:08:24.82,Sign3,,0,0,363,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Caesar's Research Institute, Main Entrance\NLuffy's Location
+Dialogue: 1,0:08:21.32,0:08:24.82,Sign3,,0,0,363,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Caesar's Research Institute, Main Entrance\NLuffy's Location
 Dialogue: 0,0:08:22.10,0:08:24.65,DefaultLow2,,0,0,0,,S-Straw Hat caught Master!
 Dialogue: 0,0:08:24.98,0:08:26.73,Default,,0,0,0,,Way to go, Luffy!
 Dialogue: 0,0:08:26.73,0:08:28.76,Default,,0,0,0,,Dammit! That bastard!
 Dialogue: 0,0:08:28.91,0:08:30.09,Default,,0,0,0,,Straw Hat!
 Dialogue: 0,0:08:31.04,0:08:32.88,Default,,0,0,0,,Let go of me, you fool!
 Dialogue: 0,0:08:32.88,0:08:33.91,Default,,0,0,0,,No!
-Dialogue: 0,0:08:33.91,0:08:37.67,Default,,0,0,0,,That's what Haki can do? I can't believe Luffy can do that.
-Dialogue: 0,0:08:37.67,0:08:40.30,Default,,0,0,0,,He's grabbing a Logia eater!
+Dialogue: 0,0:08:33.91,0:08:37.67,Default,,0,0,0,,That's what Haki can do?\NI can't believe Luffy can do that.
+Dialogue: 0,0:08:37.67,0:08:40.30,Default,,0,0,0,,He's grabbing a Logia user!
 Dialogue: 0,0:08:40.30,0:08:43.64,Default,,0,0,0,,Straw Hat! Stay away from Master!
 Dialogue: 0,0:08:43.86,0:08:45.54,Default,,0,0,0,,Let's save Master!
 Dialogue: 0,0:08:45.54,0:08:49.26,Default,,0,0,0,,I won't let you guys do that!
@@ -219,7 +219,7 @@ Dialogue: 0,0:08:55.29,0:08:57.85,Default,,0,0,0,,Since Luffy became so strong, 
 Dialogue: 0,0:08:58.55,0:09:00.92,Default,,0,0,0,,We don't know that yet.
 Dialogue: 0,0:09:00.92,0:09:01.73,Default,,0,0,0,,What?
 Dialogue: 0,0:09:02.00,0:09:03.70,Default,,0,0,0,,With Armament Haki,
-Dialogue: 0,0:09:03.70,0:09:08.30,Default,,0,0,0,,it's possible to strike Logia eaters who you can't even touch normally.
+Dialogue: 0,0:09:03.70,0:09:08.30,Default,,0,0,0,,it's possible to strike Logia users who you can't even touch normally.
 Dialogue: 0,0:09:09.09,0:09:12.57,Default,,0,0,0,,However, unlike the sea or Sea Prism Stone,
 Dialogue: 0,0:09:12.57,0:09:15.13,Default,,0,0,0,,it doesn't drain their powers.
 Dialogue: 0,0:09:16.06,0:09:21.70,Default,,0,0,0,,We don't really know the extent of the Gas-Gas Fruit's power.
@@ -255,7 +255,7 @@ Dialogue: 0,0:11:32.47,0:11:33.64,Default,,0,0,0,,What?!
 Dialogue: 0,0:11:42.55,0:11:45.65,Default,,0,0,0,,Poisons don't work so well against me now, I guess.
 Dialogue: 0,0:11:46.41,0:11:48.23,Default,,0,0,0,,Thanks to Magellan.
 Dialogue: 0,0:11:50.52,0:11:54.70,Default,,0,0,0,,Magellan?! The venomous fool from Impel Down?!
-Dialogue: 0,0:11:54.70,0:11:58.08,Default,,0,0,0,,I'm not like that pathetic Paramecia eater!
+Dialogue: 0,0:11:54.70,0:11:58.08,Default,,0,0,0,,I'm not like that pathetic Paramecia user!
 Dialogue: 0,0:11:58.08,0:11:59.80,Default,,0,0,0,,Gum-Gum...
 Dialogue: 0,0:12:01.47,0:12:03.84,Default,,0,0,0,,...Jet Mace!
 Dialogue: 0,0:12:09.78,0:12:11.47,Default,,0,0,0,,Master!
@@ -295,7 +295,7 @@ Dialogue: 0,0:15:23.76,0:15:28.40,Default,,0,0,0,,That was a huge explosion! I d
 Dialogue: 0,0:15:28.40,0:15:33.95,Default,,0,0,0,,He wasn't strong enough to fight against our Master, the savior, in the first place!
 Dialogue: 0,0:15:34.21,0:15:37.25,Default,,0,0,0,,No... Luffy!
 Dialogue: 0,0:15:38.42,0:15:40.39,Default,,0,0,0,,You've got to be kidding!
-Dialogue: 0,0:15:40.82,0:15:46.33,Default,,0,0,0,,I'm the greatest scientist in the world, eater of the Gas-Gas Fruit!
+Dialogue: 0,0:15:40.82,0:15:46.33,Default,,0,0,0,,I'm the greatest scientist in the world, user of the Gas-Gas Fruit!
 Dialogue: 0,0:15:46.33,0:15:50.16,Default,,0,0,0,,You shouldn't have made me mad!
 Dialogue: 0,0:15:50.16,0:15:53.15,Default,,0,0,0,,Master! Master!
 Dialogue: 0,0:15:53.15,0:15:55.97,Default,,0,0,0,,Master! Master! Master...
@@ -317,7 +317,7 @@ Dialogue: 0,0:17:06.26,0:17:07.94,Default,,0,0,0,,Move out of my way!
 Dialogue: 0,0:17:12.45,0:17:15.98,Default,,0,0,0,,Okay, I really got you this time!
 Dialogue: 0,0:17:15.98,0:17:17.52,Default,,0,0,0,,Master!
 Dialogue: 0,0:17:17.92,0:17:21.76,Default,,0,0,0,,Robin! Franky! Is there anything that I can put him in?
-Dialogue: 0,0:17:21.76,0:17:23.92,Default,,0,0,0,,He's a Logia eater so tying him up won't do it.
+Dialogue: 0,0:17:21.76,0:17:23.92,Default,,0,0,0,,He's a Logia user so tying him up won't do it.
 Dialogue: 0,0:17:24.46,0:17:26.55,Default,,0,0,0,,Isn't there a barrel or something?
 Dialogue: 0,0:17:26.55,0:17:28.98,Default,,0,0,0,,Whoa-whoa, hold on, Straw Hat!
 Dialogue: 0,0:17:28.98,0:17:33.83,Default,,0,0,0,,We, the Navy's G-5, are taking him into custody and putting you guys under arrest!
@@ -360,8 +360,8 @@ Dialogue: 0,0:20:46.16,0:20:47.83,Default,,0,0,0,,Strong...
 Dialogue: 0,0:20:47.83,0:20:49.38,Default,,0,0,0,,Ri...
 Dialogue: 0,0:21:00.61,0:21:02.31,Default,,0,0,0,,Damn! What's going on here?!
 Dialogue: 0,0:21:28.38,0:21:30.90,Default,,0,0,0,,I have them all now!
-Dialogue: 0,0:22:02.54,0:22:05.71,Sign4,,0,0,362,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Law, Caesar's Research Institute
-Dialogue: 1,0:22:02.54,0:22:05.71,Sign4,,0,0,362,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Team Law, Caesar's Research Institute
+Dialogue: 0,0:22:02.54,0:22:05.71,Sign4,,0,0,362,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Caesar's Research Institute, Law's Location
+Dialogue: 1,0:22:02.54,0:22:05.71,Sign4,,0,0,362,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Caesar's Research Institute, Law's Location
 Dialogue: 0,0:22:04.22,0:22:05.23,DefaultLow3,,0,0,0,,Law?
 Dialogue: 0,0:22:07.82,0:22:08.94,Default,,0,0,0,,Who is it?
 Dialogue: 0,0:22:09.27,0:22:10.55,Default,,0,0,0,,What's wrong?

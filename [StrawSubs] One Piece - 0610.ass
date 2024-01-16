@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 610 (BD 1920x1080 x264 29.970fps FLAC) [43E
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 203
-Active Line: 222
-Video Position: 21706
+Scroll Position: 165
+Active Line: 167
+Video Position: 17338
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -160,7 +160,7 @@ Dialogue: 0,0:05:43.52,0:05:46.66,Default,,0,0,0,,I know about you people so wel
 Dialogue: 0,0:05:46.92,0:05:50.00,Default,,0,0,0,,The infamous Straw Hats.
 Dialogue: 0,0:05:50.37,0:05:52.86,Default,,0,0,0,,I'm happy to see you.
 Dialogue: 0,0:05:54.21,0:05:55.67,Default,,0,0,0,,Who the hell are you?!
-Dialogue: 0,0:05:57.09,0:06:00.55,Default,,0,0,0,,I'm Monet, a Snow-Snow Fruit eater.
+Dialogue: 0,0:05:57.09,0:06:00.55,Default,,0,0,0,,I'm Monet, a Snow-Snow Fruit user.
 Dialogue: 0,0:06:10.71,0:06:12.70,Default,,0,0,0,,Usopp! Brook!
 Dialogue: 0,0:06:12.70,0:06:15.84,Default,,0,0,0,,I'll try to restrain the children here!
 Dialogue: 0,0:06:15.84,0:06:18.46,Default,,0,0,0,,You two, go find some Sea Prism Stone handcuffs!
@@ -206,8 +206,8 @@ Dialogue: 0,0:09:23.71,0:09:25.46,Default,,0,0,0,,once we're out of the base,
 Dialogue: 0,0:09:25.46,0:09:28.45,Default,,0,0,0,,an unit commander is responsible for the troops' life.
 Dialogue: 0,0:09:29.38,0:09:30.99,Default,,0,0,0,,Don't lay a hand
 Dialogue: 0,0:09:31.33,0:09:33.85,Default,,0,0,0,,on my men!
-Dialogue: 0,0:09:35.16,0:09:38.83,Sign,,0,0,264,,{\blur0.3\fad(660,0)\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Team G-5/Sanji, Building B
-Dialogue: 1,0:09:35.16,0:09:38.83,Sign,,0,0,264,,{\bord0\blur0.3\fad(660,0)\4a&HFF&}Team G-5/Sanji, Building B
+Dialogue: 0,0:09:35.16,0:09:38.83,Sign,,0,0,264,,{\blur0.3\fad(660,0)\c&H000000&\1a&HFF&\t(615,660,\1a&H00&)}Building B, G-5's Location
+Dialogue: 1,0:09:35.16,0:09:38.83,Sign,,0,0,264,,{\bord0\blur0.3\fad(660,0)\4a&HFF&}Building B, G-5's Location
 Dialogue: 0,0:09:44.14,0:09:45.90,Default,,0,0,0,,What's going on here?
 Dialogue: 0,0:09:45.90,0:09:47.44,Default,,0,0,0,,Ouch! Ow! Ow!
 Dialogue: 0,0:09:47.44,0:09:49.04,Default,,0,0,0,,There is no place to step!

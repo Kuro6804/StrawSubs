@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 611 (BD 1920x1080 x264 29.970fps FLAC) [E60
 Video File: [SOFCJ-Raws] One Piece - 611 (BD 1920x1080 x264 29.970fps FLAC) [E60DAD7A].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 70
-Active Line: 81
-Video Position: 6276
+Video Zoom Percent: 0.500000
+Scroll Position: 77
+Active Line: 94
+Video Position: 7664
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -136,8 +136,8 @@ Dialogue: 1,0:03:53.88,0:04:02.89,Title Card - Top,,0,0,215,,{\bord0\blur0.3\fad
 Dialogue: 0,0:03:53.88,0:04:02.89,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1982,1982)\c&H000000&\1a&HFF&\t(1937,1982,\1a&H00&)\t(7028,7073,\1a&HFF&)}Momonosuke Appears
 Dialogue: 1,0:03:53.88,0:04:02.89,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1982,1982)\4a&HFF&}Momonosuke Appears
 Dialogue: 0,0:04:14.49,0:04:16.00,DefaultLow,,0,0,0,,Momonosuke?
-Dialogue: 0,0:04:15.17,0:04:19.84,Sign4,,0,0,363,,{\blur0.3\fad(680,0)\c&H000000&\1a&HFF&\t(635,680,\1a&H00&)}Team Luffy\NBasement of Building C, Garbage Dump
-Dialogue: 1,0:04:15.17,0:04:19.84,Sign4,,0,0,363,,{\bord0\blur0.3\fad(680,0)\4a&HFF&}Team Luffy\NBasement of Building C, Garbage Dump
+Dialogue: 0,0:04:15.17,0:04:19.84,Sign4,,0,0,363,,{\blur0.3\fad(680,0)\c&H000000&\1a&HFF&\t(635,680,\1a&H00&)}Building C's Basement, Garbage Dump\NLuffy's Location
+Dialogue: 1,0:04:15.17,0:04:19.84,Sign4,,0,0,363,,{\bord0\blur0.3\fad(680,0)\4a&HFF&}Building C's Basement, Garbage Dump\NLuffy's Location
 Dialogue: 0,0:04:16.00,0:04:18.11,DefaultLow,,0,0,0,,That is my name.
 Dialogue: 0,0:04:19.84,0:04:22.41,Default,,0,0,0,,I heard that name before somewhere.
 Dialogue: 0,0:04:22.41,0:04:24.02,Default,,0,0,0,,Where was it?

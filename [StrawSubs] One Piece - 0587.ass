@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 587 (BD 1920x1080 x264 29.970fps FLAC) [B68
 Video File: [SOFCJ-Raws] One Piece - 587 (BD 1920x1080 x264 29.970fps FLAC) [B687D38A].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.312500
-Scroll Position: 178
-Active Line: 197
-Video Position: 24247
+Video Zoom Percent: 0.562500
+Scroll Position: 214
+Active Line: 217
+Video Position: 26968
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -195,8 +195,8 @@ Dialogue: 0,0:10:39.27,0:10:41.34,Default,,0,0,0,,I don't know what they're gonn
 Dialogue: 0,0:10:41.50,0:10:43.60,Default,,0,0,0,,Boss Brownbeard!
 Dialogue: 0,0:10:44.93,0:10:47.07,Default,,0,0,0,,We have to let Master know!
 Dialogue: 0,0:10:47.94,0:10:49.95,Default,,0,0,0,,Follow me, those of you who can stand up!
-Dialogue: 0,0:10:54.44,0:10:58.11,Sign,,0,0,366,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Luffy, Frozen Lands
-Dialogue: 1,0:10:54.44,0:10:58.11,Sign,,0,0,366,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Luffy, Frozen Lands
+Dialogue: 0,0:10:54.44,0:10:58.11,Sign,,0,0,366,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Frozen Lands, Luffy's Location
+Dialogue: 1,0:10:54.44,0:10:58.11,Sign,,0,0,366,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Frozen Lands, Luffy's Location
 Dialogue: 0,0:11:00.23,0:11:03.89,Default,,0,0,0,,I heard a huge noise. Was it Sanji and the others?
 Dialogue: 0,0:11:05.41,0:11:07.52,Default,,0,0,0,,Hey, Alliga-taur!
 Dialogue: 0,0:11:07.52,0:11:10.14,Default,,0,0,0,,You really don't know what happened to my crew?
@@ -256,8 +256,8 @@ Dialogue: 0,0:14:21.76,0:14:24.16,Default,,0,0,0,,the Navy would be on the alert
 Dialogue: 0,0:14:24.16,0:14:27.64,Default,,0,0,0,,Well, we can just suppress things that are going to
 Dialogue: 0,0:14:27.64,0:14:29.78,Default,,0,0,0,,happen on the island from now on.
 Dialogue: 0,0:14:35.83,0:14:38.28,Default,,0,0,0,,--Call Joker. --Yes, sir!
-Dialogue: 0,0:14:58.42,0:15:02.42,Sign,,0,0,363,,{\blur0.3\fad(1040,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(995,1040,\1a&H00&)}Team Sanji\NA mountain behind the {research }institute
-Dialogue: 1,0:14:58.42,0:15:02.42,Sign,,0,0,363,,{\blur0.3\fad(1040,0)\fs60\bord0\4a&HFF&}Team Sanji\NA mountain behind the {research }institute
+Dialogue: 0,0:14:58.42,0:15:02.42,Sign,,0,0,366,,{\blur0.3\fad(1040,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(995,1040,\1a&H00&)}A mountain behind the {research }institute\NSanji's Location
+Dialogue: 1,0:14:58.42,0:15:02.42,Sign,,0,0,366,,{\blur0.3\fad(1040,0)\fs60\bord0\4a&HFF&}A mountain behind the {research }institute\NSanji's Location
 Dialogue: 0,0:15:04.99,0:15:09.58,Default,,0,0,0,,We made it out from the backdoor but what should we do now?!
 Dialogue: 0,0:15:09.95,0:15:12.53,Default,,0,0,0,,Even with this strange transformation going on,
 Dialogue: 0,0:15:12.53,0:15:14.39,Default,,0,0,0,,we have to keep running for now!

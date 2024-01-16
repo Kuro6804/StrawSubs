@@ -23,10 +23,10 @@ Audio File: [Panda-Raws] One Piece - 0478 (WEB 1080p AMZN JP 29.970fps EAC3) [B7
 Video File: [Panda-Raws] One Piece - 0478 (WEB 1080p AMZN JP 29.970fps EAC3) [B7916A5A].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 47
-Active Line: 58
-Video Position: 6434
+Video Zoom Percent: 0.500000
+Scroll Position: 76
+Active Line: 77
+Video Position: 9453
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -141,7 +141,7 @@ Dialogue: 0,0:06:43.15,0:06:44.89,Default,,0,0,0,,Look at them!
 Dialogue: 0,0:06:51.86,0:06:52.80,Default,Ivankov,0,0,0,,Wait!
 Dialogue: 0,0:06:52.80,0:06:54.97,Default,,0,0,0,,They're trying to execute Ace again!
 Dialogue: 0,0:06:55.63,0:07:00.44,Default,Ivankov,0,0,0,,Oh, well, my words can't change\NStraw-boy's mind under these circumstances!
-Dialogue: 0,0:07:01.91,0:07:07.84,Default,Ivankov,0,0,0,,All I can do is keep them from beating him!
+Dialogue: 0,0:07:01.91,0:07:07.84,Default,Ivankov,0,0,0,,All Vi can do is keep them from beating him!
 Dialogue: 0,0:07:07.84,0:07:08.85,Default,,0,0,0,,Straw Hat?!
 Dialogue: 0,0:07:08.85,0:07:10.91,Default,,0,0,0,,Straw Hat is coming!
 Dialogue: 0,0:07:10.91,0:07:13.02,Default,,0,0,0,,Kill Straw Hat!
@@ -153,7 +153,7 @@ Dialogue: 0,0:07:50.55,0:07:53.49,Default,,0,0,0,,...You gotta beat all of us!
 Dialogue: 0,0:07:53.49,0:07:56.19,Default,,0,0,0,,We'll show you the spirit of the Navy!
 Dialogue: 0,0:08:06.40,0:08:08.57,Default,Ivankov,0,0,0,,Heads up!
 Dialogue: 0,0:08:08.57,0:08:11.27,Default,Ivankov,0,0,0,,Death Wink!
-Dialogue: 0,0:08:13.68,0:08:15.85,Default,Ivankov,0,0,0,,10 points! I'll back you up!
+Dialogue: 0,0:08:13.68,0:08:15.85,Default,Ivankov,0,0,0,,Ten points! Vi'll back you up!
 Dialogue: 0,0:08:15.85,0:08:17.48,Default,,0,0,0,,Thanks, Iva-chan!
 Dialogue: 0,0:08:26.59,0:08:27.92,Default,,0,0,0,,Luffy-san...
 Dialogue: 0,0:08:34.43,0:08:35.87,Default,,0,0,0,,You're...
@@ -197,7 +197,7 @@ Dialogue: 0,0:11:29.84,0:11:32.44,Default,,0,0,0,,Hey, Koby!
 Dialogue: 0,0:11:36.75,0:11:38.15,Default,,0,0,0,,Damn!
 Dialogue: 0,0:11:44.22,0:11:45.72,Default,,0,0,0,,What is it this time?!
 Dialogue: 0,0:11:45.72,0:11:46.99,Default,Ivankov,0,0,0,,You guys are...
-Dialogue: 0,0:11:47.36,0:11:48.93,Default,Ivankov,0,0,0,,...the Kuma imposters!
+Dialogue: 0,0:11:47.36,0:11:48.93,Default,Ivankov,0,0,0,,the Kuma impostors!
 Dialogue: 0,0:11:50.49,0:11:52.16,Default,,0,0,0,,Monkey D. Luffy.
 Dialogue: 0,0:11:52.16,0:11:54.33,Default,,0,0,0,,Oh no! What a pain in the ass!
 Dialogue: 0,0:12:10.25,0:12:11.82,Default,,0,0,0,,Hey you, watch out!
@@ -205,7 +205,7 @@ Dialogue: 0,0:12:13.35,0:12:16.12,Default,,0,0,0,,Boa Hancock. The Seven Warlord
 Dialogue: 0,0:12:17.59,0:12:20.59,Default,,0,0,0,,Abort attack. Friendly operative.
 Dialogue: 0,0:12:20.59,0:12:22.89,Default,,0,0,0,,That's right! You guys are on the same side!
 Dialogue: 0,0:12:22.89,0:12:24.66,Default,,0,0,0,,Thank you, Hancock!
-Dialogue: 0,0:12:26.73,0:12:30.70,Default,Ivankov,0,0,0,,She's the Empress, right? How do you know her?
+Dialogue: 0,0:12:26.73,0:12:30.70,Default,Ivankov,0,0,0,,She's the Empress, right?\NHow do you know her?
 Dialogue: 0,0:12:31.03,0:12:34.60,Default,,0,0,0,,Luffy! He called my name again...
 Dialogue: 0,0:12:34.94,0:12:37.77,Default,,0,0,0,,Thank you, Hancock.
 Dialogue: 0,0:12:39.61,0:12:42.65,Default,,0,0,0,,Every time he calls me like that, I'm so...!
@@ -290,7 +290,7 @@ Dialogue: 0,0:22:42.61,0:22:45.11,Default,,0,0,0,,Conqueror's... Haki!
 Dialogue: 0,0:22:47.28,0:22:49.32,Default,,0,0,0,,Hey, come on! For real?!
 Dialogue: 0,0:22:52.05,0:22:54.29,Default,,0,0,0,,That was surprising!
 Dialogue: 0,0:23:04.97,0:23:08.00,Default,,0,0,0,,That brat...
-Dialogue: 0,0:23:22.45,0:23:26.59,Default,,0,0,0,,Luffy unconsciously used the Conqueror's Haki\Nand stopped Ace's execution.
+Dialogue: 0,0:23:22.45,0:23:26.59,Default,,0,0,0,,Luffy unconsciously used Conqueror's Haki\Nand stopped Ace's execution.
 Dialogue: 0,0:23:26.59,0:23:29.63,Default,,0,0,0,,But the Navy, wary of his display of latent power,
 Dialogue: 0,0:23:29.63,0:23:32.96,Default,,0,0,0,,combine their efforts\Nin an attempt to eliminate him.
 Dialogue: 0,0:23:33.60,0:23:37.60,Default,,0,0,0,,Just then, Iva-san finally reveals his last trump card!

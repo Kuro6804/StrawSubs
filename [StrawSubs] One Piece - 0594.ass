@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 594 (BD 1920x1080 x264 29.970fps FLAC) [0AB
 Video File: [SOFCJ-Raws] One Piece - 594 (BD 1920x1080 x264 29.970fps FLAC) [0ABE54A9].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 293
-Active Line: 318
-Video Position: 35567
+Video Zoom Percent: 0.500000
+Scroll Position: 262
+Active Line: 265
+Video Position: 29310
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -299,13 +299,13 @@ Dialogue: 0,0:15:43.07,0:15:47.62,Default,,0,0,0,,If the fact somebody is here o
 Dialogue: 0,0:15:47.62,0:15:50.73,Default,,0,0,0,,he will lose this perfect hiding place.
 Dialogue: 0,0:15:51.19,0:15:53.84,Default,,0,0,0,,That's why he'll try to kill you all at any cost.
 Dialogue: 0,0:15:54.56,0:15:56.53,Default,,0,0,0,,A 300-million-berry bounty.
-Dialogue: 0,0:15:57.17,0:16:00.47,Default,,0,0,0,,A Logia-type Gas-Gas Fruit eater who owns
+Dialogue: 0,0:15:57.17,0:16:00.47,Default,,0,0,0,,A Logia-type Gas-Gas Fruit user who owns
 Dialogue: 0,0:16:00.47,0:16:02.19,Default,,0,0,0,,weapons of mass destruction.
 Dialogue: 0,0:16:02.64,0:16:05.11,Default,,0,0,0,,That's who Caesar Clown is.
 Dialogue: 0,0:16:07.68,0:16:09.06,Default,,0,0,0,,300 million?
-Dialogue: 0,0:16:09.97,0:16:12.96,Default,,0,0,0,,Those of you who can't use Haki, stay away from him.
+Dialogue: 0,0:16:09.97,0:16:12.96,Default,,0,0,0,,Those of you who can't use Haki,\Nstay away from him.
 Dialogue: 0,0:16:12.96,0:16:14.69,Default,,0,0,0,,He's not just a scientist.
-Dialogue: 0,0:16:15.24,0:16:19.45,Default,,0,0,0,,Those who can use Haki among us are me and Zoro and Sanji.
+Dialogue: 0,0:16:15.24,0:16:19.45,Default,,0,0,0,,Those who can use Haki among us\Nare me, Zoro, and Sanji.
 Dialogue: 0,0:16:19.45,0:16:20.97,Default,,0,0,0,,And you.
 Dialogue: 0,0:16:20.97,0:16:22.49,Default,,0,0,0,,I think that's enough.
 Dialogue: 0,0:16:22.49,0:16:25.40,Default,,0,0,0,,I'm gonna go back to the {research }institute now.

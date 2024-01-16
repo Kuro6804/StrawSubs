@@ -23,10 +23,10 @@ Audio File: [Panda-Raws] One Piece - 0467 (WEB 1080p AMZN JP 29.970fps EAC3) [E7
 Video File: [Panda-Raws] One Piece - 0467 (WEB 1080p AMZN JP 29.970fps EAC3) [E7BAEAD1].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 48
-Active Line: 59
-Video Position: 6525
+Video Zoom Percent: 0.500000
+Scroll Position: 71
+Active Line: 72
+Video Position: 8553
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -161,7 +161,7 @@ Dialogue: 0,0:07:54.56,0:07:55.19,Default,,0,0,0,,Hmmm?
 Dialogue: 0,0:07:55.99,0:07:59.20,Default,,0,0,0,,I heard while on a Navy ship that...
 Dialogue: 0,0:07:59.20,0:08:00.70,Default,,0,0,0,,He's such a bonehead!
 Dialogue: 0,0:08:00.70,0:08:03.80,Default,,0,0,0,,I wish he'd just get his ass kicked already! Stupid!
-Dialogue: 0,0:08:03.80,0:08:07.47,Default,Ivankov,0,0,0,,How brave he is! Only his son could do it.
+Dialogue: 0,0:08:03.80,0:08:07.47,Default,Ivankov,0,0,0,,How brave he is! Only {\i1}his{\i0} son could do that.
 Dialogue: 0,0:08:08.07,0:08:11.44,Default,,0,0,0,,So they're gonna execute Ace immediately?
 Dialogue: 0,0:08:11.44,0:08:13.68,Default,,0,0,0,,Are you sure?
 Dialogue: 0,0:08:13.68,0:08:17.01,Default,,0,0,0,,They said they would after getting "all set" for something...
@@ -207,7 +207,7 @@ Dialogue: 0,0:10:46.60,0:10:52.10,Default,,0,0,0,,Yes, I was gonna ruin you ther
 Dialogue: 0,0:10:52.60,0:10:54.30,Default,,0,0,0,,Straw Hat Luffy.
 Dialogue: 0,0:10:56.37,0:10:59.58,Default,,0,0,0,,S-Straw Hat is dead!
 Dialogue: 0,0:10:59.58,0:11:01.28,Default,Ivankov,0,0,0,,Death...
-Dialogue: 0,0:11:01.28,0:11:03.41,Default,Ivankov,0,0,0,,...Wink!
+Dialogue: 0,0:11:01.28,0:11:03.41,Default,Ivankov,0,0,0,,Wink!
 Dialogue: 0,0:11:11.39,0:11:14.16,Default,,0,0,0,,No! I wanna go home!
 Dialogue: 0,0:11:14.16,0:11:16.73,Default,,0,0,0,,What, Captain Buggy?!
 Dialogue: 0,0:11:16.73,0:11:18.83,Default,,0,0,0,,I can't believe what you just said!
@@ -224,8 +224,8 @@ Dialogue: 0,0:11:50.03,0:11:54.56,Default,,0,0,0,,He's the bear-like guy who ble
 Dialogue: 0,0:11:56.80,0:11:59.64,Default,Ivankov,0,0,0,,Rolling Spa!
 Dialogue: 0,0:12:05.14,0:12:06.61,Default,Ivankov,0,0,0,,Bartholomew Kuma!
 Dialogue: 0,0:12:06.61,0:12:08.28,Default,Ivankov,0,0,0,,How despicable you are!
-Dialogue: 0,0:12:08.28,0:12:11.51,Default,Ivankov,0,0,0,,I know that you have a role as a Warlord but...
-Dialogue: 0,0:12:11.51,0:12:16.19,Default,Ivankov,0,0,0,,...we've known each other so long. How can you just fire a laser at me?!
+Dialogue: 0,0:12:08.28,0:12:13.55,Default,Ivankov,0,0,0,,Vi know that you have a role as a Warlord but we've known each other so long;
+Dialogue: 0,0:12:13.55,0:12:16.19,Default,Ivankov,0,0,0,,how can you just fire a laser at me?!
 Dialogue: 0,0:12:16.19,0:12:17.92,Default,Ivankov,0,0,0,,Hey, how could you...
 Dialogue: 0,0:12:21.59,0:12:23.23,Default,Ivankov,0,0,0,,A hole!
 Dialogue: 0,0:12:24.26,0:12:25.50,Default,,0,0,0,,Iva-chan!

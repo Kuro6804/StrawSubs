@@ -24,9 +24,9 @@ Video File: [Panda-Raws] One Piece - 0480 (WEB 1080p AMZN JP 29.970fps EAC3) [6E
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 45
-Active Line: 60
-Video Position: 6999
+Scroll Position: 248
+Active Line: 273
+Video Position: 41186
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -256,7 +256,7 @@ Dialogue: 0,0:18:43.11,0:18:45.34,Default,,0,0,0,,Ace is still alive!
 Dialogue: 0,0:18:45.34,0:18:47.31,Default,,0,0,0,,We're falling!
 Dialogue: 0,0:18:48.51,0:18:52.78,Default,,0,0,0,,I'll make the key! Uncuff him right away!
 Dialogue: 0,0:18:53.62,0:18:54.98,Default,,0,0,0,,Alright!
-Dialogue: 0,0:18:54.98,0:18:58.32,Default,,0,0,0,,Captain Buggy! There's brother 3!
+Dialogue: 0,0:18:54.98,0:18:58.32,Default,,0,0,0,,Captain Buggy! There's Brother 3!
 Dialogue: 0,0:18:58.32,0:19:02.76,Default,,0,0,0,,What?! What is he doing in that ridiculous costume?!
 Dialogue: 0,0:19:03.36,0:19:06.10,Default,,0,0,0,,I thought he ran away from here already!
 Dialogue: 0,0:19:13.84,0:19:18.21,Default,,0,0,0,,The execution of Fire Fist Ace\Nhas to do with the prestige of Navy HQ!
@@ -310,8 +310,8 @@ Dialogue: 0,0:22:45.05,0:22:48.55,Default,,0,0,0,,...and always get yourself in 
 Dialogue: 0,0:22:49.79,0:22:51.02,Default,,0,0,0,,Good!
 Dialogue: 0,0:22:51.02,0:22:51.85,Default,,0,0,0,,Oh my!
 Dialogue: 0,0:22:52.15,0:22:54.22,Default,,0,0,0,,Ace!
-Dialogue: 0,0:22:54.22,0:22:56.86,Default,Ivankov,0,0,0,,I-I can't believe it!
-Dialogue: 0,0:22:56.86,0:22:59.96,Default,,0,0,0,,Straw Hat and brother 3 are alive, too!
+Dialogue: 0,0:22:54.22,0:22:56.86,Default,Ivankov,0,0,0,,V-Vi can't believe it!
+Dialogue: 0,0:22:56.86,0:22:59.96,Default,,0,0,0,,Straw Hat and Brother 3 are alive, too!
 Dialogue: 0,0:23:10.57,0:23:13.98,Default,,0,0,0,,Ace!!
 Dialogue: 0,0:23:22.49,0:23:24.79,Default,,0,0,0,,Ace is free at last!
 Dialogue: 0,0:23:24.79,0:23:28.89,Default,,0,0,0,,Seeing Ace and Luffy taking on the Navy in such a well-synchronized combination

@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 609 (BD 1920x1080 x264 29.970fps FLAC) [C11
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 70
-Active Line: 81
-Video Position: 6217
+Scroll Position: 345
+Active Line: 366
+Video Position: 41947
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -402,9 +402,9 @@ Dialogue: 0,0:22:54.90,0:22:57.37,Default,,0,0,0,,...a scumbag like you!
 Dialogue: 0,0:22:58.59,0:22:59.96,Default,,0,0,0,,The pirate -
 Dialogue: 0,0:23:00.38,0:23:01.38,Default,,0,0,0,,Vergo!
 Dialogue: 0,0:23:10.21,0:23:14.17,Default,,0,0,0,,Smoker's rage explodes at the fact that Vergo's betrayed his men,
-Dialogue: 0,0:23:14.17,0:23:16.54,Default,,0,0,0,,and Vergo closes in on him with overwhelming Haki!
+Dialogue: 0,0:23:14.17,0:23:16.54,Default,,0,0,0,,and Vergo closes in on him\Nwith overwhelming Haki!
 Dialogue: 0,0:23:17.54,0:23:19.60,Default,,0,0,0,,The fierce battle between Smoker and Vergo intensifies,
-Dialogue: 0,0:23:19.60,0:23:23.80,Default,,0,0,0,,as Smoker puts his spirit and pride as a Marine on the line.
+Dialogue: 0,0:23:19.60,0:23:23.80,Default,,0,0,0,,as Smoker puts his spirit\Nand pride as a Marine on the line.
 Dialogue: 0,0:23:24.46,0:23:25.85,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:25.85,0:23:29.19,Default,,0,0,0,,"Fists Collide!\NThe Battle of Two Vice Admirals"
 Dialogue: 0,0:23:29.19,0:23:31.50,Default,,0,0,0,,I'm gonna be the Pirate King!!

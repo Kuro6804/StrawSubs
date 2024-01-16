@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 626 (BD 1920x1080 x264 29.970fps FLAC) [261
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 68
-Active Line: 77
-Video Position: 5880
+Scroll Position: 361
+Active Line: 371
+Video Position: 40563
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -152,9 +152,9 @@ Dialogue: 0,0:06:08.75,0:06:11.59,Default,,0,0,0,,Huh? What was that? What's goi
 Dialogue: 0,0:06:11.59,0:06:13.86,Default,,0,0,0,,Nice to meet you, ladies and gentlemen!
 Dialogue: 0,0:06:13.86,0:06:15.06,Default,,0,0,0,,Who are you?!
 Dialogue: 0,0:06:22.93,0:06:25.30,Default,,0,0,0,,My name is Breed.
-Dialogue: 0,0:06:27.14,0:06:29.74,Default,,0,0,0,,I'm a Peto-Peto Fruit eater!
-Dialogue: 0,0:06:30.01,0:06:31.38,Default,,0,0,0,,Peto-Peto (sticky)?!
-Dialogue: 0,0:06:31.38,0:06:33.41,Default,,0,0,0,,What's that?! Are you some kind of slimy man?
+Dialogue: 0,0:06:27.14,0:06:29.74,Default,,0,0,0,,I'm a Pet-Pet Fruit user!
+Dialogue: 0,0:06:30.01,0:06:31.38,Default,,0,0,0,,Wet-Wet{petopeto/sticky}?!
+Dialogue: 0,0:06:31.38,0:06:33.41,Default,,0,0,0,,What's that?! Are you\Nsome kinda slime man?
 Dialogue: 0,0:06:34.01,0:06:35.55,Default,,0,0,0,,That's not Doflamingo?
 Dialogue: 0,0:06:35.55,0:06:36.65,Default,,0,0,0,,I guess not.
 Dialogue: 0,0:06:38.72,0:06:39.82,Default,,0,0,0,,Oh no!
@@ -371,7 +371,7 @@ Dialogue: 0,0:19:55.95,0:19:58.71,Default,,0,0,0,,with Straw Hat Luffy, a pirate
 Dialogue: 0,0:19:58.71,0:20:04.15,Default,,0,0,0,,Thank you for chasing us all the way here, you pain-in-the-ass, shitty humans!
 Dialogue: 0,0:20:12.46,0:20:15.00,Default,,0,0,0,,You can't hit us with that.
 Dialogue: 0,0:20:15.20,0:20:17.17,Default,,0,0,0,,I'm not so sure about that!
-Dialogue: 0,0:20:18.27,0:20:20.74,Default,,0,0,0,,Pet-peto!
+Dialogue: 0,0:20:18.27,0:20:20.74,Default,,0,0,0,,Petpet{petopeto/sticky}!
 Dialogue: 0,0:20:21.90,0:20:22.77,Default,,0,0,0,,What?
 Dialogue: 0,0:20:26.24,0:20:27.24,Default,,0,0,0,,Ouch!
 Dialogue: 0,0:20:28.18,0:20:30.05,Default,,0,0,0,,What's this?!
@@ -404,16 +404,16 @@ Dialogue: 0,0:22:00.90,0:22:02.94,Default,,0,0,0,,Don't do it! You can't hurt Ch
 Dialogue: 0,0:22:02.94,0:22:05.07,Default,,0,0,0,,You fool! I'm not gonna kill him!
 Dialogue: 0,0:22:05.07,0:22:06.81,Default,,0,0,0,,I just wanna control him!
 Dialogue: 0,0:22:09.01,0:22:10.25,Default,,0,0,0,,Dammit!
-Dialogue: 0,0:22:14.78,0:22:18.19,Default,,0,0,0,,I ate the Peto-Peto Fruit!
-Dialogue: 0,0:22:18.72,0:22:20.92,Default,,0,0,0,,Peto-Peto? Don't tell me it's...
+Dialogue: 0,0:22:14.78,0:22:18.19,Default,,0,0,0,,I ate the Pet-Pet Fruit!
+Dialogue: 0,0:22:18.72,0:22:20.92,Default,,0,0,0,,Pet-Pet? Don't tell me it's...
 Dialogue: 0,0:22:21.19,0:22:22.29,Default,,0,0,0,,That's right!
-Dialogue: 0,0:22:22.29,0:22:28.93,Default,,0,0,0,,I can manipulate all living things as I want with my Peto-Peto power!
+Dialogue: 0,0:22:22.29,0:22:28.93,Default,,0,0,0,,I can manipulate all living things as I want with my Pet-Pet powers!
 Dialogue: 0,0:22:30.17,0:22:33.34,Default,,0,0,0,,Which means I can make them my pet!
-Dialogue: 0,0:22:33.44,0:22:36.67,Default,,0,0,0,,Pet? So "Peto-Peto" means "pet"?
+Dialogue: 0,0:22:33.44,0:22:36.67,Default,,0,0,0,,Pet? I thought it was "Wet-Wet"? {Toei TL: Pet? So "Pet-Pet" means "pet"?}
 Dialogue: 0,0:22:37.07,0:22:40.31,Default,,0,0,0,,I can control any living thing
 Dialogue: 0,0:22:40.74,0:22:44.98,Default,,0,0,0,,and bring out all of its power!
 Dialogue: 0,0:22:44.98,0:22:50.19,Default,,0,0,0,,You will see how deadly it is!
-Dialogue: 0,0:23:09.86,0:23:14.04,Default,,0,0,0,,Luffy and Law, trapped by Breed's Peto-Peto ability!
+Dialogue: 0,0:23:09.86,0:23:14.04,Default,,0,0,0,,Luffy and Law, trapped by Breed's Pet-Pet ability!
 Dialogue: 0,0:23:14.04,0:23:20.92,Default,,0,0,0,,As they try to strike back, they fall into Breed's\Nshrewd trap, and are forced to fight for their lives!
 Dialogue: 0,0:23:21.38,0:23:25.59,Default,,0,0,0,,Their intense struggle reaches its shocking climax!
 Dialogue: 0,0:23:25.59,0:23:26.87,Default,,0,0,0,,Next time, on One Piece:

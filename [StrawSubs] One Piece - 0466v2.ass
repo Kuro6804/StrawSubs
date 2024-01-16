@@ -24,9 +24,9 @@ Video File: [Panda-Raws] One Piece - 0466 (WEB 1080p AMZN JP 29.970fps EAC3) [4F
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 41
-Active Line: 58
-Video Position: 6411
+Scroll Position: 63
+Active Line: 64
+Video Position: 7570
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,7 +107,7 @@ Dialogue: 0,0:04:25.72,0:04:34.69,Title Card - Top,,0,0,0,,{\blur0.3\fad(1973,19
 Dialogue: 1,0:04:25.72,0:04:34.69,Title Card - Top,,0,0,0,,{\bord0\blur0.3\fad(1973,1973)\4a&HFF&}The Straw Hat Team Arrives
 Dialogue: 0,0:04:25.72,0:04:34.69,Title Card - Bottom,,0,0,0,,{\blur0.3\fad(1973,1973)\c&H000000&\1a&HFF&\t(1928,1973,\1a&H00&)\t(6997,7042,\1a&HFF&)}Tensions Grow on the Battlefield
 Dialogue: 1,0:04:25.72,0:04:34.69,Title Card - Bottom,,0,0,0,,{\bord0\blur0.3\fad(1973,1973)\4a&HFF&}Tensions Grow on the Battlefield
-Dialogue: 0,0:04:36.29,0:04:39.03,Default,Ivankov,0,0,0,,I feel a chill in my heart!
+Dialogue: 0,0:04:36.29,0:04:39.03,Default,Ivankov,0,0,0,,Vi feel a chill in my heart!
 Dialogue: 0,0:04:39.03,0:04:41.70,Default,,0,0,0,,Hey, partner! Can't you do something?!
 Dialogue: 0,0:04:41.70,0:04:44.90,Default,,0,0,0,,Do you really think that wax will help in any way?!
 Dialogue: 0,0:04:45.84,0:04:48.87,Default,,0,0,0,,Why are Luffy and the others falling from the sky?

@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 599 (BD 1920x1080 x264 29.970fps FLAC) [81C
 Video File: [SOFCJ-Raws] One Piece - 599 (BD 1920x1080 x264 29.970fps FLAC) [81C65598].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 71
-Active Line: 80
-Video Position: 5734
+Video Zoom Percent: 0.625000
+Scroll Position: 170
+Active Line: 177
+Video Position: 16448
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -220,8 +220,8 @@ Dialogue: 0,0:08:58.33,0:09:02.04,Default,,0,0,0,,Our children are still alive.
 Dialogue: 0,0:09:03.59,0:09:06.42,DefaultLow3,,0,0,0,,Somewhere in this world!
 Dialogue: 0,0:09:04.43,0:09:07.43,Sign,,0,0,262,,{\blur0.3\fad(520,0)\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Punk Hazard
 Dialogue: 1,0:09:04.43,0:09:07.43,Sign,,0,0,262,,{\bord0\blur0.3\fad(520,0)\4a&HFF&}Punk Hazard
-Dialogue: 0,0:09:07.90,0:09:11.07,Sign4,,0,0,364,,{\blur0.3\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Team Nami/Usopp\NRuins of the First and Second Research Institutes
-Dialogue: 1,0:09:07.90,0:09:11.07,Sign4,,0,0,364,,{\bord0\blur0.3\fad(500,0)\4a&HFF&}Team Nami/Usopp\NRuins of the First and Second Research Institutes
+Dialogue: 0,0:09:07.90,0:09:11.07,Sign4,,0,0,365,,{\blur0.3\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Ruins of the First and Second Research Institutes\NNami & Usopp's Location
+Dialogue: 1,0:09:07.90,0:09:11.07,Sign4,,0,0,365,,{\bord0\blur0.3\fad(500,0)\4a&HFF&}Ruins of the First and Second Research Institutes\NNami & Usopp's Location
 Dialogue: 0,0:09:14.36,0:09:16.84,Default,,0,0,0,,My head is gonna explode!
 Dialogue: 0,0:09:16.84,0:09:19.14,Default,,0,0,0,,Usopp, make them fall asleep already!
 Dialogue: 0,0:09:19.14,0:09:22.85,Default,,0,0,0,,I'm doing it but it's not gonna work that many times!

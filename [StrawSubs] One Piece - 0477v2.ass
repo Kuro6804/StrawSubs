@@ -24,9 +24,9 @@ Video File: [Panda-Raws] One Piece - 0477 (WEB 1080p AMZN JP 29.970fps EAC3) [7B
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 48
-Active Line: 62
-Video Position: 7040
+Scroll Position: 103
+Active Line: 107
+Video Position: 14410
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -191,8 +191,8 @@ Dialogue: 0,0:11:54.10,0:11:56.00,Default,,0,0,0,,Do you think...
 Dialogue: 0,0:11:58.40,0:12:00.87,Default,,0,0,0,,...that I deserved to be born?
 Dialogue: 0,0:12:06.91,0:12:09.15,Default,,0,0,0,,That's something...
 Dialogue: 0,0:12:10.78,0:12:13.05,Default,,0,0,0,,...you'll see as you live.
-Dialogue: 0,0:12:19.29,0:12:22.13,Default,Ivankov,0,0,0,,Carry Straw-boy to the ship in a hurry!
-Dialogue: 0,0:12:22.93,0:12:26.26,Default,Ivankov,0,0,0,,I have no choice! We gotta save Ace-boy without him...
+Dialogue: 0,0:12:19.29,0:12:22.13,Default,Ivankov,0,0,0,,Carry Straw-boy to the ship quickly!
+Dialogue: 0,0:12:22.93,0:12:26.26,Default,Ivankov,0,0,0,,Vi have no choice! We gotta save Ace-boy without him...
 Dialogue: 0,0:12:29.17,0:12:30.57,Default,,0,0,0,,Iva-chan...
 Dialogue: 0,0:12:32.07,0:12:34.10,Default,Ivankov,0,0,0,,You came around!
 Dialogue: 0,0:12:36.67,0:12:39.58,Default,,0,0,0,,Could you do me a favor one last time?
@@ -295,11 +295,11 @@ Dialogue: 0,0:19:42.77,0:19:47.10,Default,,0,0,0,,It's over already! So let's ju
 Dialogue: 0,0:19:47.10,0:19:48.40,Default,,0,0,0,,Alright, Koby?
 Dialogue: 0,0:19:52.94,0:19:56.41,Default,Ivankov,0,0,0,,Are you asking me\Nto inject another shot of Energy Hormone?!
 Dialogue: 0,0:19:56.41,0:19:58.28,Default,Ivankov,0,0,0,,That's insane!
-Dialogue: 0,0:19:58.88,0:20:04.09,Default,Ivankov,0,0,0,,You gotta stop it now!\NYou've been fighting since Impel Down!
+Dialogue: 0,0:19:58.88,0:20:04.09,Default,Ivankov,0,0,0,,You gotta stop this now!\NYou've been fighting since Impel Down!
 Dialogue: 0,0:20:04.09,0:20:07.89,Default,Ivankov,0,0,0,,You got poisoned and you were almost killed!
 Dialogue: 0,0:20:07.89,0:20:10.29,Default,Ivankov,0,0,0,,You're pushing it too far already!
-Dialogue: 0,0:20:11.16,0:20:17.50,Default,Ivankov,0,0,0,,Like I said before, Energy Hormone\Nis nothing more than a temporary treatment!
-Dialogue: 0,0:20:17.50,0:20:22.67,Default,Ivankov,0,0,0,,If you just keep using it,\Nyou will die for sure afterwards!
+Dialogue: 0,0:20:11.16,0:20:17.50,Default,Ivankov,0,0,0,,Like Vi said before, Energy Hormone\Nis nothing more than a temporary treatment!
+Dialogue: 0,0:20:17.50,0:20:22.67,Default,Ivankov,0,0,0,,If you just keep using it,\Nyou will die afterwards for sure!
 Dialogue: 0,0:20:30.08,0:20:32.12,Default,,0,0,0,,If I'd be able to do all I could...
 Dialogue: 0,0:20:35.85,0:20:38.19,Default,,0,0,0,,I'd be happy to die!
 Dialogue: 0,0:20:39.99,0:20:42.59,Default,,0,0,0,,Let me fight, Iva-chan!
@@ -309,7 +309,7 @@ Dialogue: 0,0:20:53.44,0:20:55.94,Default,,0,0,0,,If I can't fight now
 Dialogue: 0,0:20:56.44,0:20:59.58,Default,,0,0,0,,and if I can't rescue Ace, I...
 Dialogue: 0,0:21:02.15,0:21:04.55,Default,,0,0,0,,I'd rather take my own life afterwards!!
 Dialogue: 0,0:21:06.78,0:21:11.19,Default,,0,0,0,,Let me have the strength to fight for now!
-Dialogue: 0,0:21:29.04,0:21:35.58,Default,Ivankov,0,0,0,,I said I can't! If I let you die now, I'd be too ashamed to face Dragon!
+Dialogue: 0,0:21:29.04,0:21:35.58,Default,Ivankov,0,0,0,,Vi said Vi can't! If Vi let you die now, Vi'd be too ashamed to face Dragon!
 Dialogue: 0,0:21:35.58,0:21:38.01,Default,Ivankov,0,0,0,,You hardheaded fool!
 Dialogue: 0,0:21:45.52,0:21:49.19,Default,,0,0,0,,Where's the other guy?! What's taking him so long?!
 Dialogue: 0,0:21:49.19,0:21:53.06,Default,,0,0,0,,Since it was such short notice,\Nhe's having trouble getting ready...

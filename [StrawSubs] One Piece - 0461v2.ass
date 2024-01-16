@@ -24,9 +24,9 @@ Video File: [Panda-Raws] One Piece - 0461 (WEB 1080p AMZN JP 29.970fps EAC3) [BA
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 50
-Active Line: 66
-Video Position: 7799
+Scroll Position: 74
+Active Line: 87
+Video Position: 12188
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -121,14 +121,13 @@ Dialogue: 0,0:06:08.92,0:06:10.39,Default,,0,0,0,,Whitebeard.
 Dialogue: 0,0:06:10.95,0:06:13.32,Default,,0,0,0,,You better tell me that my beloved son...
 Dialogue: 0,0:06:14.32,0:06:16.19,Default,,0,0,0,,...is all right.
 Dialogue: 0,0:06:28.31,0:06:30.81,Default,,0,0,0,,I can't believe that we let them get this close!
-Dialogue: 0,0:06:37.65,0:06:39.88,Default,Ivankov,0,0,0,,We made it through the gate but...
-Dialogue: 0,0:06:39.88,0:06:45.46,Default,Ivankov,0,0,0,,...what I'm concerned about is whether your guys' father is here or not.
+Dialogue: 0,0:06:37.65,0:06:39.88,Default,Ivankov,0,0,0,,We made it through the gate...
+Dialogue: 0,0:06:39.88,0:06:45.46,Default,Ivankov,0,0,0,,but what Vi'm concerned about is whether your guys' father is here or not.
 Dialogue: 0,0:06:45.52,0:06:46.26,Default,,0,0,0,,"Your guys'"?
-Dialogue: 0,0:06:46.66,0:06:51.43,Default,Ivankov,0,0,0,,I don't think that Dragon\Nwould let them kill his own son...
+Dialogue: 0,0:06:46.66,0:06:51.43,Default,Ivankov,0,0,0,,Vi don't think that Dragon\Nwould let them kill his own son...
 Dialogue: 0,0:06:51.70,0:06:54.43,Default,,0,0,0,,Oh, my dad and Ace's are not the same.
-Dialogue: 0,0:06:56.20,0:06:58.64,Default,,0,0,0,,My dad is Dragon
-Dialogue: 0,0:06:58.64,0:07:01.64,Default,,0,0,0,,but Ace's dad is Gold Roger.
-Dialogue: 0,0:07:03.64,0:07:06.48,Default,,0,0,0,,He got a great father but he never met him.
+Dialogue: 0,0:06:56.20,0:07:01.64,Default,,0,0,0,,My dad is Dragon\Nbut Ace's dad is Gold Roger.
+Dialogue: 0,0:07:03.64,0:07:06.48,Default,,0,0,0,,He got such a great father but he never met him.
 Dialogue: 0,0:07:07.08,0:07:09.28,Default,,0,0,0,,He'd get mad every time I mentioned it.
 Dialogue: 0,0:07:10.65,0:07:12.55,Default,,0,0,0,,Oh, I shouldn't have said that.
 Dialogue: 0,0:07:27.40,0:07:30.23,Default,,0,0,0,,Give me a second, Ace.

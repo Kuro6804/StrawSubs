@@ -24,9 +24,9 @@ Video File: [SOFCJ-Raws] One Piece - 608 (BD 1920x1080 x264 29.970fps FLAC) [867
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 66
-Active Line: 84
-Video Position: 6608
+Scroll Position: 226
+Active Line: 248
+Video Position: 22081
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -287,11 +287,10 @@ Dialogue: 0,0:11:54.27,0:11:55.23,Default,,0,0,0,,Joker?
 Dialogue: 0,0:11:57.59,0:11:59.54,Default,,0,0,0,,Oh, Joker!
 Dialogue: 0,0:11:59.80,0:12:01.53,Default,,0,0,0,,You have to be careful with Law,
 Dialogue: 0,0:12:01.53,0:12:03.97,Default,,0,0,0,,of course, but also with Straw Hat.
-Dialogue: 0,0:12:03.97,0:12:07.65,Default,,0,0,0,,That brat uses Conqueror's Haki.
+Dialogue: 0,0:12:03.97,0:12:07.65,Default,,0,0,0,,That brat can Conqueror's Haki. {Color of the Conqueror}
 Dialogue: 0,0:12:07.65,0:12:09.92,Default,,0,0,0,,He could be of a higher caliber than Law.
 Dialogue: 0,0:12:13.68,0:12:15.72,Default,,0,0,0,,Oh, are you really?
-Dialogue: 0,0:12:16.75,0:12:18.40,Default,,0,0,0,,He uses
-Dialogue: 0,0:12:18.40,0:12:20.46,Default,,0,0,0,,Conqueror's Haki?!
+Dialogue: 0,0:12:16.75,0:12:20.46,Default,,0,0,0,,He can use Conqueror's Haki?! {Color of the Conqueror}
 Dialogue: 0,0:12:24.40,0:12:28.42,Default,,0,0,0,,We happen to have a hot-blooded woman here.
 Dialogue: 0,0:12:28.42,0:12:32.33,Default,,0,0,0,,I'm gonna send Baby 5 and Buffalo there.
 Dialogue: 0,0:12:32.33,0:12:33.64,Default,,0,0,0,,When it's done,

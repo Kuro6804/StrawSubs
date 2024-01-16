@@ -23,10 +23,10 @@ Audio File: [SOFCJ-Raws] One Piece - 584 (BD 1920x1080 x264 29.970fps FLAC) [C0F
 Video File: [SOFCJ-Raws] One Piece - 584 (BD 1920x1080 x264 29.970fps FLAC) [C0F5A32C].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.312500
-Scroll Position: 66
-Active Line: 76
-Video Position: 6372
+Video Zoom Percent: 0.437500
+Scroll Position: 177
+Active Line: 178
+Video Position: 19495
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -116,7 +116,7 @@ Dialogue: 0,0:03:26.51,0:03:28.06,Default,,0,0,0,,What does he mean?
 Dialogue: 0,0:03:28.06,0:03:30.36,Default,,0,0,0,,You have to help us! Please!
 Dialogue: 0,0:03:30.36,0:03:31.73,Default,,0,0,0,,Please!
 Dialogue: 0,0:03:32.59,0:03:36.46,Default,,0,0,0,,After being taken to a mysterious facility\Nby an unknown group of people,
-Dialogue: 0,0:03:36.46,0:03:38.91,Default,,0,0,0,,Team Nami encounters strange children.
+Dialogue: 0,0:03:36.46,0:03:38.91,Default,,0,0,0,,Nami's group encounters strange children.
 Dialogue: 0,0:03:39.99,0:03:43.17,Default,,0,0,0,,Let's help these children!
 Dialogue: 0,0:03:43.82,0:03:45.45,Default,,0,0,0,,What are you saying, Nami-san?!
 Dialogue: 0,0:03:45.92,0:03:47.43,Default,,0,0,0,,We don't know for sure they need saving!
@@ -185,8 +185,8 @@ Dialogue: 0,0:08:44.04,0:08:47.68,Default,,0,0,0,,--What the hell?! --A wall of 
 Dialogue: 0,0:08:48.04,0:08:51.22,Default,,0,0,0,,If we collide into it, even this warship would sink!
 Dialogue: 0,0:08:51.22,0:08:53.76,Default,,0,0,0,,--Oh no! --We gotta destroy it!
 Dialogue: 0,0:08:53.76,0:08:55.18,Default,,0,0,0,,Shoot!
-Dialogue: 0,0:09:02.03,0:09:07.70,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Luffy\NPunk Hazard, Center Lake
-Dialogue: 1,0:09:02.03,0:09:07.70,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Luffy\NPunk Hazard, Center Lake
+Dialogue: 0,0:09:02.03,0:09:07.70,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Punk Hazard, Center Lake\NLuffy's Location
+Dialogue: 1,0:09:02.03,0:09:07.70,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Punk Hazard, Center Lake\NLuffy's Location
 Dialogue: 0,0:09:11.82,0:09:13.33,Default,,0,0,0,,They are...
 Dialogue: 0,0:09:16.23,0:09:19.71,Default,,0,0,0,,Boss! Please take care of them!
 Dialogue: 0,0:09:25.33,0:09:26.48,DefaultLow,,0,0,0,,Be ready!
@@ -217,8 +217,8 @@ Dialogue: 0,0:10:32.94,0:10:36.25,Default,,0,0,0,,--I'm not gonna kill you! Stop
 Dialogue: 0,0:10:36.85,0:10:38.79,Default,,0,0,0,,What a pathetic ploy!
 Dialogue: 0,0:10:39.16,0:10:43.11,Default,,0,0,0,,We can't let them go any further! Shoot them!
 Dialogue: 0,0:10:43.11,0:10:44.00,Default,,0,0,0,,Understood!
-Dialogue: 0,0:10:50.47,0:10:54.57,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Nami\NFrozen Lands, {inside the }Mysterious Facility
-Dialogue: 1,0:10:50.47,0:10:54.57,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Nami\NFrozen Lands, {inside the }Mysterious Facility
+Dialogue: 0,0:10:50.47,0:10:54.57,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Frozen Lands, {inside the }Mysterious Facility\NNami's Location
+Dialogue: 1,0:10:50.47,0:10:54.57,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Frozen Lands, {inside the }Mysterious Facility\NNami's Location
 Dialogue: 0,0:11:01.90,0:11:05.44,Default,,0,0,0,,This way, kids! Run if you wanna get away!
 Dialogue: 0,0:11:06.20,0:11:07.82,Default,,0,0,0,,You're on fire, Chopper!
 Dialogue: 0,0:11:07.82,0:11:09.00,Default,,0,0,0,,Of course!
@@ -237,8 +237,8 @@ Dialogue: 0,0:11:54.13,0:11:56.60,Default,,0,0,0,,Sis, are we going to be okay?
 Dialogue: 0,0:11:57.63,0:12:02.61,Default,,0,0,0,,Of course! We've been though situations like this lots of times!
 Dialogue: 0,0:12:02.61,0:12:05.05,Default,,0,0,0,,So just relax and follow us!
 Dialogue: 0,0:12:05.05,0:12:06.04,Default,,0,0,0,,Uh-huh!
-Dialogue: 0,0:12:13.65,0:12:18.36,Sign,,0,0,365,,{\blur0.3\fad(520,520)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(4190,4235,\1a&HFF&)}Team Sanji\NMysterious Facility, Biscuits Room
-Dialogue: 1,0:12:13.65,0:12:18.36,Sign,,0,0,365,,{\blur0.3\fad(520,520)\fs60\bord0\4a&HFF&}Team Sanji\NMysterious Facility, Biscuits Room
+Dialogue: 0,0:12:13.65,0:12:18.36,Sign,,0,0,365,,{\blur0.3\fad(520,520)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)\t(4190,4235,\1a&HFF&)}Mysterious Facility, Biscuits Room\NSanji's Location
+Dialogue: 1,0:12:13.65,0:12:18.36,Sign,,0,0,365,,{\blur0.3\fad(520,520)\fs60\bord0\4a&HFF&}Mysterious Facility, Biscuits Room\NSanji's Location
 Dialogue: 0,0:12:19.98,0:12:23.29,Default,,0,0,0,,Weapons Left!
 Dialogue: 0,0:12:30.72,0:12:32.94,Default,,0,0,0,,Super!
 Dialogue: 0,0:12:33.76,0:12:35.91,Default,,0,0,0,,He has weapons all over his body!
@@ -259,8 +259,8 @@ Dialogue: 0,0:13:37.17,0:13:39.46,Default,,0,0,0,,This one is different from the
 Dialogue: 0,0:13:39.46,0:13:43.34,Default,,0,0,0,,Who is he? He's proving an able opponent!
 Dialogue: 0,0:13:43.61,0:13:45.81,Default,,0,0,0,,Again, what are you talking about?
 Dialogue: 0,0:13:45.81,0:13:49.72,Default,,0,0,0,,Well, that's what's going on with my torso!
-Dialogue: 0,0:13:52.32,0:13:56.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Team Brook\NMysterious Facility, Out-Front
-Dialogue: 1,0:13:52.32,0:13:56.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Team Brook\NMysterious Facility, Out-Front
+Dialogue: 0,0:13:52.32,0:13:56.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord2.2\c&H000000&\1a&HFF&\t(475,520,\1a&H00&)}Mysterious Facility, Out-Front\NBrook's Location
+Dialogue: 1,0:13:52.32,0:13:56.05,Sign,,0,0,365,,{\blur0.3\fad(520,0)\fs60\bord0\4a&HFF&}Mysterious Facility, Out-Front\NBrook's Location
 Dialogue: 0,0:13:59.83,0:14:02.76,Default,,0,0,0,,Hey! What's going on?!
 Dialogue: 0,0:14:02.76,0:14:05.53,Default,,0,0,0,,Wh-Wh-Who are you?!
 Dialogue: 0,0:14:07.68,0:14:10.57,Default,,0,0,0,,Where is your head and legs?!

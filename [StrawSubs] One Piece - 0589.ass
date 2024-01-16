@@ -25,8 +25,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.312500
 Scroll Position: 364
-Active Line: 387
-Video Position: 42288
+Active Line: 381
+Video Position: 41932
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -420,7 +420,7 @@ Dialogue: 0,0:22:45.28,0:22:46.81,Default,,0,0,0,,Just you watch!
 Dialogue: 0,0:22:46.81,0:22:52.12,Default,,0,0,0,,I'll show them who the number one\Nscientist in the world is!
 Dialogue: 0,0:23:08.60,0:23:12.28,Default,,0,0,0,,The children suddenly begin fainting\Nfrom terrible pain, one after the other.
 Dialogue: 0,0:23:12.71,0:23:18.71,Default,,0,0,0,,The Straw Hat crewmates are left stunned\Nwhen Chopper reveals the horrifying cause.
-Dialogue: 0,0:23:19.10,0:23:25.05,Default,,0,0,0,,Meanwhile, Team Zoro sets out to find the samurai, unaware of the colossal shadows looming nearby.
+Dialogue: 0,0:23:19.10,0:23:25.05,Default,,0,0,0,,{\q2}Meanwhile, Zoro's group sets out to find the samurai,\Nunaware of the colossal shadows looming nearby.
 Dialogue: 0,0:23:25.05,0:23:26.42,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:26.42,0:23:29.59,Default,,0,0,0,,"Chopper Enraged\NMaster's Inhumane Experiment"
 Dialogue: 0,0:23:29.59,0:23:31.77,Default,,0,0,0,,I'm gonna be the Pirate King!!
