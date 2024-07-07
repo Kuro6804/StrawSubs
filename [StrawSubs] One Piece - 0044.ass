@@ -121,7 +121,7 @@ Dialogue: 10,0:05:16.74,0:05:20.46,Default,,0,0,0,,If you can't find her around,
 Dialogue: 10,0:05:34.85,0:05:37.94,Default,,0,0,0,,What?! You're {\i1}still{\i0} here, Nami?
 Dialogue: 10,0:05:38.60,0:05:40.98,Default,,0,0,0,,Your friends've been looking for you, you know.
 Dialogue: 10,0:05:43.65,0:05:47.32,Default,,0,0,0,,Say, Nojiko, Gen-{\i1}san{\i0}.
-Dialogue: 10,0:05:47.32,0:05:49.91,Default,,0,0,0,,If Bellemere-{\i1}san{\i0} were alive,
+Dialogue: 10,0:05:47.32,0:05:49.91,Default,,0,0,0,,If Belle-Mère-{\i1}san{\i0} were alive,
 Dialogue: 10,0:05:49.91,0:05:52.83,Default,,0,0,0,,do you think she would \Nstop me from being a pirate?
 Dialogue: 10,0:05:53.37,0:05:54.83,Default,,0,0,0,,A pirate?!
 Dialogue: 10,0:05:55.37,0:05:57.29,Default,,0,0,0,,Give me a break!
@@ -133,12 +133,12 @@ Dialogue: 10,0:06:04.02,0:06:05.76,Default,,0,0,0,,...would you really listen to
 Dialogue: 10,0:06:07.13,0:06:09.34,Default,,0,0,0,,Absolutely not!
 Dialogue: 10,0:06:12.51,0:06:13.72,Default,,0,0,0,,I see...
 Dialogue: 10,0:06:16.35,0:06:17.73,Default,,0,0,0,,What's with you, Gen-{\i1}san{\i0}?
-Dialogue: 10,0:06:20.56,0:06:23.77,Default,,0,0,0,,You two are definitely Bellemere's kids, all right.
+Dialogue: 10,0:06:20.56,0:06:23.77,Default,,0,0,0,,You two are definitely Belle-Mère's kids, all right.
 Dialogue: 10,0:06:24.28,0:06:25.53,Default,,0,0,0,,Gen-{\i1}san{\i0}?
 Dialogue: 10,0:06:25.53,0:06:28.82,Default,,0,0,0,,Nami. \NYou've already made up your mind, right?
 Dialogue: 10,0:06:28.82,0:06:30.53,Default,,0,0,0,,Then live how {\i1}you{\i0} want!
 Dialogue: 10,0:06:31.32,0:06:33.03,Default,,0,0,0,,Just as your mother did!
-Dialogue: 10,0:06:34.79,0:06:37.54,Default,,0,0,0,,I'm sure that's what Bellemere wants, too.
+Dialogue: 10,0:06:34.79,0:06:37.54,Default,,0,0,0,,I'm sure that's what Belle-Mère wants, too.
 Dialogue: 10,0:06:55.43,0:06:57.10,Default,,0,0,0,,Whew, I'm stuffed!
 Dialogue: 10,0:06:57.44,0:07:00.06,Default,,0,0,0,,Sometimes it's nice to only eat!
 Dialogue: 10,0:07:00.60,0:07:02.31,Default,,0,0,0,,Are your wounds all better now, Zoro?
@@ -207,7 +207,7 @@ Dialogue: 10,0:10:14.76,0:10:17.30,Default,,0,0,0,,There's a tattoo I'd like to 
 Dialogue: 10,0:10:18.59,0:10:19.76,Default,,0,0,0,,Here.
 Dialogue: 10,0:10:20.76,0:10:22.26,Default,,0,0,0,,Those two can dance!
 Dialogue: 10,0:10:22.26,0:10:26.23,Default,,0,0,0,,Here's Usopp Support Song #185!
-Dialogue: 10,0:10:30.86,0:10:32.94,Default,,0,0,0,,Bellemere.
+Dialogue: 10,0:10:30.86,0:10:32.94,Default,,0,0,0,,Belle-Mère.
 Dialogue: 10,0:10:32.94,0:10:37.15,Default,,0,0,0,,Your daughters have grown up \Nto be truly strong and respectable!
 Dialogue: 10,0:10:38.36,0:10:40.87,Default,,0,0,0,,It's almost as if I'm seeing you in life again!
 Dialogue: 10,0:10:41.41,0:10:44.87,Default,,0,0,0,,What?! You're going to be a marine?!
@@ -256,7 +256,7 @@ Dialogue: 10,0:14:11.74,0:14:15.58,Default,,0,0,0,,I'm gonna use my navigation s
 Dialogue: 10,0:14:15.58,0:14:19.21,Default,,0,0,0,,And then I'm gonna make a \Nworld map of everything I see!
 Dialogue: 10,0:14:19.50,0:14:24.17,Default,,0,0,0,,So your map of this island is your \Nfirst step toward your dream, then?
 Dialogue: 10,0:14:24.67,0:14:25.59,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:14:56.79,0:14:59.70,Default,,0,0,0,,It's all over, Bellemere-{\i1}san{\i0}.
+Dialogue: 10,0:14:56.79,0:14:59.70,Default,,0,0,0,,It's all over, Belle-Mère-{\i1}san{\i0}.
 Dialogue: 10,0:14:59.70,0:15:03.35,Default,,0,0,0,,It took eight years, but we're finally free!
 Dialogue: 10,0:15:03.35,0:15:05.84,Default,,0,0,0,,Me, and all the others...
 Dialogue: 10,0:15:05.84,0:15:08.55,Default,,0,0,0,,It's exactly like you said.

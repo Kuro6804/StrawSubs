@@ -70,14 +70,14 @@ Dialogue: 10,0:01:57.51,0:02:00.18,Default,,0,0,0,,Ahhh! That bastard!
 Dialogue: 10,0:02:00.18,0:02:02.51,Default,,0,0,0,,I'll find him right away and finish him off!
 Dialogue: 10,0:02:02.78,0:02:04.27,Default,,0,0,0,,What's going on here?
 Dialogue: 10,0:02:05.14,0:02:08.73,Default,,0,0,0,,What have they done... to my castle?!
-Dialogue: 10,0:02:08.73,0:02:10.27,Default,,0,0,0,,Doctorine...
+Dialogue: 10,0:02:08.73,0:02:10.27,Default,,0,0,0,,Doktorin...
 Dialogue: 10,0:02:10.27,0:02:11.11,Default,,0,0,0,,Hm?
 Dialogue: 10,0:02:12.52,0:02:14.57,Default,,0,0,0,,He called me...
 Dialogue: 10,0:02:18.03,0:02:19.74,Default,,0,0,0,,his friend...
 Dialogue: 0,0:02:22.37,0:02:31.38,Title,,0,0,0,,{\fad(2000,2000)\fsp-2.75\pos(352,104)}When the Kingdom's Rule Ends!
 Dialogue: 0,0:02:22.37,0:02:31.38,Title,,0,0,0,,{\fad(2000,2000)\fsp-2.5\pos(352,411)}The Flag of Faith Flies Forever
 Dialogue: 10,0:02:34.63,0:02:37.17,Default,,0,0,0,,{\i1}This is no time to be in bed resting!{\i0}
-Dialogue: 10,0:02:37.17,0:02:39.55,Default,,0,0,0,,{\i1}I should get out of here \Nwhile Doctorine isn't around!{\i0}
+Dialogue: 10,0:02:37.17,0:02:39.55,Default,,0,0,0,,{\i1}I should get out of here \Nwhile Doktorin isn't around!{\i0}
 Dialogue: 10,0:02:39.55,0:02:42.05,Default,,0,0,0,,{\i1}I couldn't take being stuck here for three days.{\i0}
 Dialogue: 10,0:02:44.22,0:02:44.97,Default,,0,0,0,,Huh?
 Dialogue: 10,0:02:48.89,0:02:51.35,Default,,0,0,0,,I got lucky! \NLooks like I can leave without a problem.
@@ -236,7 +236,7 @@ Dialogue: 10,0:14:27.01,0:14:29.09,Default,,0,0,0,,What?! What're you going to d
 Dialogue: 10,0:14:30.26,0:14:31.47,Default,,0,0,0,,Hey, let me go!
 Dialogue: 10,0:14:31.47,0:14:34.47,Default,,0,0,0,,Gum-Gum...
 Dialogue: 10,0:14:34.84,0:14:37.18,Default,,0,0,0,,Bowgun!
-Dialogue: 10,0:14:52.91,0:14:54.37,Default,,0,0,0,,Doctorine...
+Dialogue: 10,0:14:52.91,0:14:54.37,Default,,0,0,0,,Doktorin...
 Dialogue: 10,0:14:54.37,0:14:59.79,Default,,0,0,0,,Yeah... It seems... that it's finally come...
 Dialogue: 10,0:15:01.42,0:15:04.17,Default,,0,0,0,,the end of the long nightmare...
 Dialogue: 10,0:15:05.92,0:15:06.88,Default,,0,0,0,,End...
@@ -378,7 +378,7 @@ Dialogue: 0,0:22:43.59,0:22:48.84,ED5-English,,0,0,0,,{\fad(0,200)\blur2}I wonde
 Dialogue: 0,0:22:48.84,0:22:54.01,ED5-English,,0,0,0,,{\blur2}towards the place that leads to the future
 Dialogue: 0,0:22:54.01,0:23:02.27,ED5-English,,0,0,0,,{\fad(0,200)\blur2}Off in the distance it shines, encompassing the world
 Dialogue: 0,0:23:02.27,0:23:06.03,ED5-English,,0,0,0,,{\fad(0,200)\blur2}Before dawn
-Dialogue: 10,0:23:11.41,0:23:14.99,Default,,0,0,0,,Doctorine, thanks for teaching me \Nmedical science all this time.
+Dialogue: 10,0:23:11.41,0:23:14.99,Default,,0,0,0,,Doktorin, thanks for teaching me \Nmedical science all this time.
 Dialogue: 10,0:23:15.66,0:23:17.37,Default,,0,0,0,,Although I experienced many hardships,
 Dialogue: 10,0:23:17.37,0:23:21.04,Default,,0,0,0,,I love this country where I met Doctor and you.
 Dialogue: 10,0:23:21.04,0:23:23.13,Default,,0,0,0,,But I'm leaving. I'm going out to sea!

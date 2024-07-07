@@ -87,7 +87,7 @@ Dialogue: 10,0:02:52.81,0:02:54.40,Default,,0,0,0,,Where are you going, Luffy?!
 Dialogue: 10,0:02:54.40,0:02:55.53,Default,,0,0,0,,For a walk.
 Dialogue: 10,0:02:56.36,0:02:57.49,Default,,0,0,0,,Who's he?
 Dialogue: 0,0:02:58.32,0:03:07.29,Title,,0,0,0,,{\fad(2000,2000)\pos(280.5,117)}Untold Past!
-Dialogue: 0,0:02:58.32,0:03:07.29,Title,,0,0,0,,{\fad(2000,2000)\pos(374,417)}Female Warrior Bellemere!
+Dialogue: 0,0:02:58.32,0:03:07.29,Title,,0,0,0,,{\fad(2000,2000)\pos(374,417)}Female Warrior Belle-Mère!
 Dialogue: 10,0:03:10.16,0:03:11.54,Default,,0,0,0,,What a shock!
 Dialogue: 10,0:03:11.99,0:03:16.84,Default,,0,0,0,,I guess we really did see a \Nship fall from the sky, huh?
 Dialogue: 10,0:03:16.84,0:03:21.59,Default,,0,0,0,,It seems some unordinary humans \Nhave stepped foot on this island.
@@ -110,14 +110,14 @@ Dialogue: 10,0:04:36.29,0:04:38.71,Default,,0,0,0,,He seems like a funny guy!
 Dialogue: 10,0:04:38.71,0:04:41.05,Default,,0,0,0,,Just who is he?
 Dialogue: 10,0:04:41.05,0:04:43.72,Default,,0,0,0,,He walked right by us, \Nwith no fear whatsoever.
 Dialogue: 10,0:04:44.26,0:04:46.18,Default,,0,0,0,,He's a mysterious guy.
-Dialogue: 10,0:04:51.22,0:04:52.43,Default,,0,0,0,,Bellemere?
+Dialogue: 10,0:04:51.22,0:04:52.43,Default,,0,0,0,,Belle-Mère?
 Dialogue: 10,0:04:52.70,0:04:55.52,Default,,0,0,0,,And this person raised you and Nami?
 Dialogue: 10,0:04:55.52,0:04:56.81,Default,,0,0,0,,Yeah, that's right.
-Dialogue: 10,0:04:57.73,0:05:02.07,Default,,0,0,0,,How should I start to explain \Nabout Bellemere-{\i1}san{\i0}?
+Dialogue: 10,0:04:57.73,0:05:02.07,Default,,0,0,0,,How should I start to explain \Nabout Belle-Mère-{\i1}san{\i0}?
 Dialogue: 10,0:05:09.37,0:05:10.54,Default,,0,0,0,,I fell asleep?
 Dialogue: 10,0:05:11.20,0:05:13.45,Default,,0,0,0,,Huh? Nojiko?
 Dialogue: 10,0:05:15.16,0:05:16.83,Default,,0,0,0,,Where could she have gone?
-Dialogue: 10,0:05:23.13,0:05:25.76,Default,,0,0,0,,{\i1}Just a little more, Bellemere-{\i0}san{\i1}.{\i0}
+Dialogue: 10,0:05:23.13,0:05:25.76,Default,,0,0,0,,{\i1}Just a little more, Belle-Mère-{\i0}san{\i1}.{\i0}
 Dialogue: 10,0:05:27.72,0:05:31.02,Default,,0,0,0,,{\i1}Just a little more, and everything will return!{\i0}
 Dialogue: 10,0:05:31.02,0:05:32.43,Default,,0,0,0,,{\i1}Cocoyashi Village,{\i0}
 Dialogue: 10,0:05:32.43,0:05:35.52,Default,,0,0,0,,{\i1}the tangerine orchard, and even my dream!{\i0}
@@ -137,8 +137,8 @@ Dialogue: 10,0:06:54.93,0:06:57.52,Default,,0,0,0,,How many times do I have to \
 Dialogue: 10,0:06:57.52,0:06:58.64,Default,,0,0,0,,Bleh!
 Dialogue: 10,0:06:58.64,0:07:01.85,Default,,0,0,0,,It's not my fault we're poor!
 Dialogue: 10,0:07:02.52,0:07:03.81,Default,,0,0,0,,Cheapskate!
-Dialogue: 10,0:07:05.15,0:07:06.36,Default,,0,0,0,,Bellemere!
-Dialogue: 10,0:07:07.23,0:07:10.99,Default,,0,0,0,,Bellemere! \NYour no-good cat's been at it again!
+Dialogue: 10,0:07:05.15,0:07:06.36,Default,,0,0,0,,Belle-Mère!
+Dialogue: 10,0:07:07.23,0:07:10.99,Default,,0,0,0,,Belle-Mère! \NYour no-good cat's been at it again!
 Dialogue: 10,0:07:14.70,0:07:16.74,Default,,0,0,0,,Whadya want? You're annoying!
 Dialogue: 10,0:07:17.50,0:07:19.79,Default,,0,0,0,,Oh! Welcome home, Nami!
 Dialogue: 10,0:07:19.79,0:07:20.92,Default,,0,0,0,,I'm back!
@@ -149,7 +149,7 @@ Dialogue: 10,0:07:28.67,0:07:32.01,Default,,0,0,0,,Surely even you've shoplifted
 Dialogue: 10,0:07:32.01,0:07:34.14,Default,,0,0,0,,{\i1}This{\i0} is why she acts this way!
 Dialogue: 10,0:07:34.14,0:07:35.76,Default,,0,0,0,,I'm just kidding!
 Dialogue: 10,0:07:35.76,0:07:39.10,Default,,0,0,0,,Alright. You paid for her, right?
-Dialogue: 10,0:07:39.10,0:07:40.27,Default,,0,0,0,,B-Bellemere...
+Dialogue: 10,0:07:39.10,0:07:40.27,Default,,0,0,0,,B-Belle-Mère...
 Dialogue: 10,0:07:41.27,0:07:44.15,Default,,0,0,0,,Thanks so much. \NI don't have money right now.
 Dialogue: 10,0:07:44.15,0:07:45.94,Default,,0,0,0,,I'll pay you later...
 Dialogue: 10,0:07:46.44,0:07:48.73,Default,,0,0,0,,...with my body.
@@ -188,7 +188,7 @@ Dialogue: 10,0:09:40.64,0:09:41.85,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:09:42.72,0:09:45.02,Default,,0,0,0,,A map of the world, huh?
 Dialogue: 10,0:09:45.02,0:09:48.81,Default,,0,0,0,,Nami! Someday, you {\i1}will{\i0} \Nmake your dream come true!
 Dialogue: 10,0:09:52.11,0:09:53.40,Default,,0,0,0,,I just know it!
-Dialogue: 10,0:09:58.66,0:10:00.49,Default,,0,0,0,,Hey, Bellemere-{\i1}san{\i0}.
+Dialogue: 10,0:09:58.66,0:10:00.49,Default,,0,0,0,,Hey, Belle-Mère-{\i1}san{\i0}.
 Dialogue: 10,0:10:01.28,0:10:03.41,Default,,0,0,0,,You haven't been eating meals lately...
 Dialogue: 10,0:10:03.78,0:10:05.54,Default,,0,0,0,,I've been eating tangerines, though.
 Dialogue: 10,0:10:06.04,0:10:07.37,Default,,0,0,0,,I'm on a diet!
@@ -204,7 +204,7 @@ Dialogue: 10,0:10:27.77,0:10:33.44,Default,,0,0,0,,They're the reason I still ha
 Dialogue: 10,0:10:33.44,0:10:35.36,Default,,0,0,0,,But your hands are yellow.
 Dialogue: 10,0:10:35.36,0:10:37.11,Default,,0,0,0,,Just shut up and eat!
 Dialogue: 10,0:10:38.95,0:10:41.12,Default,,0,0,0,,Here you are, Nami! All done!
-Dialogue: 10,0:10:41.12,0:10:43.62,Default,,0,0,0,,A super custom-made Bellemere brand!
+Dialogue: 10,0:10:41.12,0:10:43.62,Default,,0,0,0,,A super custom-made Belle-Mère brand!
 Dialogue: 10,0:10:43.62,0:10:45.70,Default,,0,0,0,,Another hand-me-down from Nojiko?
 Dialogue: 10,0:10:45.70,0:10:48.87,Default,,0,0,0,,Here we go! \NIt looks great on you, Nami!
 Dialogue: 10,0:10:49.50,0:10:51.42,Default,,0,0,0,,This lion used to be a sunflower!
@@ -216,7 +216,7 @@ Dialogue: 10,0:11:02.68,0:11:06.18,Default,,0,0,0,,You get my stuff 'cause \Nyou
 Dialogue: 10,0:11:06.55,0:11:09.10,Default,,0,0,0,,But I'm not your real sister!
 Dialogue: 10,0:11:09.10,0:11:11.48,Default,,0,0,0,,We're not related by blood!
 Dialogue: 10,0:11:12.19,0:11:12.90,Default,,0,0,0,,Nami!
-Dialogue: 10,0:11:23.70,0:11:25.12,Default,,0,0,0,,Bellemere-{\i1}san{\i0}!
+Dialogue: 10,0:11:23.70,0:11:25.12,Default,,0,0,0,,Belle-Mère-{\i1}san{\i0}!
 Dialogue: 10,0:11:31.17,0:11:33.50,Default,,0,0,0,,So what if you're not related by blood?!
 Dialogue: 10,0:11:36.84,0:11:39.84,Default,,0,0,0,,Never say anything stupid like that again!
 Dialogue: 10,0:11:40.47,0:11:42.09,Default,,0,0,0,,W-Whatever...
@@ -233,7 +233,7 @@ Dialogue: 10,0:12:20.17,0:12:22.09,Default,,0,0,0,,Stop it, you two!
 Dialogue: 10,0:12:23.09,0:12:24.39,Default,,0,0,0,,I {\i1}will{\i0} leave!
 Dialogue: 10,0:12:25.80,0:12:26.76,Default,,0,0,0,,Nami!
 Dialogue: 10,0:12:27.17,0:12:28.64,Default,,0,0,0,,Nami!!
-Dialogue: 10,0:13:00.59,0:13:02.17,Default,,0,0,0,,Bellemere-{\i1}san{\i0}...
+Dialogue: 10,0:13:00.59,0:13:02.17,Default,,0,0,0,,Belle-Mère-{\i1}san{\i0}...
 Dialogue: 10,0:13:02.46,0:13:05.47,Default,,0,0,0,,The three of us are a family!
 Dialogue: 10,0:13:05.47,0:13:07.51,Default,,0,0,0,,I'm sure Nami feels the same way!
 Dialogue: 10,0:13:07.81,0:13:09.76,Default,,0,0,0,,She didn't mean what she said!
@@ -249,19 +249,19 @@ Dialogue: 10,0:13:50.86,0:13:55.77,Default,,0,0,0,,It wouldn't hurt to buy any o
 Dialogue: 10,0:14:04.07,0:14:07.15,Default,,0,0,0,,So, coming here from the outskirts \Nof the village is "running away"?
 Dialogue: 10,0:14:07.15,0:14:08.61,Default,,0,0,0,,That's sure nice and convenient!
 Dialogue: 10,0:14:10.49,0:14:12.45,Default,,0,0,0,,Here. Drink up before it gets cold!
-Dialogue: 10,0:14:15.33,0:14:19.04,Default,,0,0,0,,Bellemere-{\i1}san{\i0} would be \Nhappier if we were gone.
+Dialogue: 10,0:14:15.33,0:14:19.04,Default,,0,0,0,,Belle-Mère-{\i1}san{\i0} would be \Nhappier if we were gone.
 Dialogue: 10,0:14:19.79,0:14:21.00,Default,,0,0,0,,Why do you think that?
 Dialogue: 10,0:14:22.13,0:14:25.17,Default,,0,0,0,,Having two children costs lots of money...
 Dialogue: 10,0:14:25.17,0:14:28.68,Default,,0,0,0,,And everyone in the village \Nhates her, because of me...
 Dialogue: 10,0:14:29.39,0:14:32.51,Default,,0,0,0,,You're old enough to consider others now, huh?
 Dialogue: 10,0:14:33.85,0:14:35.14,Default,,0,0,0,,Don't worry.
 Dialogue: 10,0:14:35.14,0:14:39.02,Default,,0,0,0,,She was a famous brat in this \Nvillage when she was your age, too.
-Dialogue: 10,0:14:39.36,0:14:40.77,Default,,0,0,0,,Bellemere-{\i1}san{\i0} was?!
+Dialogue: 10,0:14:39.36,0:14:40.77,Default,,0,0,0,,Belle-Mère-{\i1}san{\i0} was?!
 Dialogue: 10,0:14:41.07,0:14:44.61,Default,,0,0,0,,Even now, she's still quite \Na brat in the villagers' eyes!
 Dialogue: 10,0:14:45.78,0:14:49.07,Default,,0,0,0,,How shocked the village was \Nwhen that brat suddenly said
 Dialogue: 10,0:14:49.07,0:14:50.78,Default,,0,0,0,,she was going to be a marine...
 Dialogue: 10,0:14:50.78,0:14:52.24,Default,,0,0,0,,A marine?!
-Dialogue: 10,0:14:52.24,0:14:54.28,Default,,0,0,0,,Bellemere-{\i1}san{\i0} was a marine?!
+Dialogue: 10,0:14:52.24,0:14:54.28,Default,,0,0,0,,Belle-Mère-{\i1}san{\i0} was a marine?!
 Dialogue: 10,0:14:54.55,0:14:55.83,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:15:04.13,0:15:08.55,Default,,0,0,0,,Pirates have to pay for \Nslaughtering innocent people...
 Dialogue: 10,0:15:08.55,0:15:11.05,Default,,0,0,0,,With those words, she left the village.
@@ -271,12 +271,12 @@ Dialogue: 10,0:15:45.79,0:15:47.00,Default,,0,0,0,,Your baby sister?
 Dialogue: 10,0:15:52.05,0:15:54.55,Default,,0,0,0,,No. I don't know who she is.
 Dialogue: 10,0:16:04.44,0:16:06.48,Default,,0,0,0,,You have no idea how that makes me feel...
 Dialogue: 10,0:16:21.50,0:16:24.12,Default,,0,0,0,,And that was you, Nami.
-Dialogue: 10,0:16:25.25,0:16:29.67,Default,,0,0,0,,When she saw you, Bellemere \Nmustered up the will to live again.
+Dialogue: 10,0:16:25.25,0:16:29.67,Default,,0,0,0,,When she saw you, Belle-Mère \Nmustered up the will to live again.
 Dialogue: 10,0:16:40.60,0:16:42.89,Default,,0,0,0,,It {\i1}is{\i0} a boat! I knew it!
 Dialogue: 10,0:16:42.89,0:16:45.73,Default,,0,0,0,,On a stormy night like tonight?! \NWho on earth could it be?!
 Dialogue: 10,0:16:54.95,0:16:57.62,Default,,0,0,0,,Doctor! Call the doctor!
-Dialogue: 10,0:16:58.28,0:17:00.95,Default,,0,0,0,,Bellemere? Is that you, Bellemere?!
-Dialogue: 10,0:17:00.95,0:17:01.83,Default,,0,0,0,,Bellemere!
+Dialogue: 10,0:16:58.28,0:17:00.95,Default,,0,0,0,,Belle-Mère? Is that you, Belle-Mère?!
+Dialogue: 10,0:17:00.95,0:17:01.83,Default,,0,0,0,,Belle-Mère!
 Dialogue: 10,0:17:01.83,0:17:03.41,Default,,0,0,0,,What is {\i1}this{\i0}?!
 Dialogue: 10,0:17:06.92,0:17:07.92,Default,,0,0,0,,Who are these children?!
 Dialogue: 10,0:17:07.92,0:17:10.09,Default,,0,0,0,,Doctor! They have terrible fevers!
@@ -303,7 +303,7 @@ Dialogue: 10,0:18:10.65,0:18:13.73,Default,,0,0,0,,Nami and Nojiko gave me life.
 Dialogue: 10,0:18:18.91,0:18:23.74,Default,,0,0,0,,You girls have a bond that goes \Nfar deeper than a real family's.
 Dialogue: 10,0:18:27.87,0:18:30.08,Default,,0,0,0,,Nami! I {\i1}thought{\i0} you'd be here!
 Dialogue: 10,0:18:30.08,0:18:31.84,Default,,0,0,0,,N-Nojiko!
-Dialogue: 10,0:18:32.34,0:18:34.30,Default,,0,0,0,,Bellemere-{\i1}san{\i0} is waiting for us!
+Dialogue: 10,0:18:32.34,0:18:34.30,Default,,0,0,0,,Belle-Mère-{\i1}san{\i0} is waiting for us!
 Dialogue: 10,0:18:34.92,0:18:36.76,Default,,0,0,0,,She's making a yummy supper!
 Dialogue: 10,0:18:38.72,0:18:39.76,Default,,0,0,0,,Okay!
 Dialogue: 10,0:18:40.51,0:18:44.06,Default,,0,0,0,,I bet it's your favorite! \NOmelets with tangerine sauce!
@@ -348,7 +348,7 @@ Dialogue: 10,0:21:09.40,0:21:11.87,Default,,0,0,0,,100,000?! \NWe can't make a l
 Dialogue: 10,0:21:11.87,0:21:13.12,Default,,0,0,0,,Endure it for now!
 Dialogue: 10,0:21:13.12,0:21:16.54,Default,,0,0,0,,We should just be glad no \None in the village has died.
 Dialogue: 10,0:21:17.88,0:21:20.96,Default,,0,0,0,,{\i1}If money is all that's needed, \Nit's an easy price to pay.{\i0}
-Dialogue: 10,0:21:21.84,0:21:26.68,Default,,0,0,0,,{\i1}I at least hope they'll leave \Nwithout noticing Bellemere's house.{\i0}
+Dialogue: 10,0:21:21.84,0:21:26.68,Default,,0,0,0,,{\i1}I at least hope they'll leave \Nwithout noticing Belle-Mère's house.{\i0}
 Dialogue: 10,0:21:28.09,0:21:31.34,Default,,0,0,0,,{\i1}With the two children, it would \Ncome to 200,000 berries...{\i0}
 Dialogue: 10,0:21:31.34,0:21:33.64,Default,,0,0,0,,{\i1}I doubt she has that much saved up.{\i0}
 Dialogue: 10,0:21:34.68,0:21:38.02,Default,,0,0,0,,Alright! Time to go, brothers!
@@ -356,22 +356,22 @@ Dialogue: 10,0:21:41.73,0:21:44.69,Default,,0,0,0,,Arlong-{\i1}san{\i0}! \NThere
 Dialogue: 10,0:21:51.08,0:21:52.41,Default,,0,0,0,,Okay!
 Dialogue: 10,0:21:52.41,0:21:53.66,Default,,0,0,0,,Alright, let's see!
 Dialogue: 10,0:21:54.29,0:21:55.87,Default,,0,0,0,,Too delicious!
-Dialogue: 10,0:21:55.87,0:21:58.12,Default,,0,0,0,,Nothing's quite like Bellemere's \NSpecial Tangerine Sauce!
+Dialogue: 10,0:21:55.87,0:21:58.12,Default,,0,0,0,,Nothing's quite like Belle-Mère's \NSpecial Tangerine Sauce!
 Dialogue: 10,0:21:58.39,0:22:00.63,Default,,0,0,0,,Nami and Nojiko are gonna \Nleap out of their seats!
 Dialogue: 10,0:22:01.09,0:22:03.96,Default,,0,0,0,,The smoke is coming from a house!
 Dialogue: 10,0:22:05.30,0:22:07.93,Default,,0,0,0,,Oh? We almost missed it.
 Dialogue: 10,0:22:07.93,0:22:09.39,Default,,0,0,0,,{\i1}Damn!{\i0}
-Dialogue: 10,0:22:09.39,0:22:10.97,Default,,0,0,0,,Bellemere-{\i1}san{\i0}!
+Dialogue: 10,0:22:09.39,0:22:10.97,Default,,0,0,0,,Belle-Mère-{\i1}san{\i0}!
 Dialogue: 10,0:22:12.10,0:22:14.22,Default,,0,0,0,,Let's go! Let's collect our money!
 Dialogue: 10,0:22:15.81,0:22:18.48,Default,,0,0,0,,Whoa, this is bad! The pirates...
-Dialogue: 10,0:22:18.48,0:22:20.27,Default,,0,0,0,,...are headed to Bellemere's house!
+Dialogue: 10,0:22:18.48,0:22:20.27,Default,,0,0,0,,...are headed to Belle-Mère's house!
 Dialogue: 10,0:22:24.57,0:22:26.70,Default,,0,0,0,,Hey! Nojiko and Nami are gone!
 Dialogue: 10,0:22:26.70,0:22:27.74,Default,,0,0,0,,What?!
 Dialogue: 10,0:22:28.41,0:22:32.41,Default,,0,0,0,,Ten more minutes for the duck in the oven. \NAnd the stew is boiling.
 Dialogue: 10,0:22:32.41,0:22:34.49,Default,,0,0,0,,This'll be a big blow to our family budget.
 Dialogue: 10,0:22:34.49,0:22:37.66,Default,,0,0,0,,But I guess I'll splurge, anyway!
-Dialogue: 10,0:22:44.46,0:22:46.88,Default,,0,0,0,,Bellemere-{\i1}san{\i0}'s gonna... \NBellemere-{\i1}san{\i0}'s gonna...
-Dialogue: 10,0:22:49.51,0:22:51.51,Default,,0,0,0,,Bellemere-{\i1}san{\i0}'s gonna be killed!
+Dialogue: 10,0:22:44.46,0:22:46.88,Default,,0,0,0,,Belle-Mère-{\i1}san{\i0}'s gonna... \NBelle-Mère-{\i1}san{\i0}'s gonna...
+Dialogue: 10,0:22:49.51,0:22:51.51,Default,,0,0,0,,Belle-Mère-{\i1}san{\i0}'s gonna be killed!
 Dialogue: 0,0:22:57.02,0:23:01.86,ED2-Romaji,,0,0,0,,{\fscx129.8\fad(150,150)}hamidashita kimochi tsunagara nakute
 Dialogue: 0,0:23:01.86,0:23:06.69,ED2-Romaji,,0,0,0,,{\fscx129.8\fad(150,150)}kimi no te o gyutto ni girikaesu yo
 Dialogue: 0,0:23:06.70,0:23:11.62,ED2-Romaji,,0,0,0,,{\fscx129.8\fad(150,150)}hitori demo boku wa arukidasu kara
@@ -404,7 +404,7 @@ Dialogue: 10,0:24:21.77,0:24:24.06,Default,,0,0,0,,Yes, I'm sorry. \NWait, why a
 Dialogue: 10,0:24:24.06,0:24:25.48,Default,,0,0,0,,Is it over? Where's Luffy?
 Dialogue: 10,0:24:25.48,0:24:27.57,Default,,0,0,0,,He was really sleeping?!
 Dialogue: 10,0:24:27.94,0:24:28.90,Default,,0,0,0,,Next time, on One Piece:
-Dialogue: 10,0:24:29.19,0:24:32.24,Default,,0,0,0,,Survive! \NMother Bellemere and Nami's Bond!
+Dialogue: 10,0:24:29.19,0:24:32.24,Default,,0,0,0,,Survive! \NMother Belle-Mère and Nami's Bond!
 Dialogue: 10,0:24:32.24,0:24:34.41,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!!
 Dialogue: 0,0:24:33.15,0:24:35.95,Title,,0,0,0,,{\fad(280,0)\pos(352,120)}Survive!
-Dialogue: 0,0:24:33.15,0:24:35.95,Title,,0,0,0,,{\fad(280,0)\pos(352,465)}Mother Bellemere \Nand Nami's Bond!
+Dialogue: 0,0:24:33.15,0:24:35.95,Title,,0,0,0,,{\fad(280,0)\pos(352,465)}Mother Belle-Mère \Nand Nami's Bond!

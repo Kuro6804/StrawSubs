@@ -78,7 +78,7 @@ Dialogue: 10,0:02:45.26,0:02:49.69,Default,,0,0,0,,I'd die before I break an \Na
 Dialogue: 10,0:02:49.69,0:02:51.56,Default,,0,0,0,,It doesn't matter how many years it takes.
 Dialogue: 10,0:02:51.56,0:02:53.31,Default,,0,0,0,,I'll honor our agreement.
 Dialogue: 10,0:02:58.99,0:03:01.70,Default,,0,0,0,,I absolutely will save up 100 million berries!
-Dialogue: 10,0:03:02.37,0:03:04.49,Default,,0,0,0,,Bellemere-{\i1}san{\i0}! I {\i1}will{\i0} do it!
+Dialogue: 10,0:03:02.37,0:03:04.49,Default,,0,0,0,,Belle-Mère-{\i1}san{\i0}! I {\i1}will{\i0} do it!
 Dialogue: 10,0:03:04.75,0:03:06.99,Default,,0,0,0,,No matter how much time it takes!
 Dialogue: 0,0:03:06.99,0:03:16.00,Title,,0,0,0,,{\fad(2000,2000)\pos(374,120)}Luffy Rises!
 Dialogue: 0,0:03:06.99,0:03:16.00,Title,,0,0,0,,{\fad(2000,2000)\q2\pos(352,410)\fsp-2}Result of the Broken Promise!
@@ -113,7 +113,7 @@ Dialogue: 10,0:05:12.86,0:05:17.46,Default,,0,0,0,,People all over the island've
 Dialogue: 10,0:05:17.46,0:05:20.96,Default,,0,0,0,,How dare you just pass them by and come here!
 Dialogue: 10,0:05:21.26,0:05:24.05,Default,,0,0,0,,Colonel! \NThis tangerine orchard seems suspicious!
 Dialogue: 10,0:05:24.05,0:05:24.92,Default,,0,0,0,,Dig it up!
-Dialogue: 10,0:05:29.05,0:05:32.43,Default,,0,0,0,,Keep your filthy hands off of \NBellemere-{\i1}san{\i0}'s tangerine orchard!
+Dialogue: 10,0:05:29.05,0:05:32.43,Default,,0,0,0,,Keep your filthy hands off of \NBelle-Mère-{\i1}san{\i0}'s tangerine orchard!
 Dialogue: 10,0:05:35.69,0:05:37.27,Default,,0,0,0,,I won't let you have my money!
 Dialogue: 10,0:05:37.27,0:05:39.40,Default,,0,0,0,,That money's for... \NThat money's for...
 Dialogue: 10,0:05:41.61,0:05:45.61,Default,,0,0,0,,This girl's money is meant \Nto save Cocoyashi Village!
