@@ -118,7 +118,7 @@ Dialogue: 0,0:04:38.26,0:04:47.14,Title Card - Top,,0,0,0,,{\blur0.8\fad(1954,19
 Dialogue: 1,0:04:38.26,0:04:47.14,Title Card - Top,,0,0,0,,{\bord0\blur0.8\fad(1954,1954)\4a&HFF&}A Paradise in Hell
 Dialogue: 0,0:04:38.26,0:04:47.14,Title Card - Bottom,,0,0,0,,{\blur0.8\fad(1954,1954)\c&H000000&\1a&HFF&\t(1909,1954,\1a&H00&)\t(6926,6971,\1a&HFF&)}Impel Down Level 5.5
 Dialogue: 1,0:04:38.26,0:04:47.14,Title Card - Bottom,,0,0,0,,{\bord0\blur0.8\fad(1954,1954)\4a&HFF&}Impel Down Level 5.5
-Dialogue: 0,0:04:50.48,0:04:53.11,Default,,0,0,0,,T-This is no good!
+Dialogue: 0,0:04:50.48,0:04:53.11,Default,,0,0,0,,Th-This is no good!
 Dialogue: 0,0:05:01.46,0:05:04.73,Default,,0,0,0,,We have no choice! \NWe should lock ourselves up!
 Dialogue: 0,0:05:07.13,0:05:09.44,Default,,0,0,0,,Alright! I'll draw their attention!
 Dialogue: 0,0:05:09.44,0:05:10.52,Default,,0,0,0,,Open it quick!
@@ -160,7 +160,7 @@ Dialogue: 0,0:07:12.62,0:07:15.50,Default,,0,0,0,,What happened to the wolves?
 Dialogue: 0,0:07:16.21,0:07:18.48,Default,,0,0,0,,Yeah, where the hell do they go?!
 Dialogue: 0,0:07:18.48,0:07:20.74,Default,,0,0,0,,All of them are gone!
 Dialogue: 0,0:07:24.23,0:07:26.03,Default,,0,0,0,,What's that noise?
-Dialogue: 0,0:07:37.08,0:07:38.60,Default,,0,0,0,,T-This must be...
+Dialogue: 0,0:07:37.08,0:07:38.60,Default,,0,0,0,,Th-This must be...
 Dialogue: 0,0:07:42.13,0:07:44.82,Default,,0,0,0,,That was pretty clever of them!
 Dialogue: 0,0:08:05.49,0:08:08.21,Default,,0,0,0,,Who the hell is this guy \Nall covered in blood?!
 Dialogue: 0,0:08:15.70,0:08:17.90,Default,,0,0,0,,Earlier, I was...
