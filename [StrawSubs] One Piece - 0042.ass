@@ -15,18 +15,20 @@ Last Style Storage: One Piece 1-206
 Audio File: ../References & Raws/[A&C] One Piece/[A&C] One Piece - 0042 [DVDrip] [Multi-Audio-Subs] [v2] [56968CC3].mkv
 Video File: ../References & Raws/[A&C] One Piece/[A&C] One Piece - 0042 [DVDrip] [Multi-Audio-Subs] [v2] [56968CC3].mkv
 Video AR Value: 1.466667
-Video Zoom Percent: 1.250000
-Video Position: 65
+Video Zoom Percent: 1.625000
+Active Line: 11
+Video Position: 1150
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Title,G.I. Incognito Small,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,110,100,0,0,1,2.5,0,2,0,0,382,1
 Style: Default,Impress BT,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,1.47,0,2,88,88,22,1
-Style: Opening,DFGiHi StdN W7,45,&H00FFFFFF,&H00FFFFFF,&H2C000000,&H00000000,-1,0,0,0,82,100,0.1,0,1,2.2,0,2,11,11,5,1
+Style: Opening,DFGiHi StdN W7,45,&H00FFFFFF,&H00FFFFFF,&H2C000000,&H00000000,-1,0,0,0,82,100,0.1,0,1,2.2,0,2,11,11,2,1
+Style: Opening 2,DFGiHi StdN W7,46,&H00FFFFFF,&H00FFFFFF,&H2C000000,&H00000000,-1,0,0,0,82,100,0.1,0,1,2.25,0,2,11,11,2,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:02.55,0:00:04.68,Default,,0,0,0,,{=0}Wealth, fame, power...
+Dialogue: 10,0:00:02.55,0:00:04.68,Default,,0,0,0,,{=2}Wealth, fame, power...
 Dialogue: 10,0:00:04.68,0:00:08.88,Default,,0,0,0,,And the man that had it all,\N Pirate King Gold Roger...
 Dialogue: 10,0:00:08.88,0:00:12.69,Default,,0,0,0,,His final words spurred people\N to take to the seas in droves:
 Dialogue: 10,0:00:12.69,0:00:16.50,Default,,0,0,0,,My treasure?\N If you want it, you can have it...
@@ -37,12 +39,12 @@ Dialogue: 0,0:00:31.34,0:00:35.94,Opening,,0,0,0,,{\blur0.5\c&H000000&}We’re g
 Dialogue: 1,0:00:31.34,0:00:35.94,Opening,,0,0,0,,{\bord0\blur0.5\4a&HFF&}We’re gonna pool all our dreams together,
 Dialogue: 0,0:00:36.97,0:00:42.39,Opening,,0,0,0,,{\blur0.5\c&H000000&}and go find what we’re looking for...
 Dialogue: 1,0:00:36.97,0:00:42.39,Opening,,0,0,0,,{\bord0\blur0.5\4a&HFF&}and go find what we’re looking for...
-Dialogue: 0,0:00:42.79,0:00:48.43,Opening,,0,0,0,,{\blur0.5\fsp1\pos(294.8,475)\c&H000000&}ONE
-Dialogue: 1,0:00:42.79,0:00:48.43,Opening,,0,0,0,,{\bord0\blur0.5\fsp1\pos(294.8,475)\4a&HFF&}ONE
-Dialogue: 0,0:00:42.79,0:00:48.43,Opening,,0,0,0,,{\blur0.5\fsp1.2\pos(390,475)\c&H000000&}PIECE
-Dialogue: 1,0:00:42.79,0:00:48.43,Opening,,0,0,0,,{\bord0\blur0.5\fsp1.2\pos(390,475)\4a&HFF&}PIECE
-Dialogue: 0,0:00:42.79,0:00:48.43,Opening,,0,0,0,,{\blur0.5\pos(444.2,475)\c&H000000&}!
-Dialogue: 1,0:00:42.79,0:00:48.43,Opening,,0,0,0,,{\bord0\blur0.5\pos(444.2,475)\4a&HFF&}!
+Dialogue: 0,0:00:42.79,0:00:48.43,Opening 2,,0,0,0,,{\blur0.5\fsp1\c&H000000&\pos(294.26,478)}ONE
+Dialogue: 1,0:00:42.79,0:00:48.43,Opening 2,,0,0,0,,{\bord0\blur0.5\fsp1\4a&HFF&\pos(294.26,478)}ONE
+Dialogue: 0,0:00:42.79,0:00:48.43,Opening 2,,0,0,0,,{\blur0.5\fsp1.2\c&H000000&\pos(390.54,478)}PIECE
+Dialogue: 1,0:00:42.79,0:00:48.43,Opening 2,,0,0,0,,{\bord0\blur0.5\fsp1.2\4a&HFF&\pos(390.54,478)}PIECE
+Dialogue: 0,0:00:42.79,0:00:48.43,Opening 2,,0,0,0,,{\blur0.5\c&H000000&\pos(445.27,478)}!
+Dialogue: 1,0:00:42.79,0:00:48.43,Opening 2,,0,0,0,,{\bord0\blur0.5\4a&HFF&\pos(445.27,478)}!
 Dialogue: 0,0:00:48.93,0:00:53.77,Opening,,0,0,0,,{\blur0.5\c&H000000&}Compasses and stuff’ll only slow us down
 Dialogue: 1,0:00:48.93,0:00:53.77,Opening,,0,0,0,,{\bord0\blur0.5\4a&HFF&}Compasses and stuff’ll only slow us down
 Dialogue: 0,0:00:54.60,0:00:59.20,Opening,,0,0,0,,{\blur0.5\c&H000000&}Delirious with fever, let’s take the helm
@@ -63,38 +65,38 @@ Dialogue: 0,0:01:32.64,0:01:37.84,Opening,,0,0,0,,{\blur0.5\c&H000000&}and go fi
 Dialogue: 1,0:01:32.64,0:01:37.84,Opening,,0,0,0,,{\bord0\blur0.5\4a&HFF&}and go find what we’re looking for...
 Dialogue: 0,0:01:38.18,0:01:41.08,Opening,,0,0,0,,{\blur0.5\c&H000000&}Pockets bulging with coins,
 Dialogue: 1,0:01:38.18,0:01:41.08,Opening,,0,0,0,,{\bord0\blur0.5\4a&HFF&}Pockets bulging with coins,
-Dialogue: 0,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\blur0.5\pos(158.5,475)\c&H000000&}I ask:
-Dialogue: 1,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\bord0\blur0.5\pos(158.5,475)\4a&HFF&}I ask:
-Dialogue: 0,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\blur0.5\pos(230,475)\c&H000000&}You
-Dialogue: 1,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\bord0\blur0.5\pos(230,475)\4a&HFF&}You
-Dialogue: 0,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\blur0.5\pos(316.3,475)\c&H000000&}wanna
-Dialogue: 1,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\bord0\blur0.5\pos(316.3,475)\4a&HFF&}wanna
-Dialogue: 0,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\blur0.5\pos(390,475)\c&H000000&}be
-Dialogue: 1,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\bord0\blur0.5\pos(390,475)\4a&HFF&}be
-Dialogue: 0,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\blur0.5\pos(439.5,475)\c&H000000&}my
-Dialogue: 1,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\bord0\blur0.5\pos(439.5,475)\4a&HFF&}my
-Dialogue: 0,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\blur0.5\fsp0.4\pos(520.4,475)\c&H000000&}Friend
-Dialogue: 1,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\bord0\blur0.5\fsp0.4\pos(520.4,475)\4a&HFF&}Friend
-Dialogue: 0,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\blur0.5\pos(577.1,475)\c&H000000&}?
-Dialogue: 1,0:01:41.18,0:01:44.38,Opening,,0,0,0,,{\bord0\blur0.5\pos(577.1,475)\4a&HFF&}?
-Dialogue: 0,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\blur0.5\pos(148,475)\c&H000000&}We
-Dialogue: 1,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\bord0\blur0.5\pos(148,475)\4a&HFF&}We
-Dialogue: 0,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\blur0.5\fsp0.6\pos(210.5,475)\c&H000000&}are,
-Dialogue: 1,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\bord0\blur0.5\fsp0.6\pos(210.5,475)\4a&HFF&}are,
-Dialogue: 0,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\blur0.5\pos(271,475)\c&H000000&}We
-Dialogue: 1,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\bord0\blur0.5\pos(271,475)\4a&HFF&}We
-Dialogue: 0,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\blur0.5\fsp0.6\pos(327.7,475)\c&H000000&}are
-Dialogue: 1,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\bord0\blur0.5\fsp0.6\pos(327.7,475)\4a&HFF&}are
-Dialogue: 0,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\blur0.5\fsp0.6\pos(380,475)\c&H000000&}on
-Dialogue: 1,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\bord0\blur0.5\fsp0.6\pos(380,475)\4a&HFF&}on
-Dialogue: 0,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\blur0.5\fsp0.6\pos(434,475)\c&H000000&}the
-Dialogue: 1,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\bord0\blur0.5\fsp0.6\pos(434,475)\4a&HFF&}the
-Dialogue: 0,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\blur0.5\fscx84\fsp0.6\pos(513,475)\c&H000000&}cruise
-Dialogue: 1,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\bord0\blur0.5\fscx84\fsp0.6\pos(513,475)\4a&HFF&}cruise
-Dialogue: 0,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\blur0.5\pos(565.7,475)\c&H000000&}!
-Dialogue: 1,0:01:44.42,0:01:48.96,Opening,,0,0,0,,{\bord0\blur0.5\pos(565.7,475)\4a&HFF&}!
+Dialogue: 0,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\blur0.5\c&H000000&\pos(156,478)}I ask:
+Dialogue: 1,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\bord0\blur0.5\4a&HFF&\pos(156,478)}I ask:
+Dialogue: 0,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\blur0.5\c&H000000&\pos(227.87,478)}You
+Dialogue: 1,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\bord0\blur0.5\4a&HFF&\pos(227.87,478)}You
+Dialogue: 0,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\blur0.5\c&H000000&\pos(314.67,478)}wanna
+Dialogue: 1,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\bord0\blur0.5\4a&HFF&\pos(314.67,478)}wanna
+Dialogue: 0,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\blur0.5\c&H000000&\pos(390.53,478)}be
+Dialogue: 1,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\bord0\blur0.5\4a&HFF&\pos(390.53,478)}be
+Dialogue: 0,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\blur0.5\c&H000000&\pos(441.1,478)}my
+Dialogue: 1,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\bord0\blur0.5\4a&HFF&\pos(441.1,478)}my
+Dialogue: 0,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\blur0.5\fsp0.4\c&H000000&\pos(522,478)}Friend
+Dialogue: 1,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\bord0\blur0.5\fsp0.4\4a&HFF&\pos(522,478)}Friend
+Dialogue: 0,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\blur0.5\c&H000000&\pos(579.23,478)}?
+Dialogue: 1,0:01:41.18,0:01:44.38,Opening 2,,0,0,0,,{\bord0\blur0.5\4a&HFF&\pos(579.23,478)}?
+Dialogue: 0,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\blur0.5\c&H000000&\pos(145.34,478)}We
+Dialogue: 1,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\bord0\blur0.5\4a&HFF&\pos(145.34,478)}We
+Dialogue: 0,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\blur0.5\fsp0.6\c&H000000&\pos(208.9,478)}are,
+Dialogue: 1,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\bord0\blur0.5\fsp0.6\4a&HFF&\pos(208.9,478)}are,
+Dialogue: 0,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\blur0.5\c&H000000&\pos(269.4,478)}We
+Dialogue: 1,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\bord0\blur0.5\4a&HFF&\pos(269.4,478)}We
+Dialogue: 0,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\blur0.5\fsp0.6\c&H000000&\pos(327.17,478)}are
+Dialogue: 1,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\bord0\blur0.5\fsp0.6\4a&HFF&\pos(327.17,478)}are
+Dialogue: 0,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\blur0.5\fsp0.6\c&H000000&\pos(380,478)}on
+Dialogue: 1,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\bord0\blur0.5\fsp0.6\4a&HFF&\pos(380,478)}on
+Dialogue: 0,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\blur0.5\fsp0.6\c&H000000&\pos(434,478)}the
+Dialogue: 1,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\bord0\blur0.5\fsp0.6\4a&HFF&\pos(434,478)}the
+Dialogue: 0,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\blur0.5\fscx84\fsp0.6\c&H000000&\pos(515.13,478)}cruise
+Dialogue: 1,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\bord0\blur0.5\fscx84\fsp0.6\4a&HFF&\pos(515.13,478)}cruise
+Dialogue: 0,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\blur0.5\c&H000000&\pos(568.37,478)}!
+Dialogue: 1,0:01:44.42,0:01:48.96,Opening 2,,0,0,0,,{\bord0\blur0.5\4a&HFF&\pos(568.37,478)}!
 Dialogue: 0,0:01:49.82,0:01:50.99,Opening,,0,0,0,,{\blur0.5\c&H000000&}We Are!
-Dialogue: 1,0:01:49.82,0:01:50.99,Opening,,0,0,0,,{=1}{\bord0\blur0.5\4a&HFF&}We Are!
+Dialogue: 1,0:01:49.82,0:01:50.99,Opening,,0,0,0,,{=3}{\bord0\blur0.5\4a&HFF&}We Are!
 Dialogue: 10,0:01:52.21,0:01:55.67,Default,,0,0,0,,What's the terrifying difference between you and me?
 Dialogue: 10,0:01:57.09,0:01:57.93,Default,,0,0,0,,Nose.
 Dialogue: 10,0:02:00.76,0:02:01.64,Default,,0,0,0,,Jaw?
