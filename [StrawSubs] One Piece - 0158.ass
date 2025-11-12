@@ -10903,7 +10903,7 @@ Dialogue: 10,0:23:23.30,0:23:25.05,Default,,0,0,0,,Just keep moving forward!
 Dialogue: 10,0:23:25.05,0:23:27.51,Default,,0,0,0,,Please let me go home!
 Dialogue: 10,0:23:27.51,0:23:28.55,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:28.55,0:23:31.56,Default,,0,0,0,,Onward, Crow! \NTo the Sacrificial Altar
-Dialogue: 10,0:23:31.56,0:23:33.73,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:31.56,0:23:33.73,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:31.56,0:23:35.48,Title,,0,0,0,,{\blur0.6\pos(264,125)\c&H000000&}Onward, Crow!
 Dialogue: 1,0:23:31.56,0:23:35.48,Title,,0,0,0,,{\bord0\blur0.6\pos(264,125)\4a&HFF&}Onward, Crow!
 Dialogue: 0,0:23:31.56,0:23:35.48,Title,,0,0,0,,{\blur0.6\pos(396,395)\c&H000000&}To the Sacrificial Altar

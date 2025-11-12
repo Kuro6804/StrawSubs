@@ -323,7 +323,7 @@ Dialogue: 10,0:24:24.98,0:24:25.65,Default,,0,0,0,,Then let's go now.
 Dialogue: 10,0:24:26.15,0:24:27.98,Default,,0,0,0,,It's not the right time yet!
 Dialogue: 10,0:24:27.98,0:24:29.32,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:24:29.32,0:24:31.99,Default,,0,0,0,,Set Sail! \NThe Seafaring Cook Sets Off With Luffy
-Dialogue: 10,0:24:31.99,0:24:34.53,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!!
+Dialogue: 10,0:24:31.99,0:24:34.53,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!
 Dialogue: 0,0:24:32.45,0:24:35.99,Title,,0,0,0,,{\pos(352,115)}Set Sail!
 Dialogue: 0,0:24:32.45,0:24:35.99,Title,,0,0,0,,{\pos(352,455)}The Seafaring Cook \NSets Off With Luffy
 

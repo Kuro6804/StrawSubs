@@ -352,7 +352,7 @@ Dialogue: 10,0:23:22.42,0:23:24.50,Default,,0,0,0,,Okay! Let's go! Before Nami d
 Dialogue: 10,0:23:24.50,0:23:26.42,Default,,0,0,0,,Don't say things that could jinx us!
 Dialogue: 10,0:23:26.42,0:23:28.05,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:28.05,0:23:31.05,Default,,0,0,0,,An Island Without Doctors? \NAdventure in a Nameless Land!
-Dialogue: 10,0:23:31.05,0:23:33.43,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:31.05,0:23:33.43,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:33.35,0:23:36.06,Title,,0,0,0,,{\pos(346.5,105)}An Island Without Doctors?
 Dialogue: 0,0:23:33.35,0:23:36.06,Title,,0,0,0,,{\pos(350,405)\fsp-2.5}Adventure in a Nameless Land!
 Dialogue: 0,0:10:39.57,0:10:48.04,Sign,,0,0,0,,{\blur0.6\fad(1988,1811)\fnGrantham\b1\bord1.75\fs38\pos(387.2,478)\c&H000000&\1a&HFF&\t(1943,1988,\1a&H00&)\t(6659,6704,\1a&HFF&)}Several Days Earlier{\fsp5}...

@@ -16618,7 +16618,7 @@ Dialogue: 10,0:23:21.84,0:23:23.34,Default,,0,0,0,,That's why they don't rely on
 Dialogue: 10,0:23:23.97,0:23:27.47,Default,,0,0,0,,I'm going to raise a pirate flag right here! \NI'm gonna beat him!
 Dialogue: 10,0:23:27.47,0:23:28.60,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:28.60,0:23:31.51,Default,,0,0,0,,The Ordeal of the Swamp! \NChopper vs. Sky Punk Gedatsu!!
-Dialogue: 10,0:23:31.51,0:23:33.64,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:31.51,0:23:33.64,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:32.06,0:23:36.02,Title,,0,0,0,,{\blur0.6\pos(352,115)\c&H000000&\bord1.75}The Ordeal of the Swamp!
 Dialogue: 1,0:23:32.06,0:23:36.02,Title,,0,0,0,,{\bord0\blur0.6\pos(352,115)\4a&HFF&}The Ordeal of the Swamp!
 Dialogue: 0,0:23:32.06,0:23:36.02,Title,,0,0,0,,{\blur0.6\q2\fsp-2.75\pos(352,395)\c&H000000&\bord1.75}Chopper vs. Sky Punk Gedatsu!!

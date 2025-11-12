@@ -423,7 +423,7 @@ Dialogue: 10,0:24:24.60,0:24:25.98,Default,,0,0,0,,See, like so!
 Dialogue: 10,0:24:25.98,0:24:27.44,Default,,0,0,0,,Huh?! This is...!
 Dialogue: 10,0:24:27.44,0:24:28.65,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:24:29.07,0:24:32.36,Default,,0,0,0,,Bounty! \NStraw Hat Luffy Becomes Known to the World
-Dialogue: 10,0:24:32.36,0:24:34.78,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!!
+Dialogue: 10,0:24:32.36,0:24:34.78,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!
 Dialogue: 0,0:24:32.38,0:24:36.09,Title,,0,0,0,,{\pos(352,115)}Bounty!
 Dialogue: 0,0:24:32.38,0:24:36.09,Title,,0,0,0,,{\pos(352,465)\fs55}Straw Hat Luffy Becomes \NKnown to the World
 Dialogue: 0,0:13:11.80,0:13:14.77,Sign,,0,0,0,,{\fnLEHN015\fs35\bord0\blur0.7\c&H171717&\frz358.8\pos(309.1,422.96)\fax-0.1}I'm leavi{\alpha&HFF&}ng this behind.

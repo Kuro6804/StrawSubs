@@ -15,14 +15,17 @@ Last Style Storage: One Piece 1-206
 Audio File: ../References & Raws/[A&C] One Piece/[A&C] One Piece - 0002 [DVDrip] [Multi-Audio-Subs] [v2] [739306C3].mkv
 Video File: ../References & Raws/[A&C] One Piece/[A&C] One Piece - 0002 [DVDrip] [Multi-Audio-Subs] [v2] [739306C3].mkv
 Video AR Value: 1.466667
-Video Zoom Percent: 1.500000
-Video Position: 65
+Video Zoom Percent: 2.000000
+Scroll Position: 348
+Active Line: 428
+Video Position: 41797
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Impress BT,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,1.47,0,2,88,88,22,1
 Style: Opening,DFGiHi StdN W7,45,&H00FFFFFF,&H00FFFFFF,&H2C000000,&H00000000,-1,0,0,0,82,100,0.1,0,1,2.2,0,2,11,11,5,1
-Style: Title,G.I. Incognito Small,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,110,100,0,0,1,2.5,0,2,0,0,382,1
+Style: Title Card - Top,DFGothic Pro-6N W10,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,93,100,0,0,1,1.6,0,8,0,0,70,1
+Style: Title Card - Bottom,DFGothic Pro-6N W10,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,93,100,0,0,1,1.6,0,2,0,0,92,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -108,8 +111,10 @@ Dialogue: 10,0:02:16.81,0:02:19.16,Default,,0,0,0,,The famous pirate hunter...
 Dialogue: 10,0:02:20.20,0:02:21.91,Default,,0,0,0,,Roronoa Zoro!
 Dialogue: 10,0:02:25.66,0:02:31.67,Default,,0,0,0,,The man who's chopped up bounties like a bloodthirsty beast...
 Dialogue: 10,0:02:32.92,0:02:36.55,Default,,0,0,0,,People say he's a demon in human form!
-Dialogue: 0,0:02:37.22,0:02:46.18,Title,,0,0,0,,{\fad(2000,2000)\pos(352,110)\fsp-1}Enter the Great Swordsman!
-Dialogue: 0,0:02:37.22,0:02:46.18,Title,,0,0,0,,{\fad(2000,2000)\pos(352,405)}Pirate Hunter Roronoa Zoro
+Dialogue: 0,0:02:37.26,0:02:46.22,Title Card - Top,,0,0,0,,{=4}{\blur0.5\fad(1966,1923)\c&H000000&\1a&HFF&\t(1921,1966,\1a&H00&)\t(7037,7082,\1a&HFF&)}Enter the Great Swordsman!
+Dialogue: 1,0:02:37.26,0:02:46.22,Title Card - Top,,0,0,0,,{\bord0\blur0.5\fad(1966,1923)\4a&HFF&}Enter the Great Swordsman!
+Dialogue: 0,0:02:37.26,0:02:46.22,Title Card - Bottom,,0,0,0,,{\blur0.5\fad(1966,1923)\c&H000000&\1a&HFF&\t(1921,1966,\1a&H00&)\t(7037,7082,\1a&HFF&)}Pirate Hunter Roronoa Zoro
+Dialogue: 1,0:02:37.26,0:02:46.22,Title Card - Bottom,,0,0,0,,{=5}{\bord0\blur0.5\fad(1966,1923)\4a&HFF&}Pirate Hunter Roronoa Zoro
 Dialogue: 10,0:02:51.60,0:02:55.11,Default,,0,0,0,,We made it! \NThe Navy base city!
 Dialogue: 10,0:02:59.70,0:03:01.20,Default,,0,0,0,,Seriously, Luffy-{\i1}san{\i0}!
 Dialogue: 10,0:03:01.20,0:03:04.24,Default,,0,0,0,,You're crazy to want him to join you!
@@ -451,12 +456,22 @@ Dialogue: 10,0:24:25.60,0:24:27.52,Default,,0,0,0,,Huh? The ropes are tighter no
 Dialogue: 10,0:24:27.52,0:24:28.32,Default,,0,0,0,,Hey!
 Dialogue: 10,0:24:28.32,0:24:29.62,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:24:29.62,0:24:32.99,Default,,0,0,0,,Morgan vs. Luffy! \NWho's the Mysterious Pretty Girl?
-Dialogue: 10,0:24:32.99,0:24:35.24,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!!
-Dialogue: 0,0:24:33.32,0:24:35.99,Title,,0,0,0,,{\pos(319,133}Morgan vs. Luffy!
-Dialogue: 0,0:24:33.32,0:24:35.99,Title,,0,0,0,,{\pos(391.6,455)}Who's the Mysterious Pretty Girl?
+Dialogue: 10,0:24:32.99,0:24:35.24,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!
+Dialogue: 0,0:24:33.32,0:24:35.99,Title Card - Top,,0,0,0,,{=8}{\blur0.5\pos(317,99)\c&H000000&}Morgan vs. Luffy!
+Dialogue: 1,0:24:33.32,0:24:35.99,Title Card - Top,,0,0,0,,{\bord0\blur0.5\pos(317,99)\4a&HFF&}Morgan vs. Luffy!
+Dialogue: 0,0:24:33.32,0:24:35.99,Title Card - Bottom,,0,0,0,,{\blur0.5\pos(387,389)\c&H000000&}Who’s the Mysterious Pretty Girl?
+Dialogue: 1,0:24:33.32,0:24:35.99,Title Card - Bottom,,0,0,0,,{=9}{\bord0\blur0.5\pos(387,389)\4a&HFF&}Who’s the Mysterious Pretty Girl?
 
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1
 Data: 1,_aegi_folddata,e1;1;1
 Data: 2,_aegi_folddata,e0;0;1
 Data: 3,_aegi_folddata,e1;0;1
+Data: 4,_aegi_folddata,e0;1;2
+Data: 5,_aegi_folddata,e1;1;2
+Data: 6,_aegi_folddata,e0;0;2
+Data: 7,_aegi_folddata,e1;0;2
+Data: 8,_aegi_folddata,e0;1;3
+Data: 9,_aegi_folddata,e1;1;3
+Data: 10,_aegi_folddata,e0;0;3
+Data: 11,_aegi_folddata,e1;0;3

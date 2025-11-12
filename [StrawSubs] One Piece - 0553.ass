@@ -105,7 +105,7 @@ Dialogue: 0,0:02:57.08,0:03:03.43,Default,Narrator,0,0,0,,However, the only one 
 Dialogue: 0,0:03:04.64,0:03:09.74,Default,Narrator,0,0,0,,The New World has ruined\Nmany pirates' dreams and ambitions.
 Dialogue: 0,0:03:11.50,0:03:16.11,Default,Narrator,0,0,0,,Now, the boy whose body turned to rubber\Nafter eating the Gum-Gum Fruit,
 Dialogue: 0,0:03:16.11,0:03:19.38,Default,Narrator,0,0,0,,Monkey D. Luffy and his crew\Nventure into that very sea.
-Dialogue: 0,0:03:20.09,0:03:23.52,Default,Luffy,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:03:20.09,0:03:23.52,Default,Luffy,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:03:26.86,0:03:29.56,Default,,0,0,0,,On their way to the New World,
 Dialogue: 0,0:03:29.56,0:03:34.87,Default,,0,0,0,,Luffy and crew reached Fishman Island,\Nlocated 10,000 meters below sea level.
 Dialogue: 0,0:03:34.87,0:03:40.60,Default,,0,0,0,,However, there they find the New Fishman Pirates\Nhave been plotting to destroy Ryugu Kingdom,
@@ -329,7 +329,7 @@ Dialogue: 0,0:23:27.02,0:23:31.86,Default,,0,0,0,,and sends the vast force of th
 Dialogue: 0,0:23:31.86,0:23:38.03,Default,,0,0,0,,Ten pirates will battle to decide the fate of Fishman Island!
 Dialogue: 0,0:23:38.03,0:23:39.40,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:39.40,0:23:43.07,Default,,0,0,0,,"A Huge Clash!\NThe Straw Hats vs. 100,000 Enemies"
-Dialogue: 0,0:23:43.07,0:23:45.11,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:43.07,0:23:45.11,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}A Huge Clash!
 Dialogue: 1,0:23:43.07,0:23:47.08,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}A Huge Clash!
 Dialogue: 0,0:23:43.07,0:23:47.08,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}The Straw Hats vs. 100,000 Enemies

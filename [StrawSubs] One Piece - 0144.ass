@@ -10937,7 +10937,7 @@ Dialogue: 10,0:23:22.71,0:23:24.67,Default,,0,0,0,,Wh-What?! It's become pitch d
 Dialogue: 10,0:23:24.67,0:23:26.30,Default,,0,0,0,,Wh-What's next?!
 Dialogue: 10,0:23:26.30,0:23:27.55,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:27.88,0:23:31.18,Default,,0,0,0,,Monsters Appear! \NDon't Mess with the Whitebeard Pirates!
-Dialogue: 10,0:23:31.18,0:23:33.47,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:31.18,0:23:33.47,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:31.55,0:23:35.49,Title,,0,0,0,,{\blur0.6\pos(352,110)\c&H000000&}Monsters Appear!
 Dialogue: 1,0:23:31.55,0:23:35.49,Title,,0,0,0,,{\bord0\blur0.6\pos(352,110)\4a&HFF&}Monsters Appear!
 Dialogue: 0,0:23:31.55,0:23:35.49,Title,,0,0,0,,{\blur0.6\fs55\pos(352,452)\c&H000000&}Don't Mess with the \NWhitebeard Pirates!

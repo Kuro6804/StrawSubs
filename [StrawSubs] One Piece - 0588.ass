@@ -109,7 +109,7 @@ Dialogue: 0,0:02:45.03,0:02:51.42,Default,Narrator,0,0,0,,However, the only one 
 Dialogue: 0,0:02:52.42,0:02:57.73,Default,Narrator,0,0,0,,The New World has ruined\Nmany pirates' dreams and ambitions.
 Dialogue: 0,0:02:59.48,0:03:04.08,Default,Narrator,0,0,0,,Now, the boy whose body turned to rubber\Nafter eating the Gum-Gum Fruit,
 Dialogue: 0,0:03:04.08,0:03:07.37,Default,Narrator,0,0,0,,Monkey D. Luffy and his crew\Nventure into that very sea.
-Dialogue: 0,0:03:08.08,0:03:11.50,Default,Luffy,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:03:08.08,0:03:11.50,Default,Luffy,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:03:15.04,0:03:17.08,Default,,0,0,0,,After surviving a fierce battle,
 Dialogue: 0,0:03:17.08,0:03:20.35,Default,,0,0,0,,the Straw Hats reach the New World at long last,
 Dialogue: 0,0:03:20.35,0:03:22.81,Default,,0,0,0,,the harshest sea, ruled by the Four Emperors.
@@ -442,7 +442,7 @@ Dialogue: 0,0:23:15.47,0:23:19.36,Default,,0,0,0,,As the Straw Hats recoil from 
 Dialogue: 0,0:23:19.36,0:23:24.66,Default,,0,0,0,,...Smoker tries to discover the true identity of this mysterious "Master."
 Dialogue: 0,0:23:24.66,0:23:25.92,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 0,0:23:25.92,0:23:29.38,Default,,0,0,0,,"The World's Worst\NThe Terrifying Scientist, Caesar"
-Dialogue: 0,0:23:29.38,0:23:31.75,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 0,0:23:29.38,0:23:31.75,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\blur0.3\c&H000000&}The World's Worst
 Dialogue: 1,0:23:30.99,0:23:35.00,Title Card - Top,,0,0,0,,{\bord0\blur0.3\4a&HFF&}The World's Worst
 Dialogue: 0,0:23:30.99,0:23:35.00,Title Card - Bottom,,0,0,0,,{\blur0.3\c&H000000&}The Terrifying Scientist, Caesar

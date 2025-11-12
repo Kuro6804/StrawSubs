@@ -393,7 +393,7 @@ Dialogue: 10,0:23:18.12,0:23:22.67,Default,,0,0,0,,At the hands of the royal arm
 Dialogue: 10,0:23:22.67,0:23:25.50,Default,,0,0,0,,Love for the kingdom will be \Nwhat destroys the kingdom!
 Dialogue: 10,0:23:26.13,0:23:27.80,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:27.80,0:23:31.18,Default,,0,0,0,,Operation Utopia Commences! \NThe Swell of Rebellion Stirs
-Dialogue: 10,0:23:31.18,0:23:33.43,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:31.18,0:23:33.43,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:32.64,0:23:36.06,Title,,0,0,0,,{\pos(352,100)\fsp-2}Operation Utopia Commences!
 Dialogue: 0,0:23:32.64,0:23:36.06,Title,,0,0,0,,{\pos(352,405)\fsp-1}The Swell of Rebellion Stirs
 Dialogue: 0,0:01:51.00,0:02:05.02,Sign,,0,0,0,,{\fnA-OTF Jun Pro 501\fs18\b1\bord0.4\shad0.75\blur0.75\c&H9C9C9C&\alpha&H32&\pos(148.5,131)}Rainbase

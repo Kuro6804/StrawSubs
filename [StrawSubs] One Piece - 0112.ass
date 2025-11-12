@@ -325,7 +325,7 @@ Dialogue: 10,0:23:20.46,0:23:22.13,Default,,0,0,0,,Look, just go find somewhere 
 Dialogue: 10,0:23:22.13,0:23:25.88,Default,,0,0,0,,I have to stop this! \NI can't let myself die here!
 Dialogue: 10,0:23:25.88,0:23:27.55,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:27.55,0:23:30.68,Default,,0,0,0,,Alubarna Grieves! \NThe Fierce Captain Karoo!
-Dialogue: 10,0:23:30.94,0:23:33.30,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:30.94,0:23:33.30,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:32.05,0:23:36.01,Title,,0,0,0,,{\pos(297,110)}Alubarna Grieves!
 Dialogue: 0,0:23:32.05,0:23:36.01,Title,,0,0,0,,{\pos(374,395)}The Fierce Captain Karoo!
 Dialogue: 0,0:01:51.00,0:02:04.60,Sign,,0,0,0,,{\fnA-OTF Jun Pro 501\fs18\b1\bord0.4\shad0.75\blur0.75\c&H9C9C9C&\alpha&H32&\pos(148.5,131)}Rainbase

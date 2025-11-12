@@ -375,7 +375,7 @@ Dialogue: 10,0:23:20.37,0:23:24.96,Default,,0,0,0,,Oh, that's it? \NNothing's wo
 Dialogue: 10,0:23:24.96,0:23:26.96,Default,,0,0,0,,Whoa! He's eating our ship!
 Dialogue: 10,0:23:26.96,0:23:28.76,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:28.76,0:23:31.47,Default,,0,0,0,,A Raid! \NTin Tyrant and Tin Plate Wapol
-Dialogue: 10,0:23:31.47,0:23:33.85,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:31.47,0:23:33.85,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!
 Dialogue: 0,0:23:33.09,0:23:36.06,Title,,0,0,0,,{\pos(352,105)}A Raid!
 Dialogue: 0,0:23:33.09,0:23:36.06,Title,,0,0,0,,{\pos(352,460)}Tin Tyrant and \NTin Plate Wapol
 Dialogue: 0,0:08:52.88,0:08:56.55,Sign,,0,0,0,,{\fad(653,0)\fnGrantham\b1\bord1.75\fs35\fsp2\blur0.4\pos(352,315)\c&H000000&\1a&HFF&\t(608,653,\1a&H00&)}Alabasta Kingdom \NSandy Island

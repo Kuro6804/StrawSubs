@@ -10966,7 +10966,7 @@ Dialogue: 10,0:23:22.26,0:23:24.84,Default,,0,0,0,,Yeah, it'll be a life-threate
 Dialogue: 10,0:23:24.84,0:23:26.64,Default,,0,0,0,,You...!
 Dialogue: 10,0:23:26.93,0:23:28.35,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:28.35,0:23:31.56,Default,,0,0,0,,Steer for the Clouds! \NCapture the South Bird!
-Dialogue: 10,0:23:31.56,0:23:33.68,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:31.56,0:23:33.68,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:31.56,0:23:35.48,Title,,0,0,0,,{\blur0.6\pos(352,115)\c&H000000&}Steer for the Clouds!
 Dialogue: 1,0:23:31.56,0:23:35.48,Title,,0,0,0,,{\bord0\blur0.6\pos(352,115)\4a&HFF&}Steer for the Clouds!
 Dialogue: 0,0:23:31.56,0:23:35.48,Title,,0,0,0,,{\blur0.6\pos(352,400)\c&H000000&}Capture the South Bird!

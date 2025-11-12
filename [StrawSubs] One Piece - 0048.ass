@@ -436,7 +436,7 @@ Dialogue: 10,0:24:20.23,0:24:21.77,Default,,0,0,0,,How about you? \NDid you buy 
 Dialogue: 10,0:24:21.77,0:24:25.91,Default,,0,0,0,,That's the problem. \NIn any case, I gotta get me two more swords.
 Dialogue: 10,0:24:25.91,0:24:26.98,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:24:27.36,0:24:31.82,Default,,0,0,0,,{\q2}Kitetsu III and Yubashiri! \NZoro's New Swords and the Woman Sergeant Major
-Dialogue: 10,0:24:31.82,0:24:34.16,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!!
+Dialogue: 10,0:24:31.82,0:24:34.16,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!
 Dialogue: 0,0:24:33.11,0:24:36.07,Title,,0,0,0,,{\pos(352,115)}Kitetsu III and Yubashiri!
 Dialogue: 0,0:24:33.11,0:24:36.07,Title,,0,0,0,,{\pos(352,460)}Zoro's New Swords and \Nthe Woman Sergeant Major
 Dialogue: 0,0:03:34.79,0:03:37.03,Sign,,0,0,0,,{\fnBrady Bunch\fs25\fsp2\blur1.2\bord0.25\c&H000000&\pos(218.446,103.697)}{\frz41.35\c&H1F253C&}L{*\frz39.69}O{*\frz38.04}V{*\frz36.38}E{*\frz34.73}-{*\frz33.07}L{*\frz31.41}O{*\frz29.76}V{\frz28.1}E

@@ -168,7 +168,7 @@ Dialogue: 10,0:07:30.93,0:07:33.47,Default,,0,0,0,,I thought you said you'd surp
 Dialogue: 10,0:07:33.47,0:07:37.60,Default,,0,0,0,,W-Well, I did... but if I do \Nall those things, I'll die.
 Dialogue: 10,0:07:37.60,0:07:39.23,Default,,0,0,0,,Wouldn't you be happy if that's the case?!
 Dialogue: 10,0:07:41.02,0:07:43.31,Default,,0,0,0,,Once {\i1}you've{\i0} decided to become like that...
-Dialogue: 10,0:07:44.69,0:07:46.57,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:07:44.69,0:07:46.57,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 10,0:07:46.57,0:07:48.90,Default,,0,0,0,,Once {\i1}you've{\i0} decided to become like that...
 Dialogue: 10,0:07:49.57,0:07:53.07,Default,,0,0,0,,{\i1}I've{\i0} decided to be the Pirate King, so if...
 Dialogue: 10,0:07:53.07,0:07:57.33,Default,,0,0,0,,If you can die fighting for that, \Nyou should be happy!
@@ -396,7 +396,7 @@ Dialogue: 10,0:23:22.63,0:23:25.21,Default,,0,0,0,,It's decided that we're not g
 Dialogue: 10,0:23:25.21,0:23:26.84,Default,,0,0,0,,I can smell adventure in the air!
 Dialogue: 10,0:23:26.84,0:23:28.26,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:28.26,0:23:30.93,Default,,0,0,0,,An Ancient Island! \NThe Shadow Hiding in Little Garden!
-Dialogue: 10,0:23:30.93,0:23:33.05,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:30.93,0:23:33.05,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:33.05,0:23:35.97,Title,,0,0,0,,{\pos(352,110)}An Ancient Island!
 Dialogue: 0,0:23:33.05,0:23:35.97,Title,,0,0,0,,{\pos(352,460)\fs55}The Shadow Hiding \Nin Little Garden!
 Dialogue: 0,0:06:11.72,0:06:11.76,Sign,,0,0,0,,{=0}{\fscx110.242\alpha&H00&\fnCalligraph421 BT\fs17\fscy90.2\b1\bord0\c&H161311&\blur0.8\pos(351.956,210.42)}Navy

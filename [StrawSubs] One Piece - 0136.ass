@@ -10948,7 +10948,7 @@ Dialogue: 10,0:23:20.67,0:23:22.96,Default,,0,0,0,,Our pursuers from the Navy \N
 Dialogue: 10,0:23:23.38,0:23:26.38,Default,,0,0,0,,– Oh, are you scared? \N– I'm not talking to you!
 Dialogue: 10,0:23:26.38,0:23:27.38,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:27.67,0:23:30.76,Default,,0,0,0,,How's Tricks? \NThe Designs of Zenny the Moneylender!
-Dialogue: 10,0:23:30.76,0:23:33.26,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:30.76,0:23:33.26,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:31.55,0:23:35.51,Title,,0,0,0,,{\blur0.6\pos(247.5,123)\c&H000000&\bord1.6}How's Tricks?
 Dialogue: 1,0:23:31.55,0:23:35.51,Title,,0,0,0,,{\bord0\blur0.6\pos(247.5,123)\4a&HFF&}How's Tricks?
 Dialogue: 0,0:23:31.55,0:23:35.51,Title,,0,0,0,,{\blur0.6\fs55\pos(379.5,445)\c&H000000&\bord1.6}The Designs of Zenny \Nthe Moneylender!

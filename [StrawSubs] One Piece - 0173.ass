@@ -16706,7 +16706,7 @@ Dialogue: 10,0:23:20.17,0:23:21.84,Default,,0,0,0,,Man, I'm hungry!
 Dialogue: 10,0:23:22.63,0:23:26.47,Default,,0,0,0,,Will you people be able to live \Nthrough this survival game?
 Dialogue: 10,0:23:26.47,0:23:28.22,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:28.22,0:23:31.26,Default,,0,0,0,,A Mystical City! \NThe Grand Ruins of Shandora!!
-Dialogue: 10,0:23:31.26,0:23:33.48,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:31.26,0:23:33.48,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:32.06,0:23:36.02,Title,,0,0,0,,{\blur0.6\pos(352,110)\bord1.75\c&H000000&}A Mystical City!
 Dialogue: 1,0:23:32.06,0:23:36.02,Title,,0,0,0,,{\blur0.6\pos(352,110)\bord0\4a&HFF&}A Mystical City!
 Dialogue: 0,0:23:32.06,0:23:36.02,Title,,0,0,0,,{\blur0.6\q2\fsp-2\pos(352,400)\bord1.75\c&H000000&}The Grand Ruins of Shandora!!

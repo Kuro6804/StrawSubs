@@ -10970,7 +10970,7 @@ Dialogue: 10,0:23:22.75,0:23:23.67,Default,,0,0,0,,Sky island?
 Dialogue: 10,0:23:23.67,0:23:26.55,Default,,0,0,0,,Then, that ship fell from there?
 Dialogue: 10,0:23:26.55,0:23:27.63,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:27.92,0:23:30.59,Default,,0,0,0,,Caught Log! \NThe King of Salvagers, Masira!
-Dialogue: 10,0:23:30.59,0:23:32.93,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:30.59,0:23:32.93,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:31.55,0:23:35.49,Title,,0,0,0,,{\blur0.6\pos(242,115)\c&H000000&}Caught Log!
 Dialogue: 1,0:23:31.55,0:23:35.49,Title,,0,0,0,,{\bord0\blur0.6\pos(242,115)\4a&HFF&}Caught Log!
 Dialogue: 0,0:23:31.55,0:23:35.49,Title,,0,0,0,,{\blur0.6\fs55\pos(401.5,445)\c&H000000&}The King of Salvagers, \NMasira!

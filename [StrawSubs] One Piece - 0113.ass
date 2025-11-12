@@ -329,7 +329,7 @@ Dialogue: 10,0:23:21.17,0:23:22.46,Default,,0,0,0,,There's no way we can take th
 Dialogue: 10,0:23:22.46,0:23:25.59,Default,,0,0,0,,No! We can't get away! \NNot from these guys!
 Dialogue: 10,0:23:25.59,0:23:26.96,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:26.96,0:23:31.07,Default,,0,0,0,,Sworn on a Friend's Dream! \NThe Battle of Molehill, Block 4
-Dialogue: 10,0:23:31.07,0:23:33.43,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:31.07,0:23:33.43,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:32.05,0:23:36.01,Title ALT,,0,0,0,,{\pos(352,110)}Sworn on a Friend's Dream!
 Dialogue: 0,0:23:32.05,0:23:36.01,Title ALT,,0,0,0,,{\q2\pos(352,400)}The Battle of Molehill, Block 4
 Dialogue: 0,0:01:51.00,0:02:05.27,Sign,,0,0,0,,{\fn@A-OTF Kaisho MCBK1 Pro MCBK1\fs22\b1\i1\bord1\blur0.65\3c&HFFFFFF&\c&HFFFFFF&\pos(154,134)}West Block

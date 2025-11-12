@@ -10980,7 +10980,7 @@ Dialogue: 10,0:23:19.63,0:23:21.59,Default,,0,0,0,,You guys come and help us!
 Dialogue: 10,0:23:21.59,0:23:26.09,Default,,0,0,0,,What? Well, we also ran into a crazy guy.
 Dialogue: 10,0:23:26.09,0:23:27.43,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:27.43,0:23:31.56,Default,,0,0,0,,{\q2}Distinguished Pirates! \N{\fscx96.8}A Man Who Talks of Dreams and the King of Undersea Search!
-Dialogue: 10,0:23:31.56,0:23:33.73,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:31.56,0:23:33.73,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:31.56,0:23:35.52,Title,,0,0,0,,{\blur0.6\pos(352,110)\c&H000000&}Distinguished Pirates!
 Dialogue: 1,0:23:31.56,0:23:35.52,Title,,0,0,0,,{\bord0\blur0.6\pos(352,110)\4a&HFF&}Distinguished Pirates!
 Dialogue: 0,0:23:31.56,0:23:35.52,Title,,0,0,0,,{\blur0.6\q2\fs55\fsp-2\pos(352,450)\c&H000000&}A Man Who Talks of Dreams and \Nthe King of Undersea Search!

@@ -387,7 +387,7 @@ Dialogue: 10,0:23:22.42,0:23:24.13,Default,,0,0,0,,– Huh?! What's that?! \N–
 Dialogue: 10,0:23:24.50,0:23:26.76,Default,,0,0,0,,A ship! A pirate ship in the sand!
 Dialogue: 10,0:23:27.02,0:23:28.38,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:28.38,0:23:31.76,Default,,0,0,0,,Enter the Desert Pirates! \NThe Men Who Live Freely
-Dialogue: 10,0:23:32.17,0:23:34.39,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:32.17,0:23:34.39,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:32.97,0:23:36.06,Title,,0,0,0,,{\pos(313.5,105)}Enter the Desert Pirates!
 Dialogue: 0,0:23:32.97,0:23:36.06,Title,,0,0,0,,{\pos(396,410)}The Men Who Live Freely
 Dialogue: 0,0:01:51.00,0:02:05.27,Sign,,0,0,0,,{\fnA-OTF Jun Pro 501\fs20\b1\bord0.5\shad1\blur0.8\c&H698C98&\alpha&H32&\pos(101.2,162)}Yuba

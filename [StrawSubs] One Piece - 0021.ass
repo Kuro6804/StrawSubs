@@ -419,7 +419,7 @@ Dialogue: 10,0:24:21.23,0:24:23.90,Default,,0,0,0,,5,000? \NI wonder if we have 
 Dialogue: 10,0:24:23.90,0:24:27.90,Default,,0,0,0,,Idiot! They came to attack this place! \NClose the restaurant!
 Dialogue: 10,0:24:27.90,0:24:29.32,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:24:29.32,0:24:32.53,Default,,0,0,0,,The Strongest Pirate Fleet! \NCommodore Don Krieg
-Dialogue: 10,0:24:32.94,0:24:36.07,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:24:32.94,0:24:36.07,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:24:32.55,0:24:36.09,Title,,0,0,0,,{\pos(352,100)}The Strongest Pirate Fleet!
 Dialogue: 0,0:24:32.55,0:24:36.09,Title,,0,0,0,,{\pos(385,405)}Commodore Don Krieg
 

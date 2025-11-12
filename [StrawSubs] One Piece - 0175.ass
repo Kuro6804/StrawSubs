@@ -16647,7 +16647,7 @@ Dialogue: 10,0:23:21.34,0:23:23.92,Default,,0,0,0,,You're all in my way! \NYou c
 Dialogue: 10,0:23:23.92,0:23:25.84,Default,,0,0,0,,Seriously, where am I?!
 Dialogue: 10,0:23:26.38,0:23:27.80,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:27.80,0:23:31.14,Default,,0,0,0,,Climb Giant Jack!! \NDeadly Combat in the Upper Ruins
-Dialogue: 10,0:23:31.14,0:23:33.43,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:31.14,0:23:33.43,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:32.06,0:23:35.99,Title,,0,0,0,,{\blur0.6\pos(313.5,110)\bord1.75\c&H000000&}Climb Giant Jack!!
 Dialogue: 1,0:23:32.06,0:23:35.99,Title,,0,0,0,,{\blur0.6\pos(313.5,110)\bord0\4a&HFF&}Climb Giant Jack!!
 Dialogue: 0,0:23:32.06,0:23:35.99,Title,,0,0,0,,{\blur0.6\fs55\pos(440,450)\bord1.75\c&H000000&}Deadly Combat in \Nthe Upper Ruins

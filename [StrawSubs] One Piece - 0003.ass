@@ -15,15 +15,18 @@ Last Style Storage: One Piece 1-206
 Audio File: ../References & Raws/[A&C] One Piece/[A&C] One Piece - 0003 [DVDrip] [Multi-Audio-Subs] [v2] [7706CFD7].mkv
 Video File: ../References & Raws/[A&C] One Piece/[A&C] One Piece - 0003 [DVDrip] [Multi-Audio-Subs] [v2] [7706CFD7].mkv
 Video AR Value: 1.466667
-Video Zoom Percent: 1.250000
-Video Position: 64
+Video Zoom Percent: 2.125000
+Scroll Position: 6
+Active Line: 79
+Video Position: 4806
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Impress BT,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,1.47,0,2,88,88,22,1
 Style: Opening,DFGiHi StdN W7,45,&H00FFFFFF,&H00FFFFFF,&H2C000000,&H00000000,-1,0,0,0,82,100,0.1,0,1,2.2,0,2,11,11,5,1
-Style: Title,G.I. Incognito Small,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,110,100,0,0,1,2.5,0,2,0,0,382,1
 Style: Sign,Impress BT,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,0,-1,0,0,112.5,100,0,0,1,1.8,0,8,44,44,15,1
+Style: Title Card - Top,DFGothic Pro-6N W10,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,93,100,0,0,1,1.6,0,8,0,0,70,1
+Style: Title Card - Bottom,DFGothic Pro-6N W10,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,93,100,0,0,1,1.6,0,2,0,0,92,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -105,8 +108,10 @@ Dialogue: 10,0:02:35.63,0:02:38.80,Default,,0,0,0,,I told you I was strong!
 Dialogue: 10,0:02:38.80,0:02:41.25,Default,,0,0,0,,W-Who the hell are you?!
 Dialogue: 10,0:02:42.35,0:02:43.60,Default,,0,0,0,,I'm Luffy!
 Dialogue: 10,0:02:44.10,0:02:46.22,Default,,0,0,0,,The man who's gonna be the Pirate King!
-Dialogue: 0,0:02:47.18,0:02:56.19,Title,,0,0,0,,{\fad(2000,2000)\pos(319,130)}Morgan vs. Luffy!
-Dialogue: 0,0:02:47.18,0:02:56.19,Title,,0,0,0,,{\fad(2000,2000)\pos(391.6,445)}Who's the Mysterious Pretty Girl?
+Dialogue: 0,0:02:47.22,0:02:56.23,Title Card - Top,,0,0,0,,{\blur0.5\fad(1949,1923)\pos(317,93)\c&H000000&\1a&HFF&\t(1904,1949,\1a&H00&)\t(7087,7132,\1a&HFF&)}Morgan vs. Luffy!
+Dialogue: 1,0:02:47.22,0:02:56.23,Title Card - Top,,0,0,0,,{\bord0\blur0.5\fad(1949,1923)\pos(317,93)\4a&HFF&}Morgan vs. Luffy!
+Dialogue: 0,0:02:47.22,0:02:56.23,Title Card - Bottom,,0,0,0,,{\blur0.5\fad(1949,1923)\pos(387,383)\c&H000000&\1a&HFF&\t(1904,1949,\1a&H00&)\t(7087,7132,\1a&HFF&)}Who’s the Mysterious Pretty Girl?
+Dialogue: 1,0:02:47.22,0:02:56.23,Title Card - Bottom,,0,0,0,,{\bord0\blur0.5\fad(1949,1923)\pos(387,383)\4a&HFF&}Who’s the Mysterious Pretty Girl?
 Dialogue: 10,0:02:57.15,0:03:01.32,Default,,0,0,0,,W-What?! \NThe Pirate King?!
 Dialogue: 10,0:03:01.32,0:03:04.47,Default,,0,0,0,,Do you even know what that means?!
 Dialogue: 10,0:03:05.08,0:03:07.54,Default,,0,0,0,,The Pirate King is the Pirate King!
@@ -418,9 +423,11 @@ Dialogue: 10,0:24:23.31,0:24:26.27,Default,,0,0,0,,I have to return it to him \N
 Dialogue: 10,0:24:26.27,0:24:26.98,Default,,0,0,0,,Who's "him"?
 Dialogue: 10,0:24:27.48,0:24:29.07,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:24:29.07,0:24:32.57,Default,,0,0,0,,Luffy's Past! \NEnter Red-Haired Shanks
-Dialogue: 10,0:24:32.57,0:24:34.78,Default,,0,0,0,,I'm gonna be the Pirate King!!
-Dialogue: 0,0:24:32.57,0:24:35.95,Title,,0,0,0,,{\pos(352,112)}Luffy's Past!
-Dialogue: 0,0:24:32.57,0:24:35.95,Title,,0,0,0,,{\pos(352,405)}Enter Red-Haired Shanks
+Dialogue: 10,0:24:32.57,0:24:34.78,Default,,0,0,0,,I'm gonna be the Pirate King!
+Dialogue: 0,0:24:32.57,0:24:35.95,Title Card - Top,,0,0,68,,{\blur0.5\c&H000000&}Luffy’s Past!
+Dialogue: 1,0:24:32.57,0:24:35.95,Title Card - Top,,0,0,68,,{\bord0\blur0.5\4a&HFF&}Luffy’s Past!
+Dialogue: 0,0:24:32.57,0:24:35.95,Title Card - Bottom,,0,0,93,,{\blur0.5\c&H000000&}Enter Red-Haired Shanks
+Dialogue: 1,0:24:32.57,0:24:35.95,Title Card - Bottom,,0,0,93,,{\bord0\blur0.5\4a&HFF&}Enter Red-Haired Shanks
 
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1

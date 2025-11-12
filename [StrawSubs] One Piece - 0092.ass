@@ -414,7 +414,7 @@ Dialogue: 10,0:23:23.42,0:23:23.42,Default,,0,0,0,,Yes.
 Dialogue: 10,0:23:23.92,0:23:25.71,Default,,0,0,0,,Food!
 Dialogue: 10,0:23:25.71,0:23:27.38,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:27.38,0:23:30.93,Default,,0,0,0,,{\q2}Off to the Desert Kingdom! \NThe Rain-Summoning Powder and the Rebel Army
-Dialogue: 10,0:23:30.93,0:23:33.35,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:30.93,0:23:33.35,Default,,0,0,0,,{\an8}I'm gonna be the Pirate King!
 Dialogue: 0,0:23:32.59,0:23:36.01,Title,,0,0,0,,{\pos(335.5,105)}Off to the Desert Kingdom!
 Dialogue: 0,0:23:32.59,0:23:36.01,Title,,0,0,0,,{\pos(352,455)}The Rain-Summoning Powder \Nand the Rebel Army
 Dialogue: 0,0:05:56.46,0:06:00.88,Sign,,0,0,0,,{\fad(1439,0)\fnGrantham\b1\bord1.5\fs32\fscy110\blur0.65\pos(352,335)\c&H000000&\1a&HFF&\t(21,1439,\1a&H00&)}Alubarna Palace, Alabasta Kingdom

@@ -16620,7 +16620,7 @@ Dialogue: 10,0:23:19.92,0:23:23.42,Default,,0,0,0,,Aah! Why is this snake coming
 Dialogue: 10,0:23:23.42,0:23:27.09,Default,,0,0,0,,Huh? \NLooks like we got us some ferocious ones here...
 Dialogue: 10,0:23:27.09,0:23:27.93,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:28.35,0:23:32.10,Default,,0,0,0,,0% Survival Rate! \NChopper vs. Ohm, the Sword Wielding Priest
-Dialogue: 10,0:23:32.10,0:23:34.18,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:32.10,0:23:34.18,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:32.14,0:23:36.06,Title,,0,0,0,,{\blur0.6\pos(352,105)\bord1.75\c&H000000&}0% Survival Rate!
 Dialogue: 1,0:23:32.14,0:23:36.06,Title,,0,0,0,,{\blur0.6\pos(352,105)\bord0\4a&HFF&}0% Survival Rate!
 Dialogue: 0,0:23:32.14,0:23:36.06,Title,,0,0,0,,{\blur0.6\fs55\pos(352,450)\bord1.75\c&H000000&}Chopper vs. Ohm, \Nthe Sword Wielding Priest

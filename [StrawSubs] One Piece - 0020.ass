@@ -388,7 +388,7 @@ Dialogue: 10,0:24:20.68,0:24:23.40,Default,,0,0,0,,Hey, have you found a cook wh
 Dialogue: 10,0:24:23.40,0:24:26.47,Default,,0,0,0,,Yeah, I found him! It has to be him!
 Dialogue: 10,0:24:26.47,0:24:27.94,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:24:27.94,0:24:31.53,Default,,0,0,0,,Unwelcome Customer! \NSanji's Food and Ghin's Debt
-Dialogue: 10,0:24:31.53,0:24:33.53,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:24:31.53,0:24:33.53,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:24:32.82,0:24:36.03,Title,,0,0,0,,{\pos(352,105)}Unwelcome Customer!
 Dialogue: 0,0:24:32.82,0:24:36.03,Title,,0,0,0,,{\pos(352,405)\fsp-0.6}Sanji's Food and Ghin's Debt
 

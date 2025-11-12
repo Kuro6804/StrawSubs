@@ -10897,7 +10897,7 @@ Dialogue: 10,0:23:19.21,0:23:20.92,Default,,0,0,0,,Huh? Who are you, Pops?
 Dialogue: 10,0:23:20.92,0:23:24.67,Default,,0,0,0,,Oh, not another weird old man! \NI'm not taking care of this one!
 Dialogue: 10,0:23:25.17,0:23:26.38,Default,,0,0,0,,Next time, on One Piece:
 Dialogue: 10,0:23:26.38,0:23:30.13,Default,,0,0,0,,Legend of the Rainbow Mist! \NOld Man Henzo of Luluka Island
-Dialogue: 10,0:23:30.50,0:23:32.84,Default,,0,0,0,,I'm gonna be the Pirate King!!
+Dialogue: 10,0:23:30.50,0:23:32.84,Default,,0,0,0,,I'm gonna be the Pirate King!
 Dialogue: 0,0:23:31.55,0:23:35.51,Title,,0,0,0,,{\blur0.6\q2\fsp-2\pos(352,115)\c&H000000&\bord1.6}Legend of the Rainbow Mist!
 Dialogue: 1,0:23:31.55,0:23:35.51,Title,,0,0,0,,{\bord0\blur0.6\q2\fsp-2\pos(352,115)\4a&HFF&}Legend of the Rainbow Mist!
 Dialogue: 0,0:23:31.55,0:23:35.51,Title,,0,0,0,,{\blur0.6\q2\fsp-2.5\pos(352,400)\c&H000000&\bord1.6}Old Man Henzo of Luluka Island
